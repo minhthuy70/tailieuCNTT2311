@@ -330,6 +330,12 @@ Bản PDF chỉ hiển thị tiêu đề **“BÀI TẬP CHƯƠNG 1”** ở tra
 
 ## Tài liệu tham khảo
 
+### Tài liệu đã chuyển sang Markdown
+
+- [Giáo trình Công nghệ Internet of Things và Ứng dụng](Thamkhao/GT_IoT_Cong_nghe_IoT_va_ung_dung.md) — OCR từ bản scan 214 trang.
+- [Internet of Things from Hype to Reality – The Road to Digitization, Third Edition](Thamkhao/2022_Internet_of_Things_from_Hype_to_Reality_3rd.md) — chuyển đổi từ bản PDF có lớp văn bản, 471 trang.
+- [Automated Monitoring and Control System for Shrimp Farms](Thamkhao/2015_Automated_monitoring_and_control_shrimp_farms.md) — chuyển đổi từ bài báo 5 trang.
+
 1. Lê Trung Quân, Huỳnh Văn Đặng và Nguyễn Khánh Thuật, *Giáo trình Công nghệ Internet of Things và Ứng dụng*, NXB Đại học Quốc gia Thành phố Hồ Chí Minh, 2021.
 2. Ammar Rayes và Samer Salam, *Internet of Things from Hype to Reality – The Road to Digitization*, 3rd Edition, Springer, 2022.
 3. Nguyen Tang Kha Duy, Nguyen Dinh Tu, Tra Hoang Son và Luong Hong Duy Khanh, “Automated Monitoring and Control System for Shrimp Farms based on Embedded System and Wireless Sensor Network”, *2015 IEEE International Conference on Electrical, Computer and Communication Technologies (ICECCT)*, Coimbatore, India, 2015, trang 1–5.
