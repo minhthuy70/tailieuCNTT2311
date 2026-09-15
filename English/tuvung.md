@@ -614,3 +614,32 @@
 - *acquisition* (n) (sự có được)
 - *acquirer* (n) (người có được)
 - *acquiring* (v) (có được)
+
+# Act
+## Nghĩa
+1. (v) Hành động
+2. (v) Đóng vai
+## Ví dụ
+- *We must act now to save the environment.* `Chúng ta phải hành động ngay bây giờ để cứu môi trường.`
+## Cấu trúc
+- *act as* (đóng vai)
+- *act for* (đóng vai)
+- *act on* (hành động)
+## Collocation
+- *act as* (đóng vai)
+- *act for* (đóng vai)
+- *act on* (hành động)
+- *act quickly* (hành động nhanh)
+- *act decisively* (hành động quyết đoán)
+## Từ đồng nghĩa
+- *do* (làm)
+- *perform* (thực hiện)
+- *behave* (hành xử)
+- *play* (đóng vai)
+## Từ trái nghĩa
+- *behave badly* (hành xử xấu)
+## Word family
+- *act* (v) (hành động)
+- *action* (n) (hành động)
+- *actor* (n) (diễn viên)
+- *acting* (v) (đóng vai)
