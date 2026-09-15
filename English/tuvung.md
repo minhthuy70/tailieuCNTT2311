@@ -907,3 +907,79 @@
 - *accounting* (n) (kế toán)
 - *accountable* (adj) (có trách nhiệm)
 - *accountability* (n) (trách nhiệm giải trình)
+## Accompany
+### Nghĩa
+1. (v) Đi cùng, đi theo
+2. (v) Đi kèm, đi kèm với
+### Ví dụ
+- *I will accompany you to the airport.*
+- *The book is accompanied by a CD.*
+- *He asked me to accompany him to the meeting.*
+- *Children must be accompanied by an adult.*
+- *The pianist accompanied the singer.*
+### Cấu trúc
+- *accompany sb/sth* (đi cùng ai/cái gì)
+- *accompany sb on sth* (đi cùng ai đó trong dịp gì)
+- *be accompanied by sth* (được đi kèm bởi cái gì)
+- *be accompanied by sb* (được đi kèm bởi ai)
+## Collocation
+- *accompany sb to sth* (đi cùng ai đó đến đâu)
+- *accompany sb on a trip* (đi cùng ai đó trong chuyến đi)
+- *accompany sb on a journey* (đi cùng ai đó trong chuyến đi)
+- *accompany sb on a flight* (đi cùng ai đó trong chuyến bay)
+- *accompany sb on a train* (đi cùng ai đó trong chuyến tàu)
+- *accompany sb on a bus* (đi cùng ai đó trong chuyến xe buýt)
+- *accompany sb on a car* (đi cùng ai đó trong xe hơi)
+- *accompany sb on a walk* (đi cùng ai đó trong chuyến đi bộ)
+- *accompany sb on a tour* (đi cùng ai đó trong chuyến tham quan)
+- *accompany sb on a visit* (đi cùng ai đó trong chuyến thăm)
+- *accompany sb on a business trip* (đi cùng ai đó trong chuyến công tác)
+- *accompany sb on a business journey* (đi cùng ai đó trong chuyến công tác)
+- *accompany sb on a business flight* (đi cùng ai đó trong chuyến bay công tác)
+- *accompany sb on a business train* (đi cùng ai đó trong chuyến tàu công tác)
+- *accompany sb on a business bus* (đi cùng ai đó trong chuyến xe buýt công tác)
+- *accompany sb on a business car* (đi cùng ai đó trong xe hơi công tác)
+- *accompany sb on a business walk* (đi cùng ai đó trong chuyến đi bộ công tác)
+- *accompany sb on a business tour* (đi cùng ai đó trong chuyến tham quan công tác)
+- *accompany sb on a business visit* (đi cùng ai đó trong chuyến thăm công tác)
+- *accompany sb on a trip* (đi cùng ai đó trong chuyến đi)
+- *accompany a person to a place* (đi cùng ai đó đến một nơi nào đó)
+- *accompany with* (đi kèm với)
+- *accompany a child to school* (đi cùng một đứa trẻ đến trường)
+- *accompany on a walk* (đi cùng trong chuyến đi bộ)
+- *accompany patient* (đi cùng bệnh nhân)
+- *accompany meal* (đi kèm bữa ăn)
+- *accompany dish* (đi kèm món ăn)
+- *accompany documents* (đi kèm tài liệu)
+- *accompany letter* (đi kèm thư)
+- *accompany report* (đi kèm báo cáo)
+- *accompany photograph* (đi kèm ảnh)
+- *closely accompany* (đi kèm chặt chẽ)
+- *normally accompany* (đi kèm bình thường)
+- *usually accompany* (thường đi kèm)
+- *typically accompany* (thường đi kèm)
+- *piano accompaniment* (phần đệm piano)
+## Từ đồng nghĩa
+- *escort* (hộ tống)
+- *go with* (đi cùng)
+- *join* (đi cùng)
+- *accompanying* (đi kèm)
+- *attend to* (đi theo)
+- *usher* (đi theo)
+- *travel with* (đi cùng)
+## Từ trái nghĩa
+- *leave behind* (bỏ lại)
+- *abandon* (bỏ rơi)
+- *desert* (bỏ rơi)
+- *forsake* (bỏ rơi)
+- *leave* (rời đi)
+- *separate from* (tách rời khỏi)
+- *depart from* (rời khỏi)
+- *avoid* (tránh)
+- *isolate* (cô lập)
+## Word family
+- *accompany* (v) (đi cùng)
+- *accompanist* (n) (người đi cùng, nhạc công đệm)
+- *accompaniment* (n) (sự đi cùng, phần đệm)
+- *accompanying* (adj) (đi kèm)
+- *accompanied by* (adj) (được đi kèm bởi)
