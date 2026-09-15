@@ -163,3 +163,111 @@
 - *adult* (adj) (trưởng thành)
 - *adultery* (n) (ngoại tình)
 - *adulterous* (adj) (ngoại tình)
+
+# Context
+## Nghĩa
+1. (n) Ngữ cảnh
+2. (n) Bối cảnh
+3. (n) Văn cảnh
+4. (n) Hoàn cảnh
+## Ví dụ
+- *The context of the conversation is very important to understand the meaning.*
+- *The manager explained the context of the new polycy to the employees.*
+## Cấu trúc
+- to be in context
+- in the context of + Noun
+- take context into account
+- take something out of context
+## Collocation
+- the context of the conversation
+- the context of the new policy
+- the context of the new regulations
+- the context of the new law
+- the context of the new agreement
+- the context of the new contract
+- in context (đặt vào ngữ cảnh)
+- out of context (đặt ra khỏi ngữ cảnh)
+- social context
+- cultural context
+- business context
+- historical context
+- political context
+- economic context
+- legal context
+- linguistic context
+- textual context
+- broader context
+- narrow context
+- within the context of
+- beyond the context of
+- context-dependent
+- context-free
+- context-aware
+- context-aware computing
+- context-aware system
+- context-aware service
+- context-aware application
+- context-aware interface
+- context-aware technology
+- current context
+- previous context
+- next context
+- following context
+- specific context
+- general context
+- context clues
+- context clue
+- broader context
+- relevant context
+- local context
+- provide context
+- put into context
+- take into context
+- consider the context
+- understand the context
+- the given context
+- context of the situation
+- context of the conversation
+- context of the document
+- context of the project
+- context of the event
+- context of the issue
+- context of the problem
+- context of the speech
+- context of the discussion
+- context of the meeting
+- context of the presentation
+## Từ đồng nghĩa
+- *situation* (tình huống)
+- *circumstances* (hoàn cảnh)
+- *environment* (môi trường)
+- *setting* (bối cảnh)
+- *background* (bối cảnh)
+- *perspective* (quan điểm)
+- *viewpoint* (quan điểm)
+- *frame of reference* (khung tham chiếu)
+- *framework* (khung)
+- *surroundings* (cảnh vật xung quanh)
+- *condition* (điều kiện)
+- *reference* (tham chiếu)
+## Từ trái nghĩa
+- *out of context* (đặt ra khỏi ngữ cảnh)
+- *off-context* (đặt ra khỏi ngữ cảnh)
+- *irrelevant* (không liên quan)
+- *unrelated* (không liên quan)
+- *inappropriate* (không phù hợp)
+- *isolation* (sự cô lập)
+- *disconnection* (sự cô lập)
+- *disjointion* (sự cô lập)
+- *separation* (sự cô lập)
+- *segregation* (sự cô lập)
+- *marginalization* (sự cô lập)
+- *alienation* (sự cô lập)
+- *decontextualization* (sự cô lập)
+- *context-free* (không có ngữ cảnh)
+## Word family
+- *context* (n) (ngữ cảnh)
+- *contextual* (adj) (thuộc về ngữ cảnh)
+- *contextually* (adv) (về mặt ngữ cảnh)
+- *contextualize* (v) (đặt vào ngữ cảnh)
+- *contextualization* (n) (sự đặt vào ngữ cảnh)
