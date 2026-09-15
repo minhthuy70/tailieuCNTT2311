@@ -851,3 +851,59 @@
 - *accommodatingly* (adv) (một cách dễ tính)
 - *accommodatively* (adv) (một cách dễ tính) hiếm dùng
 - *accommodated* (adj) (đã được đáp ứng)
+
+# Account
+## Nghĩa
+1. (n) Tài khoản
+2. (v) Giải thích
+## Ví dụ
+- *I have an account with this bank.*
+- *I can't account for my absence.*
+## Cấu trúc
+- *account for sth* (giải thích cho cái gì)
+- *open an account* (mở tài khoản)
+- *close an account* (đóng tài khoản)
+- *have an account* (có tài khoản)
+- *change an account* (thay đổi tài khoản)
+## Collocation
+- *bank account* (tài khoản ngân hàng)
+- *savings account* (tài khoản tiết kiệm)
+- *checking account* (tài khoản thanh toán)
+- *credit account* (tài khoản tín dụng)
+- *debit account* (tài khoản ghi nợ)
+- *open an account* (mở tài khoản)
+- *close an account* (đóng tài khoản)
+- *have an account* (có tài khoản)
+- *change an account* (thay đổi tài khoản)
+- *joint account* (tài khoản chung)
+- *personal account* (tài khoản cá nhân)
+- *business account* (tài khoản doanh nghiệp)
+- *student account* (tài khoản sinh viên)
+- *online account* (tài khoản trực tuyến)
+- *free account* (tài khoản miễn phí)
+- *premium account* (tài khoản cao cấp)
+- *paid account* (tài khoản trả phí)
+- *trial account* (tài khoản dùng thử)
+- *guest account* (tài khoản khách)
+- *admin account* (tài khoản quản trị)
+- *user account* (tài khoản người dùng)
+- *corporate account* (tài khoản doanh nghiệp)
+## Từ đồng nghĩa
+- *explanation* (sự giải thích)
+- *report* (báo cáo)
+- *statement* (báo cáo)
+- *reason* (lý do)
+- *justification* (sự biện minh)
+## Từ trái nghĩa
+- *obscurity* (sự tối tăm)
+- *confusion* (sự nhầm lẫn)
+- *bewilderment* (sự bối rối)
+- *mystery* (sự bí ẩn)
+- *secret* (bí mật)
+## Word family
+- *account* (n) (tài khoản)
+- *account* (v) (giải thích)
+- *accountant* (n) (kế toán)
+- *accounting* (n) (kế toán)
+- *accountable* (adj) (có trách nhiệm)
+- *accountability* (n) (trách nhiệm giải trình)
