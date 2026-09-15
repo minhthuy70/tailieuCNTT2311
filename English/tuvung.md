@@ -620,7 +620,7 @@
 1. (v) Hành động
 2. (v) Đóng vai
 ## Ví dụ
-- *We must act now to save the environment.* `Chúng ta phải hành động ngay bây giờ để cứu môi trường.`
+- *We must act now to save the environment.* 
 ## Cấu trúc
 - *act as* (đóng vai)
 - *act for* (đóng vai)
@@ -643,3 +643,85 @@
 - *action* (n) (hành động)
 - *actor* (n) (diễn viên)
 - *acting* (v) (đóng vai)
+
+# Access
+## Nghĩa
+1. (n) Quyền truy cập
+2. (n) Lối vào
+3. (v) Truy cập
+## Ví dụ
+- *You need a password to access this website.* 
+- *The doctor needs access to the patient's medical records.*
+- *She gained access to the restricted area.*
+- *They were denied access to the building.*
+## Cấu trúc
+- *have access to* (có quyền truy cập)
+- *gain access to* (có quyền truy cập)
+- *access sb/sth* (truy cập ai/cái gì)
+- *access to sb/sth* (quyền truy cập ai/cái gì)
+## Collocation
+- *have access to* (có quyền truy cập)
+- *gain access to* (có quyền truy cập)
+- *access to information* (truy cập thông tin)
+- *access to resources* (truy cập tài nguyên)
+- *access to healthcare* (tiếp cận dịch vụ chăm sóc sức khỏe)
+- *access to education* (tiếp cận giáo dục)
+- *access to justice* (tiếp cận công lý)
+- *access to housing* (tiếp cận nhà ở)
+- *access to transportation* (tiếp cận giao thông)
+- *access to technology* (truy cập công nghệ)
+- *access to services* (truy cập dịch vụ)
+- *access to electricity* (tiếp cận điện)
+- *access to clean water* (tiếp cận nước sạch)
+- *easy access to* (dễ dàng tiếp cận)
+- *difficult access to* (khó khăn tiếp cận)
+- *limited access to* (hạn chế tiếp cận)
+- *free access to* (tiếp cận miễn phí)
+- *full access to* (tiếp cận đầy đủ)
+- *open access to* (tiếp cận mở)
+- *restricted access to* (hạn chế tiếp cận)
+- *provide access to* (cung cấp quyền truy cập)
+- *deny access to* (từ chối quyền truy cập)
+- *give access to* (cho phép truy cập)
+- *lose access to* (mất quyền truy cập)
+- *block access to* (chặn truy cập)
+- *grant access to* (cấp quyền truy cập)
+- *control access to* (kiểm soát truy cập)
+- *direct access to* (truy cập trực tiếp)
+- *remote access to* (truy cập từ xa)
+- *unrestricted access to* (tiếp cận không hạn chế)
+- *ensure access to* (đảm bảo quyền truy cập)
+- *improve access to* (cải thiện quyền truy cập)
+## Từ đồng nghĩa
+- *entrance* (lối vào)
+- *approach* (lối vào)
+- *reach* (tiếp cận)
+- *enter* (vào)
+- *obtain* (có được)
+- *entry* (lối vào)
+- *access* (vào)
+- *gain* (có được)
+- *retrieve* (lấy lại)
+- *use* (sử dụng)
+- *admission* (sự chấp nhận)
+- *availability* (sự có sẵn)
+## Từ trái nghĩa
+- *block* (chặn)
+- *deny* (từ chối)
+- *exit* (lối ra)
+- *refusal* (sự từ chối)
+- *denial* (sự từ chối)
+- *objection* (sự phản đối)
+- *rejection* (sự từ chối)
+- *prohibition* (sự cấm đoán)
+- *barrier* (rào cản)
+- *obstacle* (chướng ngại vật)
+- *hindrance* (rào cản)
+- *prevention* (sự ngăn chặn)
+- *denial* (sự từ chối)
+- *exclusion* (sự loại trừ)
+## Word family
+- *access* (n) (quyền truy cập)
+- *access* (v) (truy cập)
+- *accessible* (adj) (có thể truy cập)
+- *accessibility* (n) (tính dễ tiếp cận)
