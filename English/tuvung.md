@@ -492,3 +492,125 @@
 - *abstraction* (n) (sự trừu tượng)
 - *abstractly* (adv) (trừu tượng)
 - *abstracted* (adj) (trừu tượng)
+
+# Accurate
+## Nghĩa
+1. (adj) Chính xác
+2. (adj) Đúng đắn
+3. (adj) Chuẩn xác
+## Ví dụ
+- *The information you provided is accurate.*
+- *The calculator gave an accurate result.*
+## Cấu trúc
+- *accurate to the nearest* (chính xác đến gần)
+- *accurate to within* (chính xác trong vòng)
+- *accurate estimate* (ước tính chính xác)
+- *accurate measurement* (đo lường chính xác)
+- *accurate prediction* (dự đoán chính xác)
+- *accurate record* (hồ sơ chính xác)
+- *accurate information* (thông tin chính xác)
+- *accurate data* (dữ liệu chính xác)
+- *accurate report* (báo cáo chính xác)
+## Collocation
+- *accurate estimate* (ước tính chính xác)
+- *accurate measurement* (đo lường chính xác)
+- *accurate prediction* (dự đoán chính xác)
+- *accurate record* (hồ sơ chính xác)
+- *accurate information* (thông tin chính xác)
+- *accurate data* (dữ liệu chính xác)
+- *accurate report* (báo cáo chính xác)
+- *accurate account* (tài khoản chính xác)
+- *accurate translation* (dịch chính xác)
+- *accurate copy* (bản sao chính xác)
+- *accurate reproduction* (sản phẩm tái tạo chính xác)
+- *accurate representation* (đại diện chính xác)
+- *accurate assessment* (đánh giá chính xác)
+- *accurate diagnosis* (chẩn đoán chính xác)
+- *accurate result* (kết quả chính xác)
+## Từ đồng nghĩa
+- *correct* (đúng)
+- *exact* (chính xác)
+- *precise* (chính xác)
+- *factual* (sự thật)
+- *true* (sự thật)
+- *valid* (hợp lệ)
+- *sound* (chắc chắn)
+- *reliable* (đáng tin cậy)
+- *trustworthy* (đáng tin cậy)
+- *dependable* (đáng tin cậy)
+## Từ trái nghĩa
+- *inaccurate* (không chính xác)
+- *incorrect* (không đúng)
+- *wrong* (sai)
+- *imprecise* (không chính xác)
+- *false* (sai)
+- *untrue* (không đúng)
+- *unsound* (không chắc chắn)
+- *unreliable* (không đáng tin cậy)
+- *untrustworthy* (không đáng tin cậy)
+- *undependable* (không đáng tin cậy)
+## Word family
+- *accurate* (adj) (chính xác)
+- *accurately* (adv) (một cách chính xác)
+- *accuracy* (n) (sự chính xác)
+
+# Achieve
+## Nghĩa
+1. (v) Đạt được
+2. (v) Thực hiện
+## Ví dụ
+- *She worked hard to achieve her goals.* `Cô ấy làm việc chăm chỉ để đạt được mục tiêu của mình.`
+## Cấu trúc
+- *achieve something* (đạt được cái gì)
+## Collocation
+- *achieve success* (đạt được thành công)
+- *achieve goals* (đạt được mục tiêu)
+- *achieve results* (đạt được kết quả)
+- *achieve targets* (đạt được mục tiêu)
+- *achieve victory* (đạt được chiến thắng)
+## Từ đồng nghĩa
+- *attain* (đạt được)
+- *reach* (đạt được)
+- *accomplish* (hoàn thành)
+- *obtain* (có được)
+- *gain* (đạt được)
+- *earn* (kiếm được)
+## Từ trái nghĩa
+- *fail* (thất bại)
+- *lose* (mất)
+- *miss* (bỏ lỡ)
+## Word family
+- *achieve* (v) (đạt được)
+- *achievement* (n) (thành tích)
+- *achiever* (n) (người thành công)
+- *achieving* (v) (đạt được)
+
+# Acquire
+## Nghĩa
+1. (v) Có được
+2. (v) Tiếp thu
+## Ví dụ
+- *He acquired the company last year.*
+## Cấu trúc
+- *acquire something* (có được cái gì)
+## Collocation
+- *acquire knowledge* (có được kiến thức)
+- *acquire skills* (có được kỹ năng)
+- *acquire experience* (có được kinh nghiệm)
+- *acquire wealth* (có được sự giàu có)
+- *acquire power* (có được quyền lực)
+## Từ đồng nghĩa
+- *obtain* (có được)
+- *get* (có được)
+- *gain* (đạt được)
+- *earn* (kiếm được)
+- *obtain* (có được)
+## Từ trái nghĩa
+- *lose* (mất)
+- *give* (cho đi)
+- *release* (giải phóng)
+## Word family
+- *acquire* (v) (có được)
+- *acquisition* (n) (sự có được)
+- *acquirer* (n) (người có được)
+- *acquiring* (v) (có được)
