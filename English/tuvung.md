@@ -1687,3 +1687,73 @@
 - *administrating* (v) (quản lý)
 - *administrated* (adj) (được quản lý)
 - *unadministrable* (adj) (không thể quản lý)
+
+# Admire
+## Nghĩa
+1. (v) Ngưỡng mộ
+2. (v) Chiêm ngưỡng
+3. (v) Khâm phục
+4. (v) Đánh giá cao, coi trọng
+5. (v) Thán phục trước tài năng, phẩm chất hoặc thành tựu của ai/cái gì
+## Ví dụ
+- *I admire your courage.*
+- *She admires his honesty.*
+- *They admire the painting.*
+- *We admire her talent.*
+- *I admire your determination.*
+- *Many people admire him for his leadership skills.*
+- *She is admired for her professionalism.*
+- *Tourists stopped to admire the beautiful scenery.*
+- *I really admire how she handles difficult situations.*
+## Cấu trúc
+- *admire sb* (ngưỡng mộ ai)
+- *admire sth* (chiêm ngưỡng/đánh giá cao cái gì)
+- *admire sb for sth* (ngưỡng mộ ai vì cái gì)
+- *admire sth for its sth* (ngưỡng mộ/đánh giá cao cái gì vì đặc điểm của nó)
+- *admire how + clause* (khâm phục cách ai đó làm gì)
+- *admire what + clause* (ngưỡng mộ/đánh giá cao điều gì)
+- *be admired for sth* (được ngưỡng mộ vì điều gì)
+## Collocation
+- *admire sb for sth* (ngưỡng mộ ai vì cái gì)
+- *admire sth for its sth* (ngưỡng mộ cái gì vì cái gì)
+- *admire someone's courage* (ngưỡng mộ lòng can đảm của ai)
+- *admire someone's determination* (ngưỡng mộ sự quyết tâm của ai)
+- *admire someone's honesty* (ngưỡng mộ sự trung thực của ai)
+- *admire someone's talent* (ngưỡng mộ tài năng của ai)
+- *admire someone's ability* (ngưỡng mộ khả năng của ai)
+- *admire someone's achievement* (ngưỡng mộ thành tựu của ai)
+- *admire someone's dedication* (ngưỡng mộ sự tận tâm của ai)
+- *admire someone's professionalism* (ngưỡng mộ tính chuyên nghiệp của ai)
+- *admire the view* (chiêm ngưỡng quang cảnh)
+- *admire the scenery* (chiêm ngưỡng phong cảnh)
+- *admire a painting* (chiêm ngưỡng một bức tranh)
+- *admire the architecture* (chiêm ngưỡng kiến trúc)
+- *greatly admire* (rất ngưỡng mộ)
+- *deeply admire* (vô cùng ngưỡng mộ)
+- *really admire* (thực sự ngưỡng mộ)
+## Từ đồng nghĩa
+- *respect* (tôn trọng)
+- *look up to* (kính trọng, ngưỡng mộ)
+- *esteem* (coi trọng, kính trọng)
+- *appreciate* (đánh giá cao)
+- *marvel at* (thán phục, kinh ngạc trước)
+- *be impressed by* (bị ấn tượng bởi)
+## Từ trái nghĩa
+- *despise* (khinh bỉ)
+- *disrespect* (không tôn trọng)
+- *scorn* (khinh bỉ, khinh miệt)
+- *hate* (ghét)
+- *dislike* (không thích)
+- *disapprove* (không tán thành)
+- *criticize* (phê bình, chỉ trích)
+- *condemn* (lên án)
+- *look down on* (coi thường)
+## Word family
+- *admire* (v) (ngưỡng mộ, chiêm ngưỡng)
+- *admiration* (n) (sự ngưỡng mộ)
+- *admirer* (n) (người ngưỡng mộ)
+- *admirable* (adj) (đáng ngưỡng mộ)
+- *admirable* (adv) (một cách đáng ngưỡng mộ)
+- *admiring* (adj) (thể hiện sự ngưỡng mộ)
+- *admired* (adj) (được ngưỡng mộ)
+- *unadmired* (adj) (không được ngưỡng mộ)
