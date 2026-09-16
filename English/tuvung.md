@@ -2239,7 +2239,6 @@
 - *alterable* (adj) (có thể thay đổi)
 - *unalterable* (adj) (không thể thay đổi)
 
-
 # Alternative
 
 # Ambiguous
@@ -2302,114 +2301,160 @@
 
 # Attain
 
+# attitude
 
-alternative
-ambiguous
-amend
-analogy
-analysis
-annual
-anticipate
-apparent
-append
-appreciate
-approach
-appropriate
-approximate
-arbitrary
-area
-adjacent
-compile
-compensate
-aspect
-assemble
-assess
-assign
-contract
-assist
-contradict
-assume
-core
-assure
-cooperate
-attach
-attain
-attitude
-attribute
-author
-authority
-automate
-available
-contrary
-behalf
-axare
-benefit
-contrast
-bias
-contibute
-bond
-convene
-brief
-converse
-bulk
-convert
-capable
-convince
-community
-complement
-complex
-capacity
-category
-cease
-challenge
-channel
-chart
-circumstance
-cite
-coordinate
-civil
-corperate
-clarity
-correspond
-elassic
-couple
-Clause
-create code
-credit
-coherent
-coincide
-collapse
-colleague
-commence
-comment
-commission
-commit
-commodity
-compatible
-compotent
-compound
-comprehensive
-comprise
-compute
-conceive
-concentrate
-concept
-conclude
-concurrent
-conduct
-confer
-confirm
-conflict
-conform
-consent
-consequent
-considerable
-consist
-constant
-constitute
-constrain
-consult
-consume
-contact
-contemporary
-context
+# attribute
+
+# author
+
+# authority
+
+# automate
+
+# available
+
+# contrary
+
+# behalf
+
+# axare
+
+# benefit
+
+# contrast
+
+# bias
+
+# contibute
+
+# bond
+
+# convene
+
+# brief
+
+# converse
+
+# bulk
+
+# convert
+
+# capable
+
+# convince
+
+# community
+
+# complement
+
+# complex
+
+# capacity
+
+# category
+
+# cease
+
+# challenge
+
+# channel
+
+# chart
+
+# circumstance
+
+# cite
+
+# coordinate
+
+# civil
+
+# corperate
+
+# clarity
+
+# correspond
+
+# elassic
+
+# couple
+
+# Clause
+
+# create code
+
+# credit
+
+# coherent
+
+# coincide
+
+# collapse
+
+# colleague
+
+# commence
+
+# comment
+
+# commission
+
+# commit
+
+# commodity
+
+# compatible
+
+# compotent
+
+# compound
+
+# comprehensive
+
+# comprise
+
+# compute
+
+# conceive
+
+# concentrate
+
+# concept
+
+# conclude
+
+# concurrent
+
+# conduct
+
+# confer
+
+# confirm
+
+# conflict
+
+# conform
+
+# consent
+
+# consequent
+
+# considerable
+
+# consist
+
+# constant
+
+# constitute
+
+# constrain
+
+# consult
+
+# consume
+
+# contact
+
+# contemporary
+
+# context
