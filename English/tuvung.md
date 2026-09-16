@@ -1935,6 +1935,283 @@
 
 
 # Aggregate
+## Nghĩa
+1. (n) Tổng hợp, toàn bộ, toàn thể
+2. (v) Tổng hợp, tập hợp
+3. (adj) Tổng hợp
+## Ví dụ
+- *The aggregate of all the votes was 1000.*
+- *The company's aggregate revenue was 10 billion.*
+- *The aggregate of the data was presented in a table.*
+## Cấu trúc
+- *aggregate of sth* (tổng hợp của cái gì)
+- *in aggregate* (tổng hợp lại)
+- *aggregate revenue* (tổng doanh thu)
+- *aggregate demand* (tổng cầu)
+- *aggregate supply* (tổng cung)
+## Collocation
+- *aggregate revenue* (tổng doanh thu)
+- *aggregate demand* (tổng cầu)
+- *aggregate supply* (tổng cung)
+- *aggregate data* (dữ liệu tổng hợp)
+- *aggregate information* (thông tin tổng hợp)
+- *aggregate results* (kết quả tổng hợp)
+- *aggregate amount* (tổng số tiền)
+- *aggregate value* (tổng giá trị)
+- *aggregate number* (tổng số)
+- *aggregate effect* (hiệu ứng tổng hợp)
+- *aggregate demand* (tổng cầu)
+- *aggregate supply* (tổng cung)
+- *aggregate consumption* (tổng tiêu dùng)
+- *aggregate investment* (tổng đầu tư)
+- *aggregate expenditure* (tổng chi tiêu)
+- *aggregate income* (tổng thu nhập)
+- *aggregate output* (tổng sản lượng)
+- *aggregate production* (tổng sản lượng)
+## Từ đồng nghĩa
+- *total* (tổng cộng)
+- *whole* (toàn bộ)
+- *entirety* (toàn bộ)
+- *sum* (tổng)
+- *all* (tất cả)
+## Từ trái nghĩa
+- *individual* (cá nhân)
+- *partial* (một phần)
+- *segment* (phần)
+- *component* (thành phần)
+- *part* (phần)
+## Word family
+- *aggregate* (n) (tổng hợp, toàn bộ)
+- *aggregate* (v) (tổng hợp, tập hợp)
+- *aggregate* (adj) (tổng hợp)
+- *aggregation* (n) (sự tổng hợp, tập hợp)
+- *aggregated* (adj) (đã được tổng hợp)
+- *aggregating* (v) (đang tổng hợp)
+- *aggregation* (n) (sự tích lũy)
+- *aggregated* (adj) (tích lũy)
+
+# Aid
+
+## Nghĩa
+1. (n) Sự giúp đỡ, hỗ trợ
+2. (n) Thiết bị hỗ trợ, dụng cụ hỗ trợ
+3. (v) Giúp đỡ, hỗ trợ
+## Ví dụ
+- *The aid package was worth billions of dollars.*
+- *She used a walking aid to help her move.*
+- *The new software will aid in the research process.*
+## Cấu trúc
+- *aid to sth* (sự giúp đỡ cho cái gì)
+- *in aid of sth* (để giúp đỡ cái gì)
+- *provide aid* (cung cấp sự giúp đỡ)
+- *offer aid* (đề nghị giúp đỡ)
+- *seek aid* (tìm kiếm sự giúp đỡ)
+## Collocation
+- *foreign aid* (viện trợ nước ngoài)
+- *humanitarian aid* (viện trợ nhân đạo)
+- *financial aid* (viện trợ tài chính)
+- *medical aid* (viện trợ y tế)
+- *disaster aid* (viện trợ thiên tai)
+- *food aid* (viện trợ lương thực)
+- *aid package* (gói viện trợ)
+- *aid program* (chương trình viện trợ)
+- *aid worker* (nhân viên viện trợ)
+- *aid agency* (cơ quan viện trợ)
+## Từ đồng nghĩa
+- *help* (sự giúp đỡ)
+- *assistance* (sự hỗ trợ)
+- *support* (sự hỗ trợ)
+- *relief* (sự cứu trợ)
+- *aid* (n) (thiết bị hỗ trợ)
+- *aid* (n) (dụng cụ hỗ trợ)
+- *aid* (v) (giúp đỡ, hỗ trợ)
+## Từ trái nghĩa
+- *hindrance* (sự cản trở)
+- *obstacle* (sự cản trở)
+- *impediment* (sự cản trở)
+- *barrier* (sự cản trở)
+- *opposition* (sự phản đối)
+## Word family
+- *aid* (n) (sự giúp đỡ, hỗ trợ)
+- *aid* (v) (giúp đỡ, hỗ trợ)
+- *aid* (n) (thiết bị hỗ trợ)
+- *aid* (n) (dụng cụ hỗ trợ)
+- *aid* (n) (sự cứu trợ)
+- *aid* (n) (viện trợ)
+- *aid* (n) (trợ giúp)
+- *aid* (n) (phương tiện)
+
+# Albeit
+
+## Nghĩa
+1. (conjunction) Mặc dù
+## Ví dụ
+- *He finally succeeded, albeit after many failures.*
+- *The report was well-written, albeit a bit long.*
+- *The plan was good, albeit with some risks.*
+## Cấu trúc
+- *albeit + adj* (mặc dù + tính từ)
+- *albeit + adv* (mặc dù + trạng từ)
+- *albeit + clause* (mặc dù + mệnh đề)
+## Collocation
+- *albeit slowly* (mặc dù chậm)
+- *albeit reluctantly* (mặc dù miễn cưỡng)
+- *albeit briefly* (mặc dù ngắn gọn)
+- *albeit gradually* (mặc dù dần dần)
+- *albeit indirectly* (mặc dù gián tiếp)
+## Từ đồng nghĩa
+- *although* (mặc dù)
+- *even though* (mặc dù)
+- *though* (mặc dù)
+- *despite* (mặc dù)
+- *in spite of* (mặc dù)
+## Từ trái nghĩa
+- *and* (và)
+- *also* (cũng)
+- *too* (cũng)
+- *as well* (cũng)
+- *either* (cũng không)
+## Word family
+- *albeit* (conjunction) (mặc dù)
+- *albeit* (conjunction) (mặc dù)
+- *albeit* (conjunction) (mặc dù)
+- *albeit* (conjunction) (mặc dù)
+- *albeit* (conjunction) (mặc dù)
+
+# Allocate
+## Nghĩa
+1. (v) Phân bổ, phân bổ, phân phát
+2. (v) Dành ra, dành riêng
+3. (v) Phân chia, chia sẻ
+## Ví dụ
+- *The committee will allocate the funds.*
+- *We need to allocate more time to this project.*
+- *She allocated the tasks among the team members.*
+## Cấu trúc
+- *allocate sth to sb/sth* (phân bổ cái gì cho ai/cái gì)
+- *allocate sth for sth* (phân bổ cái gì cho cái gì)
+- *allocate time to sth* (phân bổ thời gian cho cái gì)
+- *allocate resources to sth* (phân bổ nguồn lực cho cái gì)
+## Collocation
+- *allocate funds* (phân bổ nguồn quỹ)
+- *allocate resources* (phân bổ nguồn lực)
+- *allocate time* (phân bổ thời gian)
+- *allocate budget* (phân bổ ngân sách)
+- *allocate staff* (phân bổ nhân viên)
+- *allocate space* (phân bổ không gian)
+- *allocate tasks* (phân bổ nhiệm vụ)
+- *allocate roles* (phân bổ vai trò)
+- *allocate responsibilities* (phân bổ trách nhiệm)
+## Từ đồng nghĩa
+- *distribute* (phân phối)
+- *assign* (giao nhiệm vụ)
+- *allot* (phân bổ)
+- *apportion* (phân chia)
+- *allocate* (v) (dành riêng)
+## Từ trái nghĩa
+- *withhold* (từ chối)
+- *retain* (giữ lại)
+- *keep* (giữ lại)
+- *reserve* (dành riêng)
+- *withhold* (từ chối)
+## Word family
+- *allocate* (v) (phân bổ, phân chia)
+- *allocation* (n) (sự phân bổ, phân chia)
+- *allocated* (adj) (đã được phân bổ)
+- *allocating* (v) (đang phân bổ)
+- *allocator* (n) (người phân bổ)
+- *allocable* (adj) (có thể phân bổ)
+- *unallocated* (adj) (chưa được phân bổ)
+- *redistribute* (v) (phân phối lại)
+
+# Alter
+
+# Alternative
+
+# Ambiguous
+
+# Amend
+
+# Analogy
+
+# Analysis
+
+# Annual
+
+# Anticipate
+
+# Apparent
+
+# Append
+
+# Appreciate
+
+# Approach
+
+# Appropriate
+
+# Approximate
+
+# Arbitrary
+
+# Area
+
+# Adjacent
+
+# Compile
+
+# Compensate
+
+# Aspect
+
+# Assemble
+
+# Assess
+
+# Assign
+
+# Contract
+
+# Assist
+
+# Contradict
+
+# Assume
+
+# Core
+
+# Assure
+
+# Cooperate
+
+# Attach
+
+# Attain
+
+#
+- *aggregate production* (tổng sản lượng)
+## Từ đồng nghĩa
+- *total* (tổng cộng)
+- *whole* (toàn bộ)
+- *entirety* (toàn bộ)
+- *sum* (tổng)
+- *all* (tất cả)
+- *aggregate* (adj) (tổng hợp)
+## Từ trái nghĩa
+- *individual* (cá nhân)
+- *partial* (một phần)
+- *segment* (phần)
+- *component* (thành phần)
+- *part* (phần)
+## Word family
+- *aggregate* (n) (tổng hợp, toàn bộ)
+- *aggregate* (v) (tổng hợp, tập hợp)
+- *aggregate* (adj) (tổng hợp)
+- *aggregation* (n) (sự tổng hợp, tập hợp)
+- *aggregated* (adj) (đã được tổng hợp)
+- *aggregating* (v) (đang tổng hợp)
+- *aggregation* (n) (sự tích lũy)
+- *aggregated* (adj) (tích lũy)
 
 # Aid
 
