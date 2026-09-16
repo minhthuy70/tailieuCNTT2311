@@ -1619,3 +1619,71 @@
 - *admissible* (adj) (có thể thừa nhận)
 - *admitting* (v) (thừa nhận)
 - *unadmissible* (adj) (không thể thừa nhận)
+
+# Administrate
+## Nghĩa
+1. (v) Quản lý
+2. (v) Điều hành
+3. (v) Giữ chức vụ
+4. (v) Quản trị
+## Ví dụ
+- *He administered the company.*
+- *She administered the oath.*
+- *He administered the medicine.*
+- *She administered the test.*
+- *She was appointed to adminstrate the new program*
+## Cấu trúc
+- *administrate sth* (quản lý cái gì)
+- *administrate to sth* (quản lý cho cái gì)
+## Collocation
+- *administrate the company* (quản lý công ty)
+- *administrate the oath* (tuyên thệ)
+- *administrate the medicine* (cho thuốc)
+- *administrate the test* (thi)
+- *administrate the exam* (thi)
+- *administrate the survey* (khảo sát)
+- *administrate the program* (thực hiện chương trình)
+- *administrate the project* (quản lý dự án)
+- *administrate the oath* (tuyên thệ)
+- *administrate the medicine* (cho thuốc)
+- *administrate the test* (thi)
+- *be responsible for administrating sth* (có trách nhiệm quản lý cái gì)
+- *administrate the department* (quản lý bộ phận)
+- *administrate institution* (quản lý tổ chức)
+- *administrate university* (quản lý trường đại học)
+- *administrate operations* (điều hành hoạt động)
+- *administrate the office* (điều hành văn phòng)
+- *administrate the business* (điều hành kinh doanh)
+- *administrate the organization* (điều hành tổ chức)
+- *administrate the company* (điều hành công ty)
+## Từ đồng nghĩa
+- *manage* (quản lý)
+- *run* (điều hành)
+- *govern* (quản lý)
+- *operate* (điều hành)
+- *execute* (thực hiện)
+- *implement* (thực hiện)
+- *administer* (quản lý)
+- *oversee* (giám sát)
+- *supervise* (giám sát)
+- *govern* (điều hành)
+- *direct* (chỉ đạo)
+- *control* (kiểm soát)
+- *coordinate* (phối hợp)
+## Từ trái nghĩa
+- *mismanage* (quản lý sai)
+- *neglect* (bỏ bê)
+- *abandon* (bỏ rơi)
+- *disorganize* (không tổ chức)
+- *disrupt* (làm gián đoạn)
+- *ignore* (bỏ qua)
+- *dismantle* (tháo dỡ)
+## Word family
+- *administrate* (v) (quản lý)
+- *administration* (n) (sự quản lý)
+- *administrative* (adj) (thuộc về quản lý)
+- *administratively* (adv) (về mặt quản lý)
+- *administrator* (n) (người quản lý)
+- *administrating* (v) (quản lý)
+- *administrated* (adj) (được quản lý)
+- *unadministrable* (adj) (không thể quản lý)
