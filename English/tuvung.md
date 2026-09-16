@@ -1858,6 +1858,81 @@
 - *advocacy* (n) (sự vận động)
 
 # Affect
+## Nghĩa
+1. (v) Ảnh hưởng
+2. (v) Cảm động, tác động
+3. (n) Cảm xúc, tâm trạng
+## Ví dụ
+- *The new policy will affect everyone.*
+- *His speech affected me deeply.*
+- *She has a calm affect.*
+- *His cold affect made him seem distant.*
+## Cấu trúc
+- *affect sth/sb* (ảnh hưởng đến cái gì/ai đó)
+- *affect sb emotionally* (ảnh hưởng đến ai đó về mặt cảm xúc)
+- *have an affect on sth/sb* (có ảnh hưởng đến cái gì/ai đó)
+## Collocation
+- *affect sth* (ảnh hưởng đến cái gì)
+- *affect sb* (ảnh hưởng đến ai đó)
+- *affect sb emotionally* (ảnh hưởng đến ai đó về mặt cảm xúc)
+- *greatly affect* (ảnh hưởng lớn)
+- *deeply affect* (ảnh hưởng sâu sắc)
+- *seriously affect* (ảnh hưởng nghiêm trọng)
+- *significantly affect* (ảnh hưởng đáng kể)
+- *positively affect* (ảnh hưởng tích cực)
+- *negatively affect* (ảnh hưởng tiêu cực)
+- *affect sb's life* (ảnh hưởng đến cuộc sống của ai đó)
+- *affect sb's decision* (ảnh hưởng đến quyết định của ai đó)
+- *affect sb's mood* (ảnh hưởng đến tâm trạng của ai đó)
+- *affect sb's health* (ảnh hưởng đến sức khỏe của ai đó)
+- *affect sb's feelings* (ảnh hưởng đến cảm xúc của ai đó)
+- *affect sb's job* (ảnh hưởng đến công việc của ai đó)
+- *affect sb's job performance* (ảnh hưởng đến hiệu suất làm việc của ai đó)
+- *affect sb's job satisfaction* (ảnh hưởng đến sự hài lòng trong công việc của ai đó)
+- *affect sb's job security* (ảnh hưởng đến sự an toàn trong công việc của ai đó)
+- *affect someone's health* (ảnh hưởng đến sức khỏe của ai đó)
+- *affect people's lives* (ảnh hưởng đến cuộc sống của mọi người)
+- *affect the environment* (ảnh hưởng đến môi trường)
+- *affect the economy* (ảnh hưởng đến nền kinh tế)
+- *affect the outcome* (ảnh hưởng đến kết quả)
+- *affect the result* (ảnh hưởng đến kết quả)
+- *affect performance* (ảnh hưởng đến hiệu suất)
+- *affect productivity* (ảnh hưởng đến năng suất)
+- *affect behavior* (ảnh hưởng đến hành vi)
+- *affect decision-making* (ảnh hưởng đến việc ra quyết định)
+- *affect the quality of* (ảnh hưởng đến chất lượng của)
+- *affect one's ability to do something* (ảnh hưởng đến khả năng làm gì)
+- *directly affect* (ảnh hưởng trực tiếp)
+- *significantly affect* (ảnh hưởng đáng kể)
+- *negatively affect* (ảnh hưởng tiêu cực)
+- *positively affect* (ảnh hưởng tích cực)
+- *adversely affect* (gây ảnh hưởng bất lợi)
+## Từ đồng nghĩa
+- *influence* (ảnh hưởng)
+- *impact* (ảnh hưởng)
+- *impression* (ấn tượng)
+- *emotion* (cảm xúc)
+- *feeling* (cảm xúc)
+- *mood* (tâm trạng)
+- *demeanor* (tư thái)
+- *attitude* (thái độ)
+## Từ trái nghĩa
+- *disaffect* (làm bất mãn)
+- *disincline* (không thích)
+- *indifferent* (thờ ơ)
+- *impassive* (trơ trẽn)
+- *unmoved* (không xúc động)
+- *unimpressed* (không ấn tượng)
+## Word family
+- *affect* (v) (ảnh hưởng)
+- *affectation* (n) (sự giả vờ)
+- *affection* (n) (sự yêu mến)
+- *affected* (adj) (giả vờ, giả tạo)
+- *unaffected* (adj) (tự nhiên, không giả tạo)
+- *affectingly* (adv) (một cách cảm động)
+- *affective* (adj) (có tính cảm xúc)
+- *affectively* (adv) (một cách cảm xúc)
+
 
 # Aggregate
 
