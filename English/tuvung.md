@@ -2240,6 +2240,92 @@
 - *unalterable* (adj) (không thể thay đổi)
 
 # Alternative
+## Nghĩa 
+1. (adj) Khác, thay thế
+2. (n) Sự lựa chọn khác
+3. (n) Sự xen kẽ, sự luân phiên
+4. (v) Thay thế
+5. (v) Xen kẽ, luân phiên
+## Ví dụ
+- *We need to find an alternative solution.*
+- *There are several alternative routes to the destination.*
+- *She offered me an alternative.*
+- *The artist alternated between painting and sculpture.*
+- *He alternated between joy and despair.*
+## Cấu trúc
+- *alternative to sth* (thay thế cho cái gì)
+- *alternative for sth* (thay thế cho cái gì)
+- *alternative to sth/doing sth* (thay thế cho cái gì/việc gì)
+## Collocation
+- *alternative solution* (giải pháp thay thế)
+- *alternative route* (tuyến đường thay thế)
+- *alternative approach* (cách tiếp cận thay thế)
+- *alternative method* (phương pháp thay thế)
+- *alternative energy* (năng lượng thay thế)
+- *alternative medicine* (y học thay thế)
+- *alternative lifestyle* (lối sống thay thế)
+- *alternative plan* (kế hoạch thay thế)
+- *alternative option* (lựa chọn thay thế)
+- *alternative choice* (lựa chọn thay thế)
+- *alternative solution* (giải pháp thay thế)
+- *alternative approach* (phương pháp tiếp cận thay thế)
+- *alternative method* (phương pháp thay thế)
+- *alternative option* (lựa chọn thay thế)
+- *alternative plan* (kế hoạch thay thế)
+- *alternative route* (tuyến đường thay thế)
+- *alternative source* (nguồn thay thế)
+- *alternative energy* (năng lượng thay thế)
+- *alternative medicine* (y học thay thế)
+- *alternative form* (hình thức thay thế)
+- *alternative way* (cách thức thay thế)
+- *alternative explanation* (lời giải thích khác/thay thế)
+- *alternative treatment* (phương pháp điều trị thay thế)
+- *alternative lifestyle* (lối sống khác)
+- *alternative strategy* (chiến lược thay thế)
+- *alternative to something* (sự thay thế cho cái gì)
+- *viable alternative* (phương án thay thế khả thi)
+- *possible alternative* (phương án thay thế khả dĩ)
+- *effective alternative* (phương án thay thế hiệu quả)
+- *suitable alternative* (phương án thay thế phù hợp)
+
+## Từ đồng nghĩa
+- *alternative* (adj) (khác, thay thế)
+- *alternative* (n) (sự lựa chọn khác)
+- *different* (khác)
+- *other* (khác)
+- *another* (khác)
+- *substitute* (thay thế)
+- *replacement* (thay thế)
+- *additional* (thêm)
+- *extra* (thêm)
+- *other option* (lựa chọn khác)
+- *alternative approach* (cách tiếp cận thay thế)
+- *alternative method* (phương pháp thay thế)
+- *alternative energy* (năng lượng thay thế)
+- *alternative medicine* (y học thay thế)
+- *alternative lifestyle* (lối sống thay thế)
+- *alternative plan* (kế hoạch thay thế)
+- *alternative option* (lựa chọn thay thế)
+- *alternative choice* (lựa chọn thay thế)
+## Từ trái nghĩa
+- *original* (gốc)
+- *primary* (chính)
+- *main* (chính)
+- *principal* (chính)
+- *usual* (thường)
+- *standard* (tiêu chuẩn)
+- *common* (phổ biến)
+- *conventional* (thông thường)
+## Word family
+- *alternative* (adj) (khác, thay thế)
+- *alternative* (n) (sự lựa chọn khác)
+- *alternatively* (adv) (thay vào đó)
+- *alternating* (adj) (xen kẽ, luân phiên)
+- *alternate* (v) (xen kẽ, luân phiên)
+- *alternate* (v) (thay thế)
+- *alternate* (n) (người thay thế)
+- *alternation* (n) (sự xen kẽ, sự luân phiên)
+- *alteration* (n) (sự thay đổi)
 
 # Ambiguous
 
