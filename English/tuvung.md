@@ -1265,3 +1265,74 @@
 - *acknowledging* (v) (thừa nhận)
 - *acknowledged* (adj) (được thừa nhận)
 
+# Adapt
+## Nghĩa
+1. (v) Thích nghi
+2. (v) Điều chỉnh
+## Ví dụ
+- *She adapted quickly to the new environment.* 
+- *We need to adapt to the changing circumstances.* 
+- *Student adapt to new environment through practice.* 
+## Cấu trúc
+- *adapt to* (thích nghi với)
+- *adapt for* (điều chỉnh cho)
+## Collocation
+- *adapt to* (thích nghi với)
+- *adapt for* (điều chỉnh cho)
+- *adapt quickly* (thích nghi nhanh)
+- *adapt easily* (thích nghi dễ dàng)
+- *adapt to the changes* (thích nghi với sự thay đổi)
+- *adapt to the new environment* (thích nghi với môi trường mới)
+- *adapt to new circumstances* (thích nghi với hoàn cảnh mới)
+- *adapt to different conditions* (thích nghi với điều kiện khác nhau)
+- *adapt to a changing environment* (thích nghi với môi trường thay đổi)
+- *adapt for the new purpose* (điều chỉnh cho mục đích mới)
+- *adapt to modern life* (thích nghi với cuộc sống hiện đại)
+- *adapt the situation* (thích nghi với tình huống)
+- *adapt sb to sth* (điều chỉnh ai đó cho cái gì)
+- *adapt to a new climate* (thích nghi với khí hậu mới)
+- *adapt to the new job* (thích nghi với công việc mới)
+- *adapt to the new school* (thích nghi với trường mới)
+## Từ đồng nghĩa
+- *adjust* (điều chỉnh)
+- *modify* (sửa đổi)
+- *alter* (thay đổi)
+- *change* (thay đổi)
+- *acclimate* (điều chỉnh)
+- *get used to* (làm quen với)
+- *adjust to* (điều chỉnh cho)
+- *suit* (thích hợp)
+- *assimilate* (đồng hóa)
+- *modify* (sửa đổi)
+- *alter* (thay đổi)
+- *change* (thay đổi)
+- *acclimate* (điều chỉnh)
+- *get used to* (làm quen với)
+- *adjust to* (điều chỉnh cho)
+- *suit* (thích hợp)
+- *assimilate* (đồng hóa)
+## Từ trái nghĩa
+- *stay the same* (giữ nguyên)
+- *remain unchanged* (không thay đổi)
+- *remain inflexible* (không linh hoạt)
+- *resist* (chống lại)
+- *oppose* (chống lại)
+- *reject* (từ chối)
+- *refuse* (từ chối)
+- *maintain* (duy trì)
+- *preserve* (bảo tồn)
+- *remain* (vẫn)
+- *remain true* (vẫn đúng)
+- *remain unchanged* (không thay đổi)
+- *remain inflexible* (không linh hoạt)
+## Word family
+- *adapt* (v) (thích nghi)
+- *adaptation* (n) (sự thích nghi)
+- *adapter* (n) (bộ chuyển đổi)
+- *adapting* (v) (thích nghi)
+- *adaptative* (adj) (có khả năng thích nghi)
+- *adaptability* (n) (khả năng thích nghi)
+- *adaptively* (adv) (có khả năng thích nghi)
+- *unadaptable* (adj) (không thể thích nghi)
+- *unadaptability* (n) (không thể thích nghi)
+- *unadaptively* (adv) (không thể thích nghi)
