@@ -2459,8 +2459,54 @@
 - *amended* (adjective / V3) (đã được sửa đổi)
 - *amendable* (adjective) (có thể sửa đổi *(ít dùng)*)
 
-
 # Analogy
+## Nghĩa
+1. (n) Sự tương đồng, sự giống nhau
+2. (n) Sự so sánh
+3. (n) Sự loại suy
+## Ví dụ
+- *The analogy between the brain and a computer is not perfect.*
+- *His explanation was full of analogies.*
+- *She used an analogy to explain the concept.*
+## Collocation
+- *draw an analogy* (rút ra một sự so sánh)
+- *make an analogy* (làm một sự so sánh)
+- *use an analogy* (sử dụng một sự so sánh)
+- *draw an analogy between A and B* (rút ra một sự so sánh giữa A và B)
+- *make an analogy between A and B* (làm một sự so sánh giữa A và B)
+- *use an analogy between A and B* (sử dụng một sự so sánh giữa A và B)
+- *by analogy* (tương tự, theo cách tương tự)
+- *draw an analogy* (rút ra một sự so sánh)
+- *make an analogy* (làm một sự so sánh)
+- *use an analogy* (sử dụng một sự so sánh)
+- *draw an analogy between A and B* (rút ra một sự so sánh giữa A và B)
+- *make an analogy between A and B* (làm một sự so sánh giữa A và B)
+- *use an analogy between A and B* (sử dụng một sự so sánh giữa A và B)
+- *by analogy* (tương tự, theo cách tương tự)
+
+## Từ đồng nghĩa
+- *similarity* (sự tương đồng)
+- *comparison* (sự so sánh)
+- *parallel* (sự tương đồng)
+- *likeness* (sự giống nhau)
+- *resemblance* (sự giống nhau)
+- *parallel* (sự tương đồng)
+- *likeness* (sự giống nhau)
+- *resemblance* (sự giống nhau)
+
+## Từ trái nghĩa
+- *difference* (sự khác biệt)
+- *discrepancy* (sự khác biệt)
+- *divergence* (sự khác biệt)
+- *contrast* (sự tương phản)
+
+## Word family
+- *analogy* (n) (sự tương đồng, sự giống nhau)
+- *analogous* (adj) (tương tự, giống nhau)
+- *analogically* (adv) (một cách tương tự, một cách giống nhau)
+- *analogue* (n) (sự tương đồng, sự giống nhau)
+- *analogic* (adj) (tương tự, giống nhau)
+- *analogical* (adj) (tương tự, giống nhau)
 
 # Analysis
 
