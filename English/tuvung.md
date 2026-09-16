@@ -2328,6 +2328,68 @@
 - *alteration* (n) (sự thay đổi)
 
 # Ambiguous
+## Nghĩa 
+1. (adj) Mơ hồ, không rõ ràng
+2. (adj) Có thể hiểu theo nhiều cách khác nhau
+3. (adj) Không chắc chắn
+## Ví dụ
+- *The sentence is ambiguous.*
+- *His answer was ambiguous.*
+- *The situation is ambiguous.*
+## Cấu trúc
+- *ambiguous about sth* (mơ hồ về cái gì)
+## Collocation
+- *ambiguous answer* (câu trả lời mơ hồ)
+- *ambiguous statement* (tuyên bố mơ hồ)
+- *ambiguous situation* (tình huống mơ hồ)
+- *ambiguous result* (kết quả mơ hồ)
+- *ambiguous meaning* (ý nghĩa mơ hồ)
+- *ambiguous wording* (cách diễn đạt mơ hồ)
+- *ambiguous statement* (phát biểu mơ hồ)
+- *ambiguous language* (ngôn ngữ mơ hồ)
+- *ambiguous meaning* (ý nghĩa không rõ ràng)
+- *ambiguous answer* (câu trả lời mơ hồ)
+- *ambiguous question* (câu hỏi mơ hồ)
+- *ambiguous wording* (cách diễn đạt mơ hồ)
+- *ambiguous phrase* (cụm từ có nghĩa không rõ ràng)
+- *ambiguous expression* (cách diễn đạt mơ hồ)
+- *ambiguous message* (thông điệp không rõ ràng)
+- *ambiguous instruction* (hướng dẫn không rõ ràng)
+- *ambiguous interpretation* (cách diễn giải không rõ ràng)
+- *ambiguous situation* (tình huống không rõ ràng)
+- *ambiguous evidence* (bằng chứng có thể được hiểu theo nhiều cách)
+- *ambiguous relationship* (mối quan hệ không rõ ràng)
+- *highly ambiguous* (rất mơ hồ)
+- *deliberately ambiguous* (cố tình mơ hồ)
+- *potentially ambiguous* (có khả năng gây mơ hồ)
+- *remain ambiguous* (vẫn không rõ ràng)
+
+## Từ đồng nghĩa
+- *vague* (mơ hồ, không rõ ràng)
+- *uncertain* (không chắc chắn)
+- *unclear* (không rõ ràng)
+- *obscure* (tối nghĩa, khó hiểu)
+- *equivocal* (có thể hiểu theo nhiều cách khác nhau)
+- *vague* (mơ hồ, không rõ ràng)
+- *uncertain* (không chắc chắn)
+- *unclear* (không rõ ràng)
+- *obscure* (tối nghĩa, khó hiểu)
+- *equivocal* (có thể hiểu theo nhiều cách khác nhau)
+## Từ trái nghĩa
+- *clear* (rõ ràng)
+- *obvious* (hiển nhiên)
+- *explicit* (rõ ràng)
+- *precise* (chính xác)
+- *specific* (cụ thể)
+- *unambiguous* (không mơ hồ)
+## Word family
+- *ambiguous* (adj) (mơ hồ, không rõ ràng)
+- *ambiguity* (n) (sự mơ hồ, sự không rõ ràng)
+- *ambiguousness* (n) (sự mơ hồ, sự không rõ ràng)
+- *ambiguously* (adv) (một cách mơ hồ, một cách không rõ ràng)
+- *unambiguous* (adj) (rõ ràng; không mơ hồ)
+- *unambiguously* (adv) (một cách rõ ràng, không mơ hồ)
+- *unambiguity* (n) (tính rõ ràng; sự không mơ hồ *(ít dùng)*)
 
 # Amend
 
