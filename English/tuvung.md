@@ -2051,13 +2051,16 @@
 - *aid* (n) (phương tiện)
 
 # Albeit
-
 ## Nghĩa
 1. (conjunction) Mặc dù
 ## Ví dụ
 - *He finally succeeded, albeit after many failures.*
 - *The report was well-written, albeit a bit long.*
 - *The plan was good, albeit with some risks.*
+- *The meeting was productive, albeit long.*
+- *The project was completed on time, albeit with some sacrifices.*
+- *The team won the game, albeit after a tough fight.*
+- *The company's profits increased, albeit modestly.*
 ## Cấu trúc
 - *albeit + adj* (mặc dù + tính từ)
 - *albeit + adv* (mặc dù + trạng từ)
@@ -2066,26 +2069,40 @@
 - *albeit slowly* (mặc dù chậm)
 - *albeit reluctantly* (mặc dù miễn cưỡng)
 - *albeit briefly* (mặc dù ngắn gọn)
+- *albeit modestly* (mặc dù khiêm tốn)
+- *albeit belatedly* (mặc dù muộn)
+- *albeit slightly* (mặc dù một chút)
+- *albeit significantly* (mặc dù đáng kể)
 - *albeit gradually* (mặc dù dần dần)
 - *albeit indirectly* (mặc dù gián tiếp)
+- *albeit with difficulty* (mặc dù khó khăn)
+- *albeit with pleasure* (mặc dù với niềm vui)
 ## Từ đồng nghĩa
 - *although* (mặc dù)
 - *even though* (mặc dù)
 - *though* (mặc dù)
 - *despite* (mặc dù)
 - *in spite of* (mặc dù)
+- *notwithstanding* (mặc dù)
+- *nevertheless* (mặc dù)
+- *nonetheless* (mặc dù)
+- *even so* (mặc dù)
+- *still* (mặc dù)
+- *yet* (mặc dù)
+- *but* (nhưng)
+- *however* (tuy nhiên)
+- *though* (mặc dù)
 ## Từ trái nghĩa
 - *and* (và)
 - *also* (cũng)
 - *too* (cũng)
 - *as well* (cũng)
 - *either* (cũng không)
+- *while* (trong khi)
+- *whereas* (trong khi)
 ## Word family
 - *albeit* (conjunction) (mặc dù)
-- *albeit* (conjunction) (mặc dù)
-- *albeit* (conjunction) (mặc dù)
-- *albeit* (conjunction) (mặc dù)
-- *albeit* (conjunction) (mặc dù)
+
 
 # Allocate
 ## Nghĩa
@@ -2197,34 +2214,6 @@
 
 # Attain
 
-#
-- *aggregate production* (tổng sản lượng)
-## Từ đồng nghĩa
-- *total* (tổng cộng)
-- *whole* (toàn bộ)
-- *entirety* (toàn bộ)
-- *sum* (tổng)
-- *all* (tất cả)
-- *aggregate* (adj) (tổng hợp)
-## Từ trái nghĩa
-- *individual* (cá nhân)
-- *partial* (một phần)
-- *segment* (phần)
-- *component* (thành phần)
-- *part* (phần)
-## Word family
-- *aggregate* (n) (tổng hợp, toàn bộ)
-- *aggregate* (v) (tổng hợp, tập hợp)
-- *aggregate* (adj) (tổng hợp)
-- *aggregation* (n) (sự tổng hợp, tập hợp)
-- *aggregated* (adj) (đã được tổng hợp)
-- *aggregating* (v) (đang tổng hợp)
-- *aggregation* (n) (sự tích lũy)
-- *aggregated* (adj) (tích lũy)
-
-# Aid
-
-# Albeit
 allocate
 alter
 alternative
