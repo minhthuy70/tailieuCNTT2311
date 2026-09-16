@@ -2128,12 +2128,36 @@
 - *allocate tasks* (phân bổ nhiệm vụ)
 - *allocate roles* (phân bổ vai trò)
 - *allocate responsibilities* (phân bổ trách nhiệm)
+- *allocate resources* phân bổ nguồn lực
+- *allocate funds* phân bổ ngân sách/kinh phí
+- *allocate money* phân bổ tiền
+- *allocate a budget* phân bổ ngân sách
+- *allocate funding* phân bổ nguồn vốn
+- *allocate time* phân bổ thời gian
+- *allocate staff* phân bổ nhân viên
+- *allocate personnel* phân bổ nhân sự
+- *allocate tasks* phân công nhiệm vụ
+- *allocate responsibilities* phân chia trách nhiệm
+- *allocate space* phân bổ không gian
+- *allocate staff* phân bổ nhân viên
+- *allocate personnel* phân bổ nhân sự
+- *allocate tasks* phân công nhiệm vụ
+- *allocate responsibilities* phân chia trách nhiệm
+- *allocate space* phân bổ không gian
+- *allocate resources efficiently* phân bổ nguồn lực hiệu quả
+- *allocate resources effectively* phân bổ nguồn lực một cách hiệu quả
+- *allocate resources fairly* phân bổ nguồn lực công bằng
+- *allocate resources appropriately* phân bổ nguồn lực phù hợp
+- *allocate resources effectively* phân bổ nguồn lực một cách hiệu quả
+- *allocate resources fairly* phân bổ nguồn lực công bằng
+- *allocate resources appropriately* phân bổ nguồn lực phù hợp
 ## Từ đồng nghĩa
 - *distribute* (phân phối)
 - *assign* (giao nhiệm vụ)
 - *allot* (phân bổ)
 - *apportion* (phân chia)
 - *allocate* (v) (dành riêng)
+- *redistribute* (v) (phân phối lại)
 ## Từ trái nghĩa
 - *withhold* (từ chối)
 - *retain* (giữ lại)
@@ -2148,7 +2172,7 @@
 - *allocator* (n) (người phân bổ)
 - *allocable* (adj) (có thể phân bổ)
 - *unallocated* (adj) (chưa được phân bổ)
-- *redistribute* (v) (phân phối lại)
+
 
 # Alter
 
