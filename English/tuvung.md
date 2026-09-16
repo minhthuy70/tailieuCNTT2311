@@ -2476,37 +2476,95 @@
 - *make an analogy between A and B* (làm một sự so sánh giữa A và B)
 - *use an analogy between A and B* (sử dụng một sự so sánh giữa A và B)
 - *by analogy* (tương tự, theo cách tương tự)
-- *draw an analogy* (rút ra một sự so sánh)
-- *make an analogy* (làm một sự so sánh)
-- *use an analogy* (sử dụng một sự so sánh)
-- *draw an analogy between A and B* (rút ra một sự so sánh giữa A và B)
-- *make an analogy between A and B* (làm một sự so sánh giữa A và B)
-- *use an analogy between A and B* (sử dụng một sự so sánh giữa A và B)
-- *by analogy* (tương tự, theo cách tương tự)
-
+- *create an analogy* (tạo ra phép tương đồng)
+- *provide an analogy* (đưa ra một phép tương đồng)
+- *offer an analogy* (đưa ra một phép tương đồng)
+- *give an analogy* (đưa ra một phép tương đồng)
+- *an analogy between A and B* (sự tương đồng giữa A và B)
+- *an analogy with something* (sự tương đồng với cái gì)
+- *a useful analogy* (phép tương đồng hữu ích)
+- *a simple analogy* (phép tương đồng đơn giản)
+- *a direct analogy* (phép tương đồng trực tiếp)
+- *a close analogy* (sự tương đồng gần gũi)
+- *a striking analogy* (sự tương đồng nổi bật)
+- *a rough analogy* (sự tương đồng tương đối)
+- *a helpful analogy* (phép tương đồng hữu ích)
+- *a false analogy* (phép tương đồng sai)
 ## Từ đồng nghĩa
-- *similarity* (sự tương đồng)
 - *comparison* (sự so sánh)
-- *parallel* (sự tương đồng)
-- *likeness* (sự giống nhau)
-- *resemblance* (sự giống nhau)
-- *parallel* (sự tương đồng)
-- *likeness* (sự giống nhau)
-- *resemblance* (sự giống nhau)
-
+- *parallel* (sự tương đồng, sự tương tự)
+- *similarity* (sự giống nhau)
+- *resemblance* (sự giống nhau, tương đồng)
+- *correspondence* (sự tương ứng)
+- *metaphor* (phép ẩn dụ *(gần nghĩa trong một số ngữ cảnh)*)
+- *illustration* (ví dụ minh họa *(khi dùng phép tương tự để giải thích)*)
 ## Từ trái nghĩa
-- *difference* (sự khác biệt)
 - *discrepancy* (sự khác biệt)
 - *divergence* (sự khác biệt)
 - *contrast* (sự tương phản)
-
+- *dissimilarity* (sự không giống nhau)
+- *distinction* (sự khác biệt, phân biệt)
+- *disparity* (sự chênh lệch, khác biệt lớn)
 ## Word family
-- *analogy* (n) (sự tương đồng, sự giống nhau)
-- *analogous* (adj) (tương tự, giống nhau)
-- *analogically* (adv) (một cách tương tự, một cách giống nhau)
-- *analogue* (n) (sự tương đồng, sự giống nhau)
-- *analogic* (adj) (tương tự, giống nhau)
-- *analogical* (adj) (tương tự, giống nhau)
+- *analogy* (n) (sự tương đồng; phép so sánh tương tự)
+- *analogous* (adj) (tương tự; tương đồng)
+- *analogously* (adv) (theo cách tương tự)
+- *analogical* (adj) (mang tính tương tự / dựa trên phép loại suy)
+- *analogically* (adv) (theo phép loại suy *(ít dùng)*)
+
+
+# Analysis
+
+# Annual
+
+# Anticipate
+
+# Apparent
+
+# Append
+
+# Appreciate
+
+# Approach
+
+# Appropriate
+
+# Approximate
+
+# Arbitrary
+
+# Area
+
+# Adjacent
+
+# Compile
+
+# Compensate
+
+# Aspect
+
+# Assemble
+
+# Assess
+
+# Assign
+
+# Contract
+
+# Assist
+
+# Contradict
+
+# Assume
+
+# Core
+
+# Assure
+
+# Cooperate
+
+# Attach
+
 
 # Analysis
 
