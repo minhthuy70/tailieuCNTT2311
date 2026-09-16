@@ -2504,7 +2504,6 @@
 - *analogical* (adj) (mang tính tương tự / dựa trên phép loại suy)
 - *analogically* (adv) (theo phép loại suy *(ít dùng)*)
 
-
 # Analysis
 
 # Annual
