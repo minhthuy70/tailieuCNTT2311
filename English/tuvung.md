@@ -535,7 +535,11 @@
 ## Ví dụ
 - *The information you provided is accurate.*
 - *The calculator gave an accurate result.*
+- *The report provide accurate information about the population.* (Báo cáo cung cấp thông tin chính xác về dân số.)
 ## Cấu trúc
+- *be accurate to* (chính xác với)
+- *accurate something about something* (chính xác điều gì đó về điều gì đó)
+- *be accurate in noun/verb-ing* (chính xác trong việc làm gì đó)
 - *accurate to the nearest* (chính xác đến gần)
 - *accurate to within* (chính xác trong vòng)
 - *accurate estimate* (ước tính chính xác)
@@ -561,6 +565,33 @@
 - *accurate assessment* (đánh giá chính xác)
 - *accurate diagnosis* (chẩn đoán chính xác)
 - *accurate result* (kết quả chính xác)
+- *fairly accurate* (khá chính xác)
+- *largely accurate* (khá chính xác)
+- *mostly accurate* (khá chính xác)
+- *accurate estimate* (ước tính chính xác)
+- *accurate measurement* (đo lường chính xác)
+- *accurate prediction* (dự đoán chính xác)
+- *accurate assessment* (đánh giá chính xác)
+- *accurate diagnosis* (chẩn đoán chính xác)
+- *accurate calculation* (tính toán chính xác)
+- *accurate records* (hồ sơ chính xác)
+- *accurate history* (lịch sử chính xác)
+- *accurate account* (tài khoản chính xác)
+- *accurate figures* (số liệu chính xác)
+- *extremely accurate* (cực kỳ chính xác)
+- *remarkably accurate* (đáng kinh ngạc chính xác)
+- *very accurate* (rất chính xác)
+- *highly accurate* (rất chính xác)
+- *reasonably accurate* (khá chính xác)
+- *technically accurate* (chính xác về mặt kỹ thuật)
+- *scientifically accurate* (chính xác khoa học)
+- *remain accurate* (vẫn chính xác)
+- *prove accurate* (chứng tỏ chính xác)
+- *accurately represent* (đại diện chính xác)
+- *ensure accuracy* (đảm bảo chính xác)
+- *maintain accuracy* (duy trì chính xác)
+- *improve accuracy* (cải thiện chính xác)
+- *lack accuracy* (thiếu chính xác)
 ## Từ đồng nghĩa
 - *correct* (đúng)
 - *exact* (chính xác)
@@ -572,6 +603,10 @@
 - *reliable* (đáng tin cậy)
 - *trustworthy* (đáng tin cậy)
 - *dependable* (đáng tin cậy)
+- *right* (đúng)
+- *spot on* (chính xác)
+- *on the mark* (đúng)
+- *authentic* (chân thực)
 ## Từ trái nghĩa
 - *inaccurate* (không chính xác)
 - *incorrect* (không đúng)
@@ -583,10 +618,15 @@
 - *unreliable* (không đáng tin cậy)
 - *untrustworthy* (không đáng tin cậy)
 - *undependable* (không đáng tin cậy)
+- *inexact* (không chính xác)
+- *off the mark* (không chính xác)
+- *misleading* (gây hiểu lầm)
 ## Word family
 - *accurate* (adj) (chính xác)
 - *accurately* (adv) (một cách chính xác)
 - *accuracy* (n) (sự chính xác)
+- *inaccurately* (adv) (một cách không chính xác)
+- *inaccuracy* (n) (sự không chính xác)
 
 # Achieve
 ## Nghĩa
