@@ -1757,3 +1757,222 @@
 - *admiring* (adj) (thể hiện sự ngưỡng mộ)
 - *admired* (adj) (được ngưỡng mộ)
 - *unadmired* (adj) (không được ngưỡng mộ)
+# Advocate
+## Nghĩa
+1. (v) Ủng hộ, tán thành
+2. (v) Bảo vệ, bênh vực
+3. (n) Người ủng hộ
+4. (n) Luật sư
+## Ví dụ
+- *He advocates for education reform.*
+- *She advocates for women's rights.*
+- *They advocate for peace.*
+- *The lawyer will advocate for the defendant.*
+## Cấu trúc
+- *advocate for sth* (ủng hộ cái gì)
+- *advocate for sb* (bảo vệ ai)
+## Collocation
+- *advocate for change* (ủng hộ sự thay đổi)
+- *advocate for reform* (ủng hộ cải cách)
+- *advocate for rights* (bảo vệ quyền lợi)
+- *advocate for justice* (bảo vệ công lý)
+- *advocate for the poor* (bảo vệ người nghèo)
+- *advocate for the vulnerable* (bảo vệ người dễ bị tổn thương)
+- *public advocate* (người ủng hộ công khai)
+- *strong advocate* (người ủng hộ mạnh mẽ)
+- *vocal advocate* (người ủng hộ tích cực)
+- *political advocate* (người ủng hộ chính trị)
+- *human rights advocate* (người ủng hộ nhân quyền)
+- *environmental advocate* (người ủng hộ môi trường)
+- *children's advocate* (người bảo vệ trẻ em)
+- *patient advocate* (người bảo vệ bệnh nhân)
+- *legal advocate* (người ủng hộ pháp lý)
+- *community advocate* (người ủng hộ cộng đồng)
+- *fierce advocate* (người ủng hộ kiên quyết)
+- *tireless advocate* (người ủng hộ không mệt mỏi)
+- *staunch advocate* (người ủng hộ kiên định)
+- *active advocate* (người ủng hộ tích cực)
+- *passionate advocate* (người ủng hộ nhiệt tình)
+- *vocal advocate* (người ủng hộ mạnh mẽ)
+- *zealous advocate* (người ủng hộ nhiệt thành)
+- *advocate for change* (ủng hộ sự thay đổi)
+- *advocate for reform* (ủng hộ cải cách)
+- *advocate for rights* (bảo vệ quyền lợi)
+- *advocate for justice* (bảo vệ công lý)
+- *advocate for the poor* (bảo vệ người nghèo)
+- *advocate for the vulnerable* (bảo vệ người dễ bị tổn thương)
+- *public advocate* (người ủng hộ công khai)
+- *strong advocate* (người ủng hộ mạnh mẽ)
+- *vocal advocate* (người ủng hộ tích cực)
+- *political advocate* (người ủng hộ chính trị)
+- *human rights advocate* (người ủng hộ nhân quyền)
+- *environmental advocate* (người ủng hộ môi trường)
+- *children's advocate* (người bảo vệ trẻ em)
+- *patient advocate* (người bảo vệ bệnh nhân)
+- *legal advocate* (người ủng hộ pháp lý)
+- *community advocate* (người ủng hộ cộng đồng)
+- *fierce advocate* (người ủng hộ kiên quyết)
+- *tireless advocate* (người ủng hộ không mệt mỏi)
+- *staunch advocate* (người ủng hộ kiên định)
+- *active advocate* (người ủng hộ tích cực)
+- *passionate advocate* (người ủng hộ nhiệt tình)
+- *vocal advocate* (người ủng hộ mạnh mẽ)
+- *zealous advocate* (người ủng hộ nhiệt thành)
+- *advocate for change* (ủng hộ sự thay đổi)
+## Từ đồng nghĩa
+- *support* (ủng hộ)
+- *back* (ủng hộ)
+- *champion* (ủng hộ)
+- *promote* (thúc đẩy)
+- *advise* (tư vấn)
+- *support* (ủng hộ)
+- *advocate for* (ủng hộ)
+- *speak for* (đại diện cho)
+- *defend* (bảo vệ)
+- *protect* (bảo vệ)
+- *speak out for* (phát ngôn cho)
+- *speak up for* (phát ngôn cho)
+- *plead for* (kêu gọi, nài nỉ)
+- *take a stand for* (đứng lên vì)
+- *campaign for* (chiến dịch cho)
+- *speak on behalf of* (nói thay cho)
+- *act on behalf of* (thay mặt ai đó)
+## Từ trái nghĩa
+- *oppose* (phản đối)
+- *resist* (chống lại)
+- *combat* (chống lại)
+- *attack* (tấn công)
+- *denounce* (tố cáo)
+- *criticize* (chỉ trích)
+- *condemn* (lên án)
+- *disapprove* (không tán thành)
+- *reject* (từ chối)
+## Word family
+- *advocate* (v) (ủng hộ, tán thành)
+- *advocacy* (n) (sự ủng hộ, tán thành)
+- *advocate* (n) (người ủng hộ)
+- *advocacy* (n) (sự bảo vệ, bênh vực)
+- *advocate* (n) (luật sư)
+- *advocacy* (n) (sự biện hộ)
+- *advocate* (n) (người vận động)
+- *advocacy* (n) (sự vận động)
+
+# Affect
+
+# Aggregate
+
+# Aid
+
+# Albeit
+allocate
+alter
+alternative
+ambiguous
+amend
+analogy
+analysis
+annual
+anticipate
+apparent
+append
+appreciate
+approach
+appropriate
+approximate
+arbitrary
+area
+adjacent
+compile
+compensate
+aspect
+assemble
+assess
+assign
+contract
+assist
+contradict
+assume
+core
+assure
+cooperate
+attach
+attain
+attitude
+attribute
+author
+authority
+automate
+available
+contrary
+behalf
+axare
+benefit
+contrast
+bias
+contibute
+bond
+convene
+brief
+converse
+bulk
+convert
+capable
+convince
+community
+complement
+complex
+capacity
+category
+cease
+challenge
+channel
+chart
+circumstance
+cite
+coordinate
+civil
+corperate
+clarity
+correspond
+elassic
+couple
+Clause
+create code
+credit
+coherent
+coincide
+collapse
+colleague
+commence
+comment
+commission
+commit
+commodity
+compatible
+compotent
+compound
+comprehensive
+comprise
+compute
+conceive
+concentrate
+concept
+conclude
+concurrent
+conduct
+confer
+confirm
+conflict
+conform
+consent
+consequent
+considerable
+consist
+constant
+constitute
+constrain
+consult
+consume
+contact
+contemporary
+context
