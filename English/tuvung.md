@@ -1419,3 +1419,61 @@
 - *inadequate* (adj) (không đủ)
 - *inadequacy* (n) (sự không đủ)
 - *inadequately* (adv) (không đủ)
+
+# Adjacent
+## Nghĩa
+1. (adj) Kề, liền kề, sát cạnh
+2. (adj) Gần, kế bên
+## Ví dụ
+- *The school is adjacent to the park.*
+- *The two houses are adjacent.*
+## Cấu trúc
+- *adjacent to* (kề với)
+## Collocation
+- *adjacent to the park* (kề với công viên)
+- *adjacent to the house* (kề với ngôi nhà)
+- *adjacent buildings* (tòa nhà kề nhau)
+- *adjacent rooms* (phòng kề nhau)
+- *adjacent tables* (bàn kề nhau)
+- *adjacent areas* (khu vực kề nhau)
+- *adjacent plots of land* (lô đất kề nhau)
+- *adjacent page* (trang kề bên)
+- *adjacent property* (bất động sản kề bên)
+- *adjacent apartment* (căn hộ kề bên)
+- *adjacent area* (khu vực kề bên)
+- *adjacent units* (đơn vị kề nhau)
+- *adjacent office* (văn phòng kề bên)
+- *adjacent lots* (lô đất kề bên)
+- *adjacent seats* (ghế kề bên)
+- *adjacent tables* (bàn kề bên)
+- *adjacent facility* (cơ sở vật chất kề bên)
+## Từ đồng nghĩa
+- *next to* (kề với)
+- *near* (gần)
+- *beside* (bên cạnh)
+- *adjoining* (kề)
+- *abutting* (kề)
+- *contiguous* (liền kề)
+- *neighboring* (kề)
+- *bordering* (kề)
+- *nearby* (gần)
+- *bordering* (kề)
+- *close to* (gần)
+- *close* (gần)
+## Từ trái nghĩa
+- *far from* (xa)
+- *distant* (xa)
+- *remote* (xa)
+- *separated from* (cách biệt với)
+- *faraway* (xa)
+- *far-off* (xa)
+- *far-flung* (xa)
+- *far-flung* (xa)
+- *far-flung* (xa)
+- *isolated from* (cách biệt với)
+- *disconnected from* (cách biệt với)
+## Word family
+- *adjacent* (adj) (kề)
+- *adjacency* (n) (sự kề)
+- *adjacently* (adv) (kề)
+- *nonadjacent* (adj) (không kề)
