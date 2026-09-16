@@ -1991,7 +1991,6 @@
 - *aggregated* (adj) (tích lũy)
 
 # Aid
-
 ## Nghĩa
 1. (n) Sự giúp đỡ, hỗ trợ
 2. (n) Thiết bị hỗ trợ, dụng cụ hỗ trợ
@@ -2017,20 +2016,30 @@
 - *aid program* (chương trình viện trợ)
 - *aid worker* (nhân viên viện trợ)
 - *aid agency* (cơ quan viện trợ)
+- *aid to education* (viện trợ giáo dục)
+- *aid to health* (viện trợ y tế)
+- *aid to the poor* (viện trợ cho người nghèo)
+- *aid to the disabled* (viện trợ cho người khuyết tật)
+- *aid to the elderly* (viện trợ cho người cao tuổi)
 ## Từ đồng nghĩa
 - *help* (sự giúp đỡ)
 - *assistance* (sự hỗ trợ)
+- *hand* (sự giúp đỡ)
+- *handout* (sự giúp đỡ)
+- *pickup* (sự giúp đỡ)
 - *support* (sự hỗ trợ)
 - *relief* (sự cứu trợ)
-- *aid* (n) (thiết bị hỗ trợ)
-- *aid* (n) (dụng cụ hỗ trợ)
-- *aid* (v) (giúp đỡ, hỗ trợ)
+- *device* (thiết bị)
+- *tool* (dụng cụ)
 ## Từ trái nghĩa
 - *hindrance* (sự cản trở)
 - *obstacle* (sự cản trở)
+- *let* (sự cản trở)
+- *blockage* (sự cản trở)
 - *impediment* (sự cản trở)
 - *barrier* (sự cản trở)
 - *opposition* (sự phản đối)
+- *resistance* (sự phản đối)
 ## Word family
 - *aid* (n) (sự giúp đỡ, hỗ trợ)
 - *aid* (v) (giúp đỡ, hỗ trợ)
