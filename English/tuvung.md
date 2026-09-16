@@ -1562,3 +1562,60 @@
 - *unadjustable* (adj) (không thể điều chỉnh)
 - *adjuster* (n) (người điều chỉnh)
 - *adjusted* (adj) (điều chỉnh)
+
+# Admit
+## Nghĩa
+1. (v) Thừa nhận
+2. (v) Cho phép vào
+## Ví dụ
+- *He admitted he was wrong.*
+- *She admitted to the crime.*
+- *The hospital admitted the patient.*
+- *She admitted the child to the school.*
+## Cấu trúc
+- *admit sth* (thừa nhận cái gì)
+- *admit to sth* (thừa nhận cái gì)
+- *admit to doing sth* (thừa nhận đã làm gì)
+- *admit defeat* (thừa nhận thất bại)
+- *admit the truth* (thừa nhận sự thật)
+- *admit the mistake* (thừa nhận sai lầm)
+- *admit the error* (thừa nhận sai lầm)
+- *admit the fact* (thừa nhận sự thật)
+- *admit the possibility* (thừa nhận khả năng)
+- *admit the possibility of sth* (thừa nhận khả năng của cái gì)
+- *admit the possibility of sth* (thừa nhận khả năng của cái gì)
+## Collocation
+- *admit defeat* (thừa nhận thất bại)
+- *admit the truth* (thừa nhận sự thật)
+- *admit the mistake* (thừa nhận sai lầm)
+- *admit the error* (thừa nhận sai lầm)
+- *admit the fact* (thừa nhận sự thật)
+- *admit the possibility* (thừa nhận khả năng)
+- *admit the possibility of sth* (thừa nhận khả năng của cái gì)
+- *admit the possibility of sth* (thừa nhận khả năng của cái gì)
+- *admit the possibility of sth* (thừa nhận khả năng của cái gì)
+- *admit the possibility of sth* (thừa nhận khả năng của cái gì)
+- *admit the possibility of sth* (thừa nhận khả năng của cái gì)
+## Từ đồng nghĩa
+- *confess* (thú nhận)
+- *acknowledge* (thừa nhận)
+- *concede* (thừa nhận)
+- *allow* (cho phép)
+- *permit* (cho phép)
+- *let in* (cho vào)
+- *accept* (chấp nhận)
+- *own up to* (thú nhận)
+## Từ trái nghĩa
+- *deny* (phủ nhận)
+- *refuse* (từ chối)
+- *reject* (từ chối)
+- *disallow* (không cho phép)
+- *disprove* (chứng minh sai)
+- *contradict* (mâu thuẫn)
+- *dispute* (tranh cãi)
+## Word family
+- *admit* (v) (thừa nhận)
+- *admission* (n) (sự thừa nhận)
+- *admissible* (adj) (có thể thừa nhận)
+- *admitting* (v) (thừa nhận)
+- *unadmissible* (adj) (không thể thừa nhận)
