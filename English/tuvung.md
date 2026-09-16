@@ -1173,6 +1173,14 @@
 - *acknowledge receipt* (xác nhận đã nhận)
 - *acknowledge limitations* (thừa nhận hạn chế)
 - *acknowledge errors* (thừa nhận lỗi)
+- *acknowledge mistake* (thừa nhận lỗi)
+- *acknowledge defeat* (thừa nhận thất bại)
+- *acknowledge the existence of* (thừa nhận sự tồn tại của)
+- *acknowledge debt* (thừa nhận nợ)
+- *acknowledge contribution* (ghi nhận sự đóng góp)
+- *acknowledge effort* (ghi nhận nỗ lực)
+- *acknowledge receipt* (xác nhận đã nhận)
+- *acknowledge receipt of* (xác nhận đã nhận)
 ## Từ đồng nghĩa
 - *admit* (thú nhận)
 - *concede* (nhượng bộ)
@@ -1203,3 +1211,4 @@
 - *acknowledgement* (n) (sự thừa nhận)
 - *acknowledging* (v) (thừa nhận)
 - *acknowledged* (adj) (được thừa nhận)
+
