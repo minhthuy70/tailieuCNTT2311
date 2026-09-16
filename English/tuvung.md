@@ -1130,3 +1130,76 @@
 - *accumulatively* (adv) (tích lũy)
 - *accumulator* (n) (người tích lũy, dụng cụ tích lũy)
 - *accumulated* (adj) (được tích lũy)
+
+# Acknowledge
+## Nghĩa
+1. (v) Thừa nhận
+2. (v) Công nhận
+3. (v) Ghi nhận
+## Ví dụ
+- *She acknowledged her mistake.*
+- *The government acknowledged the need for change.*
+## Cấu trúc
+- *acknowledge sth* (thừa nhận cái gì)
+- *acknowledge that + clause* (thừa nhận rằng + mệnh đề)
+## Collocation
+- *acknowledge the truth* (thừa nhận sự thật)
+- *acknowledge the importance of* (thừa nhận tầm quan trọng của)
+- *acknowledge the fact that* (thừa nhận sự thật rằng)
+- *acknowledge sb's contribution* (ghi nhận sự đóng góp của ai đó)
+- *acknowledge sb's effort* (ghi nhận nỗ lực của ai đó)
+- *acknowledge sb's achievement* (ghi nhận thành tích của ai đó)
+- *acknowledge sb's success* (ghi nhận thành công của ai đó)
+- *acknowledge sb's right to* (công nhận quyền của ai đó để)
+- *acknowledge receipt of* (xác nhận đã nhận)
+- *widely acknowledge* (được thừa nhận rộng rãi)
+- *publicly acknowledge* (thừa nhận công khai)
+- *privately acknowledge* (thừa nhận riêng tư)
+- *to fully acknowledge* (thừa nhận đầy đủ)
+- *to acknowledge sb* (công nhận ai đó)
+- *generally acknowledge* (thường thừa nhận)
+- *widely acknowledge as* (được thừa nhận rộng rãi như là)
+- *acknowledge the expert* (công nhận chuyên gia)
+- *acknowledge authorship* (thừa nhận quyền tác giả)
+- *acknowledge authority* (công nhận thẩm quyền)
+- *acknowledge leadership* (công nhận lãnh đạo)
+- *acknowledge fact* (thừa nhận sự thật)
+- *acknowledge problem* (thừa nhận vấn đề)
+- *acknowledge importance* (thừa nhận tầm quan trọng)
+- *acknowledge influence* (thừa nhận ảnh hưởng)
+- *acknowledge existence* (thừa nhận sự tồn tại)
+- *acknowledge responsibility* (thừa nhận trách nhiệm)
+- *acknowledge contribution* (ghi nhận sự đóng góp)
+- *acknowledge receipt* (xác nhận đã nhận)
+- *acknowledge limitations* (thừa nhận hạn chế)
+- *acknowledge errors* (thừa nhận lỗi)
+## Từ đồng nghĩa
+- *admit* (thú nhận)
+- *concede* (nhượng bộ)
+- *accept* (chấp nhận)
+- *recognize* (công nhận)
+- *grant* (thừa nhận)
+- *own* (sở hữu)
+- *possess* (sở hữu)
+- *recognize the existence of sth* (thừa nhận sự tồn tại của cái gì)
+- *confirm* (xác nhận)
+- *accept responsibility for* (thừa nhận trách nhiệm cho cái gì)
+- *confirm receipt of* (xác nhận đã nhận)
+- *receive acknowledgment of* (nhận được xác nhận đã nhận)
+- *appreciate* (đánh giá)
+- *express recognition of* (bày tỏ sự công nhận của)
+## Từ trái nghĩa
+- *deny* (phủ nhận)
+- *refuse* (từ chối)
+- *reject* (từ chối)
+- *disown* (chối bỏ)
+- *disavow* (chối bỏ)
+- *ignore* (phớt lờ)
+- *disregard* (phớt lờ)
+- *dispute* (tranh chấp)
+## Word family
+- *acknowledge* (v) (thừa nhận)
+- *acknowledgment* (n) (sự thừa nhận)
+- *acknowledgement* (n) (sự thừa nhận)
+- *acknowledging* (v) (thừa nhận)
+- *acknowledged* (adj) (được thừa nhận)
