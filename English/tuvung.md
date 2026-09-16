@@ -983,3 +983,74 @@
 - *accompaniment* (n) (sự đi cùng, phần đệm)
 - *accompanying* (adj) (đi kèm)
 - *accompanied by* (adj) (được đi kèm bởi)
+
+# Accumulate
+## Nghĩa
+1. (v) Tích lũy, tích góp
+2. (v) Tích tụ (chất lỏng, khí, bụi bẩn)
+## Ví dụ
+- *She has accumulated a wealth of experience over the years.*
+- *The company has accumulated a lot of debt.*
+- *He accumulated a fortune through hard work.*
+- *She accumulates valuable experience during her career.*
+## Cấu trúc
+- *accumulate sth* (tích lũy cái gì)
+- *sth accumulate over time* (cái gì tích tụ theo thời gian)
+## Collocation
+- *accumulate wealth* (tích lũy của cải)
+- *accumulate knowledge* (tích lũy kiến thức)
+- *accumulate experience* (tích lũy kinh nghiệm)
+- *accumulate debt* (tích lũy nợ)
+- *accumulate interest* (tích lũy lãi)
+- *accumulate savings* (tích lũy tiết kiệm)
+- *accumulate capital* (tích lũy vốn)
+- *accumulate assets* (tích lũy tài sản)
+- *accumulate information* (tích lũy thông tin)
+- *accumulate evidence* (tích lũy bằng chứng)
+- *accumulate quickly* (tích lũy nhanh)
+- *accumulate gradually* (tích lũy dần dần)
+- *accumulate slowly* (tích lũy chậm)
+- *accumulate over time* (tích lũy theo thời gian)
+- *accumulate over the years* (tích lũy qua nhiều năm)
+- *accumulate over the months* (tích lũy qua nhiều tháng)
+- *accumulate over the weeks* (tích lũy qua nhiều tuần)
+- *accumulate over the days* (tích lũy qua nhiều ngày)
+- *accumulate over the hours* (tích lũy qua nhiều giờ)
+- *accumulate dust* (tích tụ bụi)
+- *accumulate knowledge* (tích lũy kiến thức)
+- *accumulate experience* (tích lũy kinh nghiệm)
+- *accumulate wealth* (tích lũy tài sản)
+- *accumulate debts* (tích lũy các khoản nợ)
+- *accumulate dust* (bụi tích tụ)
+## Từ đồng nghĩa
+- *gather* (thu thập)
+- *amass* (tích lũy)
+- *pile up* (chồng chất)
+- *hoard* (tích trữ)
+- *store up* (tích trữ)
+- *collect* (thu thập)
+- *build up* (xây dựng)
+- *stockpile* (tích trữ)
+- *increase* (tăng)
+- *accrue* (tích lũy)
+## Từ trái nghĩa
+- *lose* (mất)
+- *spend* (chi tiêu)
+- *dissipate* (tiêu tan)
+- *squander* (tiêu hoang)
+- *waste* (lãng phí)
+- *diminish* (giảm bớt)
+- *decrease* (giảm)
+- *reduce* (giảm)
+- *spend* (chi tiêu)
+- *use up* (sử dụng hết)
+- *scatter* (rải rác)
+- *distribute* (phân phối)
+- *dispense* (phân phối)
+## Word family
+- *accumulate* (v) (tích lũy)
+- *accumulation* (n) (sự tích lũy)
+- *accumulative* (adj) (tích lũy)
+- *accumulatively* (adv) (tích lũy)
+- *accumulator* (n) (người tích lũy, dụng cụ tích lũy)
+- *accumulated* (adj) (được tích lũy)
