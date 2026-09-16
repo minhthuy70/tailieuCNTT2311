@@ -2173,8 +2173,72 @@
 - *allocable* (adj) (có thể phân bổ)
 - *unallocated* (adj) (chưa được phân bổ)
 
-
 # Alter
+## Nghĩa
+1. (v) Thay đổi
+2. (v) Chỉnh sửa
+## Ví dụ
+- *She finally succeeded, albeit after many failures.*
+- *The report was well-written, albeit a bit long.*
+- *The plan was good, albeit with some risks.*
+- *The meeting was productive, albeit long.*
+- *The project was completed on time, albeit with some sacrifices.*
+- *The team won the game, albeit after a tough fight.*
+- *The company's profits increased, albeit modestly.*
+## Cấu trúc
+- *alter sth to sth* (thay đổi cái gì thành cái gì)
+- *alter sth for sth* (thay đổi cái gì cho cái gì)
+- *alter sth for the better* (thay đổi cái gì để tốt hơn)
+- *alter sth for the worse* (thay đổi cái gì để tốt hơn)
+- *alter sth for good* (thay đổi cái gì để tốt hơn)
+- *alter sth for the worse* (thay đổi cái gì để tốt hơn)
+
+## Collocation
+- *alter sth for the better* (thay đổi cái gì để tốt hơn)
+- *alter sth for the worse* (thay đổi cái gì để tốt hơn)
+- *alter sth for good* (thay đổi cái gì để tốt hơn)
+- *alter sth for the worse* (thay đổi cái gì để tốt hơn)
+- *alter a plan* (thay đổi một kế hoạch )
+- *alter a decision* (thay đổi một quyết định )
+- *alter an agreement* (sửa đổi một thỏa thuận )
+- *alter a schedule* (thay đổi lịch trình )
+- *alter a design* (thay đổi thiết kế )
+- *alter a document* (chỉnh sửa tài liệu )
+- *alter a pattern* (thay đổi một mô hình/mẫu )
+- *alter the appearance* (thay đổi diện mạo )                   
+- *alter the structure* (thay đổi cấu trúc )                   
+- *alter the course of* (làm thay đổi diễn biến/hướng đi của ) 
+- *alter the situation* (làm thay đổi tình hình )              
+- *alter the outcome* (làm thay đổi kết quả )                
+- *alter behavior* (thay đổi hành vi )
+- *significantly alter* (thay đổi đáng kể )
+- *dramatically alter* (thay đổi mạnh mẽ )
+- *slightly alter* (thay đổi nhẹ )
+- *fundamentally alter* (thay đổi căn bản )
+## Từ đồng nghĩa
+- *change* (thay đổi)
+- *modify* (chỉnh sửa)
+- *amend* (chỉnh sửa)
+- *adjust* (điều chỉnh)
+- *revise* (sửa đổi, chỉnh sửa)
+- *transform* (biến đổi)
+- *adapt* (điều chỉnh cho phù hợp)
+- *vary* (thay đổi, biến đổi)
+- *convert* (chuyển đổi)
+## Từ trái nghĩa
+- *preserve* (bảo tồn)
+- *maintain* (duy trì)
+- *keep* (giữ lại)
+- *retain* (giữ lại)
+- *remain* (vẫn giữ nguyên)
+- *stabilize* (ổn định)
+- *restore* (khôi phục về trạng thái ban đầu)
+## Word family
+- *alter* (v) (thay đổi)
+- *alteration* (n) (sự thay đổi)
+- *alterable* (adj) (có thể thay đổi)
+- *unalterable* (adj) (không thể thay đổi)
+
 
 # Alternative
 
@@ -2238,8 +2302,7 @@
 
 # Attain
 
-allocate
-alter
+
 alternative
 ambiguous
 amend
