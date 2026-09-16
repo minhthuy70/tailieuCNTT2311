@@ -633,7 +633,10 @@
 1. (v) Đạt được
 2. (v) Thực hiện
 ## Ví dụ
-- *She worked hard to achieve her goals.* `Cô ấy làm việc chăm chỉ để đạt được mục tiêu của mình.`
+- *She worked hard to achieve her goals.*
+- *The team achieved a great result.*
+- *We need to achieve a balance between work and life.*
+- *It is important to achieve a good understanding of the topic.*
 ## Cấu trúc
 - *achieve something* (đạt được cái gì)
 ## Collocation
@@ -642,6 +645,25 @@
 - *achieve results* (đạt được kết quả)
 - *achieve targets* (đạt được mục tiêu)
 - *achieve victory* (đạt được chiến thắng)
+- *achieve a balance* (đạt được sự cân bằng)
+- *achieve a good understanding of* (đạt được sự hiểu biết tốt về)
+- *achieve an aim* (đạt được mục tiêu)
+- *achieve an objective* (đạt được mục tiêu)
+- *achieve an ambition* (đạt được tham vọng)
+- *achieve a dream* (đạt được giấc mơ)
+- *achieve recognition* (đạt được sự công nhận)
+- *achieve prominence* (đạt được sự nổi tiếng)
+- *achieve fame* (đạt được danh tiếng)
+- *achieve popularity* (đạt được sự phổ biến)
+- *achieve success* (đạt được thành công)
+- *achieve academic success* (đạt được thành công trong học tập)
+- *achieve one's pontential* (đạt được tiềm năng của một người)
+- *achieve equality* (đạt được sự bình đẳng)
+- *achieve independence* (đạt được sự độc lập)
+- *achieve economic growth* (đạt được sự tăng trưởng kinh tế)
+- *achieve sustainable development* (đạt được sự phát triển bền vững)
+- *achieve significant results* (đạt được kết quả đáng kể)
+- *achieve remarkable success* (đạt được thành công đáng kể)
 ## Từ đồng nghĩa
 - *attain* (đạt được)
 - *reach* (đạt được)
@@ -649,15 +671,29 @@
 - *obtain* (có được)
 - *gain* (đạt được)
 - *earn* (kiếm được)
+- *acquire* (có được)
+- *fulfill* (hoàn thành)
+- *secure* (đạt được)
+- *succeed in* (thành công trong)
+- *win* (đạt được)
 ## Từ trái nghĩa
 - *fail* (thất bại)
 - *lose* (mất)
 - *miss* (bỏ lỡ)
+- *forfeit* (mất)
+- *give up* (từ bỏ)
+- *surrender* (đầu hàng)
+- *abandon* (từ bỏ)
+- *relinquish* (từ bỏ)
+- *cede* (nhường lại)
+- *fall short of* (không đạt được)
+- *fail to* (không làm được)
 ## Word family
 - *achieve* (v) (đạt được)
 - *achievement* (n) (thành tích)
 - *achiever* (n) (người thành công)
 - *achieving* (v) (đạt được)
+- *achievable* (adj) (có thể đạt được)
 
 # Acquire
 ## Nghĩa
