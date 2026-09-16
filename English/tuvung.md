@@ -1477,3 +1477,88 @@
 - *adjacency* (n) (sự kề)
 - *adjacently* (adv) (kề)
 - *nonadjacent* (adj) (không kề)
+
+# Adjust
+## Nghĩa
+1. (v) Điều chỉnh, sửa đổi
+2. (v) Thích nghi, làm quen
+3. (v) Chỉnh số liệu
+## Ví dụ
+- *She adjusted the temperature.*
+- *We adjusted our plans.*
+- *They adjusted their watches.*
+- *He adjusted his glasses.*
+- *She adjusted the straps of her bag.*
+## Cấu trúc
+- *adjust sth* (điều chỉnh cái gì)
+- *adjust to sth* (điều chỉnh cho cái gì)
+- *adjust to a new situation* (điều chỉnh cho tình huống mới)
+## Collocation
+- *adjust the temperature* (điều chỉnh nhiệt độ)
+- *adjust the volume* (điều chỉnh âm lượng)
+- *adjust the settings* (điều chỉnh cài đặt)
+- *adjust the focus* (điều chỉnh tiêu điểm)
+- *adjust the brightness* (điều chỉnh độ sáng)
+- *adjust the contrast* (điều chỉnh độ tương phản)
+- *adjust the color* (điều chỉnh màu sắc)
+- *adjust the sound* (điều chỉnh âm thanh)
+- *adjust the picture* (điều chỉnh hình ảnh)
+- *adjust the display* (điều chỉnh hiển thị)
+- *adjust the screen* (điều chỉnh màn hình)
+- *adjust the monitor* (điều chỉnh màn hình)
+- *adjust schedule* (điều chỉnh lịch trình)
+- *adjust schedule for sth* (điều chỉnh lịch trình cho cái gì)
+- *adjust schedule to sth* (điều chỉnh lịch trình cho cái gì)
+- *adjust temperature* (điều chỉnh nhiệt độ)
+- *adjust temperature for sth* (điều chỉnh nhiệt độ cho cái gì)
+- *adjust the settings to preferences* (điều chỉnh cài đặt theo sở thích)
+- *adjust amount of sth* (điều chỉnh lượng cái gì)
+- *adjust budget* (điều chỉnh ngân sách)
+- *adjust price* (điều chỉnh giá)
+- *adjust wage* (điều chỉnh lương)
+- *adjust salary* (điều chỉnh lương)
+- *adjust size* (điều chỉnh kích thước)
+- *adjust weight* (điều chỉnh trọng lượng)
+- *adjust balance* (điều chỉnh cân bằng)
+- *adjust position* (điều chỉnh vị trí)
+- *adjust height* (điều chỉnh chiều cao)
+- *adjust depth* (điều chỉnh độ sâu)
+- *adjust angle* (điều chỉnh góc)
+- *adjust position* (điều chỉnh vị trí)
+- *adjust width* (điều chỉnh chiều rộng)
+- *adjust length* (điều chỉnh chiều dài)
+- *adjust thickness* (điều chỉnh độ dày)
+## Từ đồng nghĩa
+- *modify* (sửa đổi)
+- *alter* (thay đổi)
+- *change* (thay đổi)
+- *adapt* (thích nghi)
+- *regulate* (điều chỉnh)
+- *tune* (điều chỉnh)
+- *set* (đặt)
+- *arrange* (sắp xếp)
+- *organize* (tổ chức)
+- *revise* (điều chỉnh)
+- *acclimate* (điều chỉnh)
+- *accommodate* (điều chỉnh)
+- *fine-tune* (điều chỉnh)
+## Từ trái nghĩa
+- *leave* (để nguyên)
+- *maintain* (duy trì)
+- *preserve* (bảo tồn)
+- *remain* (vẫn)
+- *keep* (giữ)
+- *retain* (giữ)
+- *fix* (cố định)
+- *leave* (để nguyên)
+- *stabilize* (ổn định)
+- *leave as is* (để nguyên)
+- *leave unchanged* (để nguyên)
+## Word family
+- *adjust* (v) (điều chỉnh)
+- *adjustment* (n) (sự điều chỉnh)
+- *adjustable* (adj) (có thể điều chỉnh)
+- *adjusting* (v) (điều chỉnh)
+- *unadjustable* (adj) (không thể điều chỉnh)
+- *adjuster* (n) (người điều chỉnh)
+- *adjusted* (adj) (điều chỉnh)
