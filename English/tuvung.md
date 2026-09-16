@@ -1336,3 +1336,86 @@
 - *unadaptable* (adj) (không thể thích nghi)
 - *unadaptability* (n) (không thể thích nghi)
 - *unadaptively* (adv) (không thể thích nghi)
+
+# Adequate
+## Nghĩa
+1. (adj) Đủ
+2. (adj) Tạm được, chấp nhận được
+3. (adj) Đáp ứng được, đủ điều kiện
+## Ví dụ
+- *She has adequate experience for the job.*
+- *The food was adequate.*
+- *the government must provide adequate funds for education.* 
+- *we should provide adequate support for the poor.*
+## Cấu trúc
+- *adequate for sth* (đủ cho cái gì)
+- *adequate to do sth* (đủ để làm gì)
+- *be adequate to* (đủ để)
+- *be adequate for* (đủ cho)
+- *adequate sth* (đủ cái gì)
+## Collocation
+- *adequate* (đủ)
+- *adequate amount* (số lượng đủ)
+- *adequate funding* (kinh phí đủ)
+- *adequate resources* (tài nguyên đủ)
+- *adequate support* (sự hỗ trợ đủ)
+- *adequate preparation* (sự chuẩn bị đủ)
+- *adequate insurance* (bảo hiểm đủ)
+- *adequate housing* (nhà ở đủ)
+- *adequate food* (thức ăn đủ)
+- *adequate water* (nước đủ)
+- *financial resources* (tài nguyên tài chính)
+- *financial assistance* (hỗ trợ tài chính)
+- *financial support* (hỗ trợ tài chính)
+- *adequate information* (thông tin đầy đủ)
+- *adequate supplies* (vật tư đầy đủ)
+- *adequate security* (an toàn đầy đủ)
+- *adequate protection* (bảo vệ đầy đủ)
+- *adequate representation* (đại diện đầy đủ)
+- *adequate measures* (biện pháp đầy đủ)
+- *adequate treatment* (điều trị đầy đủ)
+- *adequate compensation* (bồi thường đầy đủ)
+- *adequate housing* (nhà ở đầy đủ)
+- *adequate funding* (nguồn vốn)
+- *adequate education* (giáo dục đầy đủ)
+- *adequate medical care* (chăm sóc y tế)
+- *adequate time* (thời gian )
+- *adequate opportunity* (cơ hội)
+- *adequate rest* (nghỉ ngơi)
+- *adequate sleep* (ngủ)
+- *adequate knowledge* (kiến thức đầy đủ)
+- *adequate experience* (kinh nghiệm)
+- *adequate language skills* (kỹ năng ngôn ngữ)
+- *adequate attention* (sự chú ý)
+## Từ đồng nghĩa
+- *enough* (đủ)
+- *sufficient* (đủ)
+- *satisfactory* (đủ)
+- *acceptable* (đủ)
+- *ample* (đủ)
+- *plenty of* (đủ)
+- *fair* (đủ)
+- *reasonable* (đủ)
+- *suitable* (phù hợp)
+- *sufficient for* (đủ cho)
+- *be sufficient to* (đủ để)
+- *suitable enough for* (đủ cho)
+- *satisfactory enough for* (đủ cho)
+- *appropriate for* (phù hợp với)
+## Từ trái nghĩa
+- *inadequate* (không đủ)
+- *insufficient* (không đủ)
+- *unsatisfactory* (không đủ)
+- *unacceptable* (không đủ)
+- *scarce* (hiếm)
+- *lacking* (thiếu)
+- *deficient* (thiếu)
+- *meager* (ít ỏi)
+- *poor* (kém)
+## Word family
+- *adequate* (adj) (đủ)
+- *adequacy* (n) (sự đủ)
+- *adequately* (adv) (đủ)
+- *inadequate* (adj) (không đủ)
+- *inadequacy* (n) (sự không đủ)
+- *inadequately* (adv) (không đủ)
