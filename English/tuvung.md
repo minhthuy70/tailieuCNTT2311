@@ -1,15 +1,11 @@
-# Academy 
-
-## Nghĩa 
-
+# Academy
+## Nghĩa
 1. Học viện, viện
 2. Trường cao đẳng, trường đại học
-
 ## Ví dụ
 - *He is a student at the National Academy of Music.*
 - *She is studying at the Academy of Dramatic Art.*
 - *She studied at a prestigious academy in France.*
-
 ## Cấu trúc
 - *to be enrolled at/in an academy* (được nhận vào một học viện)
 - *to graduate from an academy* (tốt nghiệp một học viện)
@@ -17,9 +13,7 @@
 - *to study at an academy* (học tại một học viện)
 - *an academy of subject* (trường dạy môn gì)
 - *an academy for group* (trường dành cho một nhóm người cụ thể)
-
-## Collocation 
-
+## Collocation
 - *military academy* (học viện quân sự)
 - *boarding academy* (trường nội trú)
 - *dance academy* (học viện múa)
@@ -32,8 +26,6 @@
 - *golf academy* (học viện golf)
 - *football academy* (học viện bóng đá)
 - *acting academy* (học viện diễn xuất)
-- *language academy* (học viện ngôn ngữ)
-- *music academy* (học viện âm nhạc)
 - *tennis academy* (học viện tennis)
 - *writing academy* (học viện viết)
 - *medical academy* (học viện y khoa)
