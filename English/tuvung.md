@@ -699,8 +699,14 @@
 ## Nghĩa
 1. (v) Có được
 2. (v) Tiếp thu
+3. (v) Mua lại
+4. (v) Thu nhận
+5. (v) Đạt được
+6. (v) Lây bệnh
 ## Ví dụ
 - *He acquired the company last year.*
+- *Student A acquired flu from classmate B.*
+- *Student acquire new skill through practice.*
 ## Cấu trúc
 - *acquire something* (có được cái gì)
 ## Collocation
@@ -709,21 +715,68 @@
 - *acquire experience* (có được kinh nghiệm)
 - *acquire wealth* (có được sự giàu có)
 - *acquire power* (có được quyền lực)
+- *acquire property* (có được tài sản)
+- *acquire information* (có được thông tin)
+- *acquire fame* (có được danh tiếng)
+- *acquire recognition* (có được sự công nhận)
+- *acquire a reputation* (có được danh tiếng)
+- *acquire a skill* (có được kỹ năng)
+- *acquire knowledge* (có được kiến thức)
+- *acquire experience* (có được kinh nghiệm)
+- *acquire wealth* (có được sự giàu có)
+- *acquire power* (có được quyền lực)
+- *acquire property* (có được tài sản)
+- *acquire information* (có được thông tin)
+- *acquire fame* (có được danh tiếng)
+- *acquire recognition* (có được sự công nhận)
+- *acquire a habit* (có được thói quen)
+- *acquire ownership* (có được quyền sở hữu)
+- *acquire a degree* (có được bằng cấp)
+- *acquire qualification* (có được bằng cấp)
+- *acquire degree* (có được bằng cấp)
 ## Từ đồng nghĩa
 - *obtain* (có được)
 - *get* (có được)
 - *gain* (đạt được)
 - *earn* (kiếm được)
 - *obtain* (có được)
+- *attain* (đạt được)
+- *achieve* (đạt được)
+- *secure* (có được)
+- *procure* (có được)
+- *purchase* (mua)
+- *capture* (chụp lấy)
+- *develop* (phát triển)
+- *learn* (học)
 ## Từ trái nghĩa
 - *lose* (mất)
 - *give* (cho đi)
 - *release* (giải phóng)
+- *sell* (bán)
+- *give up* (từ bỏ)
+- *surrender* (đầu hàng)
+- *lose* (mất)
+- *forego* (từ bỏ)
+- *relinquish* (từ bỏ)
+- *forgo* (từ bỏ)
+- *abandon* (từ bỏ)
+- *renounce* (từ bỏ)
+- *forfeit* (mất)
+- *dispose of* (loại bỏ)
+- *expel* (trục xuất)
+- *expulse* (trục xuất)
+- *dispossess* (tước đoạt)
+- *disinherit* (tước đoạt)
+- *discard* (loại bỏ)
+- *cast off* (từ bỏ)
+- *shed* (loại bỏ)
 ## Word family
 - *acquire* (v) (có được)
 - *acquisition* (n) (sự có được)
 - *acquirer* (n) (người có được)
 - *acquiring* (v) (có được)
+- *acquisitive* (adj) (ham muốn)
+- *acquired* (adj) (có được)
 
 # Act
 ## Nghĩa
