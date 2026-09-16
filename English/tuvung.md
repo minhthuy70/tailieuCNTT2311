@@ -2392,6 +2392,73 @@
 - *unambiguity* (n) (tính rõ ràng; sự không mơ hồ *(ít dùng)*)
 
 # Amend
+## Nghĩa
+1. (v) Sửa đổi, bổ sung, chỉnh sửa (văn bản, luật, quy định...)
+2. (v) Cải thiện, hoàn thiện (một điều gì đó)
+## Ví dụ
+- *The law was amended to include protection for the environment.*
+- *She amended her statement to make it clearer.*
+- *We need to amend the proposal to meet the new requirements.*
+## Collocation
+- *amend the law* (sửa đổi luật)
+- *amend the constitution* (sửa đổi hiến pháp)
+- *amend the contract* (sửa đổi hợp đồng)
+- *amend the proposal* (sửa đổi đề xuất)
+- *amend the statement* (sửa đổi phát biểu)
+- *amend the document* (sửa đổi tài liệu)
+- *amend the text* (sửa đổi văn bản)
+- *amend the terms* (sửa đổi điều khoản)
+- *amend the policy* (sửa đổi chính sách)
+- *amend the regulations* (sửa đổi quy định)
+- *amend a law* (sửa đổi một đạo luật)
+- *amend legislation* (sửa đổi luật pháp)
+- *amend the constitution* (sửa đổi hiến pháp)
+- *amend a bill* (sửa đổi dự luật)
+- *amend a contract* (sửa đổi hợp đồng)
+- *amend an agreement* (sửa đổi thỏa thuận)
+- *amend a document* (chỉnh sửa tài liệu)
+- *amend a proposal* (sửa đổi đề xuất)
+- *amend a policy* (sửa đổi chính sách)
+- *amend a regulation* (sửa đổi quy định)
+- *amend a clause* (sửa đổi một điều khoản)
+- *amend the terms* (sửa đổi các điều khoản)
+- *amend the wording* (sửa đổi cách diễn đạt)
+- *amend the text* (chỉnh sửa văn bản)
+- *amend a provision* (sửa đổi một điều khoản/quy định)
+- *propose an amendment* (đề xuất một sửa đổi)
+- *make an amendment* (thực hiện một sửa đổi)
+- *make amendments to* (thực hiện các sửa đổi đối với)
+- *further amend* (tiếp tục sửa đổi)
+- *substantially amend* (sửa đổi đáng kể)
+
+## Từ đồng nghĩa
+- *improve* (cải thiện)
+- *modify* (sửa đổi, điều chỉnh)
+- *alter* (thay đổi, sửa đổi)
+- *revise* (chỉnh sửa, sửa lại)
+- *change* (thay đổi)
+- *adjust* (điều chỉnh)
+- *edit* (biên tập, chỉnh sửa)
+- *correct* (sửa lỗi)
+- *rectify* (sửa chữa, khắc phục)
+- *reform* (cải cách, sửa đổi)
+- *update* (cập nhật)
+
+## Từ trái nghĩa
+- *maintain* (duy trì, giữ nguyên)
+- *preserve* (bảo tồn, giữ nguyên)
+- *retain* (giữ lại)
+- *keep* (giữ nguyên)
+- *uphold* (duy trì, giữ vững)
+- *leave unchanged* (giữ nguyên, không thay đổi)
+- *repeal* (bãi bỏ đặc biệt luật/quy định)
+## Word family
+- *amend* (v) (sửa đổi, bổ sung, chỉnh sửa)
+- *amendment* (n) (sự sửa đổi, sự bổ sung, sự chỉnh sửa)
+- *amending* (adj) (đang sửa đổi, bổ sung, chỉnh sửa)
+- *amended* (adjective / V3) (đã được sửa đổi)
+- *amendable* (adjective) (có thể sửa đổi *(ít dùng)*)
+
 
 # Analogy
 
