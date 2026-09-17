@@ -7852,6 +7852,86 @@
 - *accordant* (adv) (phù hợp)
 
 # activate
+## Nghĩa
+1. (v) Kích hoạt, khởi động
+2. (v) Bắt đầu
+3. (v) Kích động
+## Ví dụ
+- *She activated the alarm system.* 
+- *The new policy will activate the growth of the economy.* 
+- *The news activated the emergency response.* 
+## Cấu trúc
+- *activate sth* (kích hoạt/khởi động/kích động cái gì đó)
+- *activate the alarm* (kích hoạt chuông/hệ thống báo động)
+- *activate the system* (kích hoạt hệ thống)
+- *activate the emergency response* (kích hoạt ứng phó khẩn cấp)
+- *activate the growth of the economy* (kích hoạt sự phát triển của nền kinh tế)
+## Collocation
+- *activate the alarm system* (kích hoạt hệ thống báo động)
+- *activate the emergency response* (kích hoạt ứng phó khẩn cấp)
+- *activate the growth of the economy* (kích hoạt sự phát triển của nền kinh tế)
+- *activate the emergency services* (kích hoạt dịch vụ khẩn cấp)
+- *activate the emergency medical services* (kích hoạt dịch vụ y tế khẩn cấp)
+- *activate the emergency medical response* (kích hoạt ứng phó y tế khẩn cấp)
+- *activate the emergency medical response system* (kích hoạt hệ thống ứng phó y tế khẩn cấp)
+- *activate the emergency medical response system of* (kích hoạt hệ thống ứng phó y tế khẩn cấp của)
+- *activate the emergency medical response system of the hospital* (kích hoạt hệ thống ứng phó y tế khẩn cấp của bệnh viện)
+- *activate the growth* (kích hoạt sự phát triển)
+- *activate the potential* (kích hoạt tiềm năng)
+- *activate the imagination* (kích hoạt trí tưởng tượng)
+- *activate the creativity* (kích hoạt sự sáng tạo)
+- *activate the potential of the economy* (kích hoạt tiềm năng kinh tế)
+- *activate the potential of the economy of the country* (kích hoạt tiềm năng kinh tế của đất nước)
+- *activate the potential of the economy of the country in the world* (kích hoạt tiềm năng kinh tế của đất nước trên thế giới)
+- *activate the potential of the economy of the country in the world in the field of* (kích hoạt tiềm năng kinh tế của đất nước trên thế giới trong lĩnh vực)
+- *activate an account* (kích hoạt tài khoản)
+- *activate a card* (kích hoạt thẻ)
+- *activate a device* (kích hoạt thiết bị)
+- *activate a feature* (kích hoạt tính năng)
+- *activate a service* (kích hoạt dịch vụ)
+- *activate a subscription* (kích hoạt đăng ký)
+- *activate a system* (kích hoạt hệ thống)
+- *activate a function* (kích hoạt chức năng)
+- *activate a program* (kích hoạt chương trình)
+- *activate a security system* (kích hoạt hệ thống an ninh)
+- *activate an alarm* (kích hoạt chuông báo động)
+- *activate a payment* (kích hoạt thanh toán)
+- *activate a membership* (kích hoạt thành viên)
+- *activate a SIM card* (kích hoạt sim)
+- *activate a user account* (kích hoạt tài khoản người dùng)
+- *activate a plan* (kích hoạt kế hoạch)
+- *activate automatically* (kích hoạt tự động)
+- *activate manually* (kích hoạt thủ công)
+- *activate immediately* (kích hoạt ngay lập tức)
+- *activate successfully* (kích hoạt thành công)
+- *be activated* (được kích hoạt)
+- *become activated* (được kích hoạt/bắt đầu hoạt động)
+
+## Từ đồng nghĩa
+- *trigger* (kích hoạt)
+- *initiate* (khởi xướng)
+- *start* (bắt đầu)
+- *launch* (ra mắt/khởi động)
+- *commence* (bắt đầu - trang trọng hơn)
+- *begin* (bắt đầu)
+- *set in motion* (đưa vào vận hành)
+- *set off* (kích hoạt/gây ra)
+## Từ trái nghĩa
+- *deactivate* (vô hiệu hóa)
+- *disable* (vô hiệu hóa)
+- *turn off* (tắt)
+- *switch off* (tắt)
+- *turn on* (bật)
+- *switch on* (bật)
+- *deactivate the alarm system* (vô hiệu hóa hệ thống báo động)
+## Word family
+- *activate* (v) (kích hoạt)
+- *activation* (n) (sự kích hoạt)
+- *activator* (n) (chất kích hoạt)
+- *active* (adj) (hoạt động)
+- *actively* (adv) (một cách tích cực)
+- *actively seek* (tích cực tìm kiếm)
+
 # acute
 # appeal
 # argue
