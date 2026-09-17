@@ -2672,9 +2672,93 @@
 - *annualized* (adj / V3) (được quy đổi theo năm)
 - *annualization* (sự quy đổi theo năm)
 
-
-
 # Anticipate
+
+## Nghĩa
+1. (v) Dự đoán, lường trước
+2. (v) Mong đợi, trông đợi
+3. (v) Cản trở, ngăn chặn
+## Ví dụ
+- *It is difficult to anticipate what will happen next.*
+- *We anticipate that the new policy will be implemented next year.*
+- *I anticipate that you will agree with my proposal.*
+- *I didn't anticipate having to work late.*
+- *She didn't anticipate the difficulties they would face.*
+- *I'm looking forward to seeing you again.*
+## Collocation
+- *an anticipated outcome* (kết quả được dự đoán)
+- *an anticipated event* (sự kiện được dự đoán)
+- *an anticipated difficulty* (khó khăn được dự đoán)
+- *an anticipated problem* (vấn đề được dự đoán)
+- *an anticipated need* (nhu cầu được dự đoán)
+- *an anticipated result* (kết quả được dự đoán)
+- *an anticipated effect* (tác dụng được dự đoán)
+- *an anticipated response* (phản hồi được dự đoán)
+- *an anticipated trend* (xu hướng được dự đoán)
+- *an anticipated outcome* (kết quả được dự đoán)
+- *anticipate a problem* (dự đoán / lường trước một vấn đề)
+- *anticipate a change* (dự đoán / lường trước một sự thay đổi)
+- *anticipate a need* (dự đoán / lường trước một nhu cầu)
+- *anticipate demand* (dự đoán nhu cầu)
+- *anticipate difficulties* (lường trước những khó khăn)
+- *anticipate risks* (lường trước rủi ro)
+- *anticipate challenges* (lường trước thách thức)
+- *anticipate consequences* (lường trước hậu quả)
+- *anticipate the outcome* (dự đoán kết quả)
+- *anticipate the future* (dự đoán tương lai)
+- *anticipate someone’s reaction* (đoán trước phản ứng của ai)
+- *anticipate questions* (dự đoán trước các câu hỏi)
+- *anticipate problems* (lường trước vấn đề)
+- *anticipate delays* (lường trước sự trì hoãn)
+- *anticipate changes in the market* (dự đoán những thay đổi trên thị trường)
+- *anticipate customer needs* (dự đoán nhu cầu của khách hàng)
+- *anticipate demand for products* (dự đoán nhu cầu đối với sản phẩm)
+- *anticipate potential problems* (lường trước các vấn đề tiềm ẩn)
+- *anticipate possible difficulties* (lường trước những khó khăn có thể xảy ra)
+- *be anticipated* (được dự đoán / được lường trước)
+- *highly anticipated* (rất được mong đợi / được trông đợi nhiều)
+- *widely anticipated* (được dự đoán rộng rãi / được nhiều người mong đợi)
+- *reasonably anticipate* (có cơ sở để dự đoán)
+- *successfully anticipate* (dự đoán chính xác / thành công)
+
+## Từ đồng nghĩa
+- *expect* (v) (mong đợi)
+- *predict* (v) (dự đoán)
+- *foresee* (v) (nhìn xa trông rộng)
+- *forecast* (v) (dự báo)
+- *anticipate* (v) (mong đợi)
+- *look forward to* (v) (mong đợi)
+- *expect* (mong đợi, dự đoán)
+- *predict* (dự đoán)
+- *foresee* (thấy trước, dự liệu)
+- *expect* (dự kiến)
+- *envisage* (hình dung, dự liệu)
+- *await* (chờ đợi)
+- *forecast* (dự báo)
+- *project* (dự tính, dự báo)
+- *prepare for* (chuẩn bị cho điều sắp xảy ra)
+- *look forward to* (mong đợi *(thường mang sắc thái tích cực)*)
+## Từ trái nghĩa
+- *disappoint* (v) (thất vọng)
+- *frustrate* (v) (thất vọng)
+- *disregard* (v) (bỏ qua)
+- *ignore* (v) (bỏ qua)
+- *doubt* (nghi ngờ)
+- *disregard* (không quan tâm, bỏ qua)
+- *ignore* (phớt lờ)
+- *overlook* (bỏ sót, không lường trước)
+- *be surprised by* (bị bất ngờ bởi)
+- *be unprepared for* (không chuẩn bị cho)
+## Word family
+- *anticipative* (adj) (mang tính dự đoán)
+- *anticipatorily* (adv) (một cách dự đoán)
+- *unanticipated* (adj) (không được dự đoán)
+- *anticipate* (verb) (dự đoán; dự liệu; mong đợi)
+- *anticipation* (noun) (sự dự đoán; sự mong đợi)
+- *anticipated* (adjective / V3) (được dự đoán; được mong đợi)
+- *anticipatory* (adjective) (mang tính dự đoán; chuẩn bị trước)
+- *anticipatively* (adv) (theo cách dự đoán trước *(rất hiếm)*)
+
 
 # Apparent
 
