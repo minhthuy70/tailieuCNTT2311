@@ -2505,6 +2505,85 @@
 - *analogically* (adv) (theo phép loại suy *(ít dùng)*)
 
 # Analysis
+## Nghĩa
+1. (n) Sự phân tích
+2. (n) Phương pháp phân tích
+3. (n) Nghiên cứu / Báo cáo phân tích
+## Ví dụ
+- *The analysis of the data took several days.*
+## Collocation
+- *analysis of something* (phân tích cái gì đó)
+- *perform an analysis* (thực hiện phân tích)
+- *conduct an analysis* (tiến hành phân tích)
+- *carry out an analysis* (tiến hành phân tích)
+- *complete an analysis* (hoàn thành phân tích)
+- * undertake an analysis* (thực hiện phân tích)
+- *do an analysis* (làm phân tích)
+- *data analysis* (phân tích dữ liệu)
+- *market analysis* (phân tích thị trường)
+- *financial analysis* (phân tích tài chính)
+- *critical analysis* (phân tích phê bình)
+- *detailed analysis* (phân tích chi tiết)
+- *comprehensive analysis* (phân tích toàn diện)
+- *in-depth analysis* (phân tích sâu sắc)
+- *statistical analysis* (phân tích thống kê)
+- *qualitative analysis* (phân tích định tính)
+- *quantitative analysis* (phân tích định lượng)
+- *root cause analysis* (phân tích nguyên nhân gốc rễ)
+- *risk analysis* (phân tích rủi ro)
+- *trend analysis* (phân tích xu hướng)
+- *cost-benefit analysis* (phân tích lợi ích - chi phí)
+- *a thorough analysis* (phân tích kỹ lưỡng)
+- *a basic analysis* (phân tích cơ bản)
+- *a preliminary analysis* (phân tích sơ bộ)
+- *an initial analysis* (phân tích ban đầu)
+- *a final analysis* (phân tích cuối cùng)
+- *a proper analysis* (phân tích thích hợp/đúng đắn)
+- *a separate analysis* (phân tích riêng biệt)
+- *a separate analysis of...* (phân tích riêng biệt về...)
+- *carry out an analysis of something* (tiến hành phân tích cái gì đó)
+- *the results of the analysis* (kết quả phân tích)
+- *the findings of the analysis* (phát hiện từ phân tích)
+- *the purpose of the analysis* (mục đích của phân tích)
+- *the scope of the analysis* (phạm vi phân tích)
+- *the method of analysis* (phương pháp phân tích)
+- *the need for analysis* (nhu cầu phân tích)
+- *the process of analysis* (quá trình phân tích)
+## Từ đồng nghĩa
+- *examination* (sự kiểm tra, phân tích)
+- *study* (sự nghiên cứu)
+- *inspection* (sự kiểm tra kỹ lưỡng)
+- *investigation* (cuộc điều tra)
+- *scrutiny* (sự xem xét kỹ lưỡng)
+- *breakdown* (sự phân tích chi tiết)
+- *dissection* (sự phân tích, mổ xẻ *(nghĩa bóng)*)
+- *interpretation* (sự giải thích)
+- *evaluation* (sự đánh giá)
+- *assessment* (sự đánh giá)
+- *appraisal* (sự định giá, đánh giá)
+- *over-analysed/over-analyzed* (adj) (phân tích quá mức)
+- *self-analysis* (n) (tự phân tích)
+- *bioanalysis* (n) (phân tích sinh học)
+- *psychoanalysis* (n) (phân tâm học)
+- *financial analysis* (n) (phân tích tài chính)
+- *market analysis* (n) (phân tích thị trường)
+- *data analysis* (n) (phân tích dữ liệu)
+## Từ trái nghĩa
+- *synthesis* (sự tổng hợp)
+- *guesswork* (đoán mò, phỏng đoán)
+- *conjecture* (sự phỏng đoán)
+- *speculation* (sự phỏng đoán)
+- *intuition* (trực giác)
+- *assumption* (sự giả định)
+- *impression* (ấn tượng)
+## Word family
+- *analysis* (n) (sự phân tích)
+- *analytic(al)* (adj) (thuộc về phân tích / có khả năng phân tích)
+- *analytically* (adv) (một cách phân tích)
+- *analyze/analyse* (v) (phân tích)
+- *analyst* (n) (nhà phân tích)
+- *unanalysed/unanalyzed* (adj) (chưa được phân tích)
+
 
 # Annual
 

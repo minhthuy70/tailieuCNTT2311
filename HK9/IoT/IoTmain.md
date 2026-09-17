@@ -68,14 +68,15 @@ physical elements empowered by:
 
 IoT is the network of things, with clear element identification, embedded with software intelligence, sensors, and ubiquitous connectivity to the Internet.
 
-IoT là mạng lưới các vật thể có nhận dạng rõ ràng, được tích hợp năng lực xử lý phần mềm, cảm biến và khả năng kết nối phổ biến với Internet.
+*Trước khi định nghĩa IoT, có thể liệt kê các thành phần nền tảng quan trọng nhất. Ở dạng đơn 
+giản, IoT có thể được xem là một mạng gồm các phần tử vật lý được hỗ trợ bởi:* 
+- *Cảm biến_Sensors: thu thập thông tin.*
+- Bộ nhận dạng_Identifiers: xác định nguồn dữ liệu (ví dụ: cảm biến, thiết bị). 
+- Phần mềm_Software: phân tích dữ liệu. 
+- Kết nối Internet_Internet connectivity: giao tiếp và gửi thông báo.
+IoT là mạng lưới các đối tượng/đồ vật có nhận dạng rõ ràng, được tích hợp trí thông minh phần 
+Mềm (software intelligence), cảm biến (sensors) và khả năng kết nối (ubiquitous connectivity) Internet ở mọi nơi.
 
-Ở dạng đơn giản, một hệ thống IoT là mạng các phần tử vật lý được hỗ trợ bởi:
-
-- **Cảm biến (sensors):** Thu thập thông tin từ môi trường hoặc đối tượng.
-- **Bộ nhận dạng (identifiers):** Xác định nguồn dữ liệu, chẳng hạn địa chỉ IP hoặc mã của thiết bị.
-- **Phần mềm (software):** Phân tích dữ liệu và tạo ra thông tin có ích.
-- **Kết nối Internet:** Truyền thông, trao đổi dữ liệu và gửi thông báo.
 
 Trong định nghĩa đầy đủ hơn, IoT cần bao gồm cả **tiêu chuẩn (standards)** và **quy trình (processes)** để các vật thể kết nối qua Internet, trao đổi dữ liệu bằng các tiêu chuẩn công nghiệp, bảo đảm khả năng liên thông và thực hiện các quy trình hữu ích, phần lớn được tự động hóa.
 
