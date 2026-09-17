@@ -7933,95 +7933,108 @@
 - *actively seek* (tích cực tìm kiếm)
 
 # acute
-# appeal
-# argue
-# besides
-# charge
-# clergy
-# collective
-# collide
-# communicate
-# compile
-# conceive
-# concentrate
-# confrontation
-# consequently
-# contribute
-# convenient
-# crucial
-# dictate
-# dimension
-# disclose
-# distinguish
-# dominate
-# draft
-# educate
-# emphasis
-# endure
-# enormous
-# equity
-# evolve
-# exceed
-# exhibit
-# explore
-# expose
-# external
-# extract
-# finance
-# formulate
-# guideline
-# hence
-# highlight
-# illustrate
-# imply
-# impose
-# incentive
-# indicate
-# induce
-# inevitable
-# inject
-# innovate
-# input
-# insight
-# inspire
-# instance
-# instead
-# intense
-# involve
-# justify
-# legislate
-# likely
-# maximize
-# mechanism
-# migrate
-# minimize
-# motivate
-# orient
-# overall
-# participate
-# perceive
-# phase
-# precede
-# qualify
-# reveal
-# scheme
-# select
-# simulate
-# specify
-# subsequent
-# symbol
-# tense
-# transmit
-# trigger
-# undergo
-# unique
-# upgrade
-# utility
-# variety
-# widespread
+## Nghĩa
+1. (adj) Sắc bén, nhạy bén
+2. (adj) Nghiêm trọng, trầm trọng
+3. (adj) Cực đoan
+## Ví dụ
+- *She has an acute sense of smell.* 
+- *The patient has an acute pain in his chest.* 
+- *The situation is becoming increasingly acute.*
+## Cấu trúc
+- *acute sense* (khứu giác/thính giác/cảm giác nhạy bén)
+- *acute pain* (cơn đau dữ dội)
+- *acute situation* (tình hình nghiêm trọng)
+- *acute crisis* (khủng hoảng trầm trọng)
+- *acute angle* (góc nhọn)
+- *be acutely aware of* (nhận thức rõ ràng về)
+- *be acutely sensitive to* (nhạy cảm với)
+- *be acutely embarrassed* (rất xấu hổ)
+- *be acutely disappointed* (rất thất vọng)
+- *be acutely concerned about* (rất lo lắng về)
+## Collocation
+- *acute sense of smell* (khứu giác nhạy bén)
+- *acute sense of hearing* (thính giác nhạy bén)
+- *acute sense of taste* (vị giác nhạy bén)
+- *acute sense of touch* (xúc giác nhạy bén)
+- *acute sense of pain* (cảm giác đau nhạy bén)
+- *acute sense of temperature* (cảm giác nhiệt độ nhạy bén)
+- *acute sense of pressure* (cảm giác áp lực nhạy bén)
+- *acute sense of vibration* (cảm giác rung động nhạy bén)
+- *acute sense of smell in animals* (khứu giác nhạy bén ở động vật)
+- *acute sense of hearing in animals* (thính giác nhạy bén ở động vật)
+- *acute sense of taste in animals* (vị giác nhạy bén ở động vật)
+- *acute sense of touch in animals* (xúc giác nhạy bén ở động vật)
+- *acute sense of pain in animals* (cảm giác đau nhạy bén ở động vật)
+- *acute sense of temperature in animals* (cảm giác nhiệt độ nhạy bén ở động vật)
+- *acute sense of pressure in animals* (cảm giác áp lực nhạy bén ở động vật)
+- *acute sense of vibration in animals* (cảm giác rung động nhạy bén ở động vật)
+- *acute pain in the chest* (cơn đau ngực dữ dội)
+- *acute pain in the back* (cơn đau lưng dữ dội)
+- *acute pain in the head* (cơn đau đầu dữ dội)
+- *acute pain in the stomach* (cơn đau bụng dữ dội)
+- *acute pain in the leg* (cơn đau chân dữ dội)
+- *acute pain in the arm* (cơn đau tay dữ dội)
+- *acute pain in the shoulder* (cơn đau vai dữ dội)
+- *acute pain in the neck* (cơn đau cổ dữ dội)
+- *acute pain in the joint* (cơn đau khớp dữ dội)
+- *acute pain in the muscle* (cơn đau cơ dữ dội)
+- *acute pain in the tooth* (cơn đau răng dữ dội)
+- *acute pain in the ear* (cơn đau tai dữ dội)
+- *acute pain in the eye* (cơn đau mắt dữ dội)
+- *acute pain in the nose* (cơn đau mũi dữ dội)
+- *acute pain in the throat* (cơn đau họng dữ dội)
+- *acute pain in the abdomen* (cơn đau bụng dữ dội)
+- *acute pain in the back of the neck* (cơn đau gáy dữ dội)
+- *acute pain in the lower back* (cơn đau lưng dưới dữ dội)
+- *acute pain in the upper back* (cơn đau lưng trên dữ dội)
+- *acute pain in the right side* (cơn đau bên phải dữ dội)
+- *acute pain in the left side* (cơn đau bên trái dữ dội)
+- *acute pain in the lower abdomen* (cơn đau bụng dưới dữ dội)
+- *acute pain in the upper abdomen* (cơn đau bụng trên dữ dội)
+- *acute pain in the lower back on the right side* (cơn đau lưng dưới bên phải dữ dội)
+- *acute pain in the lower back on the left side* (cơn đau lưng dưới bên trái dữ dội)
+- *acute pain in the upper back on the right side* (cơn đau lưng trên bên phải dữ dội)
+- *acute pain in the upper back on the left side* (cơn đau lưng trên bên trái dữ dội)
+- *acute situation* (tình hình nghiêm trọng)
+- *acute crisis* (khủng hoảng trầm trọng)
+- *acute problem* (vấn đề nghiêm trọng)
+- *acute shortage* (thiếu hụt nghiêm trọng)
+- *acute need* (nhu cầu cấp thiết)
+- *acute awareness* (nhận thức rõ ràng)
+- *acute sensitivity* (độ nhạy bén)
+- *acute embarrassment* (sự xấu hổ tột độ)
+- *acute disappointment* (sự thất vọng tột độ)
+- *acute concern* (sự lo lắng tột độ)
+- *be acutely aware of* (nhận thức rõ ràng về)
+- *be acutely sensitive to* (nhạy cảm với)
+- *be acutely embarrassed* (rất xấu hổ)
+- *be acutely disappointed* (rất thất vọng)
+- *be acutely concerned about* (rất lo lắng về)
+## Từ đồng nghĩa
+- *sharp* (sắc bén, nhạy bén)
+- *keen* (sắc bén, nhạy bén)
+- *sensitive* (nhạy bén)
+- *intense* (dữ dội, mãnh liệt)
+- *severe* (nghiêm trọng, trầm trọng)
+- *critical* (quan trọng, nguy cấp)
+- *serious* (nghiêm trọng)
+- *dire* (tồi tệ, khẩn cấp)
+## Từ trái nghĩa
+- *dull* (không nhạy bén, không sắc bén)
+- *blunt* (không sắc bén)
+- *insensitive* (không nhạy cảm)
+- *mild* (nhẹ nhàng)
+- *moderate* (vừa phải)
+- *minor* (nhỏ, không quan trọng)
+- *trivial* (tầm thường)
+- *superficial* (nông cạn)
+## Word family
+- *acute* (adj) (sắc bén/nghiêm trọng)
+- *acutely* (adv) (một cách sắc bén/nghiêm trọng)
+- *acuteness* (n) (sự sắc bén/mức độ nghiêm trọng)
+- *acumen* (n) (sự nhạy bén, sự sắc sảo - về trí tuệ/kinh doanh)
 
-# activate
-# acute
 # appeal
 # argue
 # besides
