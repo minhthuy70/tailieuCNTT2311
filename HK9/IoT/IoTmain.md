@@ -1,5 +1,4 @@
-﻿
-## Mục lục môn học
+﻿# Mục lục môn học
 
 1. [Chương 1: Giới thiệu](#chương-1-giới-thiệu)
 2. [Chương 2: Các lĩnh vực ứng dụng IoT](#chương-2-các-lĩnh-vực-ứng-dụng-iot)
@@ -9,7 +8,7 @@
 6. [Chương 6: Quản lý ngữ cảnh thông minh và trí tuệ nhân tạo trong IoT](#chương-6-quản-lý-ngữ-cảnh-thông-minh-và-trí-tuệ-nhân-tạo-trong-iot)
 7. [Tài liệu tham khảo](#tài-liệu-tham-khảo)
 
-## Thông tin học phần
+# Thông tin học phần
 
 - **Giảng viên:** TS. Nguyễn Đình Tứ, Trưởng Bộ môn Cơ điện tử, Khoa Kỹ thuật Cơ khí, Đại học Kỹ thuật – Công nghệ Cần Thơ.
 - **Email:** `ndtu@ctuet.edu.vn`
@@ -21,17 +20,17 @@
 - **Mục tiêu:** Giới thiệu kiến thức cơ bản về Internet vạn vật, các yêu cầu, tiêu chuẩn và ứng dụng IoT; từ đó giúp sinh viên thiết kế, đánh giá các hệ thống theo dõi và điều khiển qua Internet.
 - **Kỹ năng:** Thiết kế các hệ thống theo dõi và điều khiển qua Internet trên hệ thống thực.
 
-## Chương 1: Giới thiệu
+# Chương 1: Giới thiệu
 
-### Nội dung chương
+## Nội dung chương
 
 - **1.1.** Tổng quan về công nghệ Internet vạn vật.
 - **1.2.** Xu thế ứng dụng IoT và các công nghệ liên quan cho đô thị thông minh ở Việt Nam.
 - Bài tập Chương 1.
 
-### 1.1. Tổng quan về công nghệ Internet vạn vật
+## 1.1. Tổng quan về công nghệ Internet vạn vật
 
-#### Khái niệm và bối cảnh
+### Khái niệm và bối cảnh
 
 Thế giới hiện có khoảng 20 tỷ thiết bị kết nối Internet và đang tăng trung bình 80 thiết bị mới mỗi giây. Tốc độ tăng này sẽ đạt 50 tỷ thiết bị vào năm 2020.
 
@@ -51,7 +50,7 @@ giải trí)
 - Internet of Things: Máy móc/thiết bị giao tiếp với máy móc (Thiết bị có thể nhận diện, 
 theo dõi, giám sát, đo lường và chia sẻ dữ liệu) 
 
-    **Tóm lại:** Internet phát triển từ người => nội dung => dịch vụ => con người => thiết bị, và IoT là giai đoạn mà các thiết bị thông minh kết nối, trao đổi dữ liệu với nhau.
+    ***Tóm lại:** Internet phát triển từ người => nội dung => dịch vụ => con người => thiết bị, và IoT là giai đoạn mà các thiết bị thông minh kết nối, trao đổi dữ liệu với nhau.*
 
 **Hình minh họa trang 9:** Biểu đồ số lượng thiết bị IoT theo thời gian, minh họa xu hướng tăng nhanh đến năm 2020.
 
@@ -59,18 +58,16 @@ theo dõi, giám sát, đo lường và chia sẻ dữ liệu)
 
 Before defining IoT, it may be worthwhile listing the most generic enablement 
 components. In its simple form, IoT may be considered as a network of 
-physical elements empowered by:
+physical elements empowered by: *(Trước khi định nghĩa IoT, có thể liệt kê các thành phần nền tảng quan trọng nhất. Ở dạng đơn 
+giản, IoT có thể được xem là một mạng gồm các phần tử vật lý được hỗ trợ bởi:)*
 
-- Sensors: to collect information.
-- Identifiers: to identify the source of data (e.g., sensors, devices).
-- Software: to analyze data.
-- Internet connectivity: to communicate and notify.
+- **Sensors**: to collect information. (*Cảm biến: thu thập thông tin.*)
+- **Identifiers**: to identify the source of data (e.g., sensors, devices). (*Bộ nhận dạng: xác định nguồn dữ liệu (ví dụ: cảm biến, thiết bị). *)
+- **Software**: to analyze data. (*Phần mềm: phân tích dữ liệu.*)
+- **Internet connectivity**: to communicate and notify. (*Kết nối Internet: giao tiếp và gửi thông báo.*)
 
-IoT is the network of things, with clear element identification, embedded with software intelligence, sensors, and ubiquitous connectivity to the Internet.
-
-*Trước khi định nghĩa IoT, có thể liệt kê các thành phần nền tảng quan trọng nhất. Ở dạng đơn 
-giản, IoT có thể được xem là một mạng gồm các phần tử vật lý được hỗ trợ bởi:* 
-- *Cảm biến_Sensors: thu thập thông tin.*
+IoT is the network of things, with clear element identification, embedded with software intelligence, sensors, and ubiquitous connectivity to the Internet. (*IoT là mạng lưới các đối tượng/đồ vật có nhận dạng rõ ràng, được tích hợp trí thông minh phần mềm (software intelligence), cảm biến (sensors) và khả năng kết nối (ubiquitous connectivity) Internet ở mọi nơi.*)
+- 
 - Bộ nhận dạng_Identifiers: xác định nguồn dữ liệu (ví dụ: cảm biến, thiết bị). 
 - Phần mềm_Software: phân tích dữ liệu. 
 - Kết nối Internet_Internet connectivity: giao tiếp và gửi thông báo.
