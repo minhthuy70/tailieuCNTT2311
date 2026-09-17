@@ -7775,3 +7775,256 @@
 - *contextualize* (v) (đặt vào bối cảnh)
 - *contextualization* (n) (sự đặt vào bối cảnh)
 - *decontextualized* (adj) (bị tách khỏi bối cảnh)
+
+# accordingly
+## Nghĩa
+1. (adv) Do đó
+2. (adv) Tương ứng, phù hợp
+## Ví dụ
+- *The company's profits rose 25% last year; accordingly, the board approved a bonus for all employees.*
+- *She had failed the exam, so she had to retake the course, accordingly.*
+- *We analyzed the data and acted accordingly.*
+- *The new rules apply to everyone equally; act accordingly.*
+- *The team performed well and was rewarded accordingly.*
+- *He was promoted and his salary increased accordingly.*
+- *The company's strategy evolved, and its budget adapted accordingly.*
+- *The students' performance declined, so the school implemented support measures accordingly.*
+- *The project failed to meet its targets, and accordingly, the funding was cut.*
+- *She missed her flight, so she booked a hotel and rescheduled her meetings accordingly.*
+## Cấu trúc
+- *do sth accordingly* (làm điều gì đó phù hợp với)
+- *act accordingly* (hành động phù hợp với)
+- *proceed accordingly* (tiến hành phù hợp với)
+- *adjust sth accordingly* (điều chỉnh gì đó phù hợp với)
+- *respond accordingly* (phản ứng phù hợp với)
+## Collocation
+- *act accordingly* (hành động phù hợp với)
+- *respond accordingly* (phản ứng phù hợp với)
+- *proceed accordingly* (tiến hành phù hợp với)
+- *adjust accordingly* (điều chỉnh phù hợp với)
+- *behave accordingly* (hành vi phù hợp với)
+- *react accordingly* (phản ứng phù hợp với)
+- *plan accordingly* (lên kế hoạch phù hợp với)
+- *prepare accordingly* (chuẩn bị phù hợp với)
+- *behave accordingly* (hành vi phù hợp với)
+- *react accordingly* (phản ứng phù hợp với)
+- *plan accordingly* (lên kế hoạch phù hợp với)
+- *prepare accordingly* (chuẩn bị phù hợp với)
+- *accordingly and reasonably* (phù hợp và hợp lý)
+- *accordingly adjust* (điều chỉnh phù hợp với)
+- *act accordingly to sth* (hành động phù hợp với)
+- *accordingly increase/decrease* (tăng/giảm phù hợp với)
+- *accordingly approve/reject* (phê duyệt/từ chối phù hợp với)
+- *do sth accordingly* (làm điều gì đó phù hợp với)
+- *act accordingly* (hành động phù hợp với)
+## Từ đồng nghĩa
+- *consequently* (do đó)
+- *therefore* (do đó)
+- *thus* (do đó)
+- *hence* (do đó)
+- *so* (do đó)
+- *for that reason* (vì lý do đó)
+- *as a result* (do kết quả)
+- *that being the case* (vì trường hợp đó)
+- *correspondingly* (tương ứng)
+- *appropriately* (phù hợp)
+- *suitably* (phù hợp)
+- *fittingly* (phù hợp)
+- *properly* (phù hợp)
+- *reasonably* (hợp lý)
+## Từ trái nghĩa
+- *inappropriately* (không phù hợp)
+- *unsuitably* (không phù hợp)
+- *unfittingly* (không phù hợp)
+- *improperly* (không phù hợp)
+- *unreasonably* (không hợp lý)
+- *contrary to expectation* (trái với mong đợi)
+- *in defiance of* (bất chấp)
+- *against the grain* (trái với mong đợi)
+- *contrary to* (trái với)
+- *contrary to popular belief* (trái với niềm tin phổ biến)
+## Word family
+- *accordingly* (adv) (phù hợp với)
+- *accord* (v/n) (hòa hợp)
+- *accordance* (n) (sự hòa hợp)
+- *according to* (prep) (phù hợp với)
+- *accordant* (adj) (phù hợp)
+- *accordant* (adv) (phù hợp)
+
+# activate
+# acute
+# appeal
+# argue
+# besides
+# charge
+# clergy
+# collective
+# collide
+# communicate
+# compile
+# conceive
+# concentrate
+# confrontation
+# consequently
+# contribute
+# convenient
+# crucial
+# dictate
+# dimension
+# disclose
+# distinguish
+# dominate
+# draft
+# educate
+# emphasis
+# endure
+# enormous
+# equity
+# evolve
+# exceed
+# exhibit
+# explore
+# expose
+# external
+# extract
+# finance
+# formulate
+# guideline
+# hence
+# highlight
+# illustrate
+# imply
+# impose
+# incentive
+# indicate
+# induce
+# inevitable
+# inject
+# innovate
+# input
+# insight
+# inspire
+# instance
+# instead
+# intense
+# involve
+# justify
+# legislate
+# likely
+# maximize
+# mechanism
+# migrate
+# minimize
+# motivate
+# orient
+# overall
+# participate
+# perceive
+# phase
+# precede
+# qualify
+# reveal
+# scheme
+# select
+# simulate
+# specify
+# subsequent
+# symbol
+# tense
+# transmit
+# trigger
+# undergo
+# unique
+# upgrade
+# utility
+# variety
+# widespread
+
+# activate
+# acute
+# appeal
+# argue
+# besides
+# charge
+# clergy
+# collective
+# collide
+# communicate
+# compile
+# conceive
+# concentrate
+# confrontation
+# consequently
+# contribute
+# convenient
+# crucial
+# dictate
+# dimension
+# disclose
+# distinguish
+# dominate
+# draft
+# educate
+# emphasis
+# endure
+# enormous
+# equity
+# evolve
+# exceed
+# exhibit
+# explore
+# expose
+# external
+# extract
+# finance
+# formulate
+# guideline
+# hence
+# highlight
+# illustrate
+# imply
+# impose
+# incentive
+# indicate
+# induce
+# inevitable
+# inject
+# innovate
+# input
+# insight
+# inspire
+# instance
+# instead
+# intense
+# involve
+# justify
+# legislate
+# likely
+# maximize
+# mechanism
+# migrate
+# minimize
+# motivate
+# orient
+# overall
+# participate
+# perceive
+# phase
+# precede
+# qualify
+# reveal
+# scheme
+# select
+# simulate
+# specify
+# subsequent
+# symbol
+# tense
+# transmit
+# trigger
+# undergo
+# unique
+# upgrade
+# utility
+# variety
+# widespread

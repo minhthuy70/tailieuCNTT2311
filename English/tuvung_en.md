@@ -7659,93 +7659,166 @@
 - *contextualization* (n) 
 - *decontextualized* (adj) 
 
-## Từ còn thiếu để làm dần
-- accordingly
-- activate
-- acute
-- appeal
-- argue
-- besides
-- charge
-- clergy
-- collective
-- collide
-- communicate
-- compile
-- conceive
-- concentrate
-- confrontation
-- consequently
-- contribute
-- convenient
-- crucial
-- dictate
-- dimension
-- disclose
-- distinguish
-- dominate
-- draft
-- educate
-- emphasis
-- endure
-- enormous
-- equity
-- evolve
-- exceed
-- exhibit
-- explore
-- expose
-- external
-- extract
-- finance
-- formulate
-- guideline
-- hence
-- highlight
-- illustrate
-- imply
-- impose
-- incentive
-- indicate
-- induce
-- inevitable
-- inject
-- innovate
-- input
-- insight
-- inspire
-- instance
-- instead
-- intense
-- involve
-- justify
-- legislate
-- likely
-- maximize
-- mechanism
-- migrate
-- minimize
-- motivate
-- orient
-- overall
-- participate
-- perceive
-- phase
-- precede
-- qualify
-- reveal
-- scheme
-- select
-- simulate
-- specify
-- subsequent
-- symbol
-- tense
-- transmit
-- trigger
-- undergo
-- unique
-- upgrade
-- utility
-- variety
-- widespread
+# accordingly
+## Nghĩa
+1. (adv) Do đó
+2. (adv) Tương ứng, phù hợp
+## Ví dụ
+- *The company's profits rose 25% last year; accordingly, the board approved a bonus for all employees.*
+- *She had failed the exam, so she had to retake the course, accordingly.*
+- *We analyzed the data and acted accordingly.*
+- *The new rules apply to everyone equally; act accordingly.*
+- *The team performed well and was rewarded accordingly.*
+- *He was promoted and his salary increased accordingly.*
+- *The company's strategy evolved, and its budget adapted accordingly.*
+- *The students' performance declined, so the school implemented support measures accordingly.*
+- *The project failed to meet its targets, and accordingly, the funding was cut.*
+- *She missed her flight, so she booked a hotel and rescheduled her meetings accordingly.*
+## Cấu trúc
+- *do sth accordingly* 
+- *act accordingly* 
+- *proceed accordingly* 
+- *adjust sth accordingly* 
+- *respond accordingly* 
+## Collocation
+- *act accordingly* 
+- *respond accordingly* 
+- *proceed accordingly* 
+- *adjust accordingly* 
+- *behave accordingly* 
+- *react accordingly* 
+- *plan accordingly* 
+- *prepare accordingly* 
+- *behave accordingly* 
+- *react accordingly* 
+- *plan accordingly* 
+- *prepare accordingly* 
+- *accordingly and reasonably* 
+- *accordingly adjust* 
+- *act accordingly to sth* 
+- *accordingly increase/decrease* 
+- *accordingly approve/reject* 
+- *do sth accordingly* 
+- *act accordingly* 
+## Từ đồng nghĩa
+- *consequently* 
+- *therefore* 
+- *thus* 
+- *hence* 
+- *so* 
+- *for that reason* 
+- *as a result* 
+- *that being the case* 
+- *correspondingly* 
+- *appropriately* 
+- *suitably* 
+- *fittingly* 
+- *properly* 
+- *reasonably* 
+## Từ trái nghĩa
+- *inappropriately* 
+- *unsuitably* 
+- *unfittingly* 
+- *improperly* 
+- *unreasonably* 
+- *contrary to expectation* 
+- *in defiance of* 
+- *against the grain* 
+- *contrary to* 
+- *contrary to popular belief* 
+## Word family
+- *accordingly* (adv) 
+- *accord* (v/n) 
+- *accordance* (n) 
+- *according to* (prep) 
+- *accordant* (adj) 
+- *accordant* (adv) 
+
+# activate
+# acute
+# appeal
+# argue
+# besides
+# charge
+# clergy
+# collective
+# collide
+# communicate
+# compile
+# conceive
+# concentrate
+# confrontation
+# consequently
+# contribute
+# convenient
+# crucial
+# dictate
+# dimension
+# disclose
+# distinguish
+# dominate
+# draft
+# educate
+# emphasis
+# endure
+# enormous
+# equity
+# evolve
+# exceed
+# exhibit
+# explore
+# expose
+# external
+# extract
+# finance
+# formulate
+# guideline
+# hence
+# highlight
+# illustrate
+# imply
+# impose
+# incentive
+# indicate
+# induce
+# inevitable
+# inject
+# innovate
+# input
+# insight
+# inspire
+# instance
+# instead
+# intense
+# involve
+# justify
+# legislate
+# likely
+# maximize
+# mechanism
+# migrate
+# minimize
+# motivate
+# orient
+# overall
+# participate
+# perceive
+# phase
+# precede
+# qualify
+# reveal
+# scheme
+# select
+# simulate
+# specify
+# subsequent
+# symbol
+# tense
+# transmit
+# trigger
+# undergo
+# unique
+# upgrade
+# utility
+# variety
+# widespread
