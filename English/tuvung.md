@@ -8036,88 +8036,838 @@
 - *acumen* (n) (sự nhạy bén, sự sắc sảo - về trí tuệ/kinh doanh)
 
 # appeal
+## Nghĩa
+1. sự lôi cuốn, sự hấp dẫn
+2. lời kêu gọi, sự khẩn cầu
+3. sự kháng cáo (pháp lý)
+## Ví dụ
+- *He has a strong appeal to women.*
+- *The hotel has a special appeal to families with young children.*
+- *She made an appeal to the public for help.* 
+- *They launched an appeal for donations.* 
+- *The lawyer lodged an appeal against the verdict.* 
+## Cấu trúc
+- appeal to somebody
+- appeal for something
+- launch an appeal for something
+- make an appeal for something
+## Collocation
+- *have a special appeal to sb* (có sức hấp dẫn đặc biệt đối với ai)
+- *make an appeal to sb* (kêu gọi sự giúp đỡ của ai)
+- *launch an appeal for sth* (phát động chiến dịch quyên góp cho cái gì)
+- *lodge an appeal against sth* (kháng cáo cái gì)
+- *public appeal for sth* (lời kêu gọi công chúng cho cái gì)
+- *urgent appeal for sth* (lời kêu gọi khẩn cấp cho cái gì)
+- *appeal to someone* (hấp dẫn / thu hút ai)
+- *appeal to customers* (thu hút khách hàng)
+- *appeal to consumers* (hấp dẫn người tiêu dùng)
+- *appeal to a wide audience* (thu hút đông đảo khán giả)
+- *appeal to young people* (hấp dẫn giới trẻ)
+- *appeal to the public* (thu hút công chúng)
+- *have broad appeal* (có sức hấp dẫn rộng rãi)
+- *have mass appeal* (có sức hấp dẫn đại chúng)
+- *strong appeal* (sức hấp dẫn mạnh)
+- *popular appeal* (sức hấp dẫn đối với số đông)
+- *visual appeal* (sức hấp dẫn về mặt hình ảnh)
+- *appeal of something* (sức hấp dẫn của cái gì)
+- *make an appeal* (đưa ra lời kêu gọi)
+- *make an appeal for help* (kêu gọi sự giúp đỡ)
+- *appeal for donations* (kêu gọi quyên góp)
+- *appeal for support* (kêu gọi sự ủng hộ)
+- *appeal for information* (kêu gọi cung cấp thông tin)
+- *appeal against a decision* (kháng cáo một quyết định)
+- *appeal a decision* (kháng cáo một quyết định)
+- *file an appeal* (nộp đơn kháng cáo)
+- *submit an appeal* (gửi / đệ trình đơn kháng cáo)
+- *hear an appeal* (xét xử / xem xét một vụ kháng cáo)
+- *reject an appeal* (bác đơn kháng cáo)
+- *allow an appeal* (chấp nhận kháng cáo)
+## Từ đồng nghĩa
+- *attraction* (sự hấp dẫn)
+- *petition* (đơn thỉnh cầu, kiến nghị)
+- *plea* (lời khẩn cầu, lời khẩn thiết)
+- *appeal for* (kêu gọi)
+- *bid* (lời đề nghị, lời chào hàng)
+- *request* (lời yêu cầu)
+- *invocation* (lời khẩn cầu, sự khẩn khoản)
+- *charm* (sự quyến rũ)
+- *enticement* (sự lôi cuốn)
+- *allure* (sự quyến rũ)
+## Từ trái nghĩa
+- *repulsion* (sự đẩy lùi)
+- *rejection* (sự từ chối)
+- *deterrent* (sự ngăn cản)
+- *alienation* (sự xa lánh)
+## Word family
+- *appeal* (n) (sự lôi cuốn/lời kêu gọi)
+- *appeal* (v) (kêu gọi, kháng cáo, hấp dẫn)
+- *appealing* (adj) (hấp dẫn, lôi cuốn)
+- *appealingly* (adv) (một cách hấp dẫn)
+- *appealer* (n) (người kháng cáo)
+- *appealless* (adj) (không hấp dẫn)
+- *appeasement* (n) (sự xoa dịu)
+
 # argue
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # besides
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # charge
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # clergy
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # collective
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # collide
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # communicate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # compile
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # conceive
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # concentrate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # confrontation
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # consequently
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # contribute
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # convenient
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # crucial
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # dictate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # dimension
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # disclose
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # distinguish
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # dominate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # draft
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # educate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # emphasis
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # endure
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # enormous
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # equity
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # evolve
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # exceed
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # exhibit
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # explore
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # expose
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # external
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # extract
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # finance
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # formulate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # guideline
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # hence
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # highlight
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # illustrate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # imply
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # impose
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # incentive
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # indicate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # induce
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # inevitable
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # inject
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # innovate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # input
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # insight
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # inspire
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # instance
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # instead
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # intense
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # involve
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # justify
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # legislate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # likely
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # maximize
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # mechanism
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # migrate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # minimize
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # motivate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # orient
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # overall
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # participate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # perceive
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # phase
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # precede
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # qualify
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # reveal
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # scheme
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # select
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # simulate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # specify
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # subsequent
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # symbol
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # tense
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # transmit
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # trigger
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # undergo
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # unique
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # upgrade
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # utility
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # variety
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
 # widespread
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
