@@ -8109,6 +8109,105 @@
 
 # argue
 ## Nghĩa
+1. Tranh luận, tranh cãi
+2. Lập luận, dẫn chứng, chứng minh
+3. Thuyết phục (ai đó làm gì)
+4. Lời qua tiếng lại, cãi nhau
+## Ví dụ
+- *I can argue with my brother for hours.*
+- *She argued that the new policy was unfair.*
+- *I tried to argue him into going to the doctor.*
+- *They argued all night.*
+## Cấu trúc
+- *argue with somebody* (tranh luận với ai)
+- *argue about something* (tranh luận về cái gì)
+- *argue for something* (lập luận ủng hộ cái gì)
+- *argue against something* (lập luận phản đối cái gì)
+- *argue that* (cho rằng)
+- *argue with someone about something* (tranh cãi với ai về điều gì)
+- *argue with someone into doing something* (thuyết phục ai đó làm gì bằng cách tranh luận)
+## Collocation
+- *argue with sb about sth* (tranh cãi với ai về vấn đề gì)
+- *argue about sth* (tranh cãi về vấn đề gì)
+- *argue that* (cho rằng...)
+- *argue for/against sth* (lập luận ủng hộ/chống lại điều gì)
+- *argue with someone* (tranh luận với ai)
+- *argue with someone about something* (tranh cãi với ai về điều gì)
+- *argue with someone into doing something* (thuyết phục ai đó làm gì bằng cách tranh luận)
+- *argue about something* (tranh luận về điều gì)
+- *argue over something* (tranh cãi về điều gì)
+- *argue for something* (lập luận ủng hộ điều gì)
+- *argue against something* (lập luận phản đối điều gì)
+- *argue that + clause* (lập luận rằng...)
+- *argue that something is...* (lập luận rằng điều gì đó là...)
+- *argue a case* (trình bày/lập luận cho một vụ việc)
+- *argue a point* (lập luận cho một quan điểm)
+- *argue the case for something* (đưa ra lập luận ủng hộ điều gì)
+- *argue the case against something* (đưa ra lập luận phản đối điều gì)
+- *strongly argue* (lập luận mạnh mẽ)
+- *successfully argue* (lập luận thành công)
+- *reasonably argue* (lập luận hợp lý)
+- *argue convincingly* (lập luận một cách thuyết phục)
+- *argue persuasively* (lập luận có sức thuyết phục)
+- *argue that there is...* (lập luận rằng có...)
+- *argue that something should...* (lập luận rằng điều gì nên...)
+- *argue in favor of something* (lập luận ủng hộ điều gì)
+- *argue on the basis of something* (lập luận dựa trên điều gì)
+
+## Từ đồng nghĩa
+- *debate* (tranh luận)
+- *discuss* (thảo luận)
+- *dispute* (tranh luận, phản đối)
+- *contend* (lập luận, cho rằng)
+- *assert* (khẳng định)
+- *claim* (tuyên bố, cho rằng)
+- *maintain* (khẳng định, bảo vệ quan điểm)
+- *reason* (lập luận, tranh luận bằng lý lẽ)
+- *quarrel* (cãi nhau)
+- *disagree* (không đồng ý)
+- *challenge* (phản bác, chất vấn)
+
+
+## Từ trái nghĩa
+- *agree* (đồng ý)
+- *accept* (chấp nhận)
+- *concede* (thừa nhận, nhượng bộ)
+- *approve* (tán thành)
+- *support* (ủng hộ)
+- *concur* (đồng tình)
+
+## Word family
+- *argue* (v) (tranh luận, lập luận)
+- *argued* (adj) (được tranh luận)
+- *argument* (n) (cuộc tranh luận, lập luận)
+- *argumentative* (adj) (hay cãi cọ)
+- *arguable* (adj) (có thể tranh luận)
+- *arguably* (adv) (có thể cho rằng)
+
+# besides
+## Nghĩa
+1. Ngoài ra, thêm vào đó
+2. Hơn nữa
+3. Ngoài ai/cái gì
+## Ví dụ
+- *Besides English, I can also speak French.*
+- *It's a beautiful day, and besides, we don't have anything else to do.*
+- *Nobody can solve this problem besides you.*
+## Cấu trúc
+- *besides + noun* (ngoài...)
+- *besides + gerund* (ngoài việc...)
+- *besides + pronoun* (ngoài...)
+- *besides that* (ngoài ra)
+- *besides being* (ngoài việc...)
+- *besides all that* (ngoài tất cả những điều đó)
+## Collocation
+
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
+# charge
+## Nghĩa
 ## Ví dụ
 ## Cấu trúc
 ## Collocation
@@ -8116,9 +8215,106 @@
 ## Từ trái nghĩa
 ## Word family
 
-# besides
+# clergy
 ## Nghĩa
 ## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
+# collective
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
+# collide
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
+# communicate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
+# compile
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
+# conceive
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
+# concentrate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+| argue a case                     | trình bày / lập luận cho một vụ việc |
+| argue a point                    | lập luận cho một quan điểm           |
+| argue the case for something     | đưa ra lập luận ủng hộ điều gì       |
+| argue the case against something | đưa ra lập luận phản đối điều gì     |
+| strongly argue                   | lập luận mạnh mẽ                     |
+| successfully argue               | lập luận thành công                  |
+| reasonably argue                 | lập luận hợp lý                      |
+| argue convincingly               | lập luận một cách thuyết phục        |
+| argue persuasively               | lập luận có sức thuyết phục          |
+| argue that there is...           | lập luận rằng có...                  |
+| argue that something should...   | lập luận rằng điều gì nên...         |
+| argue in favor of something      | lập luận ủng hộ điều gì              |
+| argue on the basis of something  | lập luận dựa trên điều gì            |
+
+## Từ đồng nghĩa
+- *debate* (tranh luận)
+- *dispute* (tranh cãi)
+- *discuss* (thảo luận)
+## Từ trái nghĩa
+- *agree* (đồng ý)
+- *concur* (đồng ý, nhất trí)
+- *assent* (tán thành)
+- *concede* (thừa nhận)
+## Word family
+- *argue* (v) (tranh luận, lập luận)
+- *argued* (adj) (được tranh luận)
+- *argument* (n) (cuộc tranh luận, lập luận)
+- *argumentative* (adj) (hay cãi cọ)
+- *arguable* (adj) (có thể tranh luận)
+- *arguably* (adv) (có thể cho rằng)
+
+# besides
+## Nghĩa
+1. Ngoài ra, thêm vào đó
+2. Hơn nữa
+3. Ngoài ai/cái gì
+## Ví dụ
+
 ## Cấu trúc
 ## Collocation
 ## Từ đồng nghĩa
