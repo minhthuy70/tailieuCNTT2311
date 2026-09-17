@@ -41,13 +41,6 @@
 - *artistic academy* (học viện nghệ thuật)
 - *academic academy* (học viện học thuật)
 - *professional academy* (học viện chuyên nghiệp)
-- *prestigious academy* (học viện danh tiếng)
-- *top academy* (học viện hàng đầu)
-- *leading academy* (học viện hàng đầu)
-- *elite academy* (học viện tinh hoa)
-- *artistic academy* (học viện nghệ thuật)
-- *academic academy* (học viện học thuật)
-- *professional academy* (học viện chuyên nghiệp)
 - *policy academy* (học viện chính sách)
 - *police academy* (học viện cảnh sát)
 - *private academy* (học viện tư thục)
@@ -105,10 +98,6 @@
 - *be mature and responsible* (trưởng thành và có trách nhiệm)
 - *show indentication when entering bulding* (phải xuất trình giấy tờ khi vào tòa nhà)
 - *adult ticket* (vé người lớn)
-- *adult education* (giáo dục người lớn)
-- *adult learning* (học tập người lớn)
-- *adult literacy* (biết chữ người lớn)
-- *adult supervision* (sự giám sát của người lớn)
 - *adult behavior* (hành vi người lớn)
 - *adult workforce* (lực lượng lao động người lớn)
 - *adult content* (nội dung người lớn)
@@ -142,11 +131,6 @@
 - *toddler* (trẻ tập đi)
 - *preschooler* (trẻ mẫu giáo)
 - *school-aged child* (trẻ em trong độ tuổi đi học)
-- *teenager* (thanh thiếu niên)
-- *adolescent* (vị thành niên)
-- *youth* (thanh niên, tuổi trẻ)
-- *elderly person* (người cao tuổi)
-- *senior citizen* (công dân cao tuổi)
 - *underage* (chưa đủ tuổi)
 ## Word family
 - *adult* (n) (người trưởng thành)
@@ -209,7 +193,6 @@
 - general context
 - context clues
 - context clue
-- broader context
 - relevant context
 - local context
 - provide context
@@ -304,28 +287,7 @@
 - *abandon an idea* (bỏ ý tưởng)
 - *abandon an opinion* (bỏ quan điểm)
 - *abandon a belief* (bỏ niềm tin)
-- *abandon hope* (bỏ hy vọng)
 - *abandon ship* (bỏ tàu)
-- *abandon responsibility* (bỏ rơi trách nhiệm)
-- *abandon a car* (bỏ xe)
-- *abandon a child* (bỏ rơi con)
-- *abandon a baby* (bỏ rơi em bé)
-- *abandon a dog* (bỏ rơi chó)
-- *abandon a cat* (bỏ rơi mèo)
-- *abandon a house* (bỏ nhà)
-- *abandon a city* (bỏ thành phố)
-- *abandon a country* (bỏ nước)
-- *abandon a plan* (bỏ kế hoạch)
-- *abandon a strategy* (bỏ chiến lược)
-- *abandon a mission* (bỏ nhiệm vụ)
-- *abandon a policy* (bỏ chính sách)
-- *abandon a hope* (bỏ hy vọng)
-- *abandon responsibility* (bỏ rơi trách nhiệm)
-- *abandon an attempt* (bỏ nỗ lực)
-- *abandon an effort* (bỏ nỗ lực)
-- *abandon an idea* (bỏ ý tưởng)
-- *abandon an opinion* (bỏ quan điểm)
-- *abandon a belief* (bỏ niềm tin)
 - *abandon a vehicle* (bỏ xe)
 - *abandon one's family* (bỏ rơi gia đình)
 ## Từ đồng nghĩa
@@ -336,12 +298,10 @@
 - *quit* (từ bỏ)
 - *relinquish* (từ bỏ)
 - *surrender* (đầu hàng)
-- *relinquish* (từ bỏ)
 - *yield* (nhượng bộ)
 - *discard* (vứt bỏ)
 - *jettison* (vứt bỏ)
 - *drop* (bỏ rơi)
-- *relinquish* (từ bỏ)
 - *renounce* (từ bỏ)
 - *withdraw from* (từ bỏ)
 - *walk out on* (từ bỏ)
@@ -363,7 +323,6 @@
 - *carry on with* (tiếp tục)
 - *continue with* (tiếp tục)
 - *pursue* (theo đuổi)
-- *support* (hỗ trợ)
 - *back* (hỗ trợ)
 - *sustain* (duy trì)
 - *adopt* (áp dụng)
@@ -432,7 +391,6 @@
 - *imperfect* (không hoàn hảo)
 - *qualified* (đủ điều kiện)
 - *conditional* (có điều kiện)
-- *limited* (có giới hạn)
 ## Word family
 - *absolute* (adj) (hoàn toàn)
 - *absolutely* (adv) (hoàn toàn)
@@ -463,15 +421,12 @@
 - *abstract noun* (danh từ trừu tượng)
 - *abstract something from something* (rút ra điều gì từ điều gì)
 - *abstract the essence of something* (rút ra bản chất của điều gì)
-- *abstract concept* (khái niệm trừu tượng)
-- *abstract idea* (ý tưởng trừu tượng)
 - *abstract thought* (tư duy trừu tượng)
 - *abstract reasoning* (lý luận trừu tượng)
 - *abstract thinking* (tư duy trừu tượng)
 - *abstract theory* (lý thuyết trừu tượng)
 - *abstract notion* (khái niệm trừu tượng)
 - *abstract principle* (nguyên tắc trừu tượng)
-- *abstract art* (nghệ thuật trừu tượng)
 - *abstract painting* (tranh trừu tượng)
 - *abstract sculpture* (điêu khắc trừu tượng)
 - *abstract work of art* (tác phẩm nghệ thuật trừu tượng)
@@ -484,7 +439,6 @@
 - *abstract thinking process* (quá trình tư duy trừu tượng)
 - *abstract representation* (biểu diễn trừu tượng)
 - *abstract definition* (định nghĩa trừu tượng)
-- *abstract reasoning* (lý luận trừu tượng)
 - *abstract reasoning skills* (kĩ năng lý luận trừu tượng)
 - *abstract reasoning ability* (năng lực lý luận trừu tượng)
 - *abstract concept arises* (khái niệm trừu tượng nảy sinh)
@@ -560,15 +514,9 @@
 - *fairly accurate* (khá chính xác)
 - *largely accurate* (khá chính xác)
 - *mostly accurate* (khá chính xác)
-- *accurate estimate* (ước tính chính xác)
-- *accurate measurement* (đo lường chính xác)
-- *accurate prediction* (dự đoán chính xác)
-- *accurate assessment* (đánh giá chính xác)
-- *accurate diagnosis* (chẩn đoán chính xác)
 - *accurate calculation* (tính toán chính xác)
 - *accurate records* (hồ sơ chính xác)
 - *accurate history* (lịch sử chính xác)
-- *accurate account* (tài khoản chính xác)
 - *accurate figures* (số liệu chính xác)
 - *extremely accurate* (cực kỳ chính xác)
 - *remarkably accurate* (đáng kinh ngạc chính xác)
@@ -647,7 +595,6 @@
 - *achieve prominence* (đạt được sự nổi tiếng)
 - *achieve fame* (đạt được danh tiếng)
 - *achieve popularity* (đạt được sự phổ biến)
-- *achieve success* (đạt được thành công)
 - *achieve academic success* (đạt được thành công trong học tập)
 - *achieve one's pontential* (đạt được tiềm năng của một người)
 - *achieve equality* (đạt được sự bình đẳng)
@@ -713,14 +660,6 @@
 - *acquire recognition* (có được sự công nhận)
 - *acquire a reputation* (có được danh tiếng)
 - *acquire a skill* (có được kỹ năng)
-- *acquire knowledge* (có được kiến thức)
-- *acquire experience* (có được kinh nghiệm)
-- *acquire wealth* (có được sự giàu có)
-- *acquire power* (có được quyền lực)
-- *acquire property* (có được tài sản)
-- *acquire information* (có được thông tin)
-- *acquire fame* (có được danh tiếng)
-- *acquire recognition* (có được sự công nhận)
 - *acquire a habit* (có được thói quen)
 - *acquire ownership* (có được quyền sở hữu)
 - *acquire a degree* (có được bằng cấp)
@@ -731,7 +670,6 @@
 - *get* (có được)
 - *gain* (đạt được)
 - *earn* (kiếm được)
-- *obtain* (có được)
 - *attain* (đạt được)
 - *achieve* (đạt được)
 - *secure* (có được)
@@ -747,7 +685,6 @@
 - *sell* (bán)
 - *give up* (từ bỏ)
 - *surrender* (đầu hàng)
-- *lose* (mất)
 - *forego* (từ bỏ)
 - *relinquish* (từ bỏ)
 - *forgo* (từ bỏ)
@@ -873,7 +810,6 @@
 - *obstacle* (chướng ngại vật)
 - *hindrance* (rào cản)
 - *prevention* (sự ngăn chặn)
-- *denial* (sự từ chối)
 - *exclusion* (sự loại trừ)
 ## Word family
 - *access* (n) (quyền truy cập)
@@ -1064,7 +1000,6 @@
 - *accompany sb on a business walk* (đi cùng ai đó trong chuyến đi bộ công tác)
 - *accompany sb on a business tour* (đi cùng ai đó trong chuyến tham quan công tác)
 - *accompany sb on a business visit* (đi cùng ai đó trong chuyến thăm công tác)
-- *accompany sb on a trip* (đi cùng ai đó trong chuyến đi)
 - *accompany a person to a place* (đi cùng ai đó đến một nơi nào đó)
 - *accompany with* (đi kèm với)
 - *accompany a child to school* (đi cùng một đứa trẻ đến trường)
@@ -1138,8 +1073,6 @@
 - *accumulate over the days* (tích lũy qua nhiều ngày)
 - *accumulate over the hours* (tích lũy qua nhiều giờ)
 - *accumulate dust* (tích tụ bụi)
-- *accumulate knowledge* (tích lũy kiến thức)
-- *accumulate experience* (tích lũy kinh nghiệm)
 - *accumulate wealth* (tích lũy tài sản)
 - *accumulate debts* (tích lũy các khoản nợ)
 - *accumulate dust* (bụi tích tụ)
@@ -1163,7 +1096,6 @@
 - *diminish* (giảm bớt)
 - *decrease* (giảm)
 - *reduce* (giảm)
-- *spend* (chi tiêu)
 - *use up* (sử dụng hết)
 - *scatter* (rải rác)
 - *distribute* (phân phối)
@@ -1222,10 +1154,7 @@
 - *acknowledge defeat* (thừa nhận thất bại)
 - *acknowledge the existence of* (thừa nhận sự tồn tại của)
 - *acknowledge debt* (thừa nhận nợ)
-- *acknowledge contribution* (ghi nhận sự đóng góp)
 - *acknowledge effort* (ghi nhận nỗ lực)
-- *acknowledge receipt* (xác nhận đã nhận)
-- *acknowledge receipt of* (xác nhận đã nhận)
 ## Từ đồng nghĩa
 - *admit* (thú nhận)
 - *concede* (nhượng bộ)
@@ -1295,14 +1224,6 @@
 - *adjust to* (điều chỉnh cho)
 - *suit* (thích hợp)
 - *assimilate* (đồng hóa)
-- *modify* (sửa đổi)
-- *alter* (thay đổi)
-- *change* (thay đổi)
-- *acclimate* (điều chỉnh)
-- *get used to* (làm quen với)
-- *adjust to* (điều chỉnh cho)
-- *suit* (thích hợp)
-- *assimilate* (đồng hóa)
 ## Từ trái nghĩa
 - *stay the same* (giữ nguyên)
 - *remain unchanged* (không thay đổi)
@@ -1315,8 +1236,6 @@
 - *preserve* (bảo tồn)
 - *remain* (vẫn)
 - *remain true* (vẫn đúng)
-- *remain unchanged* (không thay đổi)
-- *remain inflexible* (không linh hoạt)
 ## Word family
 - *adapt* (v) (thích nghi)
 - *adaptation* (n) (sự thích nghi)
@@ -1449,7 +1368,6 @@
 - *neighboring* (kề)
 - *bordering* (kề)
 - *nearby* (gần)
-- *bordering* (kề)
 - *close to* (gần)
 - *close* (gần)
 ## Từ trái nghĩa
@@ -1459,8 +1377,6 @@
 - *separated from* (cách biệt với)
 - *faraway* (xa)
 - *far-off* (xa)
-- *far-flung* (xa)
-- *far-flung* (xa)
 - *far-flung* (xa)
 - *isolated from* (cách biệt với)
 - *disconnected from* (cách biệt với)
@@ -1516,7 +1432,6 @@
 - *adjust height* (điều chỉnh chiều cao)
 - *adjust depth* (điều chỉnh độ sâu)
 - *adjust angle* (điều chỉnh góc)
-- *adjust position* (điều chỉnh vị trí)
 - *adjust width* (điều chỉnh chiều rộng)
 - *adjust length* (điều chỉnh chiều dài)
 - *adjust thickness* (điều chỉnh độ dày)
@@ -1542,7 +1457,6 @@
 - *keep* (giữ)
 - *retain* (giữ)
 - *fix* (cố định)
-- *leave* (để nguyên)
 - *stabilize* (ổn định)
 - *leave as is* (để nguyên)
 - *leave unchanged* (để nguyên)
@@ -1575,7 +1489,6 @@
 - *admit the fact* (thừa nhận sự thật)
 - *admit the possibility* (thừa nhận khả năng)
 - *admit the possibility of sth* (thừa nhận khả năng của cái gì)
-- *admit the possibility of sth* (thừa nhận khả năng của cái gì)
 ## Collocation
 - *admit defeat* (thừa nhận thất bại)
 - *admit the truth* (thừa nhận sự thật)
@@ -1583,10 +1496,6 @@
 - *admit the error* (thừa nhận sai lầm)
 - *admit the fact* (thừa nhận sự thật)
 - *admit the possibility* (thừa nhận khả năng)
-- *admit the possibility of sth* (thừa nhận khả năng của cái gì)
-- *admit the possibility of sth* (thừa nhận khả năng của cái gì)
-- *admit the possibility of sth* (thừa nhận khả năng của cái gì)
-- *admit the possibility of sth* (thừa nhận khả năng của cái gì)
 - *admit the possibility of sth* (thừa nhận khả năng của cái gì)
 ## Từ đồng nghĩa
 - *confess* (thú nhận)
@@ -1636,9 +1545,6 @@
 - *administrate the survey* (khảo sát)
 - *administrate the program* (thực hiện chương trình)
 - *administrate the project* (quản lý dự án)
-- *administrate the oath* (tuyên thệ)
-- *administrate the medicine* (cho thuốc)
-- *administrate the test* (thi)
 - *be responsible for administrating sth* (có trách nhiệm quản lý cái gì)
 - *administrate the department* (quản lý bộ phận)
 - *administrate institution* (quản lý tổ chức)
@@ -1787,37 +1693,12 @@
 - *passionate advocate* (người ủng hộ nhiệt tình)
 - *vocal advocate* (người ủng hộ mạnh mẽ)
 - *zealous advocate* (người ủng hộ nhiệt thành)
-- *advocate for change* (ủng hộ sự thay đổi)
-- *advocate for reform* (ủng hộ cải cách)
-- *advocate for rights* (bảo vệ quyền lợi)
-- *advocate for justice* (bảo vệ công lý)
-- *advocate for the poor* (bảo vệ người nghèo)
-- *advocate for the vulnerable* (bảo vệ người dễ bị tổn thương)
-- *public advocate* (người ủng hộ công khai)
-- *strong advocate* (người ủng hộ mạnh mẽ)
-- *vocal advocate* (người ủng hộ tích cực)
-- *political advocate* (người ủng hộ chính trị)
-- *human rights advocate* (người ủng hộ nhân quyền)
-- *environmental advocate* (người ủng hộ môi trường)
-- *children's advocate* (người bảo vệ trẻ em)
-- *patient advocate* (người bảo vệ bệnh nhân)
-- *legal advocate* (người ủng hộ pháp lý)
-- *community advocate* (người ủng hộ cộng đồng)
-- *fierce advocate* (người ủng hộ kiên quyết)
-- *tireless advocate* (người ủng hộ không mệt mỏi)
-- *staunch advocate* (người ủng hộ kiên định)
-- *active advocate* (người ủng hộ tích cực)
-- *passionate advocate* (người ủng hộ nhiệt tình)
-- *vocal advocate* (người ủng hộ mạnh mẽ)
-- *zealous advocate* (người ủng hộ nhiệt thành)
-- *advocate for change* (ủng hộ sự thay đổi)
 ## Từ đồng nghĩa
 - *support* (ủng hộ)
 - *back* (ủng hộ)
 - *champion* (ủng hộ)
 - *promote* (thúc đẩy)
 - *advise* (tư vấn)
-- *support* (ủng hộ)
 - *advocate for* (ủng hộ)
 - *speak for* (đại diện cho)
 - *defend* (bảo vệ)
@@ -1895,9 +1776,6 @@
 - *affect the quality of* (ảnh hưởng đến chất lượng của)
 - *affect one's ability to do something* (ảnh hưởng đến khả năng làm gì)
 - *directly affect* (ảnh hưởng trực tiếp)
-- *significantly affect* (ảnh hưởng đáng kể)
-- *negatively affect* (ảnh hưởng tiêu cực)
-- *positively affect* (ảnh hưởng tích cực)
 - *adversely affect* (gây ảnh hưởng bất lợi)
 ## Từ đồng nghĩa
 - *influence* (ảnh hưởng)
@@ -1952,8 +1830,6 @@
 - *aggregate value* (tổng giá trị)
 - *aggregate number* (tổng số)
 - *aggregate effect* (hiệu ứng tổng hợp)
-- *aggregate demand* (tổng cầu)
-- *aggregate supply* (tổng cung)
 - *aggregate consumption* (tổng tiêu dùng)
 - *aggregate investment* (tổng đầu tư)
 - *aggregate expenditure* (tổng chi tiêu)
@@ -2083,7 +1959,6 @@
 - *yet* (mặc dù)
 - *but* (nhưng)
 - *however* (tuy nhiên)
-- *though* (mặc dù)
 ## Từ trái nghĩa
 - *and* (và)
 - *also* (cũng)
@@ -2131,15 +2006,7 @@
 - *allocate tasks* phân công nhiệm vụ
 - *allocate responsibilities* phân chia trách nhiệm
 - *allocate space* phân bổ không gian
-- *allocate staff* phân bổ nhân viên
-- *allocate personnel* phân bổ nhân sự
-- *allocate tasks* phân công nhiệm vụ
-- *allocate responsibilities* phân chia trách nhiệm
-- *allocate space* phân bổ không gian
 - *allocate resources efficiently* phân bổ nguồn lực hiệu quả
-- *allocate resources effectively* phân bổ nguồn lực một cách hiệu quả
-- *allocate resources fairly* phân bổ nguồn lực công bằng
-- *allocate resources appropriately* phân bổ nguồn lực phù hợp
 - *allocate resources effectively* phân bổ nguồn lực một cách hiệu quả
 - *allocate resources fairly* phân bổ nguồn lực công bằng
 - *allocate resources appropriately* phân bổ nguồn lực phù hợp
@@ -2155,7 +2022,6 @@
 - *retain* (giữ lại)
 - *keep* (giữ lại)
 - *reserve* (dành riêng)
-- *withhold* (từ chối)
 ## Word family
 - *allocate* (v) (phân bổ, phân chia)
 - *allocation* (n) (sự phân bổ, phân chia)
@@ -2183,13 +2049,11 @@
 - *alter sth for the better* (thay đổi cái gì để tốt hơn)
 - *alter sth for the worse* (thay đổi cái gì để tốt hơn)
 - *alter sth for good* (thay đổi cái gì để tốt hơn)
-- *alter sth for the worse* (thay đổi cái gì để tốt hơn)
 
 ## Collocation
 - *alter sth for the better* (thay đổi cái gì để tốt hơn)
 - *alter sth for the worse* (thay đổi cái gì để tốt hơn)
 - *alter sth for good* (thay đổi cái gì để tốt hơn)
-- *alter sth for the worse* (thay đổi cái gì để tốt hơn)
 - *alter a plan* (thay đổi một kế hoạch )
 - *alter a decision* (thay đổi một quyết định )
 - *alter an agreement* (sửa đổi một thỏa thuận )
@@ -2259,15 +2123,8 @@
 - *alternative plan* (kế hoạch thay thế)
 - *alternative option* (lựa chọn thay thế)
 - *alternative choice* (lựa chọn thay thế)
-- *alternative solution* (giải pháp thay thế)
 - *alternative approach* (phương pháp tiếp cận thay thế)
-- *alternative method* (phương pháp thay thế)
-- *alternative option* (lựa chọn thay thế)
-- *alternative plan* (kế hoạch thay thế)
-- *alternative route* (tuyến đường thay thế)
 - *alternative source* (nguồn thay thế)
-- *alternative energy* (năng lượng thay thế)
-- *alternative medicine* (y học thay thế)
 - *alternative form* (hình thức thay thế)
 - *alternative way* (cách thức thay thế)
 - *alternative explanation* (lời giải thích khác/thay thế)
@@ -2340,9 +2197,7 @@
 - *ambiguous statement* (phát biểu mơ hồ)
 - *ambiguous language* (ngôn ngữ mơ hồ)
 - *ambiguous meaning* (ý nghĩa không rõ ràng)
-- *ambiguous answer* (câu trả lời mơ hồ)
 - *ambiguous question* (câu hỏi mơ hồ)
-- *ambiguous wording* (cách diễn đạt mơ hồ)
 - *ambiguous phrase* (cụm từ có nghĩa không rõ ràng)
 - *ambiguous expression* (cách diễn đạt mơ hồ)
 - *ambiguous message* (thông điệp không rõ ràng)
@@ -2357,11 +2212,6 @@
 - *remain ambiguous* (vẫn không rõ ràng)
 
 ## Từ đồng nghĩa
-- *vague* (mơ hồ, không rõ ràng)
-- *uncertain* (không chắc chắn)
-- *unclear* (không rõ ràng)
-- *obscure* (tối nghĩa, khó hiểu)
-- *equivocal* (có thể hiểu theo nhiều cách khác nhau)
 - *vague* (mơ hồ, không rõ ràng)
 - *uncertain* (không chắc chắn)
 - *unclear* (không rõ ràng)
@@ -2404,7 +2254,6 @@
 - *amend the regulations* (sửa đổi quy định)
 - *amend a law* (sửa đổi một đạo luật)
 - *amend legislation* (sửa đổi luật pháp)
-- *amend the constitution* (sửa đổi hiến pháp)
 - *amend a bill* (sửa đổi dự luật)
 - *amend a contract* (sửa đổi hợp đồng)
 - *amend an agreement* (sửa đổi thỏa thuận)
@@ -2614,17 +2463,14 @@
 - *annual leave* (nghỉ phép năm)
 - *annual payment* (thanh toán hàng năm)
 - *annual rainfall* (lượng mưa hàng năm)
-- *annual review* (đánh giá hàng năm)
 - *annual statement* (báo cáo thường niên)
 - *annual subscription* (đăng ký hàng năm)
 - *annual turnover* (doanh thu hàng năm)
 - *annual wage* (lương hàng năm)
 - *an annual increase of/in...* (sự tăng hàng năm 10%/của...)
 - *once a year / every year* (mỗi năm một lần)
-- *annual report* (báo cáo thường niên)
 - *annual meeting* (cuộc họp thường niên)
 - *annual conference* (hội nghị thường niên)
-- *annual event* (sự kiện thường niên)
 - *annual budget* (ngân sách hằng năm)
 - *annual income* (thu nhập hằng năm)
 - *annual salary* (mức lương hằng năm)
@@ -2695,7 +2541,6 @@
 - *an anticipated effect* (tác dụng được dự đoán)
 - *an anticipated response* (phản hồi được dự đoán)
 - *an anticipated trend* (xu hướng được dự đoán)
-- *an anticipated outcome* (kết quả được dự đoán)
 - *anticipate a problem* (dự đoán / lường trước một vấn đề)
 - *anticipate a change* (dự đoán / lường trước một sự thay đổi)
 - *anticipate a need* (dự đoán / lường trước một nhu cầu)
@@ -3291,7 +3136,6 @@
 - *inappropriate* (không phù hợp)
 - *unsuitable* (không thích hợp)
 - *wrong* (sai)
-- *unsuitable* (không thích hợp)
 - *improper* (không đúng mực)
 - *inapt* (không thích hợp)
 - *unsuited* (không phù hợp)
@@ -3355,7 +3199,6 @@
 - *approximately one-third* (xấp xỉ một phần ba)
 - *roughly approximate* (ước lượng gần đúng)
 - *closely approximate* (gần sát với)
-- *approximate cost* (chi phí ước tính)
 - *approximate figure* (con số xấp xỉ)
 - *approximate total* (tổng số ước tính)
 - *approximate measurement* (phép đo gần đúng)
@@ -3394,7 +3237,6 @@
 - *accurate* (đúng)
 - *inexact* (không chính xác)
 - *definite* (xác định)
-- *precise* (chính xác)
 - *specific* (cụ thể)
 ## Word family
 - *approximate* (adj/v) (gần đúng, ước lượng)
@@ -3451,15 +3293,12 @@
 - *arbitrary change in policy* (sự thay đổi chính sách tùy tiện)
 - *arbitrary criteria* (tiêu chí tùy tiện)
 - *arbitrary classification* (phân loại tùy tiện)
-- *arbitrary distinction* (sự phân biệt tùy tiện)
-- *arbitrary interference* (sự can thiệp tùy tiện)
 - *arbitrary interpretation* (cách diễn giải tùy tiện)
 ## Từ đồng nghĩa
 - *random* (ngẫu nhiên)
 - *capricious* (tùy hứng)
 - *unreasonable* (không hợp lý)
 - *subjective* (chủ quan)
-- *random* (ngẫu nhiên)
 - *whimsical* (tùy hứng)
 - *unjustified* (không có căn cứ)
 ## Từ trái nghĩa
@@ -3473,8 +3312,6 @@
 - *arbitrariness* (n) (tính tùy tiện)
 - *arbitrarily* (adv) (một cách tùy tiện)
 - *arbitrate* (v) (phân xử; nghĩa khác)
-- *arbitrariness* (n) (tính tùy tiện)
-- *arbitrarily* (adv) (một cách tùy tiện)
 
 # Area
 ## Nghĩa
@@ -3528,14 +3365,12 @@
 - *parking area* (khu vực đỗ xe)
 - *research area* (lĩnh vực nghiên cứu)
 - *area of application* (lĩnh vực ứng dụng)
-- *area of expertise* (lĩnh vực chuyên môn)
 ## Từ đồng nghĩa
 - *region* (vùng)
 - *zone* (khu)
 - *district* (quận)
 - *field* (lĩnh vực)
 - *territory* (lãnh thổ)
-- *region* (vùng)
 - *domain* (lĩnh vực)
 ## Từ trái nghĩa
 - *whole* (toàn bộ)
@@ -3696,7 +3531,6 @@
 - *assessor* (n) (người đánh giá)
 - *assessable* (adj) (có thể đánh giá)
 - *reassessment* (n) (sự đánh giá lại)
-- *assessable* (adj) (có thể đánh giá)
 
 # Assign
 ## Nghĩa
@@ -3826,17 +3660,13 @@
 - *facilitate* (tạo điều kiện)
 - *cooperate with* (hợp tác với)
 - *attend to* (chăm sóc, hỗ trợ)
-- *facilitate* (tạo điều kiện)
 - *enable* (cho phép, hỗ trợ)
-- *serve* (phục vụ)
 ## Từ trái nghĩa
 - *hinder* (cản trở)
 - *obstruct* (ngăn trở)
 - *ignore* (bỏ qua)
-- *hinder* (cản trở)
 - *prevent* (ngăn cản)
 - *interfere with* (can thiệp, cản trở)
-- *obstruct* (ngăn trở)
 ## Word family
 - *assist* (v) (hỗ trợ)
 - *assistance* (n) (sự hỗ trợ)
@@ -4190,7 +4020,6 @@
 - *maintain a positive attitude* (duy trì thái độ tích cực)
 - *attitude problem* (vấn đề về thái độ)
 - *attitudinal change* (sự thay đổi thái độ)
-- *attitude toward authority* (thái độ đối với quyền lực)
 - *attitude toward risk* (thái độ đối với rủi ro)
 - *attitude toward technology* (thái độ đối với công nghệ)
 - *attitude toward failure* (thái độ đối với thất bại)
@@ -4257,7 +4086,6 @@
 - *personal attribute* (đặc điểm cá nhân)
 - *commonly attributed to* (thường được quy cho)
 - *be attributed to sth* (được quy cho cái gì)
-- *attribute importance to sth* (gán tầm quan trọng cho cái gì)
 - *attribute success to hard work* (quy thành công cho sự chăm chỉ)
 - *attribute failure to poor planning* (quy thất bại cho việc lập kế hoạch kém)
 - *attribute a feature to sth* (quy một đặc điểm cho cái gì)
@@ -4360,7 +4188,6 @@
 - *audience* (khán giả)
 - *critic* (nhà phê bình)
 - *non-author* (người không phải tác giả)
-- *reader* (người đọc)
 - *reviewer* (người đánh giá)
 ## Word family
 - *author* (n/v) (tác giả, sáng tác)
@@ -4506,7 +4333,6 @@
 - *streamline* (tối ưu hóa)
 - *standardize* (chuẩn hóa)
 - *robotize* (tự động hóa bằng robot)
-- *computerize* (tin học hóa)
 ## Từ trái nghĩa
 - *manual* (thủ công)
 - *human* (con người)
@@ -4521,7 +4347,6 @@
 - *automated* (adj) (được tự động hóa)
 - *automating* (v) (đang tự động hóa)
 - *automatically* (adv) (một cách tự động)
-- *automation* (n) (sự tự động hóa)
 - *automatable* (adj) (có thể tự động hóa)
 - *automatize* (v) (tự động hóa; ít dùng)
 
@@ -4565,8 +4390,6 @@
 - *currently available* (hiện đang có sẵn)
 - *available capacity* (công suất còn trống)
 - *available balance* (số dư khả dụng)
-- *available evidence* (bằng chứng có sẵn)
-- *available funding* (nguồn vốn có sẵn)
 - *available opportunity* (cơ hội có sẵn)
 - *available position* (vị trí còn trống)
 - *available appointment* (lịch hẹn còn trống)
@@ -4717,7 +4540,6 @@
 - *value* (giá trị)
 - *welfare* (phúc lợi)
 - *return* (lợi ích thu về)
-- *advantage* (lợi thế)
 - *gain* (lợi ích hoặc khoản đạt được)
 ## Từ trái nghĩa
 - *cost* (chi phí)
@@ -4725,7 +4547,6 @@
 - *disadvantage* (bất lợi)
 - *harm* (tác hại)
 - *damage* (thiệt hại)
-- *disadvantage* (bất lợi)
 - *loss* (sự mất mát)
 ## Word family
 - *benefit* (n,v) (lợi ích, được lợi)
@@ -4801,7 +4622,6 @@
 - *objectivity* (tính khách quan)
 - *fair-mindedness* (tư duy công bằng)
 - *balance* (sự cân bằng)
-- *fairness* (sự công bằng)
 ## Word family
 - *bias* (n/v) (thiên vị, nghiêng về)
 - *biased* (adj) (thiên vị)
@@ -4867,8 +4687,6 @@
 - *tie* (mối ràng buộc)
 - *attachment* (sự gắn bó)
 - *unity* (sự đoàn kết)
-- *connection* (sự kết nối)
-- *relationship* (mối quan hệ)
 ## Từ trái nghĩa
 - *separation* (sự tách rời)
 - *distance* (khoảng cách)
@@ -5122,7 +4940,6 @@
 - *increase capacity* (tăng công suất/năng lực)
 - *expand capacity* (mở rộng công suất)
 - *operate at capacity* (vận hành ở công suất tối đa)
-- *capacity for innovation* (năng lực đổi mới)
 - *capacity for learning* (khả năng học tập)
 - *capacity for growth* (tiềm năng tăng trưởng)
 - *capacity to absorb information* (khả năng tiếp nhận thông tin)
@@ -5269,7 +5086,6 @@
 - *terminate* (chấm dứt)
 - *discontinue* (ngừng cung cấp)
 - *discontinue* (chấm dứt)
-- *terminate* (chấm dứt)
 - *suspend* (tạm ngừng)
 ## Từ trái nghĩa
 - *continue* (tiếp tục)
@@ -5288,7 +5104,6 @@
 - *begin* (bắt đầu)
 - *resume* (tiếp tục)
 - *persist* (tiếp diễn)
-- *continue* (tiếp tục)
 ## Word family
 - *cease* (v) (ngừng)
 - *cessation* (n) (sự chấm dứt)
@@ -5346,7 +5161,6 @@
 - *assistance* (sự trợ giúp)
 - *solution* (giải pháp)
 - *certainty* (sự chắc chắn)
-- *solution* (giải pháp)
 - *answer* (câu trả lời)
 - *academic challenge* (thách thức học thuật)
 - *technical challenge* (thách thức kỹ thuật)
@@ -5531,7 +5345,6 @@
 - *in exceptional circumstances* (trong hoàn cảnh ngoại lệ)
 - *in difficult circumstances* (trong hoàn cảnh khó khăn)
 - *take account of circumstances* (tính đến hoàn cảnh)
-- *changing circumstances* (hoàn cảnh thay đổi)
 ## Từ đồng nghĩa
 - *situation* (tình huống)
 - *condition* (điều kiện)
@@ -5541,7 +5354,6 @@
 - *certainty* (sự chắc chắn)
 - *normality* (trạng thái bình thường)
 - *stability* (ổn định)
-- *certainty* (sự chắc chắn)
 - *control* (sự kiểm soát)
 ## Word family
 - *circumstance* (n) (hoàn cảnh)
@@ -5739,7 +5551,6 @@
 - *complicate* (làm phức tạp)
 - *blur* (làm mờ, làm không rõ)
 - *confound* (làm rối)
-- *complicate* (làm phức tạp)
 ## Word family
 - *clarify* (v) (làm rõ)
 - *clarification* (n) (sự làm rõ)
@@ -5826,8 +5637,6 @@
 - *Her explanation was clear and coherent.*
 - *The essay lacks a coherent structure.*
 - *The evidence forms a coherent account of events.*
-- *Her explanation was clear and coherent.*
-- *The essay lacks a coherent structure.*
 ## Cấu trúc
 - *coherent plan* (kế hoạch mạch lạc)
 - *coherent argument* (lập luận chặt chẽ)
@@ -5878,8 +5687,6 @@
 - *illogical* (phi logic)
 - *fragmented* (rời rạc)
 - *inconsistent* (không nhất quán)
-- *illogical* (phi logic)
-- *fragmented* (rời rạc)
 ## Word family
 - *coherent* (adj) (mạch lạc)
 - *coherence* (n) (sự mạch lạc)
@@ -5896,8 +5703,6 @@
 - *The conference coincided with a national holiday.*
 - *Their opinions coincided on this issue.*
 - *The two events coincided by chance.*
-- *The conference coincided with a national holiday.*
-- *Their opinions coincided on this issue.*
 ## Cấu trúc
 - *coincide with sth* (trùng với cái gì)
 - *events coincide* (các sự kiện xảy ra đồng thời)
@@ -5946,8 +5751,6 @@
 - *diverge* (phân kỳ)
 - *disagree* (không đồng ý)
 - *conflict* (mâu thuẫn)
-- *conflict* (mâu thuẫn)
-- *disagree* (không đồng ý)
 ## Word family
 - *coincide* (v) (trùng nhau)
 - *coincidence* (n) (sự trùng hợp)
@@ -5974,7 +5777,6 @@
 - *collapse in confidence* (sự sụt giảm niềm tin)
 - *be close to collapse* (gần sụp đổ)
 - *collapse under sth* (sụp đổ dưới sức nặng của cái gì)
-- *collapse from exhaustion* (suy sụp vì kiệt sức)
 ## Collocation
 - *collapse of the economy* (sụp đổ kinh tế)
 - *collapse in sales* (giảm mạnh doanh số)
@@ -6005,7 +5807,6 @@
 - *stand* (đứng vững)
 - *recover* (phục hồi)
 - *stabilize* (ổn định)
-- *recover* (phục hồi)
 - *strengthen* (củng cố)
 - *collapse of a business* (sự sụp đổ của doanh nghiệp)
 - *collapse of a network* (sự sụp đổ của mạng lưới)
@@ -6018,7 +5819,6 @@
 - *prevent economic collapse* (ngăn suy sụp kinh tế)
 - *recover from collapse* (phục hồi sau sụp đổ)
 - *rise* (tăng lên)
-- *recover* (phục hồi)
 ## Word family
 - *collapse* (n/v) (sụp đổ)
 - *collapsed* (adj) (đã sụp)
@@ -6088,7 +5888,6 @@
 - *colleague* (n) (đồng nghiệp)
 - *collegial* (adj) (có tính đồng nghiệp, thân thiện)
 - *collegiality* (n) (tinh thần đồng nghiệp)
-- *collegial* (adj) (có tính đồng nghiệp, thân thiện)
 - *collegially* (adv) (một cách thân thiện)
 
 # Commence
@@ -6105,8 +5904,6 @@
 ## Cấu trúc
 - *commence doing sth* (bắt đầu làm gì)
 - *commence with sth* (bắt đầu bằng cái gì)
-- *commence by doing sth* (bắt đầu bằng việc làm gì)
-- *be due to commence* (dự kiến bắt đầu)
 - *commence by doing sth* (bắt đầu bằng việc làm gì)
 - *be due to commence* (dự kiến bắt đầu)
 ## Collocation
@@ -6150,12 +5947,9 @@
 - *stop* (dừng)
 - *finish* (hoàn tất)
 - *conclude* (kết thúc)
-- *finish* (hoàn tất)
-- *conclude* (kết thúc)
 ## Word family
 - *commence* (v) (bắt đầu)
 - *commencement* (n) (lễ khai giảng, sự bắt đầu)
-- *commencing* (adj) (bắt đầu)
 - *commencing* (adj) (bắt đầu)
 
 # Comment
@@ -6249,7 +6043,6 @@
 - *commission sb to do sth* (ủy nhiệm ai làm gì)
 - *receive a commission for sth* (nhận hoa hồng cho cái gì)
 - *work on commission* (làm việc hưởng hoa hồng)
-- *commission sb to do sth* (ủy nhiệm ai làm gì)
 - *be commissioned by sb* (được ai ủy nhiệm)
 - *earn commission on sth* (kiếm hoa hồng từ cái gì)
 - *pay a commission* (trả hoa hồng)
@@ -6355,7 +6148,6 @@
 - *dedicate* (cống hiến)
 - *perpetrate* (phạm tội)
 - *entrust* (giao phó)
-- *dedicate* (cống hiến)
 - *devote* (dành cho)
 ## Từ trái nghĩa
 - *withdraw* (rút lui)
@@ -6433,9 +6225,7 @@
 ## Từ trái nghĩa
 - *service* (dịch vụ)
 - *non-product* (không phải hàng hóa)
-- *service* (dịch vụ)
 - *intangible asset* (tài sản vô hình)
-- *service* (dịch vụ)
 - *labor* (lao động)
 ## Word family
 - *commodity* (n) (hàng hóa)
@@ -6495,21 +6285,18 @@
 - *coordinated* (phối hợp)
 - *matching* (tương thích, phù hợp)
 - *interoperable* (có khả năng liên vận hành)
-- *harmonious* (hòa hợp)
 ## Từ trái nghĩa
 - *incompatible* (không tương thích)
 - *conflicting* (xung đột)
 - *inconsistent* (không nhất quán)
 - *unsuitable* (không phù hợp)
 - *discordant* (không hòa hợp)
-- *incompatible* (không tương thích)
 - *irreconcilable* (không thể hòa giải)
 ## Word family
 - *compatible* (adj) (tương thích)
 - *compatibility* (n) (tính tương thích)
 - *compatibly* (adv) (một cách tương thích)
 - *incompatibility* (n) (tính không tương thích)
-- *compatibly* (adv) (một cách tương thích)
 - *interoperability* (n) (khả năng liên vận hành)
 
 # Compensate
@@ -6550,9 +6337,7 @@
 - *receive compensation* (nhận tiền bồi thường)
 - *claim compensation* (yêu cầu bồi thường)
 - *offer compensation* (đề nghị bồi thường)
-- *compensate for inflation* (bù đắp lạm phát)
 - *compensate for lost income* (bù đắp thu nhập bị mất)
-- *compensate for inconvenience* (bù đắp sự bất tiện)
 - *compensate for reduced performance* (bù đắp hiệu suất giảm)
 - *compensate for environmental damage* (bồi thường thiệt hại môi trường)
 - *compensate an injured worker* (bồi thường cho người lao động bị thương)
@@ -6575,7 +6360,6 @@
 - *withhold* (giữ lại)
 - *underpay* (trả thiếu)
 - *harm* (gây tổn hại)
-- *deprive* (tước đoạt)
 - *undercompensate* (bồi thường chưa đủ)
 ## Word family
 - *compensate* (v) (bồi thường)
@@ -6641,7 +6425,6 @@
 - *effective* (hiệu quả)
 - *skilled* (khéo léo)
 - *adept* (thành thạo)
-- *proficient* (thành thạo)
 ## Từ trái nghĩa
 - *incompetent* (không đủ năng lực)
 - *inept* (không giỏi)
@@ -6656,7 +6439,6 @@
 - *competency* (n) (năng lực, khả năng)
 - *competently* (adv) (một cách có năng lực)
 - *incompetence* (n) (sự thiếu năng lực)
-- *competently* (adv) (một cách có năng lực)
 - *competentness* (n) (tính có năng lực; ít dùng)
 
 # Complement
@@ -6701,11 +6483,9 @@
 - *complementary data sources* (các nguồn dữ liệu bổ sung)
 - *complementary teaching methods* (các phương pháp giảng dạy bổ trợ)
 - *complementary products and services* (sản phẩm và dịch vụ bổ trợ)
-- *complementary evidence* (bằng chứng bổ sung)
 - *complementary perspectives* (các góc nhìn bổ trợ)
 - *complementary functions* (các chức năng bổ trợ)
 - *complementary components* (các thành phần bổ trợ)
-- *complementary relationship* (mối quan hệ bổ trợ)
 - *complementary role* (vai trò bổ trợ)
 ## Từ đồng nghĩa
 - *supplement* (bổ sung)
@@ -6715,7 +6495,6 @@
 - *support* (hỗ trợ)
 - *reinforce* (củng cố)
 - *enhance* (tăng cường)
-- *complete* (hoàn thiện)
 ## Từ trái nghĩa
 - *contradict* (mâu thuẫn)
 - *reduce* (giảm)
@@ -6723,7 +6502,6 @@
 - *conflict with* (xung đột với)
 - *undermine* (làm suy yếu)
 - *conflict with* (mâu thuẫn với)
-- *contradict* (mâu thuẫn)
 ## Word family
 - *complement* (n/v) (bổ sung)
 - *complementary* (adj) (bổ sung)
@@ -6857,7 +6635,6 @@
 - *start* (bắt đầu)
 - *continue* (tiếp tục)
 - *remain open* (vẫn mở)
-- *continue* (tiếp tục)
 - *commence* (bắt đầu)
 ## Word family
 - *conclude* (v) (kết luận)
@@ -6928,7 +6705,6 @@
 - *neglect* (bỏ bê)
 - *misbehavior* (hành vi sai trái)
 - *inaction* (không hành động)
-- *misconduct* (hành vi sai trái)
 - *disorder* (sự hỗn loạn)
 ## Word family
 - *conduct* (n/v) (hành vi, tiến hành)
@@ -6989,8 +6765,6 @@
 - *bestow* (ban tặng)
 - *award* (trao tặng)
 - *deliberate* (thảo luận, cân nhắc)
-- *consult* (tham khảo)
-- *discuss* (thảo luận)
 ## Từ trái nghĩa
 - *withhold* (giữ lại)
 - *deny* (từ chối)
@@ -7048,7 +6822,6 @@
 - *support* (ủng hộ)
 - *corroborate* (chứng thực)
 - *establish* (xác lập)
-- *verify* (xác minh)
 - *substantiate* (chứng minh bằng bằng chứng)
 - *confirm a reservation* (xác nhận đặt chỗ)
 - *confirm a delivery date* (xác nhận ngày giao hàng)
@@ -7252,7 +7025,6 @@
 - *agreement* (sự đồng ý)
 - *permission* (sự cho phép)
 - *acceptance* (sự chấp nhận)
-- *approval* (sự chấp thuận)
 - *assent* (sự tán thành)
 - *authorization* (sự cho phép)
 - *endorsement* (sự tán thành)
@@ -7398,7 +7170,6 @@
 - *include* (bao gồm)
 - *contain* (chứa)
 - *be made up of* (được tạo thành từ)
-- *comprise* (bao gồm)
 - *be composed of* (được cấu tạo từ)
 ## Từ trái nghĩa
 - *exclude* (loại trừ)
@@ -7406,8 +7177,6 @@
 - *lack* (thiếu)
 - *exclude* (loại ra)
 - *differ from* (khác với)
-- *lack* (thiếu)
-- *exclude* (loại trừ)
 ## Word family
 - *consist* (v) (bao gồm)
 - *consistency* (n) (sự nhất quán)
@@ -7477,7 +7246,6 @@
 - *changing* (thay đổi)
 - *temporary* (tạm thời)
 - *occasional* (thỉnh thoảng)
-- *variable* (biến đổi)
 - *inconstant* (không ổn định)
 ## Word family
 - *constant* (adj/n) (liên tục, hằng số)
@@ -7760,9 +7528,7 @@
 - *preserve* (bảo tồn)
 - *conserve* (tiết kiệm, bảo tồn)
 - *conserve* (bảo tồn)
-- *preserve* (bảo tồn)
 - *produce* (sản xuất)
-- *save* (tiết kiệm)
 ## Word family
 - *consume* (v) (tiêu thụ)
 - *consumer* (n) (người tiêu dùng)
@@ -7827,7 +7593,6 @@
 - *relation* (mối quan hệ)
 - *touch* (liên lạc)
 - *access* (cách tiếp cận)
-- *touch* (liên lạc)
 - *correspondence* (sự trao đổi thư từ)
 ## Từ trái nghĩa
 - *break off* (đứt quan hệ)
@@ -7969,7 +7734,6 @@
 - *situation* (tình huống)
 - *circumstances* (hoàn cảnh)
 - *framework* (khuôn khổ)
-- *setting* (bối cảnh)
 - *milieu* (môi trường xã hội; trang trọng)
 ## Từ trái nghĩa
 - *decontextualization* (tách khỏi bối cảnh)
@@ -7977,7 +7741,6 @@
 - *isolation* (cô lập)
 - *decontextualization* (sự tách khỏi bối cảnh)
 - *detachment* (sự tách rời)
-- *decontextualization* (sự tách khỏi bối cảnh)
 - *isolation* (sự cô lập)
 ## Word family
 - *context* (n) (bối cảnh)
