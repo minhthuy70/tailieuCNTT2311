@@ -700,32 +700,58 @@
 - *acquired* (adj) 
 # Act
 ## Nghĩa
-1. (v) Hành động
-2. (v) Đóng vai
+1. (v) To do something; to take action and make a decision.
+2. (v) To perform a role or behave in a way that represents someone else.
+3. (n) A deed or a specific action, especially in law, drama, or politics.
 ## Ví dụ
-- *We must act now to save the environment.* 
+- *We must act now to save the environment.*
+- *He acted as a mediator during the conflict.*
+- *The government acted quickly to reduce the crisis.*
+- *Her act of kindness surprised everyone.*
 ## Cấu trúc
-- *act as* 
-- *act for* 
-- *act on* 
+- *act as* (đóng vai / hành động như)
+- *act for* (đại diện cho / thay mặt cho)
+- *act on* (hành động dựa trên / thực hiện theo)
+- *act out* (thể hiện bằng hành động)
+- *act up* (hành động lạ, gây rối)
 ## Collocation
-- *act as* 
-- *act for* 
-- *act on* 
-- *act quickly* 
-- *act decisively* 
+- *act responsibly* (hành động có trách nhiệm)
+- *act quickly* (hành động nhanh)
+- *act decisively* (hành động quyết đoán)
+- *act illegally* (hành động bất hợp pháp)
+- *act in good faith* (hành động thiện chí)
+- *act with caution* (hành động thận trọng)
+- *act on instinct* (hành động theo bản năng)
+- *act under pressure* (hành động dưới áp lực)
+- *act in self-defense* (hành động tự vệ)
+- *act without permission* (hành động mà không có sự cho phép)
 ## Từ đồng nghĩa
-- *do* 
-- *perform* 
-- *behave* 
-- *play* 
+- *do* (làm)
+- *perform* (thực hiện)
+- *behave* (hành xử)
+- *take action* (hành động)
+- *move* (tiến hành)
+- *carry out* (thực hiện, triển khai)
+- *execute* (thi hành / thực hiện)
+- *conduct oneself* (hành xử, cư xử)
+- *respond* (phản ứng, ứng xử)
 ## Từ trái nghĩa
-- *behave badly* 
+- *do nothing* (không làm gì)
+- *remain passive* (ở thế thụ động)
+- *hesitate* (do dự)
+- *behave badly* (hành xử xấu)
+- *ignore* (phớt lờ / không quan tâm)
+- *refuse to act* (từ chối hành động)
+- *stay inactive* (ở trạng thái không hoạt động)
+- *fail to respond* (không phản ứng)
+- *avoid responsibility* (tránh trách nhiệm)
 ## Word family
-- *act* (v) 
-- *action* (n) 
-- *actor* (n) 
-- *acting* (v) 
+- *act* (v) (hành động)
+- *action* (n) (hành động, hành vi)
+- *actor* (n) (diễn viên)
+- *acting* (v) (đóng vai)
+- *active* (adj) (năng động / tích cực)
+- *activity* (n) (hoạt động)
 # Access
 ## Nghĩa
 1. (n) Quyền truy cập

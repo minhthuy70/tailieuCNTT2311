@@ -709,32 +709,58 @@
 
 # Act
 ## Nghĩa
-1. (v) Hành động
-2. (v) Đóng vai
+1. (v) Hành động; thực hiện một việc gì đó, đưa ra quyết định và bắt tay vào làm.
+2. (v) Đóng vai; thực hiện một vai trò hoặc hành động như một người nào đó.
+3. (n) Hành vi; một việc làm cụ thể, thường dùng trong luật, chính trị hoặc kịch.
 ## Ví dụ
-- *We must act now to save the environment.* 
+- *We must act now to save the environment.* (Chúng ta phải hành động ngay để cứu môi trường.)
+- *He acted as a mediator during the conflict.* (Anh ấy đã đóng vai người hòa giải trong cuộc xung đột.)
+- *The government acted quickly to reduce the crisis.* (Chính phủ đã hành động nhanh chóng để giảm bớt cuộc khủng hoảng.)
+- *Her act of kindness surprised everyone.* (Hành động tử tế của cô ấy đã làm mọi người ngạc nhiên.)
 ## Cấu trúc
-- *act as* (đóng vai)
-- *act for* (đóng vai)
-- *act on* (hành động)
+- *act as* (đóng vai / hành động như)
+- *act for* (đứng ra thay mặt / đại diện cho)
+- *act on* (hành động dựa trên / thực hiện theo)
+- *act out* (thể hiện bằng hành động)
+- *act up* (hành động lạ, gây rối / không đúng cách)
 ## Collocation
-- *act as* (đóng vai)
-- *act for* (đóng vai)
-- *act on* (hành động)
+- *act responsibly* (hành động có trách nhiệm)
 - *act quickly* (hành động nhanh)
 - *act decisively* (hành động quyết đoán)
+- *act illegally* (hành động bất hợp pháp)
+- *act in good faith* (hành động thiện chí)
+- *act with caution* (hành động thận trọng)
+- *act on instinct* (hành động theo bản năng)
+- *act under pressure* (hành động dưới áp lực)
+- *act in self-defense* (hành động tự vệ)
+- *act without permission* (hành động mà không có sự cho phép)
 ## Từ đồng nghĩa
 - *do* (làm)
 - *perform* (thực hiện)
 - *behave* (hành xử)
-- *play* (đóng vai)
+- *take action* (hành động)
+- *move* (chuyển động / tiến hành)
+- *carry out* (thực hiện, triển khai)
+- *execute* (thi hành / thực hiện)
+- *conduct oneself* (hành xử, cư xử)
+- *respond* (phản ứng, ứng xử)
 ## Từ trái nghĩa
+- *do nothing* (không làm gì)
+- *remain passive* (ở thế thụ động)
+- *hesitate* (do dự)
 - *behave badly* (hành xử xấu)
+- *ignore* (phớt lờ / không quan tâm)
+- *refuse to act* (từ chối hành động)
+- *stay inactive* (ở trạng thái không hoạt động)
+- *fail to respond* (không phản ứng)
+- *avoid responsibility* (tránh trách nhiệm)
 ## Word family
 - *act* (v) (hành động)
-- *action* (n) (hành động)
+- *action* (n) (hành động, hành vi)
 - *actor* (n) (diễn viên)
 - *acting* (v) (đóng vai)
+- *active* (adj) (năng động / tích cực)
+- *activity* (n) (hoạt động)
 
 # Access
 ## Nghĩa
