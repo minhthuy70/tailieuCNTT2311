@@ -2584,8 +2584,95 @@
 - *analyst* (n) (nhà phân tích)
 - *unanalysed/unanalyzed* (adj) (chưa được phân tích)
 
-
 # Annual
+## Nghĩa
+1. (adj) Hàng năm
+2. (n) Sách kỷ yếu, sách niên giám
+3. (n) Cây lâu năm, cây hàng năm
+4. (n) Động vật non 1 năm tuổi
+## Ví dụ
+- *Annual sales increased by 10% this year.*
+- *The company publishes an annual report.*
+- *Students receive their annual grades in July.*
+- *This is our 20th annual conference.*
+- *The average annual rainfall in this region is about 1,500mm.*
+## Collocation
+- *annual report* (báo cáo thường niên)
+- *annual income* (thu nhập hàng năm)
+- *annual sales* (doanh thu hàng năm)
+- *annual review* (đánh giá hàng năm)
+- *annual meeting* (họp thường niên)
+- *annual bonus* (thưởng hàng năm)
+- *annual fee* (phí thường niên)
+- *annual salary* (lương hàng năm)
+- *annual profit* (lợi nhuận hàng năm)
+- *annual event* (sự kiện thường niên)
+- *annual contribution* (đóng góp hàng năm)
+- *annual cost* (chi phí hàng năm)
+- *annual growth* (tăng trưởng hàng năm)
+- *annual inspection* (kiểm tra hàng năm)
+- *annual leave* (nghỉ phép năm)
+- *annual payment* (thanh toán hàng năm)
+- *annual rainfall* (lượng mưa hàng năm)
+- *annual review* (đánh giá hàng năm)
+- *annual statement* (báo cáo thường niên)
+- *annual subscription* (đăng ký hàng năm)
+- *annual turnover* (doanh thu hàng năm)
+- *annual wage* (lương hàng năm)
+- *an annual increase of/in...* (sự tăng hàng năm 10%/của...)
+- *once a year / every year* (mỗi năm một lần)
+- *annual report* (báo cáo thường niên)
+- *annual meeting* (cuộc họp thường niên)
+- *annual conference* (hội nghị thường niên)
+- *annual event* (sự kiện thường niên)
+- *annual budget* (ngân sách hằng năm)
+- *annual income* (thu nhập hằng năm)
+- *annual salary* (mức lương hằng năm)
+- *annual revenue* (doanh thu hằng năm)
+- *annual growth* (mức tăng trưởng hằng năm)
+- *annual rate* (tỷ lệ hằng năm)
+- *annual cost* (chi phí hằng năm)
+- *annual fee* (phí hằng năm)
+- *annual payment* (khoản thanh toán hằng năm)
+- *annual production* (sản lượng hằng năm)
+- *annual leave* (nghỉ phép hằng năm)
+- *annual review* (đánh giá hằng năm)
+- *annual average* (mức trung bình hằng năm)
+- *annual increase* (mức tăng hằng năm)
+- *annual decrease* (mức giảm hằng năm)
+- *annual subscription* (gói đăng ký hằng năm)
+
+## Từ đồng nghĩa
+- *yearly* (adj) (hàng năm)
+- *yearbook* (n) (niên giám, sách kỷ yếu)
+- *yearling* (n) (động vật non 1 năm tuổi)
+- *yearly* (hằng năm)
+- *per annum* (mỗi năm, hằng năm)
+- *every year* (mỗi năm)
+- *once a year* (mỗi năm một lần)
+- *year-long* (kéo dài cả năm *(tùy ngữ cảnh)*)
+- *12-month* (kéo dài 12 tháng *(tùy ngữ cảnh)*)
+
+## Từ trái nghĩa
+- *monthly* (adj) (hàng tháng)
+- *quarterly* (adj) (hàng quý)
+- *weekly* (adj) (hàng tuần)
+- *daily* (adj) (hàng ngày)
+- *daily* (hằng ngày)
+- *weekly* (hằng tuần)
+- *monthly* (hằng tháng)
+- *quarterly* (hàng quý)
+- *biannual* (hai lần mỗi năm *(khác với biennial)*)
+- *biennial* (hai năm một lần)
+
+## Word family
+- *annual* (n) (sách kỷ yếu, sách niên giám)
+- *annually* (adv) (hàng năm)
+- *annualize* (v) (quy đổi thành mức hàng năm)
+- *annualized* (adj / V3) (được quy đổi theo năm)
+- *annualization* (sự quy đổi theo năm)
+
+
 
 # Anticipate
 
