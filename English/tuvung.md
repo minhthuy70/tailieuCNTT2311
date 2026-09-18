@@ -10048,14 +10048,108 @@ Dưới đây là từ vựng **"Educate"** được biên soạn hoàn chỉnh 
 * *educated* (adj) (có học thức, được đào tạo)
 * *uneducated* (adj) (không được học hành, thất học)
 
+Dưới đây là từ vựng **"Emphasis"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # emphasis
+
 ## Nghĩa
+
+1. (n) Sự nhấn mạnh, sự chú trọng (vào một điểm, chủ đề, khía cạnh)
+2. (n) Tầm quan trọng, sự ưu tiên (được dành cho cái gì)
+3. (n) Trọng âm, ngữ điệu nhấn mạnh (trong ngữ âm, phát âm)
+4. (n) Nét nổi bật, sự làm cho dễ chú ý (trong thiết kế, nghệ thuật)
+5. (n) Sức nặng, độ quyết liệt (trong lời nói, lập luận)
+
 ## Ví dụ
+
+* *The school places a strong emphasis on practical skills alongside academic theory.*
+* *There has been a shift in emphasis towards renewable energy in recent years.*
+* *In the word 'present', the emphasis changes depending on whether it is a noun or verb.*
+* *The designer used bold colors to create a visual emphasis on the center stage.*
+* *He spoke with great emphasis, leaving no doubt about his firm intention.*
+
 ## Cấu trúc
+
+* *emphasis on/upon something* (sự nhấn mạnh / chú trọng vào cái gì)
+* *place/put/lay emphasis on something* (nhấn mạnh / đặt ưu tiên vào cái gì)
+* *shift the emphasis to something* (chuyển sự chú trọng sang cái gì)
+* *with (particular) emphasis on something* (với sự nhấn mạnh đặc biệt vào điều gì)
+* *change of emphasis* (sự thay đổi trong việc ưu tiên / nhấn mạnh)
+
 ## Collocation
+
+* *strong emphasis* (sự nhấn mạnh mạnh mẽ)
+* *particular emphasis* (sự nhấn mạnh đặc biệt)
+* *special emphasis* (sự chú trọng đặc biệt)
+* *heavy emphasis* (sự nhấn mạnh rất nhiều / đè nặng)
+* *greater emphasis* (sự chú trọng lớn hơn)
+* *increasing emphasis* (sự nhấn mạnh ngày càng tăng)
+* *main emphasis* (sự chú trọng chính)
+* *primary emphasis* (sự ưu tiên / nhấn mạnh hàng đầu)
+* *undue emphasis* (sự chú trọng quá mức / không cần thiết)
+* *overdue emphasis* (sự nhấn mạnh muộn màng)
+* *unusual emphasis* (sự nhấn mạnh bất thường)
+* *fresh emphasis* (sự chú trọng mới)
+* *renewed emphasis* (sự nhấn mạnh được tái khởi động / củng cố)
+* *dual emphasis* (sự chú trọng kép / vào hai khía cạnh)
+* *equal emphasis* (sự nhấn mạnh ngang nhau)
+* *place emphasis* (đặt sự nhấn mạnh)
+* *put emphasis* (đặt sự chú trọng)
+* *lay emphasis* (dành sự chú trọng)
+* *shift emphasis* (chuyển dịch sự chú trọng)
+* *receive emphasis* (nhận được sự chú trọng)
+* *deserve emphasis* (đáng được nhấn mạnh)
+* *lack emphasis* (thiếu sự nhấn mạnh)
+* *add emphasis* (thêm sự nhấn mạnh)
+* *reflect emphasis* (phản ánh sự chú trọng)
+* *change emphasis* (thay đổi sự chú trọng)
+* *emphasis on quality* (chú trọng vào chất lượng)
+* *emphasis on safety* (nhấn mạnh vào sự an toàn)
+* *emphasis on education* (chú trọng vào giáo dục)
+* *emphasis on prevention* (nhấn mạnh vào việc phòng ngừa)
+* *emphasis on research* (chú trọng vào nghiên cứu)
+* *emphasis on innovation* (nhấn mạnh vào sự đổi mới)
+* *emphasis on sustainability* (chú trọng vào sự phát triển bền vững)
+* *emphasis on teamwork* (nhấn mạnh vào làm việc nhóm)
+* *emphasis on performance* (chú trọng vào hiệu suất)
+* *emphasis on accountability* (nhấn mạnh vào trách nhiệm giải trình)
+* *emphasis on customer service* (chú trọng vào dịch vụ khách hàng)
+* *emphasis on individual needs* (nhấn mạnh vào nhu cầu cá nhân)
+* *emphasis on practical application* (chú trọng vào ứng dụng thực tế)
+* *emphasis on skill development* (nhấn mạnh vào phát triển kỹ năng)
+* *emphasis on environmental protection* (chú trọng vào bảo vệ môi trường)
+* *a shift of emphasis* (một sự chuyển dịch trọng tâm)
+* *for the sake of emphasis* (để nhằm mục đích nhấn mạnh)
+* *with added emphasis* (với sự nhấn mạnh bổ sung)
+* *spoken with emphasis* (được nói một cách nhấn giọng / quyết liệt)
+* *tonal emphasis* (ngữ điệu nhấn mạnh)
+
 ## Từ đồng nghĩa
+
+* *stress* (sự nhấn mạnh, trọng âm)
+* *importance* (tầm quan trọng)
+* *priority* (sự ưu tiên)
+* *weight* (sức nặng, độ quan trọng)
+* *highlight* (điểm nổi bật, sự làm nổi bật)
+* *prominence* (sự nổi trội, vị trí quan trọng)
+* *accent* (trọng âm, sự nhấn giọng)
+
 ## Từ trái nghĩa
+
+* *understatement* (sự nói giảm nói tránh, coi nhẹ)
+* *ignorance* (sự phớt lờ, không chú ý)
+* *neglect* (sự bỏ mặc, xao nhãng)
+* *insignificance* (sự không quan trọng / không đáng kể)
+* *disregard* (sự coi thường, bất chấp)
+
 ## Word family
+
+* *emphasis* (n) (sự nhấn mạnh, sự chú trọng)
+* *emphasize* (v) (nhấn mạnh, làm nổi bật)
+* *emphatic* (adj) (dứt khoát, mạnh mẽ, nhấn mạnh)
+* *emphatically* (adv) (một cách dứt khoát, mạnh mẽ)
+* *de-emphasize* (v) (giảm bớt sự chú trọng / coi nhẹ)
+* *re-emphasize* (v) (nhấn mạnh lại, tái khẳng định)
 
 # endure
 ## Nghĩa
