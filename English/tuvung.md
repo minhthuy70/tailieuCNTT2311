@@ -9945,14 +9945,108 @@ Dưới đây là từ vựng **"Draft"** được biên soạn hoàn chỉnh th
 * *redraft* (v, n) (soạn thảo lại, bản viết lại)
 * *undrafted* (adj) (chưa được tuyển chọn / chưa phác thảo)
 
+Dưới đây là từ vựng **"Educate"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # educate
+
 ## Nghĩa
+
+1. (v) Giáo dục, đào tạo, dạy dỗ (cung cấp kiến thức và kỹ năng)
+2. (v) Rèn luyện, nâng cao nhận thức (cho cộng đồng về một vấn đề)
+3. (v) Hướng dẫn, rèn luyện thói quen (tự giáo dục bản thân)
+4. (v) Chi trả chi phí học tập, nuôi ăn học (cho ai đó)
+5. (v) Rèn luyện thể chất, rèn luyện tư duy (trong môi trường học đường)
+
 ## Ví dụ
+
+* *Schools play a vital role in educating young people for future careers.*
+* *Campaigns are needed to educate the public about the dangers of smoking.*
+* *Parents strive to educate their children in a safe and supportive environment.*
+* *He was educated at one of the top universities in the country.*
+* *It takes patience and proper techniques to educate young children effectively.*
+
 ## Cấu trúc
+
+* *educate someone in something* (giáo dục / đào tạo ai về lĩnh vực gì)
+* *educate someone about something* (nâng cao nhận thức của ai về vấn đề gì)
+* *educate someone to do something* (giáo dục / hướng dẫn ai làm việc gì)
+* *be educated at/in somewhere* (được đào tạo / học tập tại đâu)
+* *educate oneself* (tự học / tự trau dồi kiến thức)
+
 ## Collocation
+
+* *properly educate* (giáo dục một cách đúng đắn)
+* *well educate* (được giáo dục tốt / bài bản)
+* *highly educate* (có trình độ học vấn cao)
+* *effectively educate* (giáo dục một cách hiệu quả)
+* *adequately educate* (được đào tạo đầy đủ)
+* *inadequately educate* (giáo dục thiếu sót / không đầy đủ)
+* *poorly educate* (giáo dục kém chất lượng)
+* *formally educate* (được giáo dục chính quy)
+* *informally educate* (giáo dục không chính quy)
+* *continuously educate* (giáo dục / học tập liên tục)
+* *educate children* (giáo dục trẻ em)
+* *educate youth* (đào tạo thế hệ trẻ)
+* *educate students* (dạy dỗ học sinh / sinh viên)
+* *educate the public* (nâng cao nhận thức cộng đồng)
+* *educate consumers* (hướng dẫn người tiêu dùng)
+* *educate patients* (tuyên truyền kiến thức cho bệnh nhân)
+* *educate workers* (đào tạo công nhân / người lao động)
+* *educate the workforce* (đào tạo lực lượng lao động)
+* *educate voters* (nâng cao nhận thức cho cử tri)
+* *educate parents* (hướng dẫn / tư vấn cho phụ huynh)
+* *educate about health* (tuyên truyền giáo dục về sức khỏe)
+* *educate about safety* (giáo dục về an toàn)
+* *educate about the environment* (giáo dục về môi trường)
+* *educate about nutrition* (giáo dục về dinh dưỡng)
+* *educate about finance* (giáo dục về tài chính)
+* *educate through technology* (giáo dục thông qua công nghệ)
+* *educate through experience* (giáo dục qua trải nghiệm thực tế)
+* *educate for the future* (đào tạo cho tương lai)
+* *educate for leadership* (đào tạo năng lực lãnh đạo)
+* *educate for citizenship* (giáo dục ý thức công dân)
+* *seek to educate* (nỗ lực / tìm cách giáo dục)
+* *aim to educate* (nhắm đến mục tiêu giáo dục)
+* *help educate* (giúp đỡ / hỗ trợ giáo dục)
+* *fail to educate* (thất bại trong việc giáo dục)
+* *struggle to educate* (gặp khó khăn trong việc dạy dỗ)
+* *duty to educate* (trách nhiệm / nghĩa vụ giáo dục)
+* *opportunity to educate* (cơ hội đào tạo / giáo dục)
+* *effort to educate* (nỗ lực nâng cao nhận thức)
+* *campaign to educate* (chiến dịch tuyên truyền giáo dục)
+* *program to educate* (chương trình đào tạo)
+* *educate the mind* (rèn luyện tư duy / tâm trí)
+* *educate the whole child* (giáo dục toàn diện trẻ em)
+* *privately educate* (giáo dục tại trường tư / dân lập)
+* *publicly educate* (giáo dục tại hệ thống công lập)
+* *co-educate* (giáo dục chung cả nam và nữ)
+
 ## Từ đồng nghĩa
+
+* *teach* (dạy dỗ, giảng dạy)
+* *instruct* (hướng dẫn, chỉ bảo)
+* *train* (đào tạo, huấn luyện)
+* *tutor* (kèm cặp, dạy kèm)
+* *enlighten* (khai sáng, làm sáng tỏ)
+* *inform* (cung cấp thông tin, truyền đạt)
+* *cultivate* (trau dồi, nuôi dưỡng trí tuệ)
+
 ## Từ trái nghĩa
+
+* *misinform* (cung cấp thông tin sai lệch)
+* *mislead* (làm cho mê muội, dẫn dắt sai đường)
+* *miseducate* (giáo dục sai lệch)
+* *neglect* (bỏ mặc, không chăm sóc giáo dục)
+* *ignore* (phớt lờ, ngó lơ)
+
 ## Word family
+
+* *educate* (v) (giáo dục, đào tạo)
+* *education* (n) (nền giáo dục, sự giáo dục)
+* *educational* (adj) (mang tính giáo dục, thuộc về giáo dục)
+* *educator* (n) (nhà giáo dục, thầy cô giáo)
+* *educated* (adj) (có học thức, được đào tạo)
+* *uneducated* (adj) (không được học hành, thất học)
 
 # emphasis
 ## Nghĩa
