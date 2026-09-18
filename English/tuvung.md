@@ -10412,14 +10412,108 @@ enormously (adv) (cực kỳ, vô cùng, hết sức)
 
 enormity (n) (sự tột cùng / tính chất nghiêm trọng, sự to lớn khổng lồ)
 
+Dưới đây là từ vựng **"Equity"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # equity
+
 ## Nghĩa
+
+1. (n) Sự công bằng, tính bình đẳng (trong phân bổ nguồn lực, cơ hội)
+2. (n) Vốn chủ sở hữu, giá trị thuần của tài sản (trong tài chính, kế toán)
+3. (n) Cổ phần, cổ phiếu phổ thông (trong thị trường chứng khoán)
+4. (n) Giá trị thực tế của bất động sản (sau khi trừ đi khoản vay thế chấp)
+5. (n) Luật công bình (hệ thống pháp luật bổ sung cho luật thông thường)
+
 ## Ví dụ
+
+* *The government is committed to promoting social equity and reducing poverty.*
+* *The company plans to raise capital by issuing new equity to investors.*
+* *He built up significant equity in his home after paying off the mortgage.*
+* *Promoting gender equity in the workplace leads to better economic outcomes.*
+* *Decisions made in the court of equity focus on fairness and justice.*
+
 ## Cấu trúc
+
+* *equity in/among something* (sự công bằng trong / giữa cái gì)
+* *promote/strive for equity* (thúc đẩy / phấn đấu cho sự công bằng)
+* *equity market/financing* (thị trường / hình thức huy động vốn cổ phần)
+* *brand/home equity* (giá trị thương hiệu / giá trị thuần bất động sản)
+* *issue/trade equity* (phát hành / giao dịch cổ phần)
+
 ## Collocation
+
+* *social equity* (công bằng xã hội)
+* *gender equity* (bình đẳng giới)
+* *racial equity* (công bằng chủng tộc)
+* *educational equity* (công bằng trong giáo dục)
+* *health equity* (công bằng trong chăm sóc sức khỏe)
+* *economic equity* (công bằng kinh tế)
+* *intergenerational equity* (công bằng giữa các thế hệ)
+* *brand equity* (giá trị thương hiệu)
+* *home equity* (giá trị tài sản nhà ở sau thế chấp)
+* *private equity* (vốn tư nhân / đầu tư tư nhân)
+* *owner's equity* (vốn chủ sở hữu)
+* *shareholder equity* (vốn cổ đông)
+* *sweat equity* (vốn công sức / giá trị tạo ra từ lao động)
+* *equity market* (thị trường cổ phiếu)
+* *equity capital* (vốn cổ phần)
+* *equity financing* (huy động vốn bằng cổ phần)
+* *equity share* (cổ phiếu phổ thông)
+* *equity stake* (tỷ lệ sở hữu cổ phần)
+* *equity ratio* (tỷ lệ vốn chủ sở hữu)
+* *equity fund* (quỹ đầu tư cổ phiếu)
+* *promote equity* (thúc đẩy sự công bằng)
+* *achieve equity* (đạt được sự công bằng)
+* *ensure equity* (đảm bảo tính công bằng)
+* *advance equity* (đẩy mạnh sự công bằng)
+* *strive for equity* (phấn đấu vì sự công bằng)
+* *improve equity* (cải thiện sự công bằng)
+* *build equity* (tích lũy vốn chủ sở hữu / giá trị tài sản)
+* *raise equity* (huy động vốn cổ phần)
+* *issue equity* (phát hành cổ phiếu)
+* *inject equity* (bơm vốn chủ sở hữu)
+* *lack of equity* (sự thiếu công bằng)
+* *commitment to equity* (cam kết đối với sự công bằng)
+* *principle of equity* (nguyên tắc công bằng)
+* *pursuit of equity* (sự theo đuổi tính công bằng)
+* *issue of equity* (vấn đề về tính công bằng)
+* *equity in education* (công bằng trong giáo dục)
+* *equity in access* (công bằng trong tiếp cận)
+* *equity in distribution* (công bằng trong phân phối)
+* *equity in healthcare* (công bằng trong y tế)
+* *equity in taxation* (công bằng trong thuế khóa)
+* *home equity loan* (khoản vay thế chấp bằng giá trị nhà)
+* *private equity firm* (công ty đầu tư vốn tư nhân)
+* *return on equity* (tỷ suất lợi nhuận trên vốn chủ sở hữu - ROE)
+* *debt to equity ratio* (tỷ lệ nợ trên vốn chủ sở hữu)
+* *negative equity* (nợ vượt giá trị tài sản)
+
 ## Từ đồng nghĩa
+
+* *fairness* (sự công bằng, vô tư)
+* *impartiality* (tính khách quan, không thiên vị)
+* *justice* (sự công lý, chính trực)
+* *equality* (sự bình đẳng về cơ hội/điều kiện)
+* *assets* (tài sản, vốn)
+* *shares* (cổ phiếu, cổ phần)
+* *capital* (nguồn vốn)
+
 ## Từ trái nghĩa
+
+* *inequity* (sự bất công, không bình đẳng)
+* *unfairness* (sự thiếu công bằng)
+* *bias* (sự thiên vị, thành kiến)
+* *prejudice* (sự định kiến, thiên vị)
+* *debt* (khoản nợ, nghĩa vụ tài chính)
+
 ## Word family
+
+* *equity* (n) (sự công bằng, vốn chủ sở hữu, cổ phần)
+* *equitable* (adj) (công bằng, hợp lý, không thiên vị)
+* *equitably* (adv) (một cách công bằng, hợp lý)
+* *inequity* (n) (sự bất công, sự không bình đẳng)
+* *inequitable* (adj) (bất công, không hợp lý)
+* *inequitably* (adv) (một cách bất công, không bình đẳng)y
 
 # evolve
 ## Nghĩa
