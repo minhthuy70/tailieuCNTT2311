@@ -8902,15 +8902,13 @@
 - *scatter* (rải rác, gieo rắc)
 - *dissipate* (phung phí, phân tán dần)
 - *dilute* (pha loãng, làm giảm bớt)
-
 ## Word family
-
-* *concentrate* (v) (tập trung, cô đặc)
-* *concentration* (n) (sự tập trung, nồng độ, mật độ)
-* *concentrated* (adj) (tập trung, cô đặc, tăng cường)
-* *concentrative* (adj) (có khả năng / có tính chất tập trung)
-* *concentrator* (n) (thiết bị cô đặc, bộ tập trung)
-* *unconcentrated* (adj) (không tập trung, không cô đặc) 
+- *concentrate* (v) (tập trung, cô đặc)
+- *concentration* (n) (sự tập trung, nồng độ, mật độ)
+- *concentrated* (adj) (tập trung, cô đặc, tăng cường)
+- *concentrative* (adj) (có khả năng / có tính chất tập trung)
+- *concentrator* (n) (thiết bị cô đặc, bộ tập trung)
+- *unconcentrated* (adj) (không tập trung, không cô đặc) 
 
 # confrontation
 ## Nghĩa
