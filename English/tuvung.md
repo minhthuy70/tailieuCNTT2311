@@ -8579,12 +8579,83 @@
 
 # communicate
 ## Nghĩa
+1. (v) Giao tiếp, truyền đạt
+2. (v) Truyền bệnh, lây nhiễm
+3. (v) Lan truyền (thông tin, cảm xúc, v.v.)
+4. (v) Trao đổi, chia sẻ
+5. (v) Truyền đạt (tín hiệu, thông điệp, v.v.)
 ## Ví dụ
+- *They communicate through email.*
+- *The virus communicates through airborne droplets.*
+- *Her ideas communicate well to the audience.*
+- *They communicate their thoughts and feelings.*
+- *The system communicates through a series of lights.*
 ## Cấu trúc
+- *communicate with someone* (giao tiếp với ai)
+- *communicate with someone about something* (giao tiếp với ai về điều gì)
+- *communicate with someone in something* (giao tiếp với ai bằng phương tiện gì)
 ## Collocation
+- *verbally communicate* (giao tiếp bằng lời nói)
+- *non-verbally communicate* (giao tiếp phi ngôn ngữ)
+- *communicate with each other* (giao tiếp với nhau)
+- *communicate with each other in writing/verbally/nonverbally* (giao tiếp với nhau bằng chữ viết/nói/phi ngôn ngữ)
+- *communicate with each other in person/by phone/by email/online* (giao tiếp với nhau trực tiếp/qua điện thoại/qua email/trực tuyến)
+- *communicate with each other effectively* (giao tiếp với nhau hiệu quả)
+- *communicate with each other clearly* (giao tiếp với nhau rõ ràng)
+- *communicate with each other regularly* (giao tiếp với nhau thường xuyên)
+- *communicate with each other openly* (giao tiếp với nhau cởi mở)
+- *communicate with each other honestly* (giao tiếp với nhau trung thực)
+- *communicate with each other respectfully* (giao tiếp với nhau tôn trọng)
+- *communicate with each other friendly* (giao tiếp với nhau thân thiện)
+- *communicate with each other politely* (giao tiếp với nhau lịch sự)
+- *communicate with each other happily* (giao tiếp với nhau vui vẻ)
+- *communicate with each other sadly* (giao tiếp với nhau buồn bã)
+- *communicate with each other angrily* (giao tiếp với nhau giận dữ)
+- *communicate with each other fearfully* (giao tiếp với nhau sợ hãi)
+- *communicate with each other excitedly* (giao tiếp với nhau phấn khích)
+- *verbally communicate* (giao tiếp bằng lời nói)
+- *communicate with someone* (giao tiếp với ai)
+- *communicate effectively* (giao tiếp hiệu quả)
+- *communicate clearly* (giao tiếp / truyền đạt rõ ràng)
+- *communicate directly* (giao tiếp trực tiếp)
+- *communicate effectively with customers* (giao tiếp hiệu quả với khách hàng)
+- *communicate with colleagues* (giao tiếp với đồng nghiệp)
+- *communicate with clients* (giao tiếp với khách hàng)
+- *communicate with employees* (giao tiếp với nhân viên)
+- *communicate with the public* (giao tiếp với công chúng)
+- *communicate information* (truyền đạt thông tin)
+- *communicate a message* (truyền tải một thông điệp)
+- *communicate an idea* (truyền đạt một ý tưởng)
+- *communicate a feeling* (truyền đạt một cảm xúc)
+- *communicate a decision* (thông báo / truyền đạt một quyết định)
+- *communicate a policy* (truyền đạt một chính sách)
+- *communicate expectations* (truyền đạt những kỳ vọng)
+- *communicate concerns* (trình bày / truyền đạt những mối quan ngại)
+- *communicate instructions* (truyền đạt hướng dẫn)
+- *communicate verbally* (giao tiếp bằng lời nói)
+- *communicate in writing* (giao tiếp bằng văn bản)
+- *communicate by email* (giao tiếp qua email)
+- *communicate through social media* (giao tiếp qua mạng xã hội)
+- *communicate openly* (giao tiếp cởi mở)
+- *communicate regularly* (giao tiếp thường xuyên)
 ## Từ đồng nghĩa
+- *talk to* (nói chuyện với)
+- *speak to* (nói với)
+- *converse with* (trò chuyện với)
+- *interact with* (tương tác với)
+- *liaise with* (liên lạc với)
 ## Từ trái nghĩa
+- *ignore* (phớt lờ)
+- *neglect* (bỏ mặc)
+- *avoid* (tránh)
 ## Word family
+- *communicate* (v) (giao tiếp; truyền đạt; truyền thông tin)
+- *communication* (n) (sự giao tiếp; sự truyền đạt; thông tin liên lạc)
+- *communicative* (adj) (có khả năng giao tiếp; thích giao tiếp)
+- *communicator* (n) (người giao tiếp/truyền đạt)
+- *communicatively* (adv) (theo cách giao tiếp/truyền đạt)
+- *communicated* (adj / V3) (được truyền đạt; được thông báo)
+
 
 # compile
 ## Nghĩa
