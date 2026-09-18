@@ -9260,12 +9260,88 @@
 
 # crucial
 ## Nghĩa
+1. (adj) Quan trọng, cốt yếu, mang tính quyết định (đến kết quả của sự việc)
+2. (adj) Mang tính then chốt, sống còn (cho sự tồn tại hay phát triển)
+3. (adj) Nghiêm trọng, cấp bách (cần được giải quyết ngay)
+4. (adj) Định đoạt, mang tính chất bước ngoặt (trong lịch sử hay sự nghiệp)
+5. (adj) Không thể thiếu, bắt buộc phải có (để hoàn thành một mục tiêu)
 ## Ví dụ
+- *Early diagnosis plays a crucial role in the successful treatment of cancer.*
+- *Effective communication is crucial for maintaining strong business relationships.*
+- *The government has reached a crucial stage in negotiations with foreign investors.*
+- *Access to clean water is crucial for human survival and community health.*
+- *Making the right choice at this moment will be crucial to your future career.*
 ## Cấu trúc
+- *crucial for someone/something* (quan trọng / cốt yếu đối với ai / cái gì)
+- *crucial to something* (mang tính quyết định / sống còn đối với điều gì)
+- *it is crucial that + clause (V-bare)* (điều cốt yếu là [ai đó làm gì])
+- *it is crucial to do something* (thật sự quan trọng khi làm điều gì)
+- *play a crucial role/part in something* (đóng một vai trò cốt yếu trong cái gì)
 ## Collocation
+- *crucial role* (vai trò cốt yếu / then chốt)
+- *crucial factor* (yếu tố quyết định)
+- *crucial element* (thành tố quan trọng)
+- *crucial decision* (quyết định mang tính định đoạt)
+- *crucial issue* (vấn đề cốt yếu / nghiêm trọng)
+- *crucial point* (điểm then chốt)
+- *crucial stage* (giai đoạn quyết định)
+- *crucial moment* (khoảnh khắc mang tính bước ngoặt)
+- *crucial aspect* (khía cạnh quan trọng)
+- *crucial importance* (tầm quan trọng sống còn)
+- *crucial step* (bước đi then chốt)
+- *crucial phase* (thời kỳ quan trọng)
+- *crucial difference* (sự khác biệt mang tính quyết định)
+- *crucial feature* (đặc điểm cốt yếu)
+- *crucial component* (bộ phận không thể thiếu)
+- *crucial information* (thông tin mang tính quyết định)
+- *crucial evidence* (bằng chứng then chốt)
+- *crucial link* (mắt xích quan trọng)
+- *crucial distinction* (sự phân biệt cốt yếu)
+- *crucial detail* (chi tiết quan trọng)
+- *crucial question* (câu hỏi mang tính định đoạt)
+- *crucial contribution* (sự đóng góp cốt yếu)
+- *crucial finding* (phát hiện quan trọng trong nghiên cứu)
+- *crucial junction* (giao điểm / thời điểm bước ngoặt)
+- *crucial strategic move* (nước đi chiến lược then chốt)
+- *absolutely crucial* (tuyệt đối quan trọng)
+- *extremely crucial* (cực kỳ cốt yếu)
+- *particularly crucial* (đặc biệt quan trọng)
+- *vital and crucial* (sống còn và cốt yếu)
+- *prove crucial* (chứng minh là mang tính quyết định)
+- *remain crucial* (vẫn giữ vai trò quan trọng)
+- *become crucial* (trở nên cốt yếu)
+- *consider something crucial* (coi cái gì là quan trọng)
+- *deem something crucial* (đánh giá cái gì là cốt yếu)
+- *crucial for survival* (sống còn cho sự tồn tại)
+- *crucial for success* (quyết định sự thành công)
+- *crucial for development* (cốt yếu cho sự phát triển)
+- *crucial to the economy* (mang tính quyết định đối với nền kinh tế)
+- *crucial to national security* (sống còn đối với an ninh quốc gia)
+- *crucial to future generations* (quan trọng đối với thế hệ tương lai)
+- *crucial in shaping policy* (quan trọng trong việc định hình chính sách)
+- *crucial in preventing disease* (cốt yếu trong việc phòng ngừa bệnh tật)
+- *crucial parameter* (thông số quan trọng)
+- *crucial variable* (biến số quyết định)
+- *crucial turning point* (bước ngoặt mang tính quyết định)
 ## Từ đồng nghĩa
+- *vital* (sống còn, vô cùng quan trọng)
+- *essential* (thiết yếu, bắt buộc phải có)
+- *critical* (mang tính quyết định, then chốt)
+- *pivotal* (trọng tâm, nòng cốt)
+- *decisive* (dứt khoát, mang tính định đoạt)
+- *paramount* (tối quan trọng, có tầm ảnh hưởng lớn nhất)
+- *indispensable* (không thể thiếu được)
 ## Từ trái nghĩa
+- *unimportant* (không quan trọng)
+- *insignificant* (không đáng kể, không có giá trị)
+- *trivial* (tầm thường, vụn vặt)
+- *minor* (nhỏ, thứ yếu)
+- *marginal* (ít quan trọng, nằm ở rìa)
 ## Word family
+- *crucial* (adj) (quan trọng, cốt yếu, mang tính quyết định)
+- *crucially* (adv) (một cách quan trọng, có tính chất quyết định)
+- *crucialness* (n) (tầm quan trọng cốt yếu / tính chất then chốt)
+- *uncrucial* (adj) (không mang tính quyết định, không cốt yếu)
 
 # dictate
 ## Nghĩa
