@@ -10254,14 +10254,163 @@ Dưới đây là từ vựng **"Endure"** được biên soạn hoàn chỉnh t
 * *unendurable* (adj) (không thể chịu đựng nổi)
 * *enduringly* (adv) (một cách lâu bền / trường tồn)
 
-# enormous
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
+enormous
+Nghĩa
+(adj) To lớn, khổng lồ, vô cùng to lớn (về kích thước, quy mô, số lượng)
+
+(adj) Rất lớn, cực kỳ quan trọng (về tầm ảnh hưởng, ý nghĩa, tác động)
+
+(adj) Rất nhiều, cực kỳ dồi dào (về chi phí, tiềm năng, nguồn lực)
+
+(adj) Rất nặng nề, cực kỳ lớn (về áp lực, trách nhiệm, thách thức)
+
+(adj) Rất rộng lớn, mênh mông (về không gian, diện tích)
+
+Ví dụ
+The expansion project required an enormous amount of investment and resources.
+
+Technological advancements have had an enormous impact on modern society.
+
+The company faces an enormous challenge in adapting to new environmental regulations.
+
+An enormous crowd gathered in the main square to celebrate the festival.
+
+She carries an enormous responsibility as the chief chief executive officer.
+
+Cấu trúc
+enormous amount of something (số lượng cực kỳ lớn cái gì - không đếm được)
+
+enormous number of something (số lượng cực kỳ lớn cái gì - đếm được)
+
+enormous impact/effect on something (tác động / ảnh hưởng cực kỳ lớn đối với cái gì)
+
+be of enormous importance/value (có tầm quan trọng / giá trị cực kỳ lớn)
+
+enormous in scale/size/scope (khổng lồ về quy mô / kích thước / phạm vi)
+
+Collocation
+enormous amount (số lượng khổng lồ)
+
+enormous number (con số khổng lồ)
+
+enormous impact (tác động khổng lồ)
+
+enormous effect (ảnh hưởng cực kỳ lớn)
+
+enormous success (thành công rực rỡ / khổng lồ)
+
+enormous potential (tiềm năng vô cùng lớn)
+
+enormous challenge (thách thức cực kỳ lớn)
+
+enormous pressure (áp lực nặng nề / rất lớn)
+
+enormous cost (chi phí cực kỳ tốn kém)
+
+enormous value (giá trị cực kỳ lớn)
+
+enormous importance (tầm quan trọng đặc biệt lớn)
+
+enormous benefit (lợi ích cực kỳ lớn)
+
+enormous contribution (sự đóng góp to lớn)
+
+enormous influence (sự ảnh hưởng cực kỳ sâu rộng)
+
+enormous difficulty (khó khăn vô cùng lớn)
+
+enormous effort (nỗ lực phi thường / rất lớn)
+
+enormous energy (năng lượng dồi dào / khổng lồ)
+
+enormous enthusiasm (sự nhiệt huyết rất lớn)
+
+enormous growth (sự phát triển vượt bậc / khổng lồ)
+
+enormous scale (quy mô khổng lồ)
+
+enormous size (kích thước khổng lồ)
+
+enormous change (sự thay đổi cực kỳ lớn)
+
+enormous power (quyền lực / sức mạnh khổng lồ)
+
+enormous wealth (mối tài sản / của cải khổng lồ)
+
+enormous loss (mất mát / tổn thất cực kỳ lớn)
+
+enormous risk (rủi ro cực kỳ cao)
+
+enormous debt (khoản nợ khổng lồ)
+
+enormous responsibility (trách nhiệm hết sức nặng nề)
+
+enormous pressure on resources (áp lực khổng lồ lên nguồn tài nguyên)
+
+enormous technological advancement (tiến bộ công nghệ vượt bậc)
+
+enormous economic burden (gánh nặng kinh tế cực kỳ lớn)
+
+enormous environmental damage (thiệt hại môi trường nghiêm trọng / rất lớn)
+
+enormous strategic advantage (lợi thế chiến lược cực kỳ lớn)
+
+enormous social prestige (uy tín xã hội rất lớn)
+
+enormous financial strain (sự gánh nặng tài chính lớn)
+
+absolutely enormous (tuyệt đối / hoàn toàn khổng lồ)
+
+truly enormous (thực sự khổng lồ)
+
+seem enormous (dường như rất lớn)
+
+prove enormous (tỏ ra / chứng minh là rất lớn)
+
+remain enormous (vẫn duy trì ở mức rất lớn)
+
+have an enormous influence (có ảnh hưởng sâu rộng)
+
+require enormous investment (đòi hỏi sự đầu tư khổng lồ)
+
+pose an enormous threat (gây ra một mối đe dọa cực kỳ lớn)
+
+make an enormous difference (tạo ra một sự khác biệt rất lớn)
+
+offer enormous potential (mang lại tiềm năng vô cùng lớn)
+
+Từ đồng nghĩa
+huge (rất to lớn, đồ sộ)
+
+immense (bao la, rộng lớn, vô tận)
+
+massive (đồ sộ, ồ ạt, quy mô lớn)
+
+gigantic (khổng lồ như người khổng lồ)
+
+colossal (khổng lồ, vĩ đại)
+
+vast (rộng lớn, mênh mông)
+
+tremendous (ghê gớm, dữ dội, rất lớn)
+
+Từ trái nghĩa
+tiny (tí hon, rất nhỏ)
+
+miniscule (nhỏ xíu, không đáng kể)
+
+small (nhỏ, bé)
+
+slight (nhẹ, không đáng kể)
+
+negligible (không đáng kể, có thể bỏ qua)
+
+Word family
+enormous (adj) (khổng lồ, to lớn, cực kỳ nhiều)
+
+enormously (adv) (cực kỳ, vô cùng, hết sức)
+
+enormity (n) (sự tột cùng / tính chất nghiêm trọng, sự to lớn khổng lồ)
 
 # equity
 ## Nghĩa
