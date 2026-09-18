@@ -8825,163 +8825,92 @@
 
 # concentrate
 ## Nghĩa
+1. (v) Tập trung, chú ý cao độ (tư tưởng, trí óc)
+2. (v) Tập trung lực lượng, nguồn lực vào một việc
+3. (v) Dồn về một chỗ, tụ họp (dân cư, phát triển)
+4. (v) Cô đặc, làm đặc (dung dịch, chất chất lỏng)
+5. (v) Củng cố, thâu tóm (quyền lực, sự kiểm soát)
 ## Ví dụ
+- *Students need a quiet environment to concentrate on their studies.*
+- *The government decided to concentrate its resources on education reform.*
+- *Most of the population is concentrated in the coastal regions.*
+- *The juice is concentrated by removing most of its water content.*
+- *Power became increasingly concentrated in the hands of a few leaders.*
 ## Cấu trúc
+- *concentrate on something/doing something* (tập trung vào cái gì / làm gì)
+- *concentrate one's efforts/attention/mind on something* (tập trung nỗ lực / sự chú ý / trí óc vào cái gì)
+- *concentrate something in/at somewhere* (tập trung cái gì ở đâu)
+- *be concentrated in/among something* (được tập trung ở / trong nhóm nào)
+- *concentrate on the task at hand* (tập trung vào nhiệm vụ hiện tại)
 ## Collocation
+- *deeply concentrate* (tập trung sâu)
+- *hardly concentrate* (hầu như không thể tập trung)
+- *fully concentrate* (tập trung hoàn toàn)
+- *solely concentrate* (chỉ tập trung duy nhất vào)
+- *exclusively concentrate* (tập trung độc quyền / chuyên biệt)
+- *primarily concentrate* (tập trung chủ yếu)
+- *heavily concentrate* (tập trung cao độ / mật độ lớn)
+- *intensely concentrate* (tập trung mãnh liệt)
+- *concentrate attention* (tập trung sự chú ý)
+- *concentrate efforts* (tập trung các nỗ lực)
+- *concentrate resources* (tập trung nguồn lực)
+- *concentrate power* (thâu tóm / tập trung quyền lực)
+- *concentrate mind* (tập trung tâm trí)
+- *concentrate energy* (tập trung năng lượng)
+- *concentrate capital* (tập trung vốn đầu tư)
+- *concentrate workforce* (tập trung lực lượng lao động)
+- *concentrate wealth* (tập trung tài sản / của cải)
+- *concentrate research* (tập trung nghiên cứu)
+- *concentrate investment* (tập trung đầu tư)
+- *concentrate population* (tập trung dân số)
+- *concentrate authority* (tập trung thẩm quyền)
+- *concentrate influence* (tập trung sự ảnh hưởng)
+- *concentrate on study* (tập trung vào việc học)
+- *concentrate on work* (tập trung vào công việc)
+- *concentrate on priorities* (tập trung vào các ưu tiên)
+- *concentrate on core activities* (tập trung vào các hoạt động cốt lõi)
+- *concentrate on long-term goals* (tập trung vào các mục tiêu dài hạn)
+- *concentrate on key issues* (tập trung vào các vấn đề quan trọng)
+- *concentrate on problem-solving* (tập trung vào việc giải quyết vấn đề)
+- *concentrate in urban areas* (tập trung ở các khu vực đô thị)
+- *concentrate in specific regions* (tập trung ở các vùng cụ thể)
+- *concentrate within industry* (tập trung trong ngành công nghiệp)
+- *struggle to concentrate* (vật lộn / khó khăn để tập trung)
+- *fail to concentrate* (không thể tập trung)
+- *ability to concentrate* (khả năng tập trung)
+- *capacity to concentrate* (năng lực tập trung)
+- *difficulty concentrating* (sự khó khăn khi tập trung)
+- *lack of concentration* (sự thiếu tập trung)
+- *help somebody concentrate* (giúp ai đó tập trung)
+- *allow somebody to concentrate* (cho phép ai đó tập trung)
+- *require somebody to concentrate* (yeu cầu ai đó phải tập trung)
+- *concentrate firepower* (tập trung hoả lực)
+- *highly concentrated solution* (dung dịch cô đặc cao)
+- *concentrate rays of sunlight* (tập trung các tia nắng mặt trời)
+- *concentrate industry in cities* (tập trung công nghiệp tại thành phố)
 ## Từ đồng nghĩa
+- *focus* (tập trung)
+- *center* (dồn vào trung tâm, tập trung)
+- *direct* (hướng sự chú ý)
+- *converge* (hội tụ, tụ họp)
+- *consolidate* (củng cố, thâu tóm)
+- *condense* (cô đặc, ngưng tụ)
+- *cluster* (tụ lại thành cụm)
 ## Từ trái nghĩa
+- *distract* (làm xao nhãng)
+- *disperse* (phân tán, giải tán)
+- *scatter* (rải rác, gieo rắc)
+- *dissipate* (phung phí, phân tán dần)
+- *dilute* (pha loãng, làm giảm bớt)
+
 ## Word family
 
-# communicate
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
-
-# compile
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
-
-# conceive
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
-
-# concentrate
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
-| argue a case                     | trình bày / lập luận cho một vụ việc |
-| argue a point                    | lập luận cho một quan điểm           |
-| argue the case for something     | đưa ra lập luận ủng hộ điều gì       |
-| argue the case against something | đưa ra lập luận phản đối điều gì     |
-| strongly argue                   | lập luận mạnh mẽ                     |
-| successfully argue               | lập luận thành công                  |
-| reasonably argue                 | lập luận hợp lý                      |
-| argue convincingly               | lập luận một cách thuyết phục        |
-| argue persuasively               | lập luận có sức thuyết phục          |
-| argue that there is...           | lập luận rằng có...                  |
-| argue that something should...   | lập luận rằng điều gì nên...         |
-| argue in favor of something      | lập luận ủng hộ điều gì              |
-| argue on the basis of something  | lập luận dựa trên điều gì            |
-
-## Từ đồng nghĩa
-- *debate* (tranh luận)
-- *dispute* (tranh cãi)
-- *discuss* (thảo luận)
-## Từ trái nghĩa
-- *agree* (đồng ý)
-- *concur* (đồng ý, nhất trí)
-- *assent* (tán thành)
-- *concede* (thừa nhận)
-## Word family
-- *argue* (v) (tranh luận, lập luận)
-- *argued* (adj) (được tranh luận)
-- *argument* (n) (cuộc tranh luận, lập luận)
-- *argumentative* (adj) (hay cãi cọ)
-- *arguable* (adj) (có thể tranh luận)
-- *arguably* (adv) (có thể cho rằng)
-
-# besides
-## Nghĩa
-1. Ngoài ra, thêm vào đó
-2. Hơn nữa
-3. Ngoài ai/cái gì
-## Ví dụ
-
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
-
-# charge
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
-
-# clergy
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
-
-# collective
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
-
-# collide
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
-
-# communicate
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
-
-# compile
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
-
-# conceive
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
-
-# concentrate
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
+* *concentrate* (v) (tập trung, cô đặc)
+* *concentration* (n) (sự tập trung, nồng độ, mật độ)
+* *concentrated* (adj) (tập trung, cô đặc, tăng cường)
+* *concentrative* (adj) (có khả năng / có tính chất tập trung)
+* *concentrator* (n) (thiết bị cô đặc, bộ tập trung)
+* *unconcentrated* (adj) (không tập trung, không cô đặc) 
 
 # confrontation
 ## Nghĩa
