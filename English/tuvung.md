@@ -9345,12 +9345,90 @@
 
 # dictate
 ## Nghĩa
+1. (v) Đọc cho người khác chép, đọc (văn bản) để máy ghi âm lại
+2. (v) Ra lệnh, quy định, bắt buộc (mọi người phải tuân theo)
+3. (v) Chi phối, định đoạt, quyết định (kết quả, hướng đi của sự việc)
+4. (v) Áp đặt (ý kiến, lối sống, điều kiện lên người khác)
+5. (n) Lời mệnh lệnh, tiếng gọi (của trái tim, lương tâm, lý trí)
 ## Ví dụ
+- *The manager dictated a letter to his assistant over the phone.*
+- *Rules dictate that all participants must wear protective gear at all times.*
+- *Market demand heavily dictates the price of consumer goods.*
+- *Parents should not dictate what career path their children ought to choose.*
+- *He always follows the dictates of his conscience, regardless of the consequences.*
 ## Cấu trúc
+- *dictate something to someone* (đọc cái gì cho ai chép)
+- *dictate to someone that + clause* (ra lệnh / quy định với ai rằng...)
+- *dictate how/what/why...* (chi phối / quyết định cái gì / như thế nào)
+- *be dictated by something* (được quyết định / chi phối bởi cái gì)
+- *dictate terms/conditions to someone* (áp đặt các điều khoản lên ai)
 ## Collocation
+- *heavily dictate* (chi phối mạnh mẽ)
+- *largely dictate* (phần lớn quyết định / chi phối)
+- *strictly dictate* (quy định / kiểm soát một cách nghiêm ngặt)
+- *directly dictate* (trực tiếp định đoạt)
+- *indirectly dictate* (gián tiếp chi phối)
+- *solely dictate* (độc quyền chi phối / chỉ do một bên quyết định)
+- *dictate policy* (quy định / định hình chính sách)
+- *dictate terms* (áp đặt các điều khoản)
+- *dictate conditions* (quy định / áp đặt các điều kiện)
+- *dictate pace* (quy định / kiểm soát nhịp độ)
+- *dictate trends* (định hình các xu hướng)
+- *dictate outcomes* (định đoạt kết quả)
+- *dictate behavior* (chi phối hành vi)
+- *dictate choices* (chi phối sự lựa chọn)
+- *dictate actions* (quy định các hành động)
+- *dictate rules* (áp đặt quy tắc)
+- *dictate prices* (chi phối / áp đặt giá cả)
+- *dictate priorities* (quy định các ưu tiên)
+- *dictate fashion* (định hình thời trang)
+- *dictate future* (định đoạt tương lai)
+- *dictate terms of agreement* (áp đặt các điều khoản của thỏa thuận)
+- *dictate the course of events* (chi phối tiến trình diễn biến sự việc)
+- *dictate law* (ban hành / bắt buộc áp dụng luật pháp)
+- *dictate schedule* (quy định / chi phối lịch trình)
+- *dictate strategy* (định hình chiến lược)
+- *dictate lifestyle* (chi phối lối sống)
+- *dictate taste* (định hình thị hiếu)
+- *dictate response* (quy định cách phản ứng)
+- *dictate direction* (định hướng / quyết định hướng đi)
+- *dictate curriculum* (quy định chương trình giảng dạy)
+- *dictate standard* (áp đặt các tiêu chuẩn)
+- *dictate tone* (chi phối tông giọng / bầu không khí)
+- *dictate tempo* (kiểm soát nhịp độ trận đấu / công việc)
+- *dictate requirements* (áp đặt các yêu cầu)
+- *dictate conditions of peace* (áp đặt các điều kiện hòa bình)
+- *dictate from above* (áp đặt mệnh lệnh từ cấp trên xuống)
+- *dictate a letter* (đọc một bức thư để ghi chép)
+- *dictate a memorandum* (đọc một bản ghi nhớ)
+- *dictate notes* (đọc các ghi chú)
+- *dictates of conscience* (tiếng gọi của lương tâm)
+- *dictates of reason* (mệnh lệnh của lý trí)
+- *dictates of morality* (yêu cầu / mệnh lệnh của đạo đức)
+- *dictates of fashion* (sự chạy theo / chi phối của thời trang)
+- *dictates of duty* (tiếng gọi của nhiệm vụ)
+- *dictates of common sense* (những yêu cầu của lẽ thường)
 ## Từ đồng nghĩa
+- *prescribe* (quy định, truyền mệnh lệnh)
+- *determine* (xác định, quyết định)
+- *shape* (định hình, chi phối)
+- *impose* (áp đặt, bắt buộc)
+- *command* (ra lệnh, chỉ huy)
+- *govern* (quản lý, chi phối)
+- *influence* (ảnh hưởng, chi phối)
 ## Từ trái nghĩa
+- *obey* (vâng lời, tuân theo)
+- *follow* (theo sau, tuân thủ)
+- *request* (yêu cầu, đề nghị nhẹ nhàng)
+- *submit* (khuất phục, tuân phục)
+- *comply* (tuân thủ, làm theo)
 ## Word family
+- *dictate* (v / n) (đọc chép; ra lệnh; chi phối / mệnh lệnh)
+- *dictation* (n) (sự đọc cho chép, bài đọc chép)
+- *dictator* (n) (kẻ độc tài, người thích ra lệnh)
+- *dictatorship* (n) (chế độ độc tài, nền chuyên chính)
+- *dictatorial* (adj) (độc tài, hách dịch, chuyên quyền)
+- *dictatorially* (adv) (một cách độc tài, hách dịch)
 
 # dimension
 ## Nghĩa
