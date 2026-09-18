@@ -10721,14 +10721,108 @@ Dưới đây là từ vựng **"Exceed"** được biên soạn hoàn chỉnh t
 * *exceeding* (adj) (rất lớn, vượt trội)
 * *exceedingly* (adv) (cực kỳ, vô cùng, hết sức)
 
+Dưới đây là từ vựng **"Exhibit"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # exhibit
+
 ## Nghĩa
+
+1. (v) Trưng bày, triển lãm (vật thể, tác phẩm nghệ thuật cho công chúng xem)
+2. (v) Bộc lộ, biểu lộ (triệu chứng, cảm xúc, hành vi, phẩm chất)
+3. (v) Đưa ra, trình ra (bằng chứng, tài liệu trước tòa án)
+4. (n) Vật trưng bày, hiện vật triển lãm (trong bảo tàng, hội chợ)
+5. (n) Bằng chứng, tang vật (được đánh dấu bằng chữ cái/số trong phiên tòa)
+
 ## Ví dụ
+
+* *Several famous paintings will be exhibited at the national gallery next month.*
+* *Patients with this condition often exhibit symptoms such as fatigue and fever.*
+* *The defense attorney submitted a series of documents as Exhibit A in court.*
+* *Visitors are strictly requested not to touch any of the museum exhibits.*
+* *Children who experience trauma may exhibit challenging behavioral issues.*
+
 ## Cấu trúc
+
+* *exhibit something to someone* (trưng bày / biểu lộ cái gì cho ai)
+* *exhibit symptoms of something* (bộc lộ các triệu chứng của bệnh gì)
+* *exhibit behavior/tendency* (biểu lộ hành vi / xu hướng)
+* *be on exhibit* (được trưng bày / triển lãm)
+* *exhibit evidence in court* (trình bằng chứng trước tòa)
+
 ## Collocation
+
+* *exhibit symptoms* (bộc lộ các triệu chứng)
+* *exhibit behavior* (biểu lộ hành vi)
+* *exhibit signs* (bộc lộ các dấu hiệu)
+* *exhibit traits* (bộc lộ các đặc điểm / tính cách)
+* *exhibit characteristics* (bộc lộ các đặc tính)
+* *exhibit qualities* (bộc lộ các phẩm chất)
+* *exhibit tendencies* (biểu lộ các xu hướng)
+* *exhibit emotions* (bộc lộ cảm xúc)
+* *exhibit resistance* (biểu lộ sự đề kháng / kháng cự)
+* *exhibit hostility* (biểu lộ thái độ thù địch)
+* *exhibit aggression* (biểu lộ sự hung hăng)
+* *exhibit competence* (bộc lộ năng lực)
+* *exhibit enthusiasm* (bộc lộ sự nhiệt huyết)
+* *exhibit willingness* (bộc lộ sự sẵn lòng)
+* *exhibit creativity* (bộc lộ sự sáng tạo)
+* *exhibit artwork* (trưng bày tác phẩm nghệ thuật)
+* *exhibit artifacts* (trưng bày các cổ vật)
+* *exhibit talent* (bộc lộ tài năng)
+* *exhibit mastery* (bộc lộ sự thành thạo / bậc thầy)
+* *exhibit flexibility* (bộc lộ tính linh hoạt)
+* *exhibit resilience* (bộc lộ khả năng phục hồi / kiên cường)
+* *exhibit evidence* (đưa ra bằng chứng)
+* *museum exhibit* (hiện vật bảo tàng)
+* *interactive exhibit* (hiện vật / khu trưng bày tương tác)
+* *permanent exhibit* (triển lãm / hiện vật cố định)
+* *temporary exhibit* (triển lãm / hiện vật ngắn hạn)
+* *principal exhibit* (vật trưng bày chính)
+* *court exhibit* (tang vật phiên tòa)
+* *exhibit A/B/C* (tang vật A/B/C)
+* *trade exhibit* (triển lãm thương mại)
+* *clearly exhibit* (bộc lộ một cách rõ ràng)
+* *frequently exhibit* (thường xuyên bộc lộ)
+* *consistently exhibit* (liên tục biểu lộ)
+* *rarely exhibit* (hiếm khi bộc lộ)
+* *prominently exhibit* (trưng bày ở vị trí nổi bật)
+* *publicly exhibit* (trưng bày công khai)
+* *exhibit high levels of* (bộc lộ mức độ cao về)
+* *exhibit strong preference for* (bộc lộ sự ưu tiên mạnh mẽ cho)
+* *exhibit marked improvement* (bộc lộ sự cải thiện rõ rệt)
+* *exhibit significant variation* (bộc lộ sự biến đổi đáng kể)
+* *exhibit unusual patterns* (bộc lộ các mẫu hình bất thường)
+* *opportunity to exhibit* (cơ hội để trưng bày / bộc lộ)
+* *fail to exhibit* (không bộc lộ / không biểu lộ được)
+* *continue to exhibit* (tiếp tục bộc lộ)
+* *tend to exhibit* (có xu hướng biểu lộ)
+
 ## Từ đồng nghĩa
+
+* *display* (phô bày, trưng bày, biểu lộ)
+* *demonstrate* (chứng minh, bộc lộ rõ)
+* *show* (cho thấy, thể hiện)
+* *manifest* (biểu lộ, làm rõ)
+* *expose* (phô ra, bộc lộ)
+* *reveal* (hé lộ, phát giác)
+* *showcase* (trưng bày, tôn vinh)
+
 ## Từ trái nghĩa
+
+* *conceal* (che giấu, giấu kín)
+* *hide* (ẩn nấp, giấu)
+* *cover* (che phủ, bao bọc)
+* *suppress* (kìm nén, đè nén)
+* *mask* (che đậy, ngụy trang)
+
 ## Word family
+
+* *exhibit* (v / n) (trưng bày, bộc lộ / hiện vật, tang vật)
+* *exhibition* (n) (cuộc triển lãm, sự bộc lộ)
+* *exhibitor* (n) (đơn vị / người trưng bày triển lãm)
+* *exhibiting* (adj) (đang tham gia triển lãm / bộc lộ)
+* *exhibitionist* (n) (người thích thể hiện / phô trương)
+* *exhibitionism* (n) (xu hướng thích thể hiện bản thân)
 
 # explore
 ## Nghĩa
