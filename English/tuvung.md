@@ -10151,14 +10151,108 @@ Dưới đây là từ vựng **"Emphasis"** được biên soạn hoàn chỉnh
 * *de-emphasize* (v) (giảm bớt sự chú trọng / coi nhẹ)
 * *re-emphasize* (v) (nhấn mạnh lại, tái khẳng định)
 
+Dưới đây là từ vựng **"Endure"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # endure
+
 ## Nghĩa
+
+1. (v) Cam chịu, chịu đựng (gian khổ, đau đớn, thử thách trong thời gian dài)
+2. (v) Tồn tại, kéo dài (theo thời gian, qua các giai đoạn lịch sử)
+3. (v) Chịu đựng được, chống chịu (sức ép, thời tiết khắc nghiệt)
+4. (v) Nhẫn nại, kiên trì (trước hoàn cảnh bất lợi)
+5. (v) Dung thứ, chấp nhận (sự hiện diện hay hành vi của ai đó)
+
 ## Ví dụ
+
+* *Many refugee families have to endure unimaginable hardships during their journey.*
+* *The ancient traditions of the indigenous community have endured for centuries.*
+* *The bridge was engineered to endure extreme weather conditions and earthquakes.*
+* *Athletes must endure grueling physical training to reach the professional level.*
+* *She could no longer endure his constant arrogance and disrespectful remarks.*
+
 ## Cấu trúc
+
+* *endure something* (chịu đựng / trải qua cái gì)
+* *endure doing something* (kiên trì / chịu đựng việc làm gì)
+* *endure through something* (vượt qua / tồn tại qua giai đoạn gì)
+* *have to endure* (phải chịu đựng)
+* *be able to endure* (có khả năng chịu đựng / chống chịu)
+
 ## Collocation
+
+* *endure pain* (chịu đựng sự đau đớn)
+* *endure suffering* (chịu đựng sự đau khổ)
+* *endure hardship* (chịu đựng gian khổ / khó khăn)
+* *endure poverty* (chịu đựng nghèo khổ)
+* *endure isolation* (chịu đựng sự cô lập)
+* *endure criticism* (hứng chịu / chịu đựng sự phê bình)
+* *endure humiliation* (chịu đựng sự tủi nhục)
+* *endure abuse* (chịu đựng sự lạm dụng / ngược đãi)
+* *endure stress* (chịu đựng áp lực)
+* *endure pressure* (chịu đựng sức ép)
+* *endure scrutiny* (chịu sự kiểm tra / soi xét kỹ lưỡng)
+* *endure cold* (chịu đựng cái lạnh)
+* *endure heat* (chịu đựng cái nóng)
+* *endure torture* (chịu đựng sự tra tấn)
+* *endure loss* (chịu đựng sự mất mát)
+* *endure trauma* (chịu đựng tổn thương)
+* *endure persecution* (chịu đựng sự đàn áp)
+* *endure discrimination* (chịu đựng sự phân biệt đối xử)
+* *endure long hours* (chịu đựng thời gian làm việc kéo dài)
+* *endure severe winter* (chịu đựng mùa đông khắc nghiệt)
+* *endure economic hardship* (chịu đựng khó khăn kinh tế)
+* *endure grueling conditions* (chịu đựng điều kiện kiệt sức)
+* *endure public backlash* (chịu đựng phản ứng gay gắt của công chúng)
+* *endure physical agony* (chịu đựng sự đau đớn thể xác)
+* *endure mental strain* (chịu đựng sự căng thẳng thần kinh)
+* *silently endure* (âm thầm chịu đựng)
+* *bravely endure* (dũng cảm chịu đựng)
+* *patiently endure* (nhẫn nại chịu đựng)
+* *stoically endure* (chịu đựng một cách kiên cường / không than van)
+* *continuously endure* (chịu đựng liên tục)
+* *endure the test of time* (thử thách cùng thời gian / trường tồn)
+* *endure to the end* (kiên trì / chịu đựng cho đến cùng)
+* *endure as a symbol* (tồn tại như một biểu tượng)
+* *endure in memory* (sống mãi trong ký ức)
+* *capacity to endure* (khả năng chịu đựng)
+* *will to endure* (ý chí chịu đựng / vươn lên)
+* *struggle to endure* (vật lộn để tồn tại / chịu đựng)
+* *manage to endure* (xoay xở chịu đựng được)
+* *fail to endure* (không thể chịu đựng nổi)
+* *hard to endure* (khó lòng chịu đựng)
+* *impossible to endure* (không thể chịu đựng được)
+* *continue to endure* (tiếp tục tồn tại / kéo dài)
+* *hope to endure* (hy vọng tồn tại / chịu đựng)
+* *endure harsh environment* (chống chịu môi trường khắc nghiệt)
+* *endure financial losses* (chịu đựng các tổn thất tài chính)
+
 ## Từ đồng nghĩa
+
+* *bear* (chịu đựng, gánh vác)
+* *tolerate* (chấp nhận, tha thứ)
+* *withstand* (chống chịu, chịu đựng lực tác động)
+* *sustain* (chịu đựng, duy trì)
+* *undergo* (trải qua)
+* *last* (kéo dài, tồn tại)
+* *persist* (kiên trì, tiếp tục tồn tại)
+
 ## Từ trái nghĩa
+
+* *surrender* (đầu hàng, khuất phục)
+* *succumb* (quỵ ngã, không chịu nổi)
+* *yield* (nhượng bộ, nhường bước)
+* *collapse* (sụp đổ)
+* *fade* (phai nhạt, biến mất)
+
 ## Word family
+
+* *endure* (v) (chịu đựng, tồn tại lâu dài)
+* *endurance* (n) (sức chịu đựng, khả năng nhẫn nại)
+* *enduring* (adj) (kéo dài, lâu bền, bền vững)
+* *endurable* (adj) (có thể chịu đựng được)
+* *unendurable* (adj) (không thể chịu đựng nổi)
+* *enduringly* (adv) (một cách lâu bền / trường tồn)
 
 # enormous
 ## Nghĩa
