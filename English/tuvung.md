@@ -8912,12 +8912,90 @@
 
 # confrontation
 ## Nghĩa
+1. (n) Sự đối đầu, cuộc xung đột (giữa hai bên có quan điểm trái ngược)
+2. (n) Cuộc tranh luận gay gắt, sự chạm trán trực diện
+3. (n) Sự đối chất (giữa nhân chứng, nghi phạm hoặc các bên liên quan)
+4. (n) Sự đối mặt (với thực tế, khó khăn, thử thách)
+5. (n) Mức độ căng thẳng, tình trạng đối đầu (trong quân sự, chính trị)
 ## Ví dụ
+- *The disagreement quickly escalated into a direct confrontation.*
+- *He always tries to avoid confrontation with his supervisor.*
+- *The witness was nervous about the confrontation with the accused in court.*
+- *A confrontation with harsh reality is necessary for personal growth.*
+- *Military confrontation between the two nations was narrowly avoided.*
 ## Cấu trúc
+- *confrontation with someone/something* (sự đối đầu với ai / cái gì)
+- *confrontation between A and B* (sự đối đầu / xung đột giữa A và B)
+- *a confrontation over something* (cuộc đối đầu / tranh cãi về điều gì)
+- *in confrontation with someone* (trong tình trạng đối đầu với ai)
+- *lead to/result in a confrontation* (dẫn đến một cuộc đối đầu)
 ## Collocation
+- *direct confrontation* (sự đối đầu trực tiếp)
+- *violent confrontation* (cuộc xung đột bạo lực)
+- *armed confrontation* (cuộc đối đầu vũ lực / vũ trang)
+- *military confrontation* (sự đối đầu quân sự)
+- *political confrontation* (sự đối đầu chính trị)
+- *ideological confrontation* (sự đối đầu về tư tưởng)
+- *physical confrontation* (cuộc xô xát / đối đầu thể xác)
+- *verbal confrontation* (cuộc tranh cãi bằng lời nói)
+- *head-on confrontation* (sự đối đầu trực diện)
+- *open confrontation* (sự đối đầu công khai)
+- *inevitable confrontation* (cuộc đối đầu không thể tránh khỏi)
+- *avoid confrontation* (tránh sự đối đầu)
+- *seek confrontation* (chủ động tìm kiếm sự đối đầu)
+- *provoke confrontation* (khiêu khích / gây ra sự đối đầu)
+- *escalate a confrontation* (làm leo thang cuộc xung đột)
+- *defuse a confrontation* (xoa dịu / giải tỏa cuộc đối đầu)
+- *resolve a confrontation* (giải quyết cuộc xung đột)
+- *face a confrontation* (đối mặt với một cuộc đối đầu)
+- *lead to confrontation* (dẫn đến sự đối đầu)
+- *result in confrontation* (dẫn đến kết quả là xung đột)
+- *fear confrontation* (sợ sự đối đầu)
+- *risk confrontation* (mạo hiểm / chấp nhận rủi ro đối đầu)
+- *confrontation clause* (điều khoản đối chất)
+- *confrontation tactics* (các chiến thuật đối đầu)
+- *brink of confrontation* (trên bờ vực đối đầu)
+- *avoidance of confrontation* (sự né tránh đối đầu)
+- *policy of confrontation* (chính sách đối đầu)
+- *confrontation with reality* (sự đối mặt với thực tế)
+- *confrontation with the truth* (sự đối chất với sự thật)
+- *confrontation over resources* (cuộc tranh chấp / đối đầu về tài nguyên)
+- *confrontation over territory* (cuộc xung đột về lãnh thổ)
+- *confrontation between superpowers* (sự đối đầu giữa các siêu cường)
+- *confrontation in the workplace* (xung đột tại nơi làm việc)
+- *tense confrontation* (cuộc đối đầu căng thẳng)
+- *bitter confrontation* (cuộc đối đầu gay gắt / cay đắng)
+- *painful confrontation* (sự đối mặt đầy đau đớn)
+- *hostile confrontation* (cuộc chạm trán thù địch)
+- *prolonged confrontation* (cuộc đối đầu kéo dài)
+- *ugly confrontation* (cuộc xung đột hỗn loạn / xấu xí)
+- *frequent confrontation* (những cuộc đối đầu thường xuyên)
+- *unnecessary confrontation* (sự đối đầu không cần thiết)
+- *face-to-face confrontation* (sự đối chất / gặp mặt trực diện)
+- *dramatic confrontation* (cuộc đối đầu kịch tính)
+- *sharp confrontation* (sự xung đột gay gắt)
+- *diplomatic confrontation* (sự đối đầu ngoại giao)
 ## Từ đồng nghĩa
+- *conflict* (cuộc xung đột, mâu thuẫn)
+- *clash* (sự va chạm, xung đột)
+- *dispute* (cuộc tranh chấp, bất đồng)
+- *encounter* (cuộc chạm trán, đối mặt)
+- *standoff* (sự bế tắc, thế đối đầu)
+- *showdown* (cuộc quyết đấu, hạ màn đối đầu)
+- *contention* (sự tranh cãi, sự ganh đua)
 ## Từ trái nghĩa
+- *harmony* (sự hòa hợp, êm đẹp)
+- *agreement* (sự đồng thuận, thỏa thuận)
+- *peace* (hòa bình, sự yên bình)
+- *reconciliation* (sự hòa giải, giảng hòa)
+- *compromise* (sự thỏa hiệp)
 ## Word family
+- *confrontation* (n) (sự đối đầu, cuộc xung đột)
+- *confront* (v) (đối mặt, đối chất, giải quyết vấn đề)
+- *confrontational* (adj) (mang tính chất đối đầu, hay gây hấn)
+- *confrontationist* (n / adj) (người hiếu chiến / có tư tưởng đối đầu)
+- *unconfronted* (adj) (chưa được xử lý / chưa bị đối mặt)
+- *confrontingly* (adv) (một cách khiêu khích / đối đầu)
 
 # consequently
 ## Nghĩa
