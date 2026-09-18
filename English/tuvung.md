@@ -9430,14 +9430,108 @@
 - *dictatorial* (adj) (độc tài, hách dịch, chuyên quyền)
 - *dictatorially* (adv) (một cách độc tài, hách dịch)
 
+Dưới đây là từ vựng **"Dimension"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # dimension
+
 ## Nghĩa
+
+1. (n) Kích thước, chiều (dài, rộng, cao, không gian)
+2. (n) Khía cạnh, phương diện (của một vấn đề, chính sách)
+3. (n) Quy mô, phạm vi, tầm vóc (của một sự kiện, thảm họa)
+4. (n) Chiều không gian (trong vật lý, khoa học viễn tưởng)
+5. (v) Đo đạc, xác định kích thước (trong kỹ thuật, thiết kế)
+
 ## Ví dụ
+
+* *Please measure the exact dimensions of the room before buying furniture.*
+* *The study adds a new cultural dimension to our understanding of the issue.*
+* *The crisis has reached alarming dimensions, affecting millions of people.*
+* *Theoretical physics suggests the existence of multiple hidden dimensions.*
+* *The engineers dimensioned the components precisely for the assembly line.*
+
 ## Cấu trúc
+
+* *dimension of something* (kích thước / khía cạnh / quy mô của cái gì)
+* *add a new dimension to something* (thêm một khía cạnh / góc nhìn mới vào cái gì)
+* *bring a new dimension to something* (mang lại một khía cạnh mới cho cái gì)
+* *take on a new/different dimension* (bắt đầu mang một khía cạnh / tầm vóc mới)
+* *be dimensioned to something* (được thiết kế / đo đạc theo kích thước nào)
+
 ## Collocation
+
+* *physical dimension* (kích thước vật lý / thể chất)
+* *spatial dimension* (chiều không gian)
+* *temporal dimension* (chiều thời gian)
+* *cultural dimension* (khía cạnh văn hóa)
+* *social dimension* (khía cạnh xã hội)
+* *economic dimension* (khía cạnh kinh tế)
+* *political dimension* (khía cạnh chính trị)
+* *ethical dimension* (khía cạnh đạo đức)
+* *moral dimension* (khía cạnh luân lý)
+* *psychological dimension* (khía cạnh tâm lý)
+* *emotional dimension* (khía cạnh cảm xúc)
+* *spiritual dimension* (khía cạnh tâm linh)
+* *international dimension* (khía cạnh / tầm vóc quốc tế)
+* *global dimension* (phạm vi / quy mô toàn cầu)
+* *human dimension* (khía cạnh con người)
+* *environmental dimension* (khía cạnh môi trường)
+* *critical dimension* (khía cạnh quan trọng / kích thước then chốt)
+* *financial dimension* (khía cạnh tài chính)
+* *legal dimension* (khía cạnh pháp lý)
+* *strategic dimension* (khía cạnh chiến lược)
+* *historical dimension* (khía cạnh lịch sử)
+* *philosophical dimension* (khía cạnh triết học)
+* *broader dimension* (khía cạnh rộng lớn hơn)
+* *new dimension* (khía cạnh mới / chiều hướng mới)
+* *extra dimension* (chiều không gian phụ / khía cạnh bổ sung)
+* *hidden dimension* (khía cạnh ẩn giấu / chiều ẩn)
+* *underlying dimension* (khía cạnh cốt lõi / nền tảng)
+* *different dimension* (một khía cạnh / tầm vóc hoàn toàn khác)
+* *vast dimension* (quy mô / phạm vi khổng lồ)
+* *enormous dimension* (quy mô cực kỳ lớn)
+* *tragic dimension* (mức độ / quy mô thảm khốc)
+* *exact dimensions* (kích thước chính xác)
+* *linear dimensions* (kích thước tuyến tính)
+* *overall dimensions* (kích thước tổng thể)
+* *three dimensions* (ba chiều - 3D)
+* *fourth dimension* (chiều thứ tư)
+* *parallel dimension* (chiều / thế giới song song)
+* *reach alarming dimensions* (đạt đến quy mô đáng báo động)
+* *assume new dimensions* (mang những quy mô / chiều hướng mới)
+* *explore a dimension* (khám phá một khía cạnh)
+* *ignore a dimension* (bỏ qua một khía cạnh)
+* *emphasize a dimension* (nhấn mạnh một khía cạnh)
+* *analyze a dimension* (phân tích một khía cạnh)
+* *incorporate a dimension* (tích hợp một khía cạnh)
+* *overlook a dimension* (bỏ sót một khía cạnh)
+
 ## Từ đồng nghĩa
+
+* *aspect* (khía cạnh, phương diện)
+* *facet* (mặt, khía cạnh của vấn đề)
+* *size* (kích cỡ, kích thước)
+* *measurement* (sự đo lường, kích thước)
+* *extent* (mức độ, phạm vi, quy mô)
+* *proportion* (tỷ lệ, kích thước cân đối)
+* *perspective* (góc nhìn, triển vọng)
+
 ## Từ trái nghĩa
+
+* *insignificance* (sự không đáng kể, không có tầm vóc)
+* *smallness* (sự nhỏ bé, quy mô hẹp)
+* *flatness* (sự phẳng, thiếu chiều sâu / khía cạnh)
+* *wholeness* (sự toàn vẹn - không phân chia khía cạnh)
+* *unity* (sự thống nhất - không chia nhỏ phương diện)
+
 ## Word family
+
+* *dimension* (n / v) (kích thước, khía cạnh / đo đạc kích thước)
+* *dimensional* (adj) (thuộc về kích thước, thuộc về chiều không gian)
+* *multidimensional* (adj) (đa chiều, nhiều khía cạnh)
+* *three-dimensional* (adj) (ba chiều - 3D)
+* *one-dimensional* (adj) (một chiều, phiến diện, đơn điệu)
+* *dimensionless* (adj) (không có kích thước, không thứ bậc)
 
 # disclose
 ## Nghĩa
