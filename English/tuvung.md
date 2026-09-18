@@ -8999,12 +8999,90 @@
 
 # consequently
 ## Nghĩa
+1. (adv) Do đó, vì vậy, kết quả là (chỉ hậu quả hoặc kết quả logic)
+2. (adv) Hệ quả là, kéo theo đó (chỉ mối quan hệ nguyên nhân - kết quả)
+3. (adv) Vì lý do đó, bởi thế (dùng để nối câu hoặc mệnh đề)
+4. (adv) Theo lẽ tự nhiên, thành ra (kết quả xảy ra một cách tất yếu)
+5. (adv) Cho nên, vì thế mà (diễn tả sự tiến triển của hành động)
 ## Ví dụ
+- *The company suffered severe financial losses; consequently, many employees were laid off.*
+- *She failed to prepare for the interview, and consequently lost the job opportunity.*
+- *Global temperatures are rising; consequently, polar ice caps are melting rapidly.*
+- *The demand for fossil fuels has decreased; consequently, green energy investments are growing.*
+- *He ignored the safety regulations and consequently injured himself during work.*
 ## Cấu trúc
+- *consequently, + clause* (kết quả là, [mệnh đề])
+- *clause 1; consequently, + clause 2* ([mệnh đề 1]; do đó, [mệnh đề 2])
+- *and consequently + V/Adj* (và do đó [làm gì / như thế nào])
+- *subject + consequently + verb* ([chủ ngữ] do đó [hành động])
+- *be consequently + Adj/V3* (do đó trở nên / được làm gì)
 ## Collocation
+- *consequently lead to* (kết quả là dẫn đến)
+- *consequently result in* (kết quả là dẫn đến / gây ra)
+- *consequently reduce* (do đó làm giảm)
+- *consequently increase* (do đó làm tăng)
+- *consequently affect* (do đó ảnh hưởng đến)
+- *consequently impact* (do đó tác động đến)
+- *consequently suffer* (do đó chịu gánh nặng / thiệt hại)
+- *consequently cause* (kết quả là gây ra)
+- *consequently experience* (do đó trải qua)
+- *consequently force* (do đó buộc phải)
+- *consequently require* (do đó yêu cầu / đòi hỏi)
+- *consequently prevent* (do đó ngăn chặn)
+- *consequently limit* (do đó hạn chế)
+- *consequently improve* (do đó cải thiện)
+- *consequently enhance* (do đó nâng cao)
+- *consequently lose* (do đó đánh mất)
+- *consequently create* (do đó tạo ra)
+- *consequently transform* (do đó biến đổi)
+- *consequently undermine* (do đó làm suy yếu)
+- *consequently threaten* (do đó đe dọa)
+- *consequently contribute to* (do đó góp phần vào)
+- *consequently become* (do đó trở thành)
+- *consequently place a burden on* (do đó đặt gánh nặng lên)
+- *consequently lower the quality* (do đó làm giảm chất lượng)
+- *consequently raise concerns* (do đó dấy lên mối lo ngại)
+- *consequently exacerbate the problem* (do đó làm trầm trọng thêm vấn đề)
+- *consequently strain resources* (do đó làm căng thẳng nguồn lực)
+- *consequently alter behavior* (do đó thay đổi hành vi)
+- *consequently delay progress* (do đó làm trì hoãn tiến độ)
+- *consequently restrict access* (do đó hạn chế quyền truy cập)
+- *consequently widen the gap* (do đó nới rộng khoảng cách)
+- *consequently damage reputation* (do đó làm tổn hại uy tín)
+- *consequently endanger species* (do đó đe dọa các loài)
+- *consequently disrupt daily life* (do đó làm xáo trộn cuộc sống hàng ngày)
+- *consequently boost economy* (do đó thúc đẩy kinh tế)
+- *consequently lessen the effect* (do đó làm giảm ảnh hưởng)
+- *consequently trigger reaction* (do đó kích hoạt phản ứng)
+- *consequently shape opinion* (do đó định hình ý kiến)
+- *consequently modify plans* (do đó điều chỉnh kế hoạch)
+- *consequently hamper growth* (do đó cản trở sự phát triển)
+- *consequently fuel inflation* (do đó thúc đẩy lạm phát)
+- *consequently provoke backlash* (do đó gây ra sự phản ứng gay gắt)
+- *consequently dictate outcomes* (do đó chi phối kết quả)
+- *consequently shrink market* (do đó thu hẹp thị trường)
+- *consequently compromise safety* (do đó làm tổn hại sự an toàn)
 ## Từ đồng nghĩa
+- *as a result* (kết quả là)
+- *therefore* (vì vậy, do đó)
+- *thus* (theo cách đó, vì thế)
+- *hence* (vì lý do đó)
+- *accordingly* (theo đó, phù hợp với điều đó)
+- *for this reason* (vì lý do này)
+- *subsequently* (sau đó, kéo theo sau)
 ## Từ trái nghĩa
+- *conversely* (ngược lại)
+- *nevertheless* (tuy nhiên, dù sao thì)
+- *nonetheless* (dù vậy, tuy nhiên)
+- *on the contrary* (trái lại)
+- *notwithstanding* (bất chấp, mặc dù)
 ## Word family
+- *consequently* (adv) (do đó, kết quả là)
+- *consequence* (n) (kết quả, hậu quả, tầm quan trọng)
+- *consequent* (adj) (do kết quả của, là hậu quả của)
+- *inconsequent* (adj) (rời rạc, không mạ mạch, không logic)
+- *inconsequential* (adj) (không quan trọng, vụn vặt, không đáng kể)
+- *inconsequentially* (adv) (một cách không quan trọng / không liên quan)
 
 # contribute
 ## Nghĩa
