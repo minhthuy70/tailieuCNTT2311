@@ -9430,1605 +9430,1331 @@
 - *dictatorial* (adj) (độc tài, hách dịch, chuyên quyền)
 - *dictatorially* (adv) (một cách độc tài, hách dịch)
 
-Dưới đây là từ vựng **"Dimension"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
-
 # dimension
-
 ## Nghĩa
-
 1. (n) Kích thước, chiều (dài, rộng, cao, không gian)
 2. (n) Khía cạnh, phương diện (của một vấn đề, chính sách)
 3. (n) Quy mô, phạm vi, tầm vóc (của một sự kiện, thảm họa)
 4. (n) Chiều không gian (trong vật lý, khoa học viễn tưởng)
 5. (v) Đo đạc, xác định kích thước (trong kỹ thuật, thiết kế)
-
 ## Ví dụ
-
-* *Please measure the exact dimensions of the room before buying furniture.*
-* *The study adds a new cultural dimension to our understanding of the issue.*
-* *The crisis has reached alarming dimensions, affecting millions of people.*
-* *Theoretical physics suggests the existence of multiple hidden dimensions.*
-* *The engineers dimensioned the components precisely for the assembly line.*
-
+- *Please measure the exact dimensions of the room before buying furniture.*
+- *The study adds a new cultural dimension to our understanding of the issue.*
+- *The crisis has reached alarming dimensions, affecting millions of people.*
+- *Theoretical physics suggests the existence of multiple hidden dimensions.*
+- *The engineers dimensioned the components precisely for the assembly line.*
 ## Cấu trúc
-
-* *dimension of something* (kích thước / khía cạnh / quy mô của cái gì)
-* *add a new dimension to something* (thêm một khía cạnh / góc nhìn mới vào cái gì)
-* *bring a new dimension to something* (mang lại một khía cạnh mới cho cái gì)
-* *take on a new/different dimension* (bắt đầu mang một khía cạnh / tầm vóc mới)
-* *be dimensioned to something* (được thiết kế / đo đạc theo kích thước nào)
-
+- *dimension of something* (kích thước / khía cạnh / quy mô của cái gì)
+- *add a new dimension to something* (thêm một khía cạnh / góc nhìn mới vào cái gì)
+- *bring a new dimension to something* (mang lại một khía cạnh mới cho cái gì)
+- *take on a new/different dimension* (bắt đầu mang một khía cạnh / tầm vóc mới)
+- *be dimensioned to something* (được thiết kế / đo đạc theo kích thước nào)
 ## Collocation
-
-* *physical dimension* (kích thước vật lý / thể chất)
-* *spatial dimension* (chiều không gian)
-* *temporal dimension* (chiều thời gian)
-* *cultural dimension* (khía cạnh văn hóa)
-* *social dimension* (khía cạnh xã hội)
-* *economic dimension* (khía cạnh kinh tế)
-* *political dimension* (khía cạnh chính trị)
-* *ethical dimension* (khía cạnh đạo đức)
-* *moral dimension* (khía cạnh luân lý)
-* *psychological dimension* (khía cạnh tâm lý)
-* *emotional dimension* (khía cạnh cảm xúc)
-* *spiritual dimension* (khía cạnh tâm linh)
-* *international dimension* (khía cạnh / tầm vóc quốc tế)
-* *global dimension* (phạm vi / quy mô toàn cầu)
-* *human dimension* (khía cạnh con người)
-* *environmental dimension* (khía cạnh môi trường)
-* *critical dimension* (khía cạnh quan trọng / kích thước then chốt)
-* *financial dimension* (khía cạnh tài chính)
-* *legal dimension* (khía cạnh pháp lý)
-* *strategic dimension* (khía cạnh chiến lược)
-* *historical dimension* (khía cạnh lịch sử)
-* *philosophical dimension* (khía cạnh triết học)
-* *broader dimension* (khía cạnh rộng lớn hơn)
-* *new dimension* (khía cạnh mới / chiều hướng mới)
-* *extra dimension* (chiều không gian phụ / khía cạnh bổ sung)
-* *hidden dimension* (khía cạnh ẩn giấu / chiều ẩn)
-* *underlying dimension* (khía cạnh cốt lõi / nền tảng)
-* *different dimension* (một khía cạnh / tầm vóc hoàn toàn khác)
-* *vast dimension* (quy mô / phạm vi khổng lồ)
-* *enormous dimension* (quy mô cực kỳ lớn)
-* *tragic dimension* (mức độ / quy mô thảm khốc)
-* *exact dimensions* (kích thước chính xác)
-* *linear dimensions* (kích thước tuyến tính)
-* *overall dimensions* (kích thước tổng thể)
-* *three dimensions* (ba chiều - 3D)
-* *fourth dimension* (chiều thứ tư)
-* *parallel dimension* (chiều / thế giới song song)
-* *reach alarming dimensions* (đạt đến quy mô đáng báo động)
-* *assume new dimensions* (mang những quy mô / chiều hướng mới)
-* *explore a dimension* (khám phá một khía cạnh)
-* *ignore a dimension* (bỏ qua một khía cạnh)
-* *emphasize a dimension* (nhấn mạnh một khía cạnh)
-* *analyze a dimension* (phân tích một khía cạnh)
-* *incorporate a dimension* (tích hợp một khía cạnh)
-* *overlook a dimension* (bỏ sót một khía cạnh)
-
+- *physical dimension* (kích thước vật lý / thể chất)
+- *spatial dimension* (chiều không gian)
+- *temporal dimension* (chiều thời gian)
+- *cultural dimension* (khía cạnh văn hóa)
+- *social dimension* (khía cạnh xã hội)
+- *economic dimension* (khía cạnh kinh tế)
+- *political dimension* (khía cạnh chính trị)
+- *ethical dimension* (khía cạnh đạo đức)
+- *moral dimension* (khía cạnh luân lý)
+- *psychological dimension* (khía cạnh tâm lý)
+- *emotional dimension* (khía cạnh cảm xúc)
+- *spiritual dimension* (khía cạnh tâm linh)
+- *international dimension* (khía cạnh / tầm vóc quốc tế)
+- *global dimension* (phạm vi / quy mô toàn cầu)
+- *human dimension* (khía cạnh con người)
+- *environmental dimension* (khía cạnh môi trường)
+- *critical dimension* (khía cạnh quan trọng / kích thước then chốt)
+- *financial dimension* (khía cạnh tài chính)
+- *legal dimension* (khía cạnh pháp lý)
+- *strategic dimension* (khía cạnh chiến lược)
+- *historical dimension* (khía cạnh lịch sử)
+- *philosophical dimension* (khía cạnh triết học)
+- *broader dimension* (khía cạnh rộng lớn hơn)
+- *new dimension* (khía cạnh mới / chiều hướng mới)
+- *extra dimension* (chiều không gian phụ / khía cạnh bổ sung)
+- *hidden dimension* (khía cạnh ẩn giấu / chiều ẩn)
+- *underlying dimension* (khía cạnh cốt lõi / nền tảng)
+- *different dimension* (một khía cạnh / tầm vóc hoàn toàn khác)
+- *vast dimension* (quy mô / phạm vi khổng lồ)
+- *enormous dimension* (quy mô cực kỳ lớn)
+- *tragic dimension* (mức độ / quy mô thảm khốc)
+- *exact dimensions* (kích thước chính xác)
+- *linear dimensions* (kích thước tuyến tính)
+- *overall dimensions* (kích thước tổng thể)
+- *three dimensions* (ba chiều - 3D)
+- *fourth dimension* (chiều thứ tư)
+- *parallel dimension* (chiều / thế giới song song)
+- *reach alarming dimensions* (đạt đến quy mô đáng báo động)
+- *assume new dimensions* (mang những quy mô / chiều hướng mới)
+- *explore a dimension* (khám phá một khía cạnh)
+- *ignore a dimension* (bỏ qua một khía cạnh)
+- *emphasize a dimension* (nhấn mạnh một khía cạnh)
+- *analyze a dimension* (phân tích một khía cạnh)
+- *incorporate a dimension* (tích hợp một khía cạnh)
+- *overlook a dimension* (bỏ sót một khía cạnh)
 ## Từ đồng nghĩa
-
-* *aspect* (khía cạnh, phương diện)
-* *facet* (mặt, khía cạnh của vấn đề)
-* *size* (kích cỡ, kích thước)
-* *measurement* (sự đo lường, kích thước)
-* *extent* (mức độ, phạm vi, quy mô)
-* *proportion* (tỷ lệ, kích thước cân đối)
-* *perspective* (góc nhìn, triển vọng)
-
+- *aspect* (khía cạnh, phương diện)
+- *facet* (mặt, khía cạnh của vấn đề)
+- *size* (kích cỡ, kích thước)
+- *measurement* (sự đo lường, kích thước)
+- *extent* (mức độ, phạm vi, quy mô)
+- *proportion* (tỷ lệ, kích thước cân đối)
+- *perspective* (góc nhìn, triển vọng)
 ## Từ trái nghĩa
-
-* *insignificance* (sự không đáng kể, không có tầm vóc)
-* *smallness* (sự nhỏ bé, quy mô hẹp)
-* *flatness* (sự phẳng, thiếu chiều sâu / khía cạnh)
-* *wholeness* (sự toàn vẹn - không phân chia khía cạnh)
-* *unity* (sự thống nhất - không chia nhỏ phương diện)
-
+- *insignificance* (sự không đáng kể, không có tầm vóc)
+- *smallness* (sự nhỏ bé, quy mô hẹp)
+- *flatness* (sự phẳng, thiếu chiều sâu / khía cạnh)
+- *wholeness* (sự toàn vẹn - không phân chia khía cạnh)
+- *unity* (sự thống nhất - không chia nhỏ phương diện)
 ## Word family
-
-* *dimension* (n / v) (kích thước, khía cạnh / đo đạc kích thước)
-* *dimensional* (adj) (thuộc về kích thước, thuộc về chiều không gian)
-* *multidimensional* (adj) (đa chiều, nhiều khía cạnh)
-* *three-dimensional* (adj) (ba chiều - 3D)
-* *one-dimensional* (adj) (một chiều, phiến diện, đơn điệu)
-* *dimensionless* (adj) (không có kích thước, không thứ bậc)
-
-Dưới đây là từ vựng **"Disclose"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho các chủ đề IELTS Speaking & Writing (Task 2) và đạt chính xác **88 dòng**:
+- *dimension* (n / v) (kích thước, khía cạnh / đo đạc kích thước)
+- *dimensional* (adj) (thuộc về kích thước, thuộc về chiều không gian)
+- *multidimensional* (adj) (đa chiều, nhiều khía cạnh)
+- *three-dimensional* (adj) (ba chiều - 3D)
+- *one-dimensional* (adj) (một chiều, phiến diện, đơn điệu)
+- *dimensionless* (adj) (không có kích thước, không thứ bậc)
 
 # disclose
-
 ## Nghĩa
-
 1. (v) Tiết lộ, bộc lộ (thông tin bí mật, sự thật, chi tiết)
 2. (v) Công khai, minh bạch (tài chính, tài sản, hợp đồng)
 3. (v) Mở ra, làm lộ ra (vật bị che khuất, chi tiết ẩn giấu)
 4. (v) Khai báo, trình báo (với cơ quan chức năng, luật pháp)
 5. (v) Bộc lộ (tình cảm, ý định, kế hoạch với người khác)
-
 ## Ví dụ
-
-* *The company refused to disclose details of the financial merger.*
-* *Public officials are legally required to disclose their financial assets.*
-* *The investigation disclosed a series of systematic safety violations.*
-* *He failed to disclose his pre-existing medical conditions to the insurer.*
-* *She reluctantly disclosed her intentions to resign from the committee.*
-
+- *The company refused to disclose details of the financial merger.*
+- *Public officials are legally required to disclose their financial assets.*
+- *The investigation disclosed a series of systematic safety violations.*
+- *He failed to disclose his pre-existing medical conditions to the insurer.*
+- *She reluctantly disclosed her intentions to resign from the committee.*
 ## Cấu trúc
-
-* *disclose something to someone* (tiết lộ cái gì cho ai)
-* *disclose that + clause* (tiết lộ rằng...)
-* *refuse/fail to disclose something* (từ chối / không tiết lộ cái gì)
-* *be required/obliged to disclose something* (bắt buộc phải công khai / tiết lộ cái gì)
-* *disclose information fully/partially* (tiết lộ thông tin đầy đủ / một phần)
-
+- *disclose something to someone* (tiết lộ cái gì cho ai)
+- *disclose that + clause* (tiết lộ rằng...)
+- *refuse/fail to disclose something* (từ chối / không tiết lộ cái gì)
+- *be required/obliged to disclose something* (bắt buộc phải công khai / tiết lộ cái gì)
+- *disclose information fully/partially* (tiết lộ thông tin đầy đủ / một phần)
 ## Collocation
-
-* *fully disclose* (tiết lộ / công khai đầy đủ)
-* *partially disclose* (tiết lộ một phần)
-* *publicly disclose* (công khai rộng rãi)
-* *promptly disclose* (tiết lộ / công khai kịp thời)
-* *voluntarily disclose* (tự nguyện tiết lộ)
-* *inadvertently disclose* (vô tình làm lộ thông tin)
-* *lawfully disclose* (tiết lộ theo đúng quy định pháp luật)
-* *properly disclose* (công khai / khai báo đúng cách)
-* *disclose information* (tiết lộ thông tin)
-* *disclose details* (tiết lộ các chi tiết)
-* *disclose secrets* (tiết lộ bí mật)
-* *disclose identities* (tiết lộ danh tính)
-* *disclose source* (tiết lộ nguồn tin)
-* *disclose evidence* (bộc lộ / cung cấp bằng chứng)
-* *disclose assets* (công khai tài sản)
-* *disclose earnings* (công khai thu nhập)
-* *disclose profits* (công khai lợi nhuận)
-* *disclose financial records* (công khai hồ sơ tài chính)
-* *disclose conflict of interest* (tiết lộ sự xung đột lợi ích)
-* *disclose medical records* (công khai hồ sơ bệnh án)
-* *disclose personal data* (tiết lộ dữ liệu cá nhân)
-* *disclose location* (tiết lộ vị trí / địa điểm)
-* *disclose findings* (công bố các phát hiện)
-* *disclose contents* (tiết lộ nội dung)
-* *disclose strategy* (tiết lộ chiến lược)
-* *disclose terms* (tiết lộ các điều khoản)
-* *disclose identity of donors* (công khai danh tính nhà tài trợ)
-* *disclose classified document* (tiết lộ tài liệu mật)
-* *disclose pre-existing conditions* (khai báo các bệnh lý có sẵn)
-* *disclose full findings* (công bố toàn bộ kết quả nghiên cứu)
-* *disclose financial vulnerabilities* (tiết lộ lỗ hổng tài chính)
-* *disclose business plans* (tiết lộ kế hoạch kinh doanh)
-* *disclose security flaws* (công khai các lỗ hổng bảo mật)
-* *disclose tax returns* (công khai hồ sơ thuế)
-* *duty to disclose* (trách nhiệm / nghĩa vụ phải tiết lộ)
-* *obligation to disclose* (yêu cầu bắt buộc phải công khai)
-* *failure to disclose* (việc không tiết lộ / giấu giếm thông tin)
-* *refusal to disclose* (sự từ chối tiết lộ)
-* *disclose under pressure* (tiết lộ dưới áp lực)
-* *disclose to the press* (tiết lộ cho báo chí)
-* *disclose to the public* (công khai với công chúng)
-* *disclose to authorities* (khai báo với cơ quan chức năng)
-* *legally bound to disclose* (ràng buộc pháp lý phải tiết lộ)
-* *disclose sensitive information* (tiết lộ thông tin nhạy cảm)
-* *disclose proprietary technology* (tiết lộ công nghệ độc quyền)
-
+- *fully disclose* (tiết lộ / công khai đầy đủ)
+- *partially disclose* (tiết lộ một phần)
+- *publicly disclose* (công khai rộng rãi)
+- *promptly disclose* (tiết lộ / công khai kịp thời)
+- *voluntarily disclose* (tự nguyện tiết lộ)
+- *inadvertently disclose* (vô tình làm lộ thông tin)
+- *lawfully disclose* (tiết lộ theo đúng quy định pháp luật)
+- *properly disclose* (công khai / khai báo đúng cách)
+- *disclose information* (tiết lộ thông tin)
+- *disclose details* (tiết lộ các chi tiết)
+- *disclose secrets* (tiết lộ bí mật)
+- *disclose identities* (tiết lộ danh tính)
+- *disclose source* (tiết lộ nguồn tin)
+- *disclose evidence* (bộc lộ / cung cấp bằng chứng)
+- *disclose assets* (công khai tài sản)
+- *disclose earnings* (công khai thu nhập)
+- *disclose profits* (công khai lợi nhuận)
+- *disclose financial records* (công khai hồ sơ tài chính)
+- *disclose conflict of interest* (tiết lộ sự xung đột lợi ích)
+- *disclose medical records* (công khai hồ sơ bệnh án)
+- *disclose personal data* (tiết lộ dữ liệu cá nhân)
+- *disclose location* (tiết lộ vị trí / địa điểm)
+- *disclose findings* (công bố các phát hiện)
+- *disclose contents* (tiết lộ nội dung)
+- *disclose strategy* (tiết lộ chiến lược)
+- *disclose terms* (tiết lộ các điều khoản)
+- *disclose identity of donors* (công khai danh tính nhà tài trợ)
+- *disclose classified document* (tiết lộ tài liệu mật)
+- *disclose pre-existing conditions* (khai báo các bệnh lý có sẵn)
+- *disclose full findings* (công bố toàn bộ kết quả nghiên cứu)
+- *disclose financial vulnerabilities* (tiết lộ lỗ hổng tài chính)
+- *disclose business plans* (tiết lộ kế hoạch kinh doanh)
+- *disclose security flaws* (công khai các lỗ hổng bảo mật)
+- *disclose tax returns* (công khai hồ sơ thuế)
+- *duty to disclose* (trách nhiệm / nghĩa vụ phải tiết lộ)
+- *obligation to disclose* (yêu cầu bắt buộc phải công khai)
+- *failure to disclose* (việc không tiết lộ / giấu giếm thông tin)
+- *refusal to disclose* (sự từ chối tiết lộ)
+- *disclose under pressure* (tiết lộ dưới áp lực)
+- *disclose to the press* (tiết lộ cho báo chí)
+- *disclose to the public* (công khai với công chúng)
+- *disclose to authorities* (khai báo với cơ quan chức năng)
+- *legally bound to disclose* (ràng buộc pháp lý phải tiết lộ)
+- *disclose sensitive information* (tiết lộ thông tin nhạy cảm)
+- *disclose proprietary technology* (tiết lộ công nghệ độc quyền)
 ## Từ đồng nghĩa
-
-* *reveal* (tiết lộ, bộc lộ)
-* *divulge* (tiết lộ bí mật)
-* *unveil* (hé lộ, công bố)
-* *uncover* (phát giác, khám phá)
-* *expose* (phơi bày, vạch trần)
-* *impart* (truyền đạt, chia sẻ thông tin)
-* *make known* (làm cho mọi người biết)
-
+- *reveal* (tiết lộ, bộc lộ)
+- *divulge* (tiết lộ bí mật)
+- *unveil* (hé lộ, công bố)
+- *uncover* (phát giác, khám phá)
+- *expose* (phơi bày, vạch trần)
+- *impart* (truyền đạt, chia sẻ thông tin)
+- *make known* (làm cho mọi người biết)
 ## Từ trái nghĩa
-
-* *conceal* (che giấu, giấu giếm)
-* *hide* (ẩn giấu)
-* *suppress* (bãi bỏ, giấu kín thông tin)
-* *cover up* (che đậy, liệm đi)
-* *withhold* (giữ lại, không cung cấp)
-
+- *conceal* (che giấu, giấu giếm)
+- *hide* (ẩn giấu)
+- *suppress* (bãi bỏ, giấu kín thông tin)
+- *cover up* (che đậy, liệm đi)
+- *withhold* (giữ lại, không cung cấp)
 ## Word family
-
-* *disclose* (v) (tiết lộ, công khai, bộc lộ)
-* *disclosure* (n) (sự tiết lộ, sự công khai thông tin)
-* *undisclosed* (adj) (chưa được tiết lộ, giữ bí mật)
-* *disclosable* (adj) (có thể tiết lộ / phải công khai)
-* *discloser* (n) (người tiết lộ / bên công khai thông tin)
-* *nondisclosure* (n) (sự không tiết lộ, thỏa thuận bảo mật)
-
-Dưới đây là từ vựng **"Distinguish"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing/Speaking và đạt chính xác **88 dòng**:
+- *disclose* (v) (tiết lộ, công khai, bộc lộ)
+- *disclosure* (n) (sự tiết lộ, sự công khai thông tin)
+- *undisclosed* (adj) (chưa được tiết lộ, giữ bí mật)
+- *disclosable* (adj) (có thể tiết lộ / phải công khai)
+- *discloser* (n) (người tiết lộ / bên công khai thông tin)
+- *nondisclosure* (n) (sự không tiết lộ, thỏa thuận bảo mật)
 
 # distinguish
-
 ## Nghĩa
-
 1. (v) Phân biệt, nhận ra sự khác biệt (giữa hai hay nhiều đối tượng)
 2. (v) Nhận ra, nhìn thấy / nghe thấy rõ (trong điều kiện khó khăn)
 3. (v) Làm cho khác biệt, tạo nên nét đặc trưng (của ai / cái gì)
 4. (v) Tự làm cho mình nổi bật, xuất sắc (bằng thành tựu, tài năng)
 5. (v) Phân loại, chia thành các nhóm dựa trên đặc điểm
-
 ## Ví dụ
-
-* *It is important to distinguish between cause and correlation in scientific research.*
-* *The fog was so thick that I could barely distinguish the shapes of the trees.*
-* *What distinguishes humans from other animals is the complex ability to use language.*
-* *She distinguished herself as a talented researcher during her university years.*
-* *Scholars distinguish three main phases in the evolution of the economic policy.*
-
+- *It is important to distinguish between cause and correlation in scientific research.*
+- *The fog was so thick that I could barely distinguish the shapes of the trees.*
+- *What distinguishes humans from other animals is the complex ability to use language.*
+- *She distinguished herself as a talented researcher during her university years.*
+- *Scholars distinguish three main phases in the evolution of the economic policy.*
 ## Cấu trúc
-
-* *distinguish between A and B* (phân biệt giữa A và B)
-* *distinguish A from B* (phân biệt A với B)
-* *distinguish oneself as something* (tự làm cho mình nổi bật với vai trò gì)
-* *distinguish oneself by doing something* (nổi bật nhờ làm điều gì)
-* *be distinguished by something* (được đặc trưng / làm cho nổi bật bởi cái gì)
-
+- *distinguish between A and B* (phân biệt giữa A và B)
+- *distinguish A from B* (phân biệt A với B)
+- *distinguish oneself as something* (tự làm cho mình nổi bật với vai trò gì)
+- *distinguish oneself by doing something* (nổi bật nhờ làm điều gì)
+- *be distinguished by something* (được đặc trưng / làm cho nổi bật bởi cái gì)
 ## Collocation
-
-* *clearly distinguish* (phân biệt một cách rõ ràng)
-* *easily distinguish* (dễ dàng phân biệt)
-* *sharply distinguish* (phân biệt một cách sắc nét / rõ rệt)
-* *hardly distinguish* (hầu như không thể phân biệt)
-* *barely distinguish* (vừa đủ để nhận ra)
-* *carefully distinguish* (phân biệt một cách cẩn trọng)
-* *readily distinguish* (dễ dàng nhận biết)
-* *instantly distinguish* (ngay lập tức phân biệt được)
-* *distinguish cause from effect* (phân biệt nguyên nhân và kết quả)
-* *distinguish fact from fiction* (phân biệt thực tế và hư cấu)
-* *distinguish right from wrong* (phân biệt đúng sai)
-* *distinguish truth from falsehood* (phân biệt sự thật và dối trá)
-* *distinguish symptoms* (phân biệt các triệu chứng)
-* *distinguish features* (phân biệt các đặc điểm)
-* *distinguish species* (phân biệt các loài)
-* *distinguish sounds* (nhận biết các âm thanh)
-* *distinguish colors* (phân biệt các màu sắc)
-* *distinguish patterns* (nhận biết các hoa văn / mô hình)
-* *distinguish nuances* (phân biệt các sắc thái nhỏ)
-* *distinguish signals* (nhận biết các tín hiệu)
-* *distinguish voices* (phân biệt các giọng nói)
-* *distinguish shapes* (nhận biết các hình dáng)
-* *distinguish trends* (nhận diện các xu hướng)
-* *distinguish details* (phân biệt các chi tiết)
-* *distinguish concepts* (phân biệt các khái niệm)
-* *distinguish stages* (phân biệt các giai đoạn)
-* *distinguish categories* (phân biệt các danh mục)
-* *distinguish roles* (phân biệt các vai trò)
-* *distinguish priorities* (phân biệt các mức độ ưu tiên)
-* *distinguish flavors* (phân biệt các hương vị)
-* *distinguish textures* (phân biệt các bề mặt / kết cấu)
-* *distinguish meanings* (phân biệt các tầng nghĩa)
-* *distinguish styles* (phân biệt các phong cách)
-* *distinguish components* (phân biệt các thành phần)
-* *distinguish characteristics* (phân biệt các đặc tính)
-* *distinguish oneself in battle* (nổi danh / lập công trên chiến trường)
-* *distinguish oneself in academics* (nổi bật trong học thuật)
-* *ability to distinguish* (khả năng phân biệt)
-* *fail to distinguish* (không thể phân biệt được)
-* *struggle to distinguish* (gặp khó khăn khi phân biệt)
-* *serve to distinguish* (giúp phân biệt / làm nổi bật)
-* *help distinguish* (giúp phân biệt)
-* *attempt to distinguish* (cố gắng phân biệt)
-* *crucial to distinguish* (quan trọng phải phân biệt)
-* *visually distinguish* (phân biệt bằng thị giác)
-
+- *clearly distinguish* (phân biệt một cách rõ ràng)
+- *easily distinguish* (dễ dàng phân biệt)
+- *sharply distinguish* (phân biệt một cách sắc nét / rõ rệt)
+- *hardly distinguish* (hầu như không thể phân biệt)
+- *barely distinguish* (vừa đủ để nhận ra)
+- *carefully distinguish* (phân biệt một cách cẩn trọng)
+- *readily distinguish* (dễ dàng nhận biết)
+- *instantly distinguish* (ngay lập tức phân biệt được)
+- *distinguish cause from effect* (phân biệt nguyên nhân và kết quả)
+- *distinguish fact from fiction* (phân biệt thực tế và hư cấu)
+- *distinguish right from wrong* (phân biệt đúng sai)
+- *distinguish truth from falsehood* (phân biệt sự thật và dối trá)
+- *distinguish symptoms* (phân biệt các triệu chứng)
+- *distinguish features* (phân biệt các đặc điểm)
+- *distinguish species* (phân biệt các loài)
+- *distinguish sounds* (nhận biết các âm thanh)
+- *distinguish colors* (phân biệt các màu sắc)
+- *distinguish patterns* (nhận biết các hoa văn / mô hình)
+- *distinguish nuances* (phân biệt các sắc thái nhỏ)
+- *distinguish signals* (nhận biết các tín hiệu)
+- *distinguish voices* (phân biệt các giọng nói)
+- *distinguish shapes* (nhận biết các hình dáng)
+- *distinguish trends* (nhận diện các xu hướng)
+- *distinguish details* (phân biệt các chi tiết)
+- *distinguish concepts* (phân biệt các khái niệm)
+- *distinguish stages* (phân biệt các giai đoạn)
+- *distinguish categories* (phân biệt các danh mục)
+- *distinguish roles* (phân biệt các vai trò)
+- *distinguish priorities* (phân biệt các mức độ ưu tiên)
+- *distinguish flavors* (phân biệt các hương vị)
+- *distinguish textures* (phân biệt các bề mặt / kết cấu)
+- *distinguish meanings* (phân biệt các tầng nghĩa)
+- *distinguish styles* (phân biệt các phong cách)
+- *distinguish components* (phân biệt các thành phần)
+- *distinguish characteristics* (phân biệt các đặc tính)
+- *distinguish oneself in battle* (nổi danh / lập công trên chiến trường)
+- *distinguish oneself in academics* (nổi bật trong học thuật)
+- *ability to distinguish* (khả năng phân biệt)
+- *fail to distinguish* (không thể phân biệt được)
+- *struggle to distinguish* (gặp khó khăn khi phân biệt)
+- *serve to distinguish* (giúp phân biệt / làm nổi bật)
+- *help distinguish* (giúp phân biệt)
+- *attempt to distinguish* (cố gắng phân biệt)
+- *crucial to distinguish* (quan trọng phải phân biệt)
+- *visually distinguish* (phân biệt bằng thị giác)
 ## Từ đồng nghĩa
-
-* *differentiate* (phân biệt, chỉ ra điểm khác biệt)
-* *discriminate* (phân biệt đối xử / nhận biết sự khác nhau)
-* *discern* (nhận thức, nhìn ra)
-* *perceive* (nhận thức, cảm nhận)
-* *tell apart* (phân biệt hai cái tương tự nhau)
-* *separate* (tách biệt, phân chia)
-* *characterize* (đặc trưng hóa, định hình nét riêng)
-
+- *differentiate* (phân biệt, chỉ ra điểm khác biệt)
+- *discriminate* (phân biệt đối xử / nhận biết sự khác nhau)
+- *discern* (nhận thức, nhìn ra)
+- *perceive* (nhận thức, cảm nhận)
+- *tell apart* (phân biệt hai cái tương tự nhau)
+- *separate* (tách biệt, phân chia)
+- *characterize* (đặc trưng hóa, định hình nét riêng)
 ## Từ trái nghĩa
-
-* *confuse* (nhầm lẫn, làm xáo trộn)
-* *mix up* (trộn lẫn, lộn xộn)
-* *muddle* (làm lộn xộn, xáo trộn tâm trí)
-* *lump together* (gộp chung làm một)
-* *overlook* (bỏ qua, không nhận ra sự khác biệt)
-
+- *confuse* (nhầm lẫn, làm xáo trộn)
+- *mix up* (trộn lẫn, lộn xộn)
+- *muddle* (làm lộn xộn, xáo trộn tâm trí)
+- *lump together* (gộp chung làm một)
+- *overlook* (bỏ qua, không nhận ra sự khác biệt)
 ## Word family
-
-* *distinguish* (v) (phân biệt, nhận ra, làm nổi bật)
-* *distinguishable* (adj) (có thể phân biệt được, có thể nhận ra)
-* *indistinguishable* (adj) (không thể phân biệt được, giống hệt nhau)
-* *distinguished* (adj) (kiệt xuất, lỗi lạc, có nét đặc sắc)
-* *distinguishing* (adj) (mang tính chất phân biệt, làm nét đặc trưng)
-* *distinguishably* (adv) (một cách có thể phân biệt được)
-
-Dưới đây là từ vựng **"Dominate"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho các chủ đề IELTS Speaking & Writing (Task 2) và đạt chính xác **88 dòng**:
+- *distinguish* (v) (phân biệt, nhận ra, làm nổi bật)
+- *distinguishable* (adj) (có thể phân biệt được, có thể nhận ra)
+- *indistinguishable* (adj) (không thể phân biệt được, giống hệt nhau)
+- *distinguished* (adj) (kiệt xuất, lỗi lạc, có nét đặc sắc)
+- *distinguishing* (adj) (mang tính chất phân biệt, làm nét đặc trưng)
+- *distinguishably* (adv) (một cách có thể phân biệt được)
 
 # dominate
-
 ## Nghĩa
-
 1. (v) Chi phối, thống trị, kiềm chế (người khác, thị trường, nền kinh tế)
 2. (v) Nổi bật, chiếm ưu thế, là đặc điểm chính (trong một không gian, cuộc thảo luận)
 3. (v) Sừng sững, nhô cao vượt lên trên (công trình, núi đồi vươn cao hơn xung quanh)
 4. (v) Áp đảo, làm chủ (trận đấu, giải đấu, đối thủ)
 5. (v) Thao túng, kiểm soát toàn bộ (quy trình, tâm lý, tư tưởng)
-
 ## Ví dụ
-
-* *A few tech giants continue to dominate the global market share.*
-* *Environmental issues dominated the discussion at the international summit.*
-* *The ancient cathedral dominates the city skyline from miles away.*
-* *Our team completely dominated the second half of the championship match.*
-* *Fear should not be allowed to dominate your personal career decisions.*
-
+- *A few tech giants continue to dominate the global market share.*
+- *Environmental issues dominated the discussion at the international summit.*
+- *The ancient cathedral dominates the city skyline from miles away.*
+- *Our team completely dominated the second half of the championship match.*
+- *Fear should not be allowed to dominate your personal career decisions.*
 ## Cấu trúc
-
-* *dominate someone/something* (chi phối / thống trị ai / cái gì)
-* *be dominated by someone/something* (bị chi phối / chiếm ưu thế bởi cái gì)
-* *dominate over someone/something* (áp đảo / xưng hùng xưng bá trên ai hay cái gì)
-* *continue to dominate* (tiếp tục thống trị / giữ vị thế áp đảo)
-* *seek to dominate* (mưu đồ / tìm cách thống trị)
-
+- *dominate someone/something* (chi phối / thống trị ai / cái gì)
+- *be dominated by someone/something* (bị chi phối / chiếm ưu thế bởi cái gì)
+- *dominate over someone/something* (áp đảo / xưng hùng xưng bá trên ai hay cái gì)
+- *continue to dominate* (tiếp tục thống trị / giữ vị thế áp đảo)
+- *seek to dominate* (mưu đồ / tìm cách thống trị)
 ## Collocation
-
-* *completely dominate* (thống trị hoàn toàn)
-* *totally dominate* (áp đảo / chi phối toàn bộ)
-* *heavily dominate* (chi phối mạnh mẽ)
-* *largely dominate* (phần lớn chiếm ưu thế)
-* *utterly dominate* (áp đảo một cách tuyệt đối)
-* *economically dominate* (thống trị về mặt kinh tế)
-* *politically dominate* (chi phối về mặt chính trị)
-* *culturally dominate* (áp đảo về mặt văn hóa)
-* *militarily dominate* (thống trị về mặt quân sự)
-* *traditionally dominate* (theo truyền thống vẫn chiếm ưu thế)
-* *dominate the market* (thống trị thị trường)
-* *dominate the industry* (chi phối ngành công nghiệp)
-* *dominate the economy* (thống trị nền kinh tế)
-* *dominate the conversation* (chi phối / chiếm phần lớn cuộc trò chuyện)
-* *dominate the headlines* (chiếm trọn các tiêu đề báo chí)
-* *dominate the debate* (chi phối cuộc tranh luận)
-* *dominate the news* (tràn ngập trên tin tức)
-* *dominate the field* (thống trị lĩnh vực / ngành học)
-* *dominate the skyline* (nhô cao / nổi bật trên đường chân trời)
-* *dominate the scene* (làm chủ / nổi bật trên khung cảnh)
-* *dominate the game* (làm chủ trận đấu)
-* *dominate the match* (áp đảo trong trận đấu)
-* *dominate the agenda* (chi phối chương trình nghị sự)
-* *dominate the landscape* (nổi bật trên toàn bộ cảnh quan)
-* *dominate the market share* (chiếm giữ / thống trị thị phần)
-* *dominate the sector* (chi phối phân khúc / khu vực kinh tế)
-* *dominate the discussion* (làm chủ cuộc thảo luận)
-* *dominate global trade* (thống trị thương mại toàn cầu)
-* *dominate the airwaves* (tràn ngập sóng truyền thanh / truyền hình)
-* *dominate the workplace* (chi phối môi trường làm việc)
-* *dominate one's thoughts* (chi phối tư tưởng / suy nghĩ của ai)
-* *dominate one's mind* (thao túng tâm trí của ai)
-* *dominate political discourse* (chi phối diễn ngôn chính trị)
-* *dominate global supply chains* (thống trị chuỗi cung ứng toàn cầu)
-* *dominate the international arena* (xưng hùng trên trường quốc tế)
-* *tendency to dominate* (xu hướng thích chi phối / áp đảo)
-* *struggle to dominate* (tranh giành vị thế thống trị)
-* *ability to dominate* (khả năng làm chủ / chi phối)
-* *allow something to dominate* (để cái gì đó chi phối)
-* *refuse to be dominated* (khước từ bị thao túng / áp đảo)
-* *dominate proceedings* (làm chủ các tiến trình diễn biến)
-* *dominate the retail market* (thống trị thị trường bán lẻ)
-* *dominate the entertainment world* (làm chủ thế giới giải trí)
-* *dominate search results* (thống trị các kết quả tìm kiếm)
-* *dominate public attention* (chiếm trọn sự chú ý của công chúng)
-
+- *completely dominate* (thống trị hoàn toàn)
+- *totally dominate* (áp đảo / chi phối toàn bộ)
+- *heavily dominate* (chi phối mạnh mẽ)
+- *largely dominate* (phần lớn chiếm ưu thế)
+- *utterly dominate* (áp đảo một cách tuyệt đối)
+- *economically dominate* (thống trị về mặt kinh tế)
+- *politically dominate* (chi phối về mặt chính trị)
+- *culturally dominate* (áp đảo về mặt văn hóa)
+- *militarily dominate* (thống trị về mặt quân sự)
+- *traditionally dominate* (theo truyền thống vẫn chiếm ưu thế)
+- *dominate the market* (thống trị thị trường)
+- *dominate the industry* (chi phối ngành công nghiệp)
+- *dominate the economy* (thống trị nền kinh tế)
+- *dominate the conversation* (chi phối / chiếm phần lớn cuộc trò chuyện)
+- *dominate the headlines* (chiếm trọn các tiêu đề báo chí)
+- *dominate the debate* (chi phối cuộc tranh luận)
+- *dominate the news* (tràn ngập trên tin tức)
+- *dominate the field* (thống trị lĩnh vực / ngành học)
+- *dominate the skyline* (nhô cao / nổi bật trên đường chân trời)
+- *dominate the scene* (làm chủ / nổi bật trên khung cảnh)
+- *dominate the game* (làm chủ trận đấu)
+- *dominate the match* (áp đảo trong trận đấu)
+- *dominate the agenda* (chi phối chương trình nghị sự)
+- *dominate the landscape* (nổi bật trên toàn bộ cảnh quan)
+- *dominate the market share* (chiếm giữ / thống trị thị phần)
+- *dominate the sector* (chi phối phân khúc / khu vực kinh tế)
+- *dominate the discussion* (làm chủ cuộc thảo luận)
+- *dominate global trade* (thống trị thương mại toàn cầu)
+- *dominate the airwaves* (tràn ngập sóng truyền thanh / truyền hình)
+- *dominate the workplace* (chi phối môi trường làm việc)
+- *dominate one's thoughts* (chi phối tư tưởng / suy nghĩ của ai)
+- *dominate one's mind* (thao túng tâm trí của ai)
+- *dominate political discourse* (chi phối diễn ngôn chính trị)
+- *dominate global supply chains* (thống trị chuỗi cung ứng toàn cầu)
+- *dominate the international arena* (xưng hùng trên trường quốc tế)
+- *tendency to dominate* (xu hướng thích chi phối / áp đảo)
+- *struggle to dominate* (tranh giành vị thế thống trị)
+- *ability to dominate* (khả năng làm chủ / chi phối)
+- *allow something to dominate* (để cái gì đó chi phối)
+- *refuse to be dominated* (khước từ bị thao túng / áp đảo)
+- *dominate proceedings* (làm chủ các tiến trình diễn biến)
+- *dominate the retail market* (thống trị thị trường bán lẻ)
+- *dominate the entertainment world* (làm chủ thế giới giải trí)
+- *dominate search results* (thống trị các kết quả tìm kiếm)
+- *dominate public attention* (chiếm trọn sự chú ý của công chúng)
 ## Từ đồng nghĩa
-
-* *control* (kiểm soát, quản lý)
-* *govern* (cầm quyền, chi phối)
-* *command* (chỉ huy, bao quát)
-* *monopolize* (độc quyền, chiếm làm của riêng)
-* *overpower* (áp đảo lực lượng)
-* *prevail* (chiếm ưu thế, đánh bại)
-* *rule* (thống trị, cai trị)
-
+- *control* (kiểm soát, quản lý)
+- *govern* (cầm quyền, chi phối)
+- *command* (chỉ huy, bao quát)
+- *monopolize* (độc quyền, chiếm làm của riêng)
+- *overpower* (áp đảo lực lượng)
+- *prevail* (chiếm ưu thế, đánh bại)
+- *rule* (thống trị, cai trị)
 ## Từ trái nghĩa
-
-* *surrender* (đầu hàng, khuất phục)
-* *submit* (tuân phục, chịu lép vế)
-* *yield* (nhượng bộ, nhường bước)
-* *follow* (theo sau, tuân theo)
-* *be subordinate* (ở vị thế phụ thuộc / cấp dưới)
-
+- *surrender* (đầu hàng, khuất phục)
+- *submit* (tuân phục, chịu lép vế)
+- *yield* (nhượng bộ, nhường bước)
+- *follow* (theo sau, tuân theo)
+- *be subordinate* (ở vị thế phụ thuộc / cấp dưới)
 ## Word family
-
-* *dominate* (v) (chi phối, thống trị, áp đảo)
-* *domination* (n) (sự thống trị, sự chi phối)
-* *dominance* (n) (thế thế thượng phong, ưu thế thống trị)
-* *dominant* (adj) (có ưu thế, thống trị, vượt trội)
-* *dominantly* (adv) (một cách ưu thế / thống trị)
-* *dominator* (n) (kẻ thống trị, bên chi phối)
-
-Dưới đây là từ vựng **"Draft"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing/Speaking và đạt chính xác **88 dòng**:
+- *dominate* (v) (chi phối, thống trị, áp đảo)
+- *domination* (n) (sự thống trị, sự chi phối)
+- *dominance* (n) (thế thế thượng phong, ưu thế thống trị)
+- *dominant* (adj) (có ưu thế, thống trị, vượt trội)
+- *dominantly* (adv) (một cách ưu thế / thống trị)
+- *dominator* (n) (kẻ thống trị, bên chi phối)
 
 # draft
-
 ## Nghĩa
-
 1. (n) Bản nháp, bản phác thảo (văn bản, hợp đồng, dự án)
 2. (v) Soạn thảo, phác thảo (viết phiên bản đầu tiên của văn bản/kế hoạch)
 3. (n) Hối phiếu ngân hàng, lệnh thanh toán (trong tài chính/giao dịch)
 4. (v) Tuyển mộ, trưng tập (vào quân đội, đội ngũ chuyên môn)
 5. (n) Gió lùa, luồng không khí (trong không gian kín - cách viết Anh-Mỹ)
-
 ## Ví dụ
-
-* *Students are encouraged to revise their first draft before submitting the final essay.*
-* *The legal team was instructed to draft a new contract for the merger.*
-* *Payment can be made via credit card, wire transfer, or bank draft.*
-* *He was drafted into the national service shortly after graduating from university.*
-* *A cold draft came through the gap under the main entrance door.*
-
+- *Students are encouraged to revise their first draft before submitting the final essay.*
+- *The legal team was instructed to draft a new contract for the merger.*
+- *Payment can be made via credit card, wire transfer, or bank draft.*
+- *He was drafted into the national service shortly after graduating from university.*
+- *A cold draft came through the gap under the main entrance door.*
 ## Cấu trúc
-
-* *draft something for someone/something* (soạn thảo cái gì cho ai / cái gì)
-* *draft someone into something* (trưng tập / điều động ai vào đâu)
-* *be in draft form* (đang ở dạng bản nháp)
-* *make/write/produce a draft* (tạo / viết / sản xuất bản nháp)
-* *draft a proposal/policy/law* (soạn thảo đề xuất / chính sách / luật)
-
+- *draft something for someone/something* (soạn thảo cái gì cho ai / cái gì)
+- *draft someone into something* (trưng tập / điều động ai vào đâu)
+- *be in draft form* (đang ở dạng bản nháp)
+- *make/write/produce a draft* (tạo / viết / sản xuất bản nháp)
+- *draft a proposal/policy/law* (soạn thảo đề xuất / chính sách / luật)
 ## Collocation
-
-* *rough draft* (bản nháp sơ bộ)
-* *first draft* (bản nháp đầu tiên)
-* *final draft* (bản nháp cuối cùng / bản chốt)
-* *initial draft* (bản phác thảo ban đầu)
-* *working draft* (bản nháp đang trong quá trình chỉnh sửa)
-* *revised draft* (bản nháp đã qua sửa đổi)
-* *preliminary draft* (bản phác thảo sơ khởi)
-* *bank draft* (hối phiếu ngân hàng)
-* *banker's draft* (ngân phiếu ngân hàng)
-* *draft agreement* (thỏa thuận sơ bộ)
-* *draft proposal* (đề xuất phác thảo)
-* *draft legislation* (dự thảo luật)
-* *draft policy* (dự thảo chính sách)
-* *draft resolution* (dự thảo nghị quyết)
-* *draft constitution* (dự thảo hiến pháp)
-* *draft contract* (hợp đồng bản nháp)
-* *draft plan* (kế hoạch phác thảo)
-* *draft budget* (dự thảo ngân sách)
-* *draft paper* (bài viết nháp)
-* *draft document* (tài liệu phác thảo)
-* *draft strategy* (chiến lược phác thảo)
-* *draft report* (báo cáo nháp)
-* *draft outline* (dàn ý phác thảo)
-* *draft stage* (giai đoạn phác thảo)
-* *draft version* (phiên bản nháp)
-* *carefully draft* (soạn thảo một cách cẩn trọng)
-* *jointly draft* (cùng nhau soạn thảo)
-* *help draft* (giúp soạn thảo)
-* *redraft a text* (viết lại / chỉnh sửa bản nháp)
-* *prepare a draft* (chuẩn bị một bản nháp)
-* *submit a draft* (nộp bản nháp)
-* *approve a draft* (phê duyệt bản nháp)
-* *review a draft* (đánh giá / duyệt bản nháp)
-* *circulate a draft* (lưu hành bản nháp)
-* *amend a draft* (sửa đổi bản nháp)
-* *reject a draft* (bác bỏ bản nháp)
-* *draft an essay* (soạn thảo bài luận)
-* *draft a response* (soạn thảo lời hồi đáp)
-* *draft a letter* (soạn thảo một lá thư)
-* *draft a speech* (soạn thảo bài phát biểu)
-* *draft a framework* (phác thảo một khung làm việc)
-* *draft recommendations* (soạn thảo các đề xuất)
-* *military draft* (sự trưng tập quân sự)
-* *avoid the draft* (trốn nghĩa vụ quân sự)
-* *cold draft* (luồng gió lùa lạnh)
-
+- *rough draft* (bản nháp sơ bộ)
+- *first draft* (bản nháp đầu tiên)
+- *final draft* (bản nháp cuối cùng / bản chốt)
+- *initial draft* (bản phác thảo ban đầu)
+- *working draft* (bản nháp đang trong quá trình chỉnh sửa)
+- *revised draft* (bản nháp đã qua sửa đổi)
+- *preliminary draft* (bản phác thảo sơ khởi)
+- *bank draft* (hối phiếu ngân hàng)
+- *banker's draft* (ngân phiếu ngân hàng)
+- *draft agreement* (thỏa thuận sơ bộ)
+- *draft proposal* (đề xuất phác thảo)
+- *draft legislation* (dự thảo luật)
+- *draft policy* (dự thảo chính sách)
+- *draft resolution* (dự thảo nghị quyết)
+- *draft constitution* (dự thảo hiến pháp)
+- *draft contract* (hợp đồng bản nháp)
+- *draft plan* (kế hoạch phác thảo)
+- *draft budget* (dự thảo ngân sách)
+- *draft paper* (bài viết nháp)
+- *draft document* (tài liệu phác thảo)
+- *draft strategy* (chiến lược phác thảo)
+- *draft report* (báo cáo nháp)
+- *draft outline* (dàn ý phác thảo)
+- *draft stage* (giai đoạn phác thảo)
+- *draft version* (phiên bản nháp)
+- *carefully draft* (soạn thảo một cách cẩn trọng)
+- *jointly draft* (cùng nhau soạn thảo)
+- *help draft* (giúp soạn thảo)
+- *redraft a text* (viết lại / chỉnh sửa bản nháp)
+- *prepare a draft* (chuẩn bị một bản nháp)
+- *submit a draft* (nộp bản nháp)
+- *approve a draft* (phê duyệt bản nháp)
+- *review a draft* (đánh giá / duyệt bản nháp)
+- *circulate a draft* (lưu hành bản nháp)
+- *amend a draft* (sửa đổi bản nháp)
+- *reject a draft* (bác bỏ bản nháp)
+- *draft an essay* (soạn thảo bài luận)
+- *draft a response* (soạn thảo lời hồi đáp)
+- *draft a letter* (soạn thảo một lá thư)
+- *draft a speech* (soạn thảo bài phát biểu)
+- *draft a framework* (phác thảo một khung làm việc)
+- *draft recommendations* (soạn thảo các đề xuất)
+- *military draft* (sự trưng tập quân sự)
+- *avoid the draft* (trốn nghĩa vụ quân sự)
+- *cold draft* (luồng gió lùa lạnh)
 ## Từ đồng nghĩa
-
-* *outline* (phác thảo dàn ý)
-* *sketch* (vẽ / phác họa)
-* *draw up* (lập kế hoạch, soạn thảo document)
-* *compose* (sáng tác, soạn thảo)
-* *frame* (dựng lên, cấu trúc ý tưởng)
-* *conscript* (tuyển quân, trưng tập)
-* *manuscript* (bản thảo viết tay / gốc)
-
+- *outline* (phác thảo dàn ý)
+- *sketch* (vẽ / phác họa)
+- *draw up* (lập kế hoạch, soạn thảo document)
+- *compose* (sáng tác, soạn thảo)
+- *frame* (dựng lên, cấu trúc ý tưởng)
+- *conscript* (tuyển quân, trưng tập)
+- *manuscript* (bản thảo viết tay / gốc)
 ## Từ trái nghĩa
-
-* *finalize* (hoàn thiện, chốt phiên bản cuối)
-* *complete* (hoàn thành toàn bộ)
-* *conclude* (kết luận, kết thúc)
-* *polish* (trau chuốt hoàn chỉnh)
-* *execute* (thi hành, thực thi)
-
+- *finalize* (hoàn thiện, chốt phiên bản cuối)
+- *complete* (hoàn thành toàn bộ)
+- *conclude* (kết luận, kết thúc)
+- *polish* (trau chuốt hoàn chỉnh)
+- *execute* (thi hành, thực thi)
 ## Word family
-
-* *draft* (n, v) (bản nháp, soạn thảo)
-* *drafter* (n) (người soạn thảo văn bản)
-* *drafting* (n) (việc soạn thảo văn bản / kỹ thuật vẽ)
-* *drafty* (adj) (có gió lùa - cách viết Mỹ: drafty / Anh: draughty)
-* *redraft* (v, n) (soạn thảo lại, bản viết lại)
-* *undrafted* (adj) (chưa được tuyển chọn / chưa phác thảo)
-
-Dưới đây là từ vựng **"Educate"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+- *draft* (n, v) (bản nháp, soạn thảo)
+- *drafter* (n) (người soạn thảo văn bản)
+- *drafting* (n) (việc soạn thảo văn bản / kỹ thuật vẽ)
+- *drafty* (adj) (có gió lùa - cách viết Mỹ: drafty / Anh: draughty)
+- *redraft* (v, n) (soạn thảo lại, bản viết lại)
+- *undrafted* (adj) (chưa được tuyển chọn / chưa phác thảo)
 
 # educate
-
 ## Nghĩa
-
 1. (v) Giáo dục, đào tạo, dạy dỗ (cung cấp kiến thức và kỹ năng)
 2. (v) Rèn luyện, nâng cao nhận thức (cho cộng đồng về một vấn đề)
 3. (v) Hướng dẫn, rèn luyện thói quen (tự giáo dục bản thân)
 4. (v) Chi trả chi phí học tập, nuôi ăn học (cho ai đó)
 5. (v) Rèn luyện thể chất, rèn luyện tư duy (trong môi trường học đường)
-
 ## Ví dụ
-
-* *Schools play a vital role in educating young people for future careers.*
-* *Campaigns are needed to educate the public about the dangers of smoking.*
-* *Parents strive to educate their children in a safe and supportive environment.*
-* *He was educated at one of the top universities in the country.*
-* *It takes patience and proper techniques to educate young children effectively.*
-
+- *Schools play a vital role in educating young people for future careers.*
+- *Campaigns are needed to educate the public about the dangers of smoking.*
+- *Parents strive to educate their children in a safe and supportive environment.*
+- *He was educated at one of the top universities in the country.*
+- *It takes patience and proper techniques to educate young children effectively.*
 ## Cấu trúc
-
-* *educate someone in something* (giáo dục / đào tạo ai về lĩnh vực gì)
-* *educate someone about something* (nâng cao nhận thức của ai về vấn đề gì)
-* *educate someone to do something* (giáo dục / hướng dẫn ai làm việc gì)
-* *be educated at/in somewhere* (được đào tạo / học tập tại đâu)
-* *educate oneself* (tự học / tự trau dồi kiến thức)
-
+- *educate someone in something* (giáo dục / đào tạo ai về lĩnh vực gì)
+- *educate someone about something* (nâng cao nhận thức của ai về vấn đề gì)
+- *educate someone to do something* (giáo dục / hướng dẫn ai làm việc gì)
+- *be educated at/in somewhere* (được đào tạo / học tập tại đâu)
+- *educate oneself* (tự học / tự trau dồi kiến thức)
 ## Collocation
-
-* *properly educate* (giáo dục một cách đúng đắn)
-* *well educate* (được giáo dục tốt / bài bản)
-* *highly educate* (có trình độ học vấn cao)
-* *effectively educate* (giáo dục một cách hiệu quả)
-* *adequately educate* (được đào tạo đầy đủ)
-* *inadequately educate* (giáo dục thiếu sót / không đầy đủ)
-* *poorly educate* (giáo dục kém chất lượng)
-* *formally educate* (được giáo dục chính quy)
-* *informally educate* (giáo dục không chính quy)
-* *continuously educate* (giáo dục / học tập liên tục)
-* *educate children* (giáo dục trẻ em)
-* *educate youth* (đào tạo thế hệ trẻ)
-* *educate students* (dạy dỗ học sinh / sinh viên)
-* *educate the public* (nâng cao nhận thức cộng đồng)
-* *educate consumers* (hướng dẫn người tiêu dùng)
-* *educate patients* (tuyên truyền kiến thức cho bệnh nhân)
-* *educate workers* (đào tạo công nhân / người lao động)
-* *educate the workforce* (đào tạo lực lượng lao động)
-* *educate voters* (nâng cao nhận thức cho cử tri)
-* *educate parents* (hướng dẫn / tư vấn cho phụ huynh)
-* *educate about health* (tuyên truyền giáo dục về sức khỏe)
-* *educate about safety* (giáo dục về an toàn)
-* *educate about the environment* (giáo dục về môi trường)
-* *educate about nutrition* (giáo dục về dinh dưỡng)
-* *educate about finance* (giáo dục về tài chính)
-* *educate through technology* (giáo dục thông qua công nghệ)
-* *educate through experience* (giáo dục qua trải nghiệm thực tế)
-* *educate for the future* (đào tạo cho tương lai)
-* *educate for leadership* (đào tạo năng lực lãnh đạo)
-* *educate for citizenship* (giáo dục ý thức công dân)
-* *seek to educate* (nỗ lực / tìm cách giáo dục)
-* *aim to educate* (nhắm đến mục tiêu giáo dục)
-* *help educate* (giúp đỡ / hỗ trợ giáo dục)
-* *fail to educate* (thất bại trong việc giáo dục)
-* *struggle to educate* (gặp khó khăn trong việc dạy dỗ)
-* *duty to educate* (trách nhiệm / nghĩa vụ giáo dục)
-* *opportunity to educate* (cơ hội đào tạo / giáo dục)
-* *effort to educate* (nỗ lực nâng cao nhận thức)
-* *campaign to educate* (chiến dịch tuyên truyền giáo dục)
-* *program to educate* (chương trình đào tạo)
-* *educate the mind* (rèn luyện tư duy / tâm trí)
-* *educate the whole child* (giáo dục toàn diện trẻ em)
-* *privately educate* (giáo dục tại trường tư / dân lập)
-* *publicly educate* (giáo dục tại hệ thống công lập)
-* *co-educate* (giáo dục chung cả nam và nữ)
-
+- *properly educate* (giáo dục một cách đúng đắn)
+- *well educate* (được giáo dục tốt / bài bản)
+- *highly educate* (có trình độ học vấn cao)
+- *effectively educate* (giáo dục một cách hiệu quả)
+- *adequately educate* (được đào tạo đầy đủ)
+- *inadequately educate* (giáo dục thiếu sót / không đầy đủ)
+- *poorly educate* (giáo dục kém chất lượng)
+- *formally educate* (được giáo dục chính quy)
+- *informally educate* (giáo dục không chính quy)
+- *continuously educate* (giáo dục / học tập liên tục)
+- *educate children* (giáo dục trẻ em)
+- *educate youth* (đào tạo thế hệ trẻ)
+- *educate students* (dạy dỗ học sinh / sinh viên)
+- *educate the public* (nâng cao nhận thức cộng đồng)
+- *educate consumers* (hướng dẫn người tiêu dùng)
+- *educate patients* (tuyên truyền kiến thức cho bệnh nhân)
+- *educate workers* (đào tạo công nhân / người lao động)
+- *educate the workforce* (đào tạo lực lượng lao động)
+- *educate voters* (nâng cao nhận thức cho cử tri)
+- *educate parents* (hướng dẫn / tư vấn cho phụ huynh)
+- *educate about health* (tuyên truyền giáo dục về sức khỏe)
+- *educate about safety* (giáo dục về an toàn)
+- *educate about the environment* (giáo dục về môi trường)
+- *educate about nutrition* (giáo dục về dinh dưỡng)
+- *educate about finance* (giáo dục về tài chính)
+- *educate through technology* (giáo dục thông qua công nghệ)
+- *educate through experience* (giáo dục qua trải nghiệm thực tế)
+- *educate for the future* (đào tạo cho tương lai)
+- *educate for leadership* (đào tạo năng lực lãnh đạo)
+- *educate for citizenship* (giáo dục ý thức công dân)
+- *seek to educate* (nỗ lực / tìm cách giáo dục)
+- *aim to educate* (nhắm đến mục tiêu giáo dục)
+- *help educate* (giúp đỡ / hỗ trợ giáo dục)
+- *fail to educate* (thất bại trong việc giáo dục)
+- *struggle to educate* (gặp khó khăn trong việc dạy dỗ)
+- *duty to educate* (trách nhiệm / nghĩa vụ giáo dục)
+- *opportunity to educate* (cơ hội đào tạo / giáo dục)
+- *effort to educate* (nỗ lực nâng cao nhận thức)
+- *campaign to educate* (chiến dịch tuyên truyền giáo dục)
+- *program to educate* (chương trình đào tạo)
+- *educate the mind* (rèn luyện tư duy / tâm trí)
+- *educate the whole child* (giáo dục toàn diện trẻ em)
+- *privately educate* (giáo dục tại trường tư / dân lập)
+- *publicly educate* (giáo dục tại hệ thống công lập)
+- *co-educate* (giáo dục chung cả nam và nữ)
 ## Từ đồng nghĩa
-
-* *teach* (dạy dỗ, giảng dạy)
-* *instruct* (hướng dẫn, chỉ bảo)
-* *train* (đào tạo, huấn luyện)
-* *tutor* (kèm cặp, dạy kèm)
-* *enlighten* (khai sáng, làm sáng tỏ)
-* *inform* (cung cấp thông tin, truyền đạt)
-* *cultivate* (trau dồi, nuôi dưỡng trí tuệ)
-
+- *teach* (dạy dỗ, giảng dạy)
+- *instruct* (hướng dẫn, chỉ bảo)
+- *train* (đào tạo, huấn luyện)
+- *tutor* (kèm cặp, dạy kèm)
+- *enlighten* (khai sáng, làm sáng tỏ)
+- *inform* (cung cấp thông tin, truyền đạt)
+- *cultivate* (trau dồi, nuôi dưỡng trí tuệ)
 ## Từ trái nghĩa
-
-* *misinform* (cung cấp thông tin sai lệch)
-* *mislead* (làm cho mê muội, dẫn dắt sai đường)
-* *miseducate* (giáo dục sai lệch)
-* *neglect* (bỏ mặc, không chăm sóc giáo dục)
-* *ignore* (phớt lờ, ngó lơ)
-
+- *misinform* (cung cấp thông tin sai lệch)
+- *mislead* (làm cho mê muội, dẫn dắt sai đường)
+- *miseducate* (giáo dục sai lệch)
+- *neglect* (bỏ mặc, không chăm sóc giáo dục)
+- *ignore* (phớt lờ, ngó lơ)
 ## Word family
-
-* *educate* (v) (giáo dục, đào tạo)
-* *education* (n) (nền giáo dục, sự giáo dục)
-* *educational* (adj) (mang tính giáo dục, thuộc về giáo dục)
-* *educator* (n) (nhà giáo dục, thầy cô giáo)
-* *educated* (adj) (có học thức, được đào tạo)
-* *uneducated* (adj) (không được học hành, thất học)
-
-Dưới đây là từ vựng **"Emphasis"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+- *educate* (v) (giáo dục, đào tạo)
+- *education* (n) (nền giáo dục, sự giáo dục)
+- *educational* (adj) (mang tính giáo dục, thuộc về giáo dục)
+- *educator* (n) (nhà giáo dục, thầy cô giáo)
+- *educated* (adj) (có học thức, được đào tạo)
+- *uneducated* (adj) (không được học hành, thất học)
+## Từ đồng nghĩa
+- *stress* (nhấn mạnh, làm nổi bật)
+- *focus* (tập trung, chú trọng)
+- *highlight* (làm nổi bật, nhấn mạnh)
+- *stress* (n) (sự nhấn mạnh, căng thẳng)
+- *importance* (tầm quan trọng)
+- *prominence* (sự nổi bật)
+- *weight* (sức nặng, tầm quan trọng)
+- *priority* (ưu tiên hàng đầu)
+- *accent* (trọng âm, nhấn mạnh ngữ điệu)
+- *stress* (n) (trọng âm, âm nhấn)
+- *boldness* (sự nổi bật, táo bạo)
+- *prominence* (sự nổi bật, dễ thấy)
+## Từ trái nghĩa
+- *downplay* (giảm nhẹ, hạ thấp mức độ)
+- *de-emphasize* (giảm sự chú trọng)
+- *neglect* (bỏ bê, không quan tâm)
+- *ignore* (phớt lờ)
+- *minimize* (giảm thiểu tối đa)
+- *underplay* (hạ thấp vai trò)
+## Word family
+- *emphasize / emphasise* (v) (nhấn mạnh, làm nổi bật)
+- *unemphasized* (adj) (không được nhấn mạnh)
 
 # emphasis
-
 ## Nghĩa
-
 1. (n) Sự nhấn mạnh, sự chú trọng (vào một điểm, chủ đề, khía cạnh)
 2. (n) Tầm quan trọng, sự ưu tiên (được dành cho cái gì)
 3. (n) Trọng âm, ngữ điệu nhấn mạnh (trong ngữ âm, phát âm)
 4. (n) Nét nổi bật, sự làm cho dễ chú ý (trong thiết kế, nghệ thuật)
 5. (n) Sức nặng, độ quyết liệt (trong lời nói, lập luận)
-
 ## Ví dụ
-
-* *The school places a strong emphasis on practical skills alongside academic theory.*
-* *There has been a shift in emphasis towards renewable energy in recent years.*
-* *In the word 'present', the emphasis changes depending on whether it is a noun or verb.*
-* *The designer used bold colors to create a visual emphasis on the center stage.*
-* *He spoke with great emphasis, leaving no doubt about his firm intention.*
-
+- *The school places a strong emphasis on practical skills alongside academic theory.*
+- *There has been a shift in emphasis towards renewable energy in recent years.*
+- *In the word 'present', the emphasis changes depending on whether it is a noun or verb.*
+- *The designer used bold colors to create a visual emphasis on the center stage.*
+- *He spoke with great emphasis, leaving no doubt about his firm intention.*
 ## Cấu trúc
-
-* *emphasis on/upon something* (sự nhấn mạnh / chú trọng vào cái gì)
-* *place/put/lay emphasis on something* (nhấn mạnh / đặt ưu tiên vào cái gì)
-* *shift the emphasis to something* (chuyển sự chú trọng sang cái gì)
-* *with (particular) emphasis on something* (với sự nhấn mạnh đặc biệt vào điều gì)
-* *change of emphasis* (sự thay đổi trong việc ưu tiên / nhấn mạnh)
-
+- *emphasis on/upon something* (sự nhấn mạnh / chú trọng vào cái gì)
+- *place/put/lay emphasis on something* (nhấn mạnh / đặt ưu tiên vào cái gì)
+- *shift the emphasis to something* (chuyển sự chú trọng sang cái gì)
+- *with (particular) emphasis on something* (với sự nhấn mạnh đặc biệt vào điều gì)
+- *change of emphasis* (sự thay đổi trong việc ưu tiên / nhấn mạnh)
 ## Collocation
-
-* *strong emphasis* (sự nhấn mạnh mạnh mẽ)
-* *particular emphasis* (sự nhấn mạnh đặc biệt)
-* *special emphasis* (sự chú trọng đặc biệt)
-* *heavy emphasis* (sự nhấn mạnh rất nhiều / đè nặng)
-* *greater emphasis* (sự chú trọng lớn hơn)
-* *increasing emphasis* (sự nhấn mạnh ngày càng tăng)
-* *main emphasis* (sự chú trọng chính)
-* *primary emphasis* (sự ưu tiên / nhấn mạnh hàng đầu)
-* *undue emphasis* (sự chú trọng quá mức / không cần thiết)
-* *overdue emphasis* (sự nhấn mạnh muộn màng)
-* *unusual emphasis* (sự nhấn mạnh bất thường)
-* *fresh emphasis* (sự chú trọng mới)
-* *renewed emphasis* (sự nhấn mạnh được tái khởi động / củng cố)
-* *dual emphasis* (sự chú trọng kép / vào hai khía cạnh)
-* *equal emphasis* (sự nhấn mạnh ngang nhau)
-* *place emphasis* (đặt sự nhấn mạnh)
-* *put emphasis* (đặt sự chú trọng)
-* *lay emphasis* (dành sự chú trọng)
-* *shift emphasis* (chuyển dịch sự chú trọng)
-* *receive emphasis* (nhận được sự chú trọng)
-* *deserve emphasis* (đáng được nhấn mạnh)
-* *lack emphasis* (thiếu sự nhấn mạnh)
-* *add emphasis* (thêm sự nhấn mạnh)
-* *reflect emphasis* (phản ánh sự chú trọng)
-* *change emphasis* (thay đổi sự chú trọng)
-* *emphasis on quality* (chú trọng vào chất lượng)
-* *emphasis on safety* (nhấn mạnh vào sự an toàn)
-* *emphasis on education* (chú trọng vào giáo dục)
-* *emphasis on prevention* (nhấn mạnh vào việc phòng ngừa)
-* *emphasis on research* (chú trọng vào nghiên cứu)
-* *emphasis on innovation* (nhấn mạnh vào sự đổi mới)
-* *emphasis on sustainability* (chú trọng vào sự phát triển bền vững)
-* *emphasis on teamwork* (nhấn mạnh vào làm việc nhóm)
-* *emphasis on performance* (chú trọng vào hiệu suất)
-* *emphasis on accountability* (nhấn mạnh vào trách nhiệm giải trình)
-* *emphasis on customer service* (chú trọng vào dịch vụ khách hàng)
-* *emphasis on individual needs* (nhấn mạnh vào nhu cầu cá nhân)
-* *emphasis on practical application* (chú trọng vào ứng dụng thực tế)
-* *emphasis on skill development* (nhấn mạnh vào phát triển kỹ năng)
-* *emphasis on environmental protection* (chú trọng vào bảo vệ môi trường)
-* *a shift of emphasis* (một sự chuyển dịch trọng tâm)
-* *for the sake of emphasis* (để nhằm mục đích nhấn mạnh)
-* *with added emphasis* (với sự nhấn mạnh bổ sung)
-* *spoken with emphasis* (được nói một cách nhấn giọng / quyết liệt)
-* *tonal emphasis* (ngữ điệu nhấn mạnh)
-
+- *strong emphasis* (sự nhấn mạnh mạnh mẽ)
+- *particular emphasis* (sự nhấn mạnh đặc biệt)
+- *special emphasis* (sự chú trọng đặc biệt)
+- *heavy emphasis* (sự nhấn mạnh rất nhiều / đè nặng)
+- *greater emphasis* (sự chú trọng lớn hơn)
+- *increasing emphasis* (sự nhấn mạnh ngày càng tăng)
+- *main emphasis* (sự chú trọng chính)
+- *primary emphasis* (sự ưu tiên / nhấn mạnh hàng đầu)
+- *undue emphasis* (sự chú trọng quá mức / không cần thiết)
+- *overdue emphasis* (sự nhấn mạnh muộn màng)
+- *unusual emphasis* (sự nhấn mạnh bất thường)
+- *fresh emphasis* (sự chú trọng mới)
+- *renewed emphasis* (sự nhấn mạnh được tái khởi động / củng cố)
+- *dual emphasis* (sự chú trọng kép / vào hai khía cạnh)
+- *equal emphasis* (sự nhấn mạnh ngang nhau)
+- *place emphasis* (đặt sự nhấn mạnh)
+- *put emphasis* (đặt sự chú trọng)
+- *lay emphasis* (dành sự chú trọng)
+- *shift emphasis* (chuyển dịch sự chú trọng)
+- *receive emphasis* (nhận được sự chú trọng)
+- *deserve emphasis* (đáng được nhấn mạnh)
+- *lack emphasis* (thiếu sự nhấn mạnh)
+- *add emphasis* (thêm sự nhấn mạnh)
+- *reflect emphasis* (phản ánh sự chú trọng)
+- *change emphasis* (thay đổi sự chú trọng)
+- *emphasis on quality* (chú trọng vào chất lượng)
+- *emphasis on safety* (nhấn mạnh vào sự an toàn)
+- *emphasis on education* (chú trọng vào giáo dục)
+- *emphasis on prevention* (nhấn mạnh vào việc phòng ngừa)
+- *emphasis on research* (chú trọng vào nghiên cứu)
+- *emphasis on innovation* (nhấn mạnh vào sự đổi mới)
+- *emphasis on sustainability* (chú trọng vào sự phát triển bền vững)
+- *emphasis on teamwork* (nhấn mạnh vào làm việc nhóm)
+- *emphasis on performance* (chú trọng vào hiệu suất)
+- *emphasis on accountability* (nhấn mạnh vào trách nhiệm giải trình)
+- *emphasis on customer service* (chú trọng vào dịch vụ khách hàng)
+- *emphasis on individual needs* (nhấn mạnh vào nhu cầu cá nhân)
+- *emphasis on practical application* (chú trọng vào ứng dụng thực tế)
+- *emphasis on skill development* (nhấn mạnh vào phát triển kỹ năng)
+- *emphasis on environmental protection* (chú trọng vào bảo vệ môi trường)
+- *a shift of emphasis* (một sự chuyển dịch trọng tâm)
+- *for the sake of emphasis* (để nhằm mục đích nhấn mạnh)
+- *with added emphasis* (với sự nhấn mạnh bổ sung)
+- *spoken with emphasis* (được nói một cách nhấn giọng / quyết liệt)
+- *tonal emphasis* (ngữ điệu nhấn mạnh)
 ## Từ đồng nghĩa
-
-* *stress* (sự nhấn mạnh, trọng âm)
-* *importance* (tầm quan trọng)
-* *priority* (sự ưu tiên)
-* *weight* (sức nặng, độ quan trọng)
-* *highlight* (điểm nổi bật, sự làm nổi bật)
-* *prominence* (sự nổi trội, vị trí quan trọng)
-* *accent* (trọng âm, sự nhấn giọng)
-
+- *stress* (sự nhấn mạnh, trọng âm)
+- *importance* (tầm quan trọng)
+- *priority* (sự ưu tiên)
+- *weight* (sức nặng, độ quan trọng)
+- *highlight* (điểm nổi bật, sự làm nổi bật)
+- *prominence* (sự nổi trội, vị trí quan trọng)
+- *accent* (trọng âm, sự nhấn giọng)
 ## Từ trái nghĩa
-
-* *understatement* (sự nói giảm nói tránh, coi nhẹ)
-* *ignorance* (sự phớt lờ, không chú ý)
-* *neglect* (sự bỏ mặc, xao nhãng)
-* *insignificance* (sự không quan trọng / không đáng kể)
-* *disregard* (sự coi thường, bất chấp)
-
+- *understatement* (sự nói giảm nói tránh, coi nhẹ)
+- *ignorance* (sự phớt lờ, không chú ý)
+- *neglect* (sự bỏ mặc, xao nhãng)
+- *insignificance* (sự không quan trọng / không đáng kể)
+- *disregard* (sự coi thường, bất chấp)
 ## Word family
-
-* *emphasis* (n) (sự nhấn mạnh, sự chú trọng)
-* *emphasize* (v) (nhấn mạnh, làm nổi bật)
-* *emphatic* (adj) (dứt khoát, mạnh mẽ, nhấn mạnh)
-* *emphatically* (adv) (một cách dứt khoát, mạnh mẽ)
-* *de-emphasize* (v) (giảm bớt sự chú trọng / coi nhẹ)
-* *re-emphasize* (v) (nhấn mạnh lại, tái khẳng định)
-
-Dưới đây là từ vựng **"Endure"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+- *emphasis* (n) (sự nhấn mạnh, sự chú trọng)
+- *emphasize* (v) (nhấn mạnh, làm nổi bật)
+- *emphatic* (adj) (dứt khoát, mạnh mẽ, nhấn mạnh)
+- *emphatically* (adv) (một cách dứt khoát, mạnh mẽ)
+- *de-emphasize* (v) (giảm bớt sự chú trọng / coi nhẹ)
+- *re-emphasize* (v) (nhấn mạnh lại, tái khẳng định)
 
 # endure
-
 ## Nghĩa
-
 1. (v) Cam chịu, chịu đựng (gian khổ, đau đớn, thử thách trong thời gian dài)
 2. (v) Tồn tại, kéo dài (theo thời gian, qua các giai đoạn lịch sử)
 3. (v) Chịu đựng được, chống chịu (sức ép, thời tiết khắc nghiệt)
 4. (v) Nhẫn nại, kiên trì (trước hoàn cảnh bất lợi)
 5. (v) Dung thứ, chấp nhận (sự hiện diện hay hành vi của ai đó)
-
 ## Ví dụ
-
-* *Many refugee families have to endure unimaginable hardships during their journey.*
-* *The ancient traditions of the indigenous community have endured for centuries.*
-* *The bridge was engineered to endure extreme weather conditions and earthquakes.*
-* *Athletes must endure grueling physical training to reach the professional level.*
-* *She could no longer endure his constant arrogance and disrespectful remarks.*
-
+- *Many refugee families have to endure unimaginable hardships during their journey.*
+- *The ancient traditions of the indigenous community have endured for centuries.*
+- *The bridge was engineered to endure extreme weather conditions and earthquakes.*
+- *Athletes must endure grueling physical training to reach the professional level.*
+- *She could no longer endure his constant arrogance and disrespectful remarks.*
 ## Cấu trúc
-
-* *endure something* (chịu đựng / trải qua cái gì)
-* *endure doing something* (kiên trì / chịu đựng việc làm gì)
-* *endure through something* (vượt qua / tồn tại qua giai đoạn gì)
-* *have to endure* (phải chịu đựng)
-* *be able to endure* (có khả năng chịu đựng / chống chịu)
-
+- *endure something* (chịu đựng / trải qua cái gì)
+- *endure doing something* (kiên trì / chịu đựng việc làm gì)
+- *endure through something* (vượt qua / tồn tại qua giai đoạn gì)
+- *have to endure* (phải chịu đựng)
+- *be able to endure* (có khả năng chịu đựng / chống chịu)
 ## Collocation
-
-* *endure pain* (chịu đựng sự đau đớn)
-* *endure suffering* (chịu đựng sự đau khổ)
-* *endure hardship* (chịu đựng gian khổ / khó khăn)
-* *endure poverty* (chịu đựng nghèo khổ)
-* *endure isolation* (chịu đựng sự cô lập)
-* *endure criticism* (hứng chịu / chịu đựng sự phê bình)
-* *endure humiliation* (chịu đựng sự tủi nhục)
-* *endure abuse* (chịu đựng sự lạm dụng / ngược đãi)
-* *endure stress* (chịu đựng áp lực)
-* *endure pressure* (chịu đựng sức ép)
-* *endure scrutiny* (chịu sự kiểm tra / soi xét kỹ lưỡng)
-* *endure cold* (chịu đựng cái lạnh)
-* *endure heat* (chịu đựng cái nóng)
-* *endure torture* (chịu đựng sự tra tấn)
-* *endure loss* (chịu đựng sự mất mát)
-* *endure trauma* (chịu đựng tổn thương)
-* *endure persecution* (chịu đựng sự đàn áp)
-* *endure discrimination* (chịu đựng sự phân biệt đối xử)
-* *endure long hours* (chịu đựng thời gian làm việc kéo dài)
-* *endure severe winter* (chịu đựng mùa đông khắc nghiệt)
-* *endure economic hardship* (chịu đựng khó khăn kinh tế)
-* *endure grueling conditions* (chịu đựng điều kiện kiệt sức)
-* *endure public backlash* (chịu đựng phản ứng gay gắt của công chúng)
-* *endure physical agony* (chịu đựng sự đau đớn thể xác)
-* *endure mental strain* (chịu đựng sự căng thẳng thần kinh)
-* *silently endure* (âm thầm chịu đựng)
-* *bravely endure* (dũng cảm chịu đựng)
-* *patiently endure* (nhẫn nại chịu đựng)
-* *stoically endure* (chịu đựng một cách kiên cường / không than van)
-* *continuously endure* (chịu đựng liên tục)
-* *endure the test of time* (thử thách cùng thời gian / trường tồn)
-* *endure to the end* (kiên trì / chịu đựng cho đến cùng)
-* *endure as a symbol* (tồn tại như một biểu tượng)
-* *endure in memory* (sống mãi trong ký ức)
-* *capacity to endure* (khả năng chịu đựng)
-* *will to endure* (ý chí chịu đựng / vươn lên)
-* *struggle to endure* (vật lộn để tồn tại / chịu đựng)
-* *manage to endure* (xoay xở chịu đựng được)
-* *fail to endure* (không thể chịu đựng nổi)
-* *hard to endure* (khó lòng chịu đựng)
-* *impossible to endure* (không thể chịu đựng được)
-* *continue to endure* (tiếp tục tồn tại / kéo dài)
-* *hope to endure* (hy vọng tồn tại / chịu đựng)
-* *endure harsh environment* (chống chịu môi trường khắc nghiệt)
-* *endure financial losses* (chịu đựng các tổn thất tài chính)
+- *endure pain* (chịu đựng sự đau đớn)
+- *endure suffering* (chịu đựng sự đau khổ)
+- *endure hardship* (chịu đựng gian khổ / khó khăn)
+- *endure poverty* (chịu đựng nghèo khổ)
+- *endure isolation* (chịu đựng sự cô lập)
+- *endure criticism* (hứng chịu / chịu đựng sự phê bình)
+- *endure humiliation* (chịu đựng sự tủi nhục)
+- *endure abuse* (chịu đựng sự lạm dụng / ngược đãi)
+- *endure stress* (chịu đựng áp lực)
+- *endure pressure* (chịu đựng sức ép)
+- *endure scrutiny* (chịu sự kiểm tra / soi xét kỹ lưỡng)
+- *endure cold* (chịu đựng cái lạnh)
+- *endure heat* (chịu đựng cái nóng)
+- *endure torture* (chịu đựng sự tra tấn)
+- *endure loss* (chịu đựng sự mất mát)
+- *endure trauma* (chịu đựng tổn thương)
+- *endure persecution* (chịu đựng sự đàn áp)
+- *endure discrimination* (chịu đựng sự phân biệt đối xử)
+- *endure long hours* (chịu đựng thời gian làm việc kéo dài)
+- *endure severe winter* (chịu đựng mùa đông khắc nghiệt)
+- *endure economic hardship* (chịu đựng khó khăn kinh tế)
+- *endure grueling conditions* (chịu đựng điều kiện kiệt sức)
+- *endure public backlash* (chịu đựng phản ứng gay gắt của công chúng)
+- *endure physical agony* (chịu đựng sự đau đớn thể xác)
+- *endure mental strain* (chịu đựng sự căng thẳng thần kinh)
+- *silently endure* (âm thầm chịu đựng)
+- *bravely endure* (dũng cảm chịu đựng)
+- *patiently endure* (nhẫn nại chịu đựng)
+- *stoically endure* (chịu đựng một cách kiên cường / không than van)
+- *continuously endure* (chịu đựng liên tục)
+- *endure the test of time* (thử thách cùng thời gian / trường tồn)
+- *endure to the end* (kiên trì / chịu đựng cho đến cùng)
+- *endure as a symbol* (tồn tại như một biểu tượng)
+- *endure in memory* (sống mãi trong ký ức)
+- *capacity to endure* (khả năng chịu đựng)
+- *will to endure* (ý chí chịu đựng / vươn lên)
+- *struggle to endure* (vật lộn để tồn tại / chịu đựng)
+- *manage to endure* (xoay xở chịu đựng được)
+- *fail to endure* (không thể chịu đựng nổi)
+- *hard to endure* (khó lòng chịu đựng)
+- *impossible to endure* (không thể chịu đựng được)
+- *continue to endure* (tiếp tục tồn tại / kéo dài)
+- *hope to endure* (hy vọng tồn tại / chịu đựng)
+- *endure harsh environment* (chống chịu môi trường khắc nghiệt)
+- *endure financial losses* (chịu đựng các tổn thất tài chính)
 
 ## Từ đồng nghĩa
-
-* *bear* (chịu đựng, gánh vác)
-* *tolerate* (chấp nhận, tha thứ)
-* *withstand* (chống chịu, chịu đựng lực tác động)
-* *sustain* (chịu đựng, duy trì)
-* *undergo* (trải qua)
-* *last* (kéo dài, tồn tại)
-* *persist* (kiên trì, tiếp tục tồn tại)
-
+- *bear* (chịu đựng, gánh vác)
+- *tolerate* (chấp nhận, tha thứ)
+- *withstand* (chống chịu, chịu đựng lực tác động)
+- *sustain* (chịu đựng, duy trì)
+- *undergo* (trải qua)
+- *last* (kéo dài, tồn tại)
+- *persist* (kiên trì, tiếp tục tồn tại)
 ## Từ trái nghĩa
-
-* *surrender* (đầu hàng, khuất phục)
-* *succumb* (quỵ ngã, không chịu nổi)
-* *yield* (nhượng bộ, nhường bước)
-* *collapse* (sụp đổ)
-* *fade* (phai nhạt, biến mất)
-
+- *surrender* (đầu hàng, khuất phục)
+- *succumb* (quỵ ngã, không chịu nổi)
+- *yield* (nhượng bộ, nhường bước)
+- *collapse* (sụp đổ)
+- *fade* (phai nhạt, biến mất)
 ## Word family
-
-* *endure* (v) (chịu đựng, tồn tại lâu dài)
-* *endurance* (n) (sức chịu đựng, khả năng nhẫn nại)
-* *enduring* (adj) (kéo dài, lâu bền, bền vững)
-* *endurable* (adj) (có thể chịu đựng được)
-* *unendurable* (adj) (không thể chịu đựng nổi)
-* *enduringly* (adv) (một cách lâu bền / trường tồn)
-
-enormous
-Nghĩa
-(adj) To lớn, khổng lồ, vô cùng to lớn (về kích thước, quy mô, số lượng)
-
-(adj) Rất lớn, cực kỳ quan trọng (về tầm ảnh hưởng, ý nghĩa, tác động)
-
-(adj) Rất nhiều, cực kỳ dồi dào (về chi phí, tiềm năng, nguồn lực)
-
-(adj) Rất nặng nề, cực kỳ lớn (về áp lực, trách nhiệm, thách thức)
-
-(adj) Rất rộng lớn, mênh mông (về không gian, diện tích)
-
-Ví dụ
-The expansion project required an enormous amount of investment and resources.
-
-Technological advancements have had an enormous impact on modern society.
-
-The company faces an enormous challenge in adapting to new environmental regulations.
-
-An enormous crowd gathered in the main square to celebrate the festival.
-
-She carries an enormous responsibility as the chief chief executive officer.
-
-Cấu trúc
-enormous amount of something (số lượng cực kỳ lớn cái gì - không đếm được)
-
-enormous number of something (số lượng cực kỳ lớn cái gì - đếm được)
-
-enormous impact/effect on something (tác động / ảnh hưởng cực kỳ lớn đối với cái gì)
-
-be of enormous importance/value (có tầm quan trọng / giá trị cực kỳ lớn)
-
-enormous in scale/size/scope (khổng lồ về quy mô / kích thước / phạm vi)
-
-Collocation
-enormous amount (số lượng khổng lồ)
-
-enormous number (con số khổng lồ)
-
-enormous impact (tác động khổng lồ)
-
-enormous effect (ảnh hưởng cực kỳ lớn)
-
-enormous success (thành công rực rỡ / khổng lồ)
-
-enormous potential (tiềm năng vô cùng lớn)
-
-enormous challenge (thách thức cực kỳ lớn)
-
-enormous pressure (áp lực nặng nề / rất lớn)
-
-enormous cost (chi phí cực kỳ tốn kém)
-
-enormous value (giá trị cực kỳ lớn)
-
-enormous importance (tầm quan trọng đặc biệt lớn)
-
-enormous benefit (lợi ích cực kỳ lớn)
-
-enormous contribution (sự đóng góp to lớn)
-
-enormous influence (sự ảnh hưởng cực kỳ sâu rộng)
-
-enormous difficulty (khó khăn vô cùng lớn)
-
-enormous effort (nỗ lực phi thường / rất lớn)
-
-enormous energy (năng lượng dồi dào / khổng lồ)
-
-enormous enthusiasm (sự nhiệt huyết rất lớn)
-
-enormous growth (sự phát triển vượt bậc / khổng lồ)
-
-enormous scale (quy mô khổng lồ)
-
-enormous size (kích thước khổng lồ)
-
-enormous change (sự thay đổi cực kỳ lớn)
-
-enormous power (quyền lực / sức mạnh khổng lồ)
-
-enormous wealth (mối tài sản / của cải khổng lồ)
-
-enormous loss (mất mát / tổn thất cực kỳ lớn)
-
-enormous risk (rủi ro cực kỳ cao)
-
-enormous debt (khoản nợ khổng lồ)
-
-enormous responsibility (trách nhiệm hết sức nặng nề)
-
-enormous pressure on resources (áp lực khổng lồ lên nguồn tài nguyên)
-
-enormous technological advancement (tiến bộ công nghệ vượt bậc)
-
-enormous economic burden (gánh nặng kinh tế cực kỳ lớn)
-
-enormous environmental damage (thiệt hại môi trường nghiêm trọng / rất lớn)
-
-enormous strategic advantage (lợi thế chiến lược cực kỳ lớn)
-
-enormous social prestige (uy tín xã hội rất lớn)
-
-enormous financial strain (sự gánh nặng tài chính lớn)
-
-absolutely enormous (tuyệt đối / hoàn toàn khổng lồ)
-
-truly enormous (thực sự khổng lồ)
-
-seem enormous (dường như rất lớn)
-
-prove enormous (tỏ ra / chứng minh là rất lớn)
-
-remain enormous (vẫn duy trì ở mức rất lớn)
-
-have an enormous influence (có ảnh hưởng sâu rộng)
-
-require enormous investment (đòi hỏi sự đầu tư khổng lồ)
-
-pose an enormous threat (gây ra một mối đe dọa cực kỳ lớn)
-
-make an enormous difference (tạo ra một sự khác biệt rất lớn)
-
-offer enormous potential (mang lại tiềm năng vô cùng lớn)
-
-Từ đồng nghĩa
-huge (rất to lớn, đồ sộ)
-
-immense (bao la, rộng lớn, vô tận)
-
-massive (đồ sộ, ồ ạt, quy mô lớn)
-
-gigantic (khổng lồ như người khổng lồ)
-
-colossal (khổng lồ, vĩ đại)
-
-vast (rộng lớn, mênh mông)
-
-tremendous (ghê gớm, dữ dội, rất lớn)
-
-Từ trái nghĩa
-tiny (tí hon, rất nhỏ)
-
-miniscule (nhỏ xíu, không đáng kể)
-
-small (nhỏ, bé)
-
-slight (nhẹ, không đáng kể)
-
-negligible (không đáng kể, có thể bỏ qua)
-
-Word family
-enormous (adj) (khổng lồ, to lớn, cực kỳ nhiều)
-
-enormously (adv) (cực kỳ, vô cùng, hết sức)
-
-enormity (n) (sự tột cùng / tính chất nghiêm trọng, sự to lớn khổng lồ)
-
-Dưới đây là từ vựng **"Equity"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+- *endure* (v) (chịu đựng, tồn tại lâu dài)
+- *endurance* (n) (sức chịu đựng, khả năng nhẫn nại)
+- *enduring* (adj) (kéo dài, lâu bền, bền vững)
+- *endurable* (adj) (có thể chịu đựng được)
+- *unendurable* (adj) (không thể chịu đựng nổi)
+- *enduringly* (adv) (một cách lâu bền / trường tồn)
+
+# enormous
+## Nghĩa
+1. (adj) To lớn, khổng lồ, vô cùng to lớn (về kích thước, quy mô, số lượng)
+2. (adj) Rất lớn, cực kỳ quan trọng (về tầm ảnh hưởng, ý nghĩa, tác động)
+3. (adj) Rất nhiều, cực kỳ dồi dào (về chi phí, tiềm năng, nguồn lực)
+4. (adj) Rất nặng nề, cực kỳ lớn (về áp lực, trách nhiệm, thách thức)
+5. (adj) Rất rộng lớn, mênh mông (về không gian, diện tích)
+## Ví dụ
+- *The expansion project required an enormous amount of investment and resources.*  
+- *Technological advancements have had an enormous impact on modern society.*  
+- *The company faces an enormous challenge in adapting to new environmental regulations.*  
+- *An enormous crowd gathered in the main square to celebrate the festival.*  
+- *She carries an enormous responsibility as the chief chief executive officer.*  
+## Cấu trúc
+- *enormous amount of something* (số lượng cực kỳ lớn cái gì - không đếm được)
+- *enormous number of something* (số lượng cực kỳ lớn cái gì - đếm được)
+- *enormous impact/effect on something* (tác động / ảnh hưởng cực kỳ lớn đối với cái gì)
+- *be of enormous importance/value* (có tầm quan trọng / giá trị cực kỳ lớn)
+- *enormous in scale/size/scope* (khổng lồ về quy mô / kích thước / phạm vi)
+## Collocation
+- *enormous amount* (số lượng khổng lồ)
+- *enormous number* (con số khổng lồ)
+- *enormous impact* (tác động khổng lồ)
+- *enormous effect* (ảnh hưởng cực kỳ lớn)
+- *enormous success* (thành công rực rỡ / khổng lồ)
+- *enormous potential* (tiềm năng vô cùng lớn)
+- *enormous challenge* (thách thức cực kỳ lớn)
+- *enormous pressure* (áp lực nặng nề / rất lớn)
+- *enormous cost* (chi phí cực kỳ tốn kém)
+- *enormous value* (giá trị cực kỳ lớn)
+- *enormous importance* (tầm quan trọng đặc biệt lớn)
+- *enormous benefit* (lợi ích cực kỳ lớn)
+- *enormous contribution* (sự đóng góp to lớn)
+- *enormous influence* (sự ảnh hưởng cực kỳ sâu rộng)
+- *enormous difficulty* (khó khăn vô cùng lớn)
+- *enormous effort* (nỗ lực phi thường / rất lớn)
+- *enormous energy* (năng lượng dồi dào / khổng lồ)
+- *enormous enthusiasm* (sự nhiệt huyết rất lớn)
+- *enormous growth* (sự phát triển vượt bậc / khổng lồ)
+- *enormous scale* (quy mô khổng lồ)
+- *enormous size* (kích thước khổng lồ)
+- *enormous change* (sự thay đổi cực kỳ lớn)
+- *enormous power* (quyền lực / sức mạnh khổng lồ)
+- *enormous wealth* (mối tài sản / của cải khổng lồ)
+- *enormous loss* (mất mát / tổn thất cực kỳ lớn)
+- *enormous risk* (rủi ro cực kỳ cao)
+- *enormous debt* (khoản nợ khổng lồ)
+- *enormous responsibility* (trách nhiệm hết sức nặng nề)
+- *enormous pressure on resources* (áp lực khổng lồ lên nguồn tài nguyên)
+- *enormous technological advancement* (tiến bộ công nghệ vượt bậc)
+- *enormous economic burden* (gánh nặng kinh tế cực kỳ lớn)
+- *enormous environmental damage* (thiệt hại môi trường nghiêm trọng / rất lớn)
+- *enormous strategic advantage* (lợi thế chiến lược cực kỳ lớn)
+- *enormous social prestige* (uy tín xã hội rất lớn)
+- *enormous financial strain* (sự gánh nặng tài chính lớn)
+- *absolutely enormous* (tuyệt đối / hoàn toàn khổng lồ)
+- *truly enormous* (thực sự khổng lồ)
+- *seem enormous* (dường như rất lớn)
+- *prove enormous* (tỏ ra / chứng minh là rất lớn)
+- *remain enormous* (vẫn duy trì ở mức rất lớn)
+- *have an enormous influence* (có ảnh hưởng sâu rộng)
+- *require enormous investment* (đòi hỏi sự đầu tư khổng lồ)
+- *pose an enormous threat* (gây ra một mối đe dọa cực kỳ lớn)
+- *make an enormous difference* (tạo ra một sự khác biệt rất lớn)
+- *offer enormous potential* (mang lại tiềm năng vô cùng lớn)
+## Từ đồng nghĩa
+- *huge* (rất to lớn, đồ sộ)
+- *immense* (bao la, rộng lớn, vô tận)
+- *massive* (đồ sộ, ồ ạt, quy mô lớn)
+- *gigantic* (khổng lồ như người khổng lồ)
+- *colossal* (khổng lồ, vĩ đại)
+- *vast* (rộng lớn, mênh mông)
+- *tremendous* (ghê gớm, dữ dội, rất lớn)
+## Từ trái nghĩa
+- *tiny* (tí hon, rất nhỏ)
+- *miniscule* (nhỏ xíu, không đáng kể)
+- *small* (nhỏ, bé)
+- *slight* (nhẹ, không đáng kể)
+- *negligible* (không đáng kể, có thể bỏ qua)
+## Word family
+- *enormous* (adj) (khổng lồ, to lớn, cực kỳ nhiều)
+- *enormously* (adv) (cực kỳ, vô cùng, hết sức)
+- *enormity* (n) (sự tột cùng / tính chất nghiêm trọng, sự to lớn khổng lồ)
 
 # equity
-
 ## Nghĩa
-
 1. (n) Sự công bằng, tính bình đẳng (trong phân bổ nguồn lực, cơ hội)
 2. (n) Vốn chủ sở hữu, giá trị thuần của tài sản (trong tài chính, kế toán)
 3. (n) Cổ phần, cổ phiếu phổ thông (trong thị trường chứng khoán)
 4. (n) Giá trị thực tế của bất động sản (sau khi trừ đi khoản vay thế chấp)
 5. (n) Luật công bình (hệ thống pháp luật bổ sung cho luật thông thường)
-
 ## Ví dụ
-
-* *The government is committed to promoting social equity and reducing poverty.*
-* *The company plans to raise capital by issuing new equity to investors.*
-* *He built up significant equity in his home after paying off the mortgage.*
-* *Promoting gender equity in the workplace leads to better economic outcomes.*
-* *Decisions made in the court of equity focus on fairness and justice.*
-
+- *The government is committed to promoting social equity and reducing poverty.*
+- *The company plans to raise capital by issuing new equity to investors.*
+- *He built up significant equity in his home after paying off the mortgage.*
+- *Promoting gender equity in the workplace leads to better economic outcomes.*
+- *Decisions made in the court of equity focus on fairness and justice.*
 ## Cấu trúc
-
-* *equity in/among something* (sự công bằng trong / giữa cái gì)
-* *promote/strive for equity* (thúc đẩy / phấn đấu cho sự công bằng)
-* *equity market/financing* (thị trường / hình thức huy động vốn cổ phần)
-* *brand/home equity* (giá trị thương hiệu / giá trị thuần bất động sản)
-* *issue/trade equity* (phát hành / giao dịch cổ phần)
-
+- *equity in/among something* (sự công bằng trong / giữa cái gì)
+- *promote/strive for equity* (thúc đẩy / phấn đấu cho sự công bằng)
+- *equity market/financing* (thị trường / hình thức huy động vốn cổ phần)
+- *brand/home equity* (giá trị thương hiệu / giá trị thuần bất động sản)
+- *issue/trade equity* (phát hành / giao dịch cổ phần)
 ## Collocation
-
-* *social equity* (công bằng xã hội)
-* *gender equity* (bình đẳng giới)
-* *racial equity* (công bằng chủng tộc)
-* *educational equity* (công bằng trong giáo dục)
-* *health equity* (công bằng trong chăm sóc sức khỏe)
-* *economic equity* (công bằng kinh tế)
-* *intergenerational equity* (công bằng giữa các thế hệ)
-* *brand equity* (giá trị thương hiệu)
-* *home equity* (giá trị tài sản nhà ở sau thế chấp)
-* *private equity* (vốn tư nhân / đầu tư tư nhân)
-* *owner's equity* (vốn chủ sở hữu)
-* *shareholder equity* (vốn cổ đông)
-* *sweat equity* (vốn công sức / giá trị tạo ra từ lao động)
-* *equity market* (thị trường cổ phiếu)
-* *equity capital* (vốn cổ phần)
-* *equity financing* (huy động vốn bằng cổ phần)
-* *equity share* (cổ phiếu phổ thông)
-* *equity stake* (tỷ lệ sở hữu cổ phần)
-* *equity ratio* (tỷ lệ vốn chủ sở hữu)
-* *equity fund* (quỹ đầu tư cổ phiếu)
-* *promote equity* (thúc đẩy sự công bằng)
-* *achieve equity* (đạt được sự công bằng)
-* *ensure equity* (đảm bảo tính công bằng)
-* *advance equity* (đẩy mạnh sự công bằng)
-* *strive for equity* (phấn đấu vì sự công bằng)
-* *improve equity* (cải thiện sự công bằng)
-* *build equity* (tích lũy vốn chủ sở hữu / giá trị tài sản)
-* *raise equity* (huy động vốn cổ phần)
-* *issue equity* (phát hành cổ phiếu)
-* *inject equity* (bơm vốn chủ sở hữu)
-* *lack of equity* (sự thiếu công bằng)
-* *commitment to equity* (cam kết đối với sự công bằng)
-* *principle of equity* (nguyên tắc công bằng)
-* *pursuit of equity* (sự theo đuổi tính công bằng)
-* *issue of equity* (vấn đề về tính công bằng)
-* *equity in education* (công bằng trong giáo dục)
-* *equity in access* (công bằng trong tiếp cận)
-* *equity in distribution* (công bằng trong phân phối)
-* *equity in healthcare* (công bằng trong y tế)
-* *equity in taxation* (công bằng trong thuế khóa)
-* *home equity loan* (khoản vay thế chấp bằng giá trị nhà)
-* *private equity firm* (công ty đầu tư vốn tư nhân)
-* *return on equity* (tỷ suất lợi nhuận trên vốn chủ sở hữu - ROE)
-* *debt to equity ratio* (tỷ lệ nợ trên vốn chủ sở hữu)
-* *negative equity* (nợ vượt giá trị tài sản)
-
+- *social equity* (công bằng xã hội)
+- *gender equity* (bình đẳng giới)
+- *racial equity* (công bằng chủng tộc)
+- *educational equity* (công bằng trong giáo dục)
+- *health equity* (công bằng trong chăm sóc sức khỏe)
+- *economic equity* (công bằng kinh tế)
+- *intergenerational equity* (công bằng giữa các thế hệ)
+- *brand equity* (giá trị thương hiệu)
+- *home equity* (giá trị tài sản nhà ở sau thế chấp)
+- *private equity* (vốn tư nhân / đầu tư tư nhân)
+- *owner's equity* (vốn chủ sở hữu)
+- *shareholder equity* (vốn cổ đông)
+- *sweat equity* (vốn công sức / giá trị tạo ra từ lao động)
+- *equity market* (thị trường cổ phiếu)
+- *equity capital* (vốn cổ phần)
+- *equity financing* (huy động vốn bằng cổ phần)
+- *equity share* (cổ phiếu phổ thông)
+- *equity stake* (tỷ lệ sở hữu cổ phần)
+- *equity ratio* (tỷ lệ vốn chủ sở hữu)
+- *equity fund* (quỹ đầu tư cổ phiếu)
+- *promote equity* (thúc đẩy sự công bằng)
+- *achieve equity* (đạt được sự công bằng)
+- *ensure equity* (đảm bảo tính công bằng)
+- *advance equity* (đẩy mạnh sự công bằng)
+- *strive for equity* (phấn đấu vì sự công bằng)
+- *improve equity* (cải thiện sự công bằng)
+- *build equity* (tích lũy vốn chủ sở hữu / giá trị tài sản)
+- *raise equity* (huy động vốn cổ phần)
+- *issue equity* (phát hành cổ phiếu)
+- *inject equity* (bơm vốn chủ sở hữu)
+- *lack of equity* (sự thiếu công bằng)
+- *commitment to equity* (cam kết đối với sự công bằng)
+- *principle of equity* (nguyên tắc công bằng)
+- *pursuit of equity* (sự theo đuổi tính công bằng)
+- *issue of equity* (vấn đề về tính công bằng)
+- *equity in education* (công bằng trong giáo dục)
+- *equity in access* (công bằng trong tiếp cận)
+- *equity in distribution* (công bằng trong phân phối)
+- *equity in healthcare* (công bằng trong y tế)
+- *equity in taxation* (công bằng trong thuế khóa)
+- *home equity loan* (khoản vay thế chấp bằng giá trị nhà)
+- *private equity firm* (công ty đầu tư vốn tư nhân)
+- *return on equity* (tỷ suất lợi nhuận trên vốn chủ sở hữu - ROE)
+- *debt to equity ratio* (tỷ lệ nợ trên vốn chủ sở hữu)
+- *negative equity* (nợ vượt giá trị tài sản)
 ## Từ đồng nghĩa
-
-* *fairness* (sự công bằng, vô tư)
-* *impartiality* (tính khách quan, không thiên vị)
-* *justice* (sự công lý, chính trực)
-* *equality* (sự bình đẳng về cơ hội/điều kiện)
-* *assets* (tài sản, vốn)
-* *shares* (cổ phiếu, cổ phần)
-* *capital* (nguồn vốn)
-
+- *fairness* (sự công bằng, vô tư)
+- *impartiality* (tính khách quan, không thiên vị)
+- *justice* (sự công lý, chính trực)
+- *equality* (sự bình đẳng về cơ hội/điều kiện)
+- *assets* (tài sản, vốn)
+- *shares* (cổ phiếu, cổ phần)
+- *capital* (nguồn vốn)
 ## Từ trái nghĩa
-
-* *inequity* (sự bất công, không bình đẳng)
-* *unfairness* (sự thiếu công bằng)
-* *bias* (sự thiên vị, thành kiến)
-* *prejudice* (sự định kiến, thiên vị)
-* *debt* (khoản nợ, nghĩa vụ tài chính)
-
+- *inequity* (sự bất công, không bình đẳng)
+- *unfairness* (sự thiếu công bằng)
+- *bias* (sự thiên vị, thành kiến)
+- *prejudice* (sự định kiến, thiên vị)
+- *debt* (khoản nợ, nghĩa vụ tài chính)
 ## Word family
+- *equity* (n) (sự công bằng, vốn chủ sở hữu, cổ phần)
+- *equitable* (adj) (công bằng, hợp lý, không thiên vị)
+- *equitably* (adv) (một cách công bằng, hợp lý)
+- *inequity* (n) (sự bất công, sự không bình đẳng)
+- *inequitable* (adj) (bất công, không hợp lý)
+- *inequitably* (adv) (một cách bất công, không bình đẳng)
 
-* *equity* (n) (sự công bằng, vốn chủ sở hữu, cổ phần)
-* *equitable* (adj) (công bằng, hợp lý, không thiên vị)
-* *equitably* (adv) (một cách công bằng, hợp lý)
-* *inequity* (n) (sự bất công, sự không bình đẳng)
-* *inequitable* (adj) (bất công, không hợp lý)
-* *inequitably* (adv) (một cách bất công, không bình đẳng)y
-
-Dưới đây là từ vựng **"Evolve"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
-
-# evolve
-
+# Evolve
 ## Nghĩa
-
 1. (v) Tiến hóa, phát triển tự nhiên (qua các thế hệ sinh học)
 2. (v) Tiến triển, thay đổi dần dần (để thích nghi với hoàn cảnh mới)
 3. (v) Rút ra, suy ra, phát triển (một lý thuyết, ý tưởng, kế hoạch)
 4. (v) Mở ra, bộc lộ dần (các khía cạnh hoặc khả năng mới)
 5. (v) Bức xạ, tỏa ra (nhiệt, khí - nghĩa cổ/khoa học ít dùng)
-
 ## Ví dụ
-
-* *Human beings have evolved over millions of years to adapt to changing environments.*
-* *The company's business model continuously evolves to keep pace with technology.*
-* *Scientists are working to evolve a more sustainable framework for energy consumption.*
-* *As the political debate evolved, new perspectives began to emerge among voters.*
-* *Her personal style has evolved significantly since she started her career in fashion.*
-
+- *Human beings have evolved over millions of years to adapt to changing environments.*
+- *The company's business model continuously evolves to keep pace with technology.*
+- *Scientists are working to evolve a more sustainable framework for energy consumption.*
+- *As the political debate evolved, new perspectives began to emerge among voters.*
+- *Her personal style has evolved significantly since she started her career in fashion.*
 ## Cấu trúc
-
-* *evolve from something* (tiến hóa / phát triển từ cái gì)
-* *evolve into something* (phát triển / biến đổi thành cái gì)
-* *evolve over time* (tiến triển / thay đổi dần theo thời gian)
-* *evolve to do something* (tiến hóa để làm điều gì)
-* *be evolved by someone/something* (được phát triển / hoàn thiện bởi ai)
-
+- *evolve from something* (tiến hóa / phát triển từ cái gì)
+- *evolve into something* (phát triển / biến đổi thành cái gì)
+- *evolve over time* (tiến triển / thay đổi dần theo thời gian)
+- *evolve to do something* (tiến hóa để làm điều gì)
+- *be evolved by someone/something* (được phát triển / hoàn thiện bởi ai)
 ## Collocation
-
-* *continuously evolve* (không ngừng tiến hóa / phát triển)
-* *rapidly evolve* (phát triển / thay đổi nhanh chóng)
-* *gradually evolve* (tiến triển từ từ)
-* *constantly evolve* (liên tục thay đổi / thích nghi)
-* *naturally evolve* (tiến hóa một cách tự nhiên)
-* *slowly evolve* (tiến triển chậm rãi)
-* *dramatically evolve* (thay đổi một cách ngoạn mục)
-* *further evolve* (tiếp tục phát triển hơn nữa)
-* *evolve rapidly* (biến đổi nhanh chóng)
-* *evolve over centuries* (phát triển qua nhiều thế kỷ)
-* *evolve over decades* (thay đổi qua nhiều thập kỷ)
-* *evolve dynamically* (phát triển một cách năng động)
-* *evolve biologically* (tiến hóa về mặt sinh học)
-* *evolve culturally* (phát triển về mặt văn hóa)
-* *evolve technologically* (phát triển về mặt công nghệ)
-* *evolve politically* (tiến triển về mặt chính trị)
-* *evolve economically* (phát triển về mặt kinh tế)
-* *evolve socially* (tiến triển về mặt xã hội)
-* *evolve capacity* (phát triển năng lực)
-* *evolve strategy* (phát triển / điều chỉnh chiến lược)
-* *evolve system* (hoàn thiện hệ thống)
-* *evolve species* (các loài tiến hóa)
-* *evolve mechanism* (phát triển cơ chế)
-* *evolve structure* (thay đổi cấu trúc)
-* *evolve theory* (xây dựng / phát triển lý thuyết)
-* *evolve practice* (thay đổi thực tiễn)
-* *evolve understanding* (nâng cao nhận thức qua thời gian)
-* *evolve language* (sự phát triển của ngôn ngữ)
-* *evolve relationship* (mối quan hệ phát triển theo thời gian)
-* *evolve concept* (phát triển khái niệm)
-* *evolve approach* (điều chỉnh phương pháp tiếp cận)
-* *evolve process* (tiến triển của quy trình)
-* *evolve model* (hoàn thiện mô hình)
-* *evolve identity* (định hình bản sắc qua thời gian)
-* *evolve response* (đưa ra phản ứng thích ứng)
-* *evolve solution* (tìm ra / hoàn thiện giải pháp)
-* *evolve role* (thay đổi / mở rộng vai trò)
-* *tendency to evolve* (xu hướng phát triển)
-* *ability to evolve* (khả năng thích nghi / tiến hóa)
-* *capacity to evolve* (sức chứa / khả năng phát triển)
-* *fail to evolve* (thất bại trong việc thích nghi)
-* *struggle to evolve* (vật lộn để thay đổi)
-* *allow something to evolve* (để cái gì phát triển tự nhiên)
-* *help something evolve* (thúc đẩy cái gì tiến triển)
-* *continue to evolve* (tiếp tục phát triển)
-
+- *continuously evolve* (không ngừng tiến hóa / phát triển)
+- *rapidly evolve* (phát triển / thay đổi nhanh chóng)
+- *gradually evolve* (tiến triển từ từ)
+- *constantly evolve* (liên tục thay đổi / thích nghi)
+- *naturally evolve* (tiến hóa một cách tự nhiên)
+- *slowly evolve* (tiến triển chậm rãi)
+- *dramatically evolve* (thay đổi một cách ngoạn mục)
+- *further evolve* (tiếp tục phát triển hơn nữa)
+- *evolve rapidly* (biến đổi nhanh chóng)
+- *evolve over centuries* (phát triển qua nhiều thế kỷ)
+- *evolve over decades* (thay đổi qua nhiều thập kỷ)
+- *evolve dynamically* (phát triển một cách năng động)
+- *evolve biologically* (tiến hóa về mặt sinh học)
+- *evolve culturally* (phát triển về mặt văn hóa)
+- *evolve technologically* (phát triển về mặt công nghệ)
+- *evolve politically* (tiến triển về mặt chính trị)
+- *evolve economically* (phát triển về mặt kinh tế)
+- *evolve socially* (tiến triển về mặt xã hội)
+- *evolve capacity* (phát triển năng lực)
+- *evolve strategy* (phát triển / điều chỉnh chiến lược)
+- *evolve system* (hoàn thiện hệ thống)
+- *evolve species* (các loài tiến hóa)
+- *evolve mechanism* (phát triển cơ chế)
+- *evolve structure* (thay đổi cấu trúc)
+- *evolve theory* (xây dựng / phát triển lý thuyết)
+- *evolve practice* (thay đổi thực tiễn)
+- *evolve understanding* (nâng cao nhận thức qua thời gian)
+- *evolve language* (sự phát triển của ngôn ngữ)
+- *evolve relationship* (mối quan hệ phát triển theo thời gian)
+- *evolve concept* (phát triển khái niệm)
+- *evolve approach* (điều chỉnh phương pháp tiếp cận)
+- *evolve process* (tiến triển của quy trình)
+- *evolve model* (hoàn thiện mô hình)
+- *evolve identity* (định hình bản sắc qua thời gian)
+- *evolve response* (đưa ra phản ứng thích ứng)
+- *evolve solution* (tìm ra / hoàn thiện giải pháp)
+- *evolve role* (thay đổi / mở rộng vai trò)
+- *tendency to evolve* (xu hướng phát triển)
+- *ability to evolve* (khả năng thích nghi / tiến hóa)
+- *capacity to evolve* (sức chứa / khả năng phát triển)
+- *fail to evolve* (thất bại trong việc thích nghi)
+- *struggle to evolve* (vật lộn để thay đổi)
+- *allow something to evolve* (để cái gì phát triển tự nhiên)
+- *help something evolve* (thúc đẩy cái gì tiến triển)
+- *continue to evolve* (tiếp tục phát triển)
 ## Từ đồng nghĩa
-
-* *develop* (phát triển, mở rộng)
-* *progress* (tiến bộ, tiến triển)
-* *adapt* (thích nghi, thay đổi để phù hợp)
-* *transform* (biến đổi, chuyển hóa)
-* *advance* (tiến lên, phát triển)
-* *mutate* (đột biến, biến đổi)
-* *unfold* (mở ra, bộc lộ dần)
-
+- *develop* (phát triển, mở rộng)
+- *progress* (tiến bộ, tiến triển)
+- *adapt* (thích nghi, thay đổi để phù hợp)
+- *transform* (biến đổi, chuyển hóa)
+- *advance* (tiến lên, phát triển)
+- *mutate* (đột biến, biến đổi)
+- *unfold* (mở ra, bộc lộ dần)
 ## Từ trái nghĩa
-
-* *stagnate* (trì trệ, giậm chân tại chỗ)
-* *regress* (thoái hóa, đi lùi)
-* *deteriorate* (suy giảm, xấu đi)
-* *decline* (suy thoái, giảm sút)
-* *remain static* (giữ nguyên, không thay đổi)
-
+- *stagnate* (trì trệ, giậm chân tại chỗ)
+- *regress* (thoái hóa, đi lùi)
+- *deteriorate* (suy giảm, xấu đi)
+- *decline* (suy thoái, giảm sút)
+- *remain static* (giữ nguyên, không thay đổi)
 ## Word family
+- *evolve* (v) (tiến hóa, phát triển, tiến triển)
+- *evolution* (n) (sự tiến hóa, sự phát triển dần dần)
+- *evolutionary* (adj) (thuộc về sự tiến hóa, phát triển)
+- *evolutionist* (n) (nhà nghiên cứu thuyết tiến hóa)
+- *evolved* (adj) (đã tiến hóa, nâng cao, phát triển)
+- *unevolved* (adj) (chưa tiến hóa, còn sơ khai)
 
-* *evolve* (v) (tiến hóa, phát triển, tiến triển)
-* *evolution* (n) (sự tiến hóa, sự phát triển dần dần)
-* *evolutionary* (adj) (thuộc về sự tiến hóa, phát triển)
-* *evolutionist* (n) (nhà nghiên cứu thuyết tiến hóa)
-* *evolved* (adj) (đã tiến hóa, nâng cao, phát triển)
-* *unevolved* (adj) (chưa tiến hóa, còn sơ khai)
-
-Dưới đây là từ vựng **"Exceed"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
-
-# exceed
-
+# Exceed
 ## Nghĩa
-
 1. (v) Vượt quá, vượt mức (số lượng, hạn mức, ranh giới, tỷ lệ)
 2. (v) Trội hơn, tốt hơn, vượt xa (sự mong đợi, mục tiêu, tiêu chuẩn)
 3. (v) Lạm dụng, vượt quá thẩm quyền (quyền hạn, giới hạn pháp lý)
 4. (v) Lấn át, chiếm ưu thế hơn (về mức độ, quy mô, sức mạnh)
 5. (v) Vượt qua giới hạn thời gian (thời hạn, thời lượng quy định)
-
 ## Ví dụ
-
-* *The total cost of the infrastructure project is expected to exceed two billion dollars.*
-* *Her academic performance in the final examination far exceeded all expectations.*
-* *The police officer was severely reprimanded for exceeding his legal authority.*
-* *Demand for organic produce continuously exceeds current market supply.*
-* *Speakers who exceed their allotted time will have their microphones muted.*
-
+- *The total cost of the infrastructure project is expected to exceed two billion dollars.*
+- *Her academic performance in the final examination far exceeded all expectations.*
+- *The police officer was severely reprimanded for exceeding his legal authority.*
+- *Demand for organic produce continuously exceeds current market supply.*
+- *Speakers who exceed their allotted time will have their microphones muted.*
 ## Cấu trúc
-
-* *exceed something by something* (vượt quá cái gì một lượng bao nhiêu)
-* *far/greatly exceed something* (vượt xa / vượt quá rất nhiều cái gì)
-* *be expected to exceed something* (được dự đoán sẽ vượt quá cái gì)
-* *exceed the limit/quota/budget* (vượt quá giới hạn / chỉ tiêu / ngân sách)
-* *exceed one's expectations/capacity* (vượt quá kỳ vọng / khả năng của ai)
-
+- *exceed something by something* (vượt quá cái gì một lượng bao nhiêu)
+- *far/greatly exceed something* (vượt xa / vượt quá rất nhiều cái gì)
+- *be expected to exceed something* (được dự đoán sẽ vượt quá cái gì)
+- *exceed the limit/quota/budget* (vượt quá giới hạn / chỉ tiêu / ngân sách)
+- *exceed one's expectations/capacity* (vượt quá kỳ vọng / khả năng của ai)
 ## Collocation
-
-* *far exceed* (vượt xa)
-* *greatly exceed* (vượt quá rất nhiều)
-* *significantly exceed* (vượt qua một cách đáng kể)
-* *substantially exceed* (vượt qua rất nhiều về giá trị/mức độ)
-* *dramatically exceed* (vượt quá một cách ngoạn mục)
-* *vastly exceed* (vượt xa mênh mông / rất lớn)
-* *slightly exceed* (vượt nhẹ / vượt qua một chút)
-* *marginally exceed* (vượt qua không đáng kể)
-* *consistently exceed* (liên tục vượt mức)
-* *routinely exceed* (thường xuyên vượt quá)
-* *exceed expectations* (vượt quá sự kỳ vọng)
-* *exceed limits* (vượt quá giới hạn)
-* *exceed speed limit* (vượt quá tốc độ cho phép)
-* *exceed capacity* (vượt quá sức chứa / khả năng)
-* *exceed budget* (vượt quá ngân sách)
-* *exceed target* (vượt chỉ tiêu / mục tiêu)
-* *exceed quota* (vượt định mức / ngạch)
-* *exceed supply* (vượt quá nguồn cung)
-* *exceed demand* (vượt quá nhu cầu)
-* *exceed authority* (vượt quá thẩm quyền)
-* *exceed powers* (vượt quá quyền hạn)
-* *exceed deadline* (vượt quá thời hạn)
-* *exceed threshold* (vượt qua ngưỡng quy định)
-* *exceed boundaries* (vượt qua các ranh giới)
-* *exceed requirements* (vượt qua các yêu cầu)
-* *exceed standards* (vượt qua các tiêu chuẩn)
-* *exceed parameters* (vượt qua các tham số / giới hạn)
-* *exceed projections* (vượt quá các dự báo)
-* *exceed estimates* (vượt quá ước tính)
-* *exceed revenue* (vượt qua doanh thu kỳ vọng)
-* *exceed costs* (vượt qua chi phí dự kiến)
-* *exceed initial forecasts* (vượt qua dự báo ban đầu)
-* *exceed environmental safety standards* (vượt tiêu chuẩn an toàn môi trường)
-* *exceed legal limits* (vượt quá giới hạn pháp lý)
-* *exceed maximum allowance* (vượt quá mức cho phép tối đa)
-* *exceed recommended dose* (vượt quá liều lượng khuyên dùng)
-* *exceed total capacity* (vượt quá tổng công suất)
-* *exceed previous records* (phá / vượt các kỷ lục trước đó)
-* *exceed weight limits* (vượt quá trọng tải cho phép)
-* *exceed lifetime limit* (vượt quá giới hạn tối đa cả đời)
-* *likely to exceed* (có khả năng sẽ vượt quá)
-* *threaten to exceed* (đe dọa sẽ vượt mức)
-* *allow to exceed* (cho phép vượt quá)
-* *fail to exceed* (không vượt qua được)
-* *manage to exceed* (xoay xở vượt qua được)
-
+- *far exceed* (vượt xa)
+- *greatly exceed* (vượt quá rất nhiều)
+- *significantly exceed* (vượt qua một cách đáng kể)
+- *substantially exceed* (vượt qua rất nhiều về giá trị/mức độ)
+- *dramatically exceed* (vượt quá một cách ngoạn mục)
+- *vastly exceed* (vượt xa mênh mông / rất lớn)
+- *slightly exceed* (vượt nhẹ / vượt qua một chút)
+- *marginally exceed* (vượt qua không đáng kể)
+- *consistently exceed* (liên tục vượt mức)
+- *routinely exceed* (thường xuyên vượt quá)
+- *exceed expectations* (vượt quá sự kỳ vọng)
+- *exceed limits* (vượt quá giới hạn)
+- *exceed speed limit* (vượt quá tốc độ cho phép)
+- *exceed capacity* (vượt quá sức chứa / khả năng)
+- *exceed budget* (vượt quá ngân sách)
+- *exceed target* (vượt chỉ tiêu / mục tiêu)
+- *exceed quota* (vượt định mức / ngạch)
+- *exceed supply* (vượt quá nguồn cung)
+- *exceed demand* (vượt quá nhu cầu)
+- *exceed authority* (vượt quá thẩm quyền)
+- *exceed powers* (vượt quá quyền hạn)
+- *exceed deadline* (vượt quá thời hạn)
+- *exceed threshold* (vượt qua ngưỡng quy định)
+- *exceed boundaries* (vượt qua các ranh giới)
+- *exceed requirements* (vượt qua các yêu cầu)
+- *exceed standards* (vượt qua các tiêu chuẩn)
+- *exceed parameters* (vượt qua các tham số / giới hạn)
+- *exceed projections* (vượt quá các dự báo)
+- *exceed estimates* (vượt quá ước tính)
+- *exceed revenue* (vượt qua doanh thu kỳ vọng)
+- *exceed costs* (vượt qua chi phí dự kiến)
+- *exceed initial forecasts* (vượt qua dự báo ban đầu)
+- *exceed environmental safety standards* (vượt tiêu chuẩn an toàn môi trường)
+- *exceed legal limits* (vượt quá giới hạn pháp lý)
+- *exceed maximum allowance* (vượt quá mức cho phép tối đa)
+- *exceed recommended dose* (vượt quá liều lượng khuyên dùng)
+- *exceed total capacity* (vượt quá tổng công suất)
+- *exceed previous records* (phá / vượt các kỷ lục trước đó)
+- *exceed weight limits* (vượt quá trọng tải cho phép)
+- *exceed lifetime limit* (vượt quá giới hạn tối đa cả đời)
+- *likely to exceed* (có khả năng sẽ vượt quá)
+- *threaten to exceed* (đe dọa sẽ vượt mức)
+- *allow to exceed* (cho phép vượt quá)
+- *fail to exceed* (không vượt qua được)
+- *manage to exceed* (xoay xở vượt qua được)
 ## Từ đồng nghĩa
-
-* *surpass* (vượt qua, trội hơn)
-* *outstrip* (vượt xa, bỏ xa)
-* *outdo* (làm tốt hơn, vượt trội)
-* *top* (vượt đỉnh, đứng đầu)
-* *transcend* (vượt lên trên, siêu việt)
-* *overstep* (vượt quá giới hạn, lạm quyền)
-* *overshoot* (đi quá đà, vượt chỉ tiêu)
-
+- *surpass* (vượt qua, trội hơn)
+- *outstrip* (vượt xa, bỏ xa)
+- *outdo* (làm tốt hơn, vượt trội)
+- *top* (vượt đỉnh, đứng đầu)
+- *transcend* (vượt lên trên, siêu việt)
+- *overstep* (vượt quá giới hạn, lạm quyền)
+- *overshoot* (đi quá đà, vượt chỉ tiêu)
 ## Từ trái nghĩa
-
-* *fall short of* (không đạt tới, thiếu hụt)
-* *underperform* (thể hiện kém, không đạt mức)
-* *fail* (thất bại, không đạt)
-* *lag behind* (tụt lại phía sau)
-* *remain below* (vẫn duy trì ở dưới mức)
-
+- *fall short of* (không đạt tới, thiếu hụt)
+- *underperform* (thể hiện kém, không đạt mức)
+- *fail* (thất bại, không đạt)
+- *lag behind* (tụt lại phía sau)
+- *remain below* (vẫn duy trì ở dưới mức)
 ## Word family
-
-* *exceed* (v) (vượt quá, vượt mức)
-* *excess* (n / adj) (sự vượt quá, dư thừa / dư thừa)
-* *excessive* (adj) (quá mức, thừa thải, quá đáng)
-* *excessively* (adv) (một cách quá mức / quá đáng)
-* *exceeding* (adj) (rất lớn, vượt trội)
-* *exceedingly* (adv) (cực kỳ, vô cùng, hết sức)
-
-Dưới đây là từ vựng **"Exhibit"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+- *exceed* (v) (vượt quá, vượt mức)
+- *excess* (n / adj) (sự vượt quá, dư thừa / dư thừa)
+- *excessive* (adj) (quá mức, thừa thải, quá đáng)
+- *excessively* (adv) (một cách quá mức / quá đáng)
+- *exceeding* (adj) (rất lớn, vượt trội)
+- *exceedingly* (adv) (cực kỳ, vô cùng, hết sức)
 
 # exhibit
-
 ## Nghĩa
-
 1. (v) Trưng bày, triển lãm (vật thể, tác phẩm nghệ thuật cho công chúng xem)
 2. (v) Bộc lộ, biểu lộ (triệu chứng, cảm xúc, hành vi, phẩm chất)
 3. (v) Đưa ra, trình ra (bằng chứng, tài liệu trước tòa án)
 4. (n) Vật trưng bày, hiện vật triển lãm (trong bảo tàng, hội chợ)
 5. (n) Bằng chứng, tang vật (được đánh dấu bằng chữ cái/số trong phiên tòa)
-
 ## Ví dụ
-
-* *Several famous paintings will be exhibited at the national gallery next month.*
-* *Patients with this condition often exhibit symptoms such as fatigue and fever.*
-* *The defense attorney submitted a series of documents as Exhibit A in court.*
-* *Visitors are strictly requested not to touch any of the museum exhibits.*
-* *Children who experience trauma may exhibit challenging behavioral issues.*
-
+- *Several famous paintings will be exhibited at the national gallery next month.*
+- *Patients with this condition often exhibit symptoms such as fatigue and fever.*
+- *The defense attorney submitted a series of documents as Exhibit A in court.*
+- *Visitors are strictly requested not to touch any of the museum exhibits.*
+- *Children who experience trauma may exhibit challenging behavioral issues.*
 ## Cấu trúc
-
-* *exhibit something to someone* (trưng bày / biểu lộ cái gì cho ai)
-* *exhibit symptoms of something* (bộc lộ các triệu chứng của bệnh gì)
-* *exhibit behavior/tendency* (biểu lộ hành vi / xu hướng)
-* *be on exhibit* (được trưng bày / triển lãm)
-* *exhibit evidence in court* (trình bằng chứng trước tòa)
-
+- *exhibit something to someone* (trưng bày / biểu lộ cái gì cho ai)
+- *exhibit symptoms of something* (bộc lộ các triệu chứng của bệnh gì)
+- *exhibit behavior/tendency* (biểu lộ hành vi / xu hướng)
+- *be on exhibit* (được trưng bày / triển lãm)
+- *exhibit evidence in court* (trình bằng chứng trước tòa)
 ## Collocation
-
-* *exhibit symptoms* (bộc lộ các triệu chứng)
-* *exhibit behavior* (biểu lộ hành vi)
-* *exhibit signs* (bộc lộ các dấu hiệu)
-* *exhibit traits* (bộc lộ các đặc điểm / tính cách)
-* *exhibit characteristics* (bộc lộ các đặc tính)
-* *exhibit qualities* (bộc lộ các phẩm chất)
-* *exhibit tendencies* (biểu lộ các xu hướng)
-* *exhibit emotions* (bộc lộ cảm xúc)
-* *exhibit resistance* (biểu lộ sự đề kháng / kháng cự)
-* *exhibit hostility* (biểu lộ thái độ thù địch)
-* *exhibit aggression* (biểu lộ sự hung hăng)
-* *exhibit competence* (bộc lộ năng lực)
-* *exhibit enthusiasm* (bộc lộ sự nhiệt huyết)
-* *exhibit willingness* (bộc lộ sự sẵn lòng)
-* *exhibit creativity* (bộc lộ sự sáng tạo)
-* *exhibit artwork* (trưng bày tác phẩm nghệ thuật)
-* *exhibit artifacts* (trưng bày các cổ vật)
-* *exhibit talent* (bộc lộ tài năng)
-* *exhibit mastery* (bộc lộ sự thành thạo / bậc thầy)
-* *exhibit flexibility* (bộc lộ tính linh hoạt)
-* *exhibit resilience* (bộc lộ khả năng phục hồi / kiên cường)
-* *exhibit evidence* (đưa ra bằng chứng)
-* *museum exhibit* (hiện vật bảo tàng)
-* *interactive exhibit* (hiện vật / khu trưng bày tương tác)
-* *permanent exhibit* (triển lãm / hiện vật cố định)
-* *temporary exhibit* (triển lãm / hiện vật ngắn hạn)
-* *principal exhibit* (vật trưng bày chính)
-* *court exhibit* (tang vật phiên tòa)
-* *exhibit A/B/C* (tang vật A/B/C)
-* *trade exhibit* (triển lãm thương mại)
-* *clearly exhibit* (bộc lộ một cách rõ ràng)
-* *frequently exhibit* (thường xuyên bộc lộ)
-* *consistently exhibit* (liên tục biểu lộ)
-* *rarely exhibit* (hiếm khi bộc lộ)
-* *prominently exhibit* (trưng bày ở vị trí nổi bật)
-* *publicly exhibit* (trưng bày công khai)
-* *exhibit high levels of* (bộc lộ mức độ cao về)
-* *exhibit strong preference for* (bộc lộ sự ưu tiên mạnh mẽ cho)
-* *exhibit marked improvement* (bộc lộ sự cải thiện rõ rệt)
-* *exhibit significant variation* (bộc lộ sự biến đổi đáng kể)
-* *exhibit unusual patterns* (bộc lộ các mẫu hình bất thường)
-* *opportunity to exhibit* (cơ hội để trưng bày / bộc lộ)
-* *fail to exhibit* (không bộc lộ / không biểu lộ được)
-* *continue to exhibit* (tiếp tục bộc lộ)
-* *tend to exhibit* (có xu hướng biểu lộ)
-
+- *exhibit symptoms* (bộc lộ các triệu chứng)
+- *exhibit behavior* (biểu lộ hành vi)
+- *exhibit signs* (bộc lộ các dấu hiệu)
+- *exhibit traits* (bộc lộ các đặc điểm / tính cách)
+- *exhibit characteristics* (bộc lộ các đặc tính)
+- *exhibit qualities* (bộc lộ các phẩm chất)
+- *exhibit tendencies* (biểu lộ các xu hướng)
+- *exhibit emotions* (bộc lộ cảm xúc)
+- *exhibit resistance* (biểu lộ sự đề kháng / kháng cự)
+- *exhibit hostility* (biểu lộ thái độ thù địch)
+- *exhibit aggression* (biểu lộ sự hung hăng)
+- *exhibit competence* (bộc lộ năng lực)
+- *exhibit enthusiasm* (bộc lộ sự nhiệt huyết)
+- *exhibit willingness* (bộc lộ sự sẵn lòng)
+- *exhibit creativity* (bộc lộ sự sáng tạo)
+- *exhibit artwork* (trưng bày tác phẩm nghệ thuật)
+- *exhibit artifacts* (trưng bày các cổ vật)
+- *exhibit talent* (bộc lộ tài năng)
+- *exhibit mastery* (bộc lộ sự thành thạo / bậc thầy)
+- *exhibit flexibility* (bộc lộ tính linh hoạt)
+- *exhibit resilience* (bộc lộ khả năng phục hồi / kiên cường)
+- *exhibit evidence* (đưa ra bằng chứng)
+- *museum exhibit* (hiện vật bảo tàng)
+- *interactive exhibit* (hiện vật / khu trưng bày tương tác)
+- *permanent exhibit* (triển lãm / hiện vật cố định)
+- *temporary exhibit* (triển lãm / hiện vật ngắn hạn)
+- *principal exhibit* (vật trưng bày chính)
+- *court exhibit* (tang vật phiên tòa)
+- *exhibit A/B/C* (tang vật A/B/C)
+- *trade exhibit* (triển lãm thương mại)
+- *clearly exhibit* (bộc lộ một cách rõ ràng)
+- *frequently exhibit* (thường xuyên bộc lộ)
+- *consistently exhibit* (liên tục biểu lộ)
+- *rarely exhibit* (hiếm khi bộc lộ)
+- *prominently exhibit* (trưng bày ở vị trí nổi bật)
+- *publicly exhibit* (trưng bày công khai)
+- *exhibit high levels of* (bộc lộ mức độ cao về)
+- *exhibit strong preference for* (bộc lộ sự ưu tiên mạnh mẽ cho)
+- *exhibit marked improvement* (bộc lộ sự cải thiện rõ rệt)
+- *exhibit significant variation* (bộc lộ sự biến đổi đáng kể)
+- *exhibit unusual patterns* (bộc lộ các mẫu hình bất thường)
+- *opportunity to exhibit* (cơ hội để trưng bày / bộc lộ)
+- *fail to exhibit* (không bộc lộ / không biểu lộ được)
+- *continue to exhibit* (tiếp tục bộc lộ)
+- *tend to exhibit* (có xu hướng biểu lộ)
 ## Từ đồng nghĩa
-
-* *display* (phô bày, trưng bày, biểu lộ)
-* *demonstrate* (chứng minh, bộc lộ rõ)
-* *show* (cho thấy, thể hiện)
-* *manifest* (biểu lộ, làm rõ)
-* *expose* (phô ra, bộc lộ)
-* *reveal* (hé lộ, phát giác)
-* *showcase* (trưng bày, tôn vinh)
-
+- *display* (phô bày, trưng bày, biểu lộ)
+- *demonstrate* (chứng minh, bộc lộ rõ)
+- *show* (cho thấy, thể hiện)
+- *manifest* (biểu lộ, làm rõ)
+- *expose* (phô ra, bộc lộ)
+- *reveal* (hé lộ, phát giác)
+- *showcase* (trưng bày, tôn vinh)
 ## Từ trái nghĩa
-
-* *conceal* (che giấu, giấu kín)
-* *hide* (ẩn nấp, giấu)
-* *cover* (che phủ, bao bọc)
-* *suppress* (kìm nén, đè nén)
-* *mask* (che đậy, ngụy trang)
-
+- *conceal* (che giấu, giấu kín)
+- *hide* (ẩn nấp, giấu)
+- *cover* (che phủ, bao bọc)
+- *suppress* (kìm nén, đè nén)
+- *mask* (che đậy, ngụy trang)
 ## Word family
-
-* *exhibit* (v / n) (trưng bày, bộc lộ / hiện vật, tang vật)
-* *exhibition* (n) (cuộc triển lãm, sự bộc lộ)
-* *exhibitor* (n) (đơn vị / người trưng bày triển lãm)
-* *exhibiting* (adj) (đang tham gia triển lãm / bộc lộ)
-* *exhibitionist* (n) (người thích thể hiện / phô trương)
-* *exhibitionism* (n) (xu hướng thích thể hiện bản thân)
-
-Dưới đây là từ vựng **"Explore"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+- *exhibit* (v / n) (trưng bày, bộc lộ / hiện vật, tang vật)
+- *exhibition* (n) (cuộc triển lãm, sự bộc lộ)
+- *exhibitor* (n) (đơn vị / người trưng bày triển lãm)
+- *exhibiting* (adj) (đang tham gia triển lãm / bộc lộ)
+- *exhibitionist* (n) (người thích thể hiện / phô trương)
+- *exhibitionism* (n) (xu hướng thích thể hiện bản thân)
 
 # explore
-
 ## Nghĩa
-
 1. (v) Khám phá, thám hiểm (vùng đất mới, hành tinh, không gian)
 2. (v) Nghiên cứu, tìm hiểu kỹ (một chủ đề, khía cạnh, khả năng)
 3. (v) Thăm dò, thăm khám (vết thương, chuyên khoa y tế)
 4. (v) Thử nghiệm, khảo sát (các phương án, giải pháp khác nhau)
 5. (v) Khám phá, trải nghiệm (văn hóa, ẩm thực, phong cảnh)
-
 ## Ví dụ
-
-* *Scientists are preparing to explore the outer reaches of the solar system.*
-* *The essay will explore the complex reasons behind urban migration.*
-* *The surgeon used a small camera to explore the damaged joint tissue.*
-* *Businesses must explore new strategies to survive in a competitive market.*
-* *Tourists love to explore the ancient alleys and local street food of the city.*
-
+- *Scientists are preparing to explore the outer reaches of the solar system.*
+- *The essay will explore the complex reasons behind urban migration.*
+- *The surgeon used a small camera to explore the damaged joint tissue.*
+- *Businesses must explore new strategies to survive in a competitive market.*
+- *Tourists love to explore the ancient alleys and local street food of the city.*
 ## Cấu trúc
-
-* *explore something in detail/depth* (nghiên cứu / tìm hiểu cái gì một cách chi tiết)
-* *explore the possibility of doing something* (khám phá / tìm hiểu khả năng làm gì)
-* *explore ways/avenues to do something* (thăm dò các con đường / giải pháp để làm gì)
-* *be widely/further explored* (được nghiên cứu / mở rộng tìm hiểu rộng rãi)
-* *explore options/alternatives* (khảo sát các lựa chọn / phương án thay thế)
-
+- *explore something in detail/depth* (nghiên cứu / tìm hiểu cái gì một cách chi tiết)
+- *explore the possibility of doing something* (khám phá / tìm hiểu khả năng làm gì)
+- *explore ways/avenues to do something* (thăm dò các con đường / giải pháp để làm gì)
+- *be widely/further explored* (được nghiên cứu / mở rộng tìm hiểu rộng rãi)
+- *explore options/alternatives* (khảo sát các lựa chọn / phương án thay thế)
 ## Collocation
-
-* *further explore* (nghiên cứu / khám phá sâu hơn)
-* *fully explore* (khám phá / tìm hiểu toàn diện)
-* *carefully explore* (thăm dò / tìm hiểu cẩn trọng)
-* *actively explore* (chủ động tìm hiểu / khám phá)
-* *extensively explore* (nghiên cứu / khám phá trên quy mô rộng)
-* *briefly explore* (điểm qua / tìm hiểu sơ lược)
-* *jointly explore* (cùng nhau hợp tác nghiên cứu / thăm dò)
-* *explore options* (khảo sát các lựa chọn)
-* *explore alternatives* (khám phá các phương án thay thế)
-* *explore possibilities* (tìm hiểu các khả năng)
-* *explore avenues* (thăm dò các hướng đi / giải pháp)
-* *explore opportunities* (tìm kiếm / khám phá cơ hội)
-* *explore implications* (nghiên cứu các hệ lụy / ảnh hưởng)
-* *explore issues* (tìm hiểu các vấn đề)
-* *explore ideas* (khám phá các ý tưởng)
-* *explore themes* (khai thác các chủ đề)
-* *explore concepts* (tìm hiểu các khái niệm)
-* *explore solutions* (tìm kiếm các giải pháp)
-* *explore potential* (khai phá tiềm năng)
-* *explore depth* (đi sâu tìm hiểu)
-* *explore boundaries* (khám phá các giới hạn)
-* *explore frontiers* (khai phá các ranh giới mới)
-* *explore terrain* (thám hiểm địa hình)
-* *explore environment* (khám phá môi trường)
-* *explore culture* (trải nghiệm / tìm hiểu văn hóa)
-* *explore market* (thăm dò / nghiên cứu thị trường)
-* *explore career paths* (tìm hiểu các hướng đi nghề nghiệp)
-* *explore relationship between* (tìm hiểu mối quan hệ giữa)
-* *explore underlying causes* (nghiên cứu các nguyên nhân cốt lõi)
-* *explore theoretical framework* (tìm hiểu khung lý thuyết)
-* *explore creative approaches* (khám phá các phương pháp sáng tạo)
-* *explore space* (khám phá vũ trụ)
-* *explore deep sea* (thám hiểm biển sâu)
-* *explore new perspectives* (tìm kiếm các góc nhìn mới)
-* *explore future prospects* (tìm hiểu triển vọng tương lai)
-* *seek to explore* (nỗ lực / tìm cách nghiên cứu)
-* *aim to explore* (nhắm đến mục tiêu khám phá)
-* *opportunity to explore* (cơ hội để trải nghiệm / tìm hiểu)
-* *need to explore* (nhu cầu cần tìm hiểu)
-* *freedom to explore* (sự tự do khám phá)
-* *continue to explore* (tiếp tục tìm hiểu / mở rộng)
-* *fail to explore* (bỏ lỡ / không nghiên cứu)
-* *help explore* (giúp tìm hiểu / khám phá)
-* *begin to explore* (bắt đầu nghiên cứu)
-* *encourage to explore* (khuyến khích tìm tòi)
-
+- *further explore* (nghiên cứu / khám phá sâu hơn)
+- *fully explore* (khám phá / tìm hiểu toàn diện)
+- *carefully explore* (thăm dò / tìm hiểu cẩn trọng)
+- *actively explore* (chủ động tìm hiểu / khám phá)
+- *extensively explore* (nghiên cứu / khám phá trên quy mô rộng)
+- *briefly explore* (điểm qua / tìm hiểu sơ lược)
+- *jointly explore* (cùng nhau hợp tác nghiên cứu / thăm dò)
+- *explore options* (khảo sát các lựa chọn)
+- *explore alternatives* (khám phá các phương án thay thế)
+- *explore possibilities* (tìm hiểu các khả năng)
+- *explore avenues* (thăm dò các hướng đi / giải pháp)
+- *explore opportunities* (tìm kiếm / khám phá cơ hội)
+- *explore implications* (nghiên cứu các hệ lụy / ảnh hưởng)
+- *explore issues* (tìm hiểu các vấn đề)
+- *explore ideas* (khám phá các ý tưởng)
+- *explore themes* (khai thác các chủ đề)
+- *explore concepts* (tìm hiểu các khái niệm)
+- *explore solutions* (tìm kiếm các giải pháp)
+- *explore potential* (khai phá tiềm năng)
+- *explore depth* (đi sâu tìm hiểu)
+- *explore boundaries* (khám phá các giới hạn)
+- *explore frontiers* (khai phá các ranh giới mới)
+- *explore terrain* (thám hiểm địa hình)
+- *explore environment* (khám phá môi trường)
+- *explore culture* (trải nghiệm / tìm hiểu văn hóa)
+- *explore market* (thăm dò / nghiên cứu thị trường)
+- *explore career paths* (tìm hiểu các hướng đi nghề nghiệp)
+- *explore relationship between* (tìm hiểu mối quan hệ giữa)
+- *explore underlying causes* (nghiên cứu các nguyên nhân cốt lõi)
+- *explore theoretical framework* (tìm hiểu khung lý thuyết)
+- *explore creative approaches* (khám phá các phương pháp sáng tạo)
+- *explore space* (khám phá vũ trụ)
+- *explore deep sea* (thám hiểm biển sâu)
+- *explore new perspectives* (tìm kiếm các góc nhìn mới)
+- *explore future prospects* (tìm hiểu triển vọng tương lai)
+- *seek to explore* (nỗ lực / tìm cách nghiên cứu)
+- *aim to explore* (nhắm đến mục tiêu khám phá)
+- *opportunity to explore* (cơ hội để trải nghiệm / tìm hiểu)
+- *need to explore* (nhu cầu cần tìm hiểu)
+- *freedom to explore* (sự tự do khám phá)
+- *continue to explore* (tiếp tục tìm hiểu / mở rộng)
+- *fail to explore* (bỏ lỡ / không nghiên cứu)
+- *help explore* (giúp tìm hiểu / khám phá)
+- *begin to explore* (bắt đầu nghiên cứu)
+- *encourage to explore* (khuyến khích tìm tòi)
 ## Từ đồng nghĩa
-
-* *investigate* (điều tra, nghiên cứu kỹ)
-* *examine* (xem xét, khảo sát)
-* *research* (nghiên cứu)
-* *analyze* (phân tích)
-* *discover* (phát hiện, khám phá)
-* *inspect* (thanh tra, kiểm tra)
-* *probe* (thăm dò, dò xét)
-
+- *investigate* (điều tra, nghiên cứu kỹ)
+- *examine* (xem xét, khảo sát)
+- *research* (nghiên cứu)
+- *analyze* (phân tích)
+- *discover* (phát hiện, khám phá)
+- *inspect* (thanh tra, kiểm tra)
+- *probe* (thăm dò, dò xét)
 ## Từ trái nghĩa
-
-* *ignore* (phớt lờ, ngó lơ)
-* *overlook* (bỏ qua, không chú ý)
-* *neglect* (bỏ mặc, xao nhãng)
-* *disregard* (coi thường, không xem xét)
-* *abandon* (từ bỏ, không tiếp tục)
-
+- *ignore* (phớt lờ, ngó lơ)
+- *overlook* (bỏ qua, không chú ý)
+- *neglect* (bỏ mặc, xao nhãng)
+- *disregard* (coi thường, không xem xét)
+- *abandon* (từ bỏ, không tiếp tục)
 ## Word family
-
-* *explore* (v) (khám phá, nghiên cứu, thám hiểm)
-* *exploration* (n) (sự khám phá, cuộc thám hiểm, sự nghiên cứu)
-* *exploratory* (adj) (mang tính thăm dò, định hướng khám phá)
-* *explorer* (n) (nhà thám hiểm, người khám phá)
-* *unexplored* (adj) (chưa được khám phá, còn hoang sơ)
-* *explorable* (adj) (có thể khám phá / nghiên cứu được)
-
-Dưới đây là từ vựng **"Expose"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+- *explore* (v) (khám phá, nghiên cứu, thám hiểm)
+- *exploration* (n) (sự khám phá, cuộc thám hiểm, sự nghiên cứu)
+- *exploratory* (adj) (mang tính thăm dò, định hướng khám phá)
+- *explorer* (n) (nhà thám hiểm, người khám phá)
+- *unexplored* (adj) (chưa được khám phá, còn hoang sơ)
+- *explorable* (adj) (có thể khám phá / nghiên cứu được)
 
 # expose
-
 ## Nghĩa
-
 1. (v) Phơi bày, vạch trần (sự thật, tội ác, hành vi tham nhũng)
 2. (v) Tiếp xúc, đặt vào tình thế nguy hiểm (với hóa chất, dịch bệnh, rủi ro)
 3. (v) Bộc lộ, để lộ ra (vật thể bị che khuất, cơ thể)
 4. (v) Cho tiếp xúc, giới thiệu (ai đó với trải nghiệm, văn hóa, ý tưởng mới)
 5. (v) Phơi sáng (trong nhiếp ảnh, tấm phim)
-
 ## Ví dụ
-
-* *The investigative journalist helped to expose the corporate corruption scandal.*
-* *Children who are exposed to secondhand smoke face severe health risks.*
-* *The receding tide exposed a vast stretch of muddy rocks along the coastline.*
-* *Studying abroad exposes students to diverse cultures and new ways of thinking.*
-* *If you expose the film to light prematurely, the images will be completely ruined.*
-
+- *The investigative journalist helped to expose the corporate corruption scandal.*
+- *Children who are exposed to secondhand smoke face severe health risks.*
+- *The receding tide exposed a vast stretch of muddy rocks along the coastline.*
+- *Studying abroad exposes students to diverse cultures and new ways of thinking.*
+- *If you expose the film to light prematurely, the images will be completely ruined.*
 ## Cấu trúc
-
-* *expose someone/something to something* (đặt ai / cái gì vào tình thế tiếp xúc với cái gì)
-* *be exposed to something* (bị phơi nhiễm / tiếp xúc / ảnh hưởng bởi cái gì)
-* *expose something as something* (vạch trần cái gì là thứ gì)
-* *expose one's weaknesses/flaws* (bộc lộ điểm yếu / thiếu sót của ai)
-* *expose a plot/scandal/crime* (vạch trần một âm mưu / bê bối / tội ác)
-
+- *expose someone/something to something* (đặt ai / cái gì vào tình thế tiếp xúc với cái gì)
+- *be exposed to something* (bị phơi nhiễm / tiếp xúc / ảnh hưởng bởi cái gì)
+- *expose something as something* (vạch trần cái gì là thứ gì)
+- *expose one's weaknesses/flaws* (bộc lộ điểm yếu / thiếu sót của ai)
+- *expose a plot/scandal/crime* (vạch trần một âm mưu / bê bối / tội ác)
 ## Collocation
-
-* *fully expose* (phơi bày / vạch trần toàn bộ)
-* *ruthlessly expose* (vạch trần một cách tàn nhẫn / không khoan nhượng)
-* *publicly expose* (vạch trần công khai)
-* *directly expose* (tiếp xúc trực tiếp)
-* *indirectly expose* (tiếp xúc gián tiếp)
-* *continually expose* (tiếp xúc liên tục)
-* *excessively expose* (tiếp xúc quá mức)
-* *inadvertently expose* (vô tình để lộ / tiếp xúc)
-* *expose corruption* (vạch trần nạn tham nhũng)
-* *expose fraud* (vạch trần hành vi gian lận)
-* *expose lies* (vạch trần những lời dối trá)
-* *expose secrets* (phơi bày các bí mật)
-* *expose hypocrisy* (vạch trần sự đạo đức giả)
-* *expose flaws* (bộc lộ các thiếu sót)
-* *expose weaknesses* (bộc lộ các điểm yếu)
-* *expose vulnerabilities* (bộc lộ các lỗ hổng / điểm yếu)
-* *expose wrongdoing* (vạch trần hành vi sai trái)
-* *expose scandal* (vạch trần bê bối)
-* *expose myth* (vạch trần huyền thoại / quan niệm sai lầm)
-* *expose injustice* (phơi bày sự bất công)
-* *expose risks* (bộc lộ các rủi ro)
-* *expose skin* (để lộ làn da)
-* *expose roots* (làm lộ bộ rễ)
-* *expose truth* (phơi bày sự thật)
-* *expose conspiracy* (vạch trần âm mưu)
-* *expose to danger* (đặt vào tình thế nguy hiểm)
-* *expose to hardship* (đặt vào hoàn cảnh gian khổ)
-* *expose to pollution* (tiếp xúc với sự ô nhiễm)
-* *expose to radiation* (tiếp xúc với bức xạ)
-* *expose to violence* (tiếp xúc với bạo lực)
-* *expose to chemicals* (tiếp xúc với hóa chất)
-* *expose to infection* (tiếp xúc với nguồn bệnh / nhiễm trùng)
-* *expose to ridicule* (đặt vào thế bị chế nhạo)
-* *expose to sunlight* (tiếp xúc với ánh nắng mặt trời)
-* *expose to criticism* (đặt vào thế bị phê bình)
-* *expose students to art* (cho học sinh tiếp xúc với nghệ thuật)
-* *expose children to technology* (cho trẻ em tiếp xúc với công nghệ)
-* *threaten to expose* (đe dọa vạch trần)
-* *seek to expose* (tìm cách phơi bày)
-* *help expose* (giúp vạch trần)
-* *fail to expose* (không thể phơi bày)
-* *risk being exposed* (có nguy cơ bị vạch trần)
-* *easily exposed* (dễ bị bộc lộ / tổn thương)
-* *heavily exposed* (tiếp xúc rất nhiều)
-* *chronically exposed* (tiếp xúc mãn tính / lâu dài)
-
+- *fully expose* (phơi bày / vạch trần toàn bộ)
+- *ruthlessly expose* (vạch trần một cách tàn nhẫn / không khoan nhượng)
+- *publicly expose* (vạch trần công khai)
+- *directly expose* (tiếp xúc trực tiếp)
+- *indirectly expose* (tiếp xúc gián tiếp)
+- *continually expose* (tiếp xúc liên tục)
+- *excessively expose* (tiếp xúc quá mức)
+- *inadvertently expose* (vô tình để lộ / tiếp xúc)
+- *expose corruption* (vạch trần nạn tham nhũng)
+- *expose fraud* (vạch trần hành vi gian lận)
+- *expose lies* (vạch trần những lời dối trá)
+- *expose secrets* (phơi bày các bí mật)
+- *expose hypocrisy* (vạch trần sự đạo đức giả)
+- *expose flaws* (bộc lộ các thiếu sót)
+- *expose weaknesses* (bộc lộ các điểm yếu)
+- *expose vulnerabilities* (bộc lộ các lỗ hổng / điểm yếu)
+- *expose wrongdoing* (vạch trần hành vi sai trái)
+- *expose scandal* (vạch trần bê bối)
+- *expose myth* (vạch trần huyền thoại / quan niệm sai lầm)
+- *expose injustice* (phơi bày sự bất công)
+- *expose risks* (bộc lộ các rủi ro)
+- *expose skin* (để lộ làn da)
+- *expose roots* (làm lộ bộ rễ)
+- *expose truth* (phơi bày sự thật)
+- *expose conspiracy* (vạch trần âm mưu)
+- *expose to danger* (đặt vào tình thế nguy hiểm)
+- *expose to hardship* (đặt vào hoàn cảnh gian khổ)
+- *expose to pollution* (tiếp xúc với sự ô nhiễm)
+- *expose to radiation* (tiếp xúc với bức xạ)
+- *expose to violence* (tiếp xúc với bạo lực)
+- *expose to chemicals* (tiếp xúc với hóa chất)
+- *expose to infection* (tiếp xúc với nguồn bệnh / nhiễm trùng)
+- *expose to ridicule* (đặt vào thế bị chế nhạo)
+- *expose to sunlight* (tiếp xúc với ánh nắng mặt trời)
+- *expose to criticism* (đặt vào thế bị phê bình)
+- *expose students to art* (cho học sinh tiếp xúc với nghệ thuật)
+- *expose children to technology* (cho trẻ em tiếp xúc với công nghệ)
+- *threaten to expose* (đe dọa vạch trần)
+- *seek to expose* (tìm cách phơi bày)
+- *help expose* (giúp vạch trần)
+- *fail to expose* (không thể phơi bày)
+- *risk being exposed* (có nguy cơ bị vạch trần)
+- *easily exposed* (dễ bị bộc lộ / tổn thương)
+- *heavily exposed* (tiếp xúc rất nhiều)
+- *chronically exposed* (tiếp xúc mãn tính / lâu dài)
 ## Từ đồng nghĩa
-
-* *reveal* (hé lộ, phát giác)
-* *uncover* (khám phá, phơi bày)
-* *unveil* (công bố, làm rõ)
-* *disclose* (bộc lộ, tiết lộ)
-* *lay bare* (vạch trần hoàn toàn)
-* *subject* (bắt chịu, đặt vào hoàn cảnh)
-* *endanger* (gây nguy hiểm, đặt vào rủi ro)
-
+- *reveal* (hé lộ, phát giác)
+- *uncover* (khám phá, phơi bày)
+- *unveil* (công bố, làm rõ)
+- *disclose* (bộc lộ, tiết lộ)
+- *lay bare* (vạch trần hoàn toàn)
+- *subject* (bắt chịu, đặt vào hoàn cảnh)
+- *endanger* (gây nguy hiểm, đặt vào rủi ro)
 ## Từ trái nghĩa
-
-* *cover* (che phủ, bao bọc)
-* *hide* (giấu giếm, ẩn nấp)
-* *conceal* (che giấu)
-* *protect* (bảo vệ, che chở)
-* *shield* (mộc chắn, bảo vệ khỏi tác động)
-
+- *cover* (che phủ, bao bọc)
+- *hide* (giấu giếm, ẩn nấp)
+- *conceal* (che giấu)
+- *protect* (bảo vệ, che chở)
+- *shield* (mộc chắn, bảo vệ khỏi tác động)
 ## Word family
-
-* *expose* (v) (phơi bày, vạch trần, cho tiếp xúc)
-* *exposure* (n) (sự phơi nhiễm, sự vạch trần, sự tiếp xúc)
-* *exposition* (n) (sự giải thích, cuộc triển lãm)
-* *exposed* (adj) (bị lộ, không có bảo vệ, phơi nhiễm)
-* *unexposed* (adj) (chưa bị phơi bày / chưa phơi sáng)
-* *expose* (n) (bài báo / báo cáo vạch trần sự thật)
+- *expose* (v) (phơi bày, vạch trần, cho tiếp xúc)
+- *exposure* (n) (sự phơi nhiễm, sự vạch trần, sự tiếp xúc)
+- *exposition* (n) (sự giải thích, cuộc triển lãm)
+- *exposed* (adj) (bị lộ, không có bảo vệ, phơi nhiễm)
+- *unexposed* (adj) (chưa bị phơi bày / chưa phơi sáng)
+- *expose* (n) (bài báo / báo cáo vạch trần sự thật)
 
 # external
 ## Nghĩa
