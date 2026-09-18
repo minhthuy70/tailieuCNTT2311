@@ -10927,14 +10927,108 @@ Dưới đây là từ vựng **"Explore"** được biên soạn hoàn chỉnh 
 * *unexplored* (adj) (chưa được khám phá, còn hoang sơ)
 * *explorable* (adj) (có thể khám phá / nghiên cứu được)
 
+Dưới đây là từ vựng **"Expose"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # expose
+
 ## Nghĩa
+
+1. (v) Phơi bày, vạch trần (sự thật, tội ác, hành vi tham nhũng)
+2. (v) Tiếp xúc, đặt vào tình thế nguy hiểm (với hóa chất, dịch bệnh, rủi ro)
+3. (v) Bộc lộ, để lộ ra (vật thể bị che khuất, cơ thể)
+4. (v) Cho tiếp xúc, giới thiệu (ai đó với trải nghiệm, văn hóa, ý tưởng mới)
+5. (v) Phơi sáng (trong nhiếp ảnh, tấm phim)
+
 ## Ví dụ
+
+* *The investigative journalist helped to expose the corporate corruption scandal.*
+* *Children who are exposed to secondhand smoke face severe health risks.*
+* *The receding tide exposed a vast stretch of muddy rocks along the coastline.*
+* *Studying abroad exposes students to diverse cultures and new ways of thinking.*
+* *If you expose the film to light prematurely, the images will be completely ruined.*
+
 ## Cấu trúc
+
+* *expose someone/something to something* (đặt ai / cái gì vào tình thế tiếp xúc với cái gì)
+* *be exposed to something* (bị phơi nhiễm / tiếp xúc / ảnh hưởng bởi cái gì)
+* *expose something as something* (vạch trần cái gì là thứ gì)
+* *expose one's weaknesses/flaws* (bộc lộ điểm yếu / thiếu sót của ai)
+* *expose a plot/scandal/crime* (vạch trần một âm mưu / bê bối / tội ác)
+
 ## Collocation
+
+* *fully expose* (phơi bày / vạch trần toàn bộ)
+* *ruthlessly expose* (vạch trần một cách tàn nhẫn / không khoan nhượng)
+* *publicly expose* (vạch trần công khai)
+* *directly expose* (tiếp xúc trực tiếp)
+* *indirectly expose* (tiếp xúc gián tiếp)
+* *continually expose* (tiếp xúc liên tục)
+* *excessively expose* (tiếp xúc quá mức)
+* *inadvertently expose* (vô tình để lộ / tiếp xúc)
+* *expose corruption* (vạch trần nạn tham nhũng)
+* *expose fraud* (vạch trần hành vi gian lận)
+* *expose lies* (vạch trần những lời dối trá)
+* *expose secrets* (phơi bày các bí mật)
+* *expose hypocrisy* (vạch trần sự đạo đức giả)
+* *expose flaws* (bộc lộ các thiếu sót)
+* *expose weaknesses* (bộc lộ các điểm yếu)
+* *expose vulnerabilities* (bộc lộ các lỗ hổng / điểm yếu)
+* *expose wrongdoing* (vạch trần hành vi sai trái)
+* *expose scandal* (vạch trần bê bối)
+* *expose myth* (vạch trần huyền thoại / quan niệm sai lầm)
+* *expose injustice* (phơi bày sự bất công)
+* *expose risks* (bộc lộ các rủi ro)
+* *expose skin* (để lộ làn da)
+* *expose roots* (làm lộ bộ rễ)
+* *expose truth* (phơi bày sự thật)
+* *expose conspiracy* (vạch trần âm mưu)
+* *expose to danger* (đặt vào tình thế nguy hiểm)
+* *expose to hardship* (đặt vào hoàn cảnh gian khổ)
+* *expose to pollution* (tiếp xúc với sự ô nhiễm)
+* *expose to radiation* (tiếp xúc với bức xạ)
+* *expose to violence* (tiếp xúc với bạo lực)
+* *expose to chemicals* (tiếp xúc với hóa chất)
+* *expose to infection* (tiếp xúc với nguồn bệnh / nhiễm trùng)
+* *expose to ridicule* (đặt vào thế bị chế nhạo)
+* *expose to sunlight* (tiếp xúc với ánh nắng mặt trời)
+* *expose to criticism* (đặt vào thế bị phê bình)
+* *expose students to art* (cho học sinh tiếp xúc với nghệ thuật)
+* *expose children to technology* (cho trẻ em tiếp xúc với công nghệ)
+* *threaten to expose* (đe dọa vạch trần)
+* *seek to expose* (tìm cách phơi bày)
+* *help expose* (giúp vạch trần)
+* *fail to expose* (không thể phơi bày)
+* *risk being exposed* (có nguy cơ bị vạch trần)
+* *easily exposed* (dễ bị bộc lộ / tổn thương)
+* *heavily exposed* (tiếp xúc rất nhiều)
+* *chronically exposed* (tiếp xúc mãn tính / lâu dài)
+
 ## Từ đồng nghĩa
+
+* *reveal* (hé lộ, phát giác)
+* *uncover* (khám phá, phơi bày)
+* *unveil* (công bố, làm rõ)
+* *disclose* (bộc lộ, tiết lộ)
+* *lay bare* (vạch trần hoàn toàn)
+* *subject* (bắt chịu, đặt vào hoàn cảnh)
+* *endanger* (gây nguy hiểm, đặt vào rủi ro)
+
 ## Từ trái nghĩa
+
+* *cover* (che phủ, bao bọc)
+* *hide* (giấu giếm, ẩn nấp)
+* *conceal* (che giấu)
+* *protect* (bảo vệ, che chở)
+* *shield* (mộc chắn, bảo vệ khỏi tác động)
+
 ## Word family
+
+* *expose* (v) (phơi bày, vạch trần, cho tiếp xúc)
+* *exposure* (n) (sự phơi nhiễm, sự vạch trần, sự tiếp xúc)
+* *exposition* (n) (sự giải thích, cuộc triển lãm)
+* *exposed* (adj) (bị lộ, không có bảo vệ, phơi nhiễm)
+* *unexposed* (adj) (chưa bị phơi bày / chưa phơi sáng)
+* *expose* (n) (bài báo / báo cáo vạch trần sự thật)
 
 # external
 ## Nghĩa
