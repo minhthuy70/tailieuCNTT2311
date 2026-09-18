@@ -8443,7 +8443,11 @@
 ## Nghĩa
 1. (n) tập thể, hội
 2. (adj) tập thể, chung
+3. (v) chung
+4. (adj) chung
 ## Ví dụ
+- *The workers formed a collective to protect their rights.*
+- *The company made a collective decision.*
 - *The workers formed a collective to protect their rights.*
 - *The company made a collective decision.*
 ## Cấu trúc
@@ -8458,6 +8462,31 @@
 - *collective action* (hành động tập thể)
 - *collective agreement* (thỏa thuận tập thể)
 - *collective responsibility* (trách nhiệm tập thể)
+- *collective effort* (nỗ lực chung / nỗ lực tập thể)
+- *collective action* (hành động tập thể)
+- *collective decision* (quyết định chung)
+- *collective responsibility* (trách nhiệm tập thể / trách nhiệm chung)
+- *collective responsibility for something* (trách nhiệm chung đối với điều gì)
+- *collective agreement* (thỏa thuận tập thể)
+- *collective bargaining* (thương lượng tập thể)
+- *collective memory* (ký ức tập thể)
+- *collective identity* (bản sắc tập thể)
+- *collective interest* (lợi ích chung)
+- *collective interests* (các lợi ích chung)
+- *collective goal* (mục tiêu chung)
+- *collective experience* (trải nghiệm chung)
+- *collective behavior* (hành vi tập thể)
+- *collective knowledge* (kiến thức chung / tri thức tập thể)
+- *collective wisdom* (trí tuệ tập thể)
+- *collective response* (phản ứng chung)
+- *collective opinion* (quan điểm chung)
+- *collective noun* (danh từ tập hợp)
+- *collective consciousness* (ý thức tập thể)
+- *a collective of artists* (một nhóm các nghệ sĩ)
+- *a collective of writers* (một nhóm các nhà văn)
+- *work collectively* (làm việc cùng nhau / theo tập thể)
+- *act collectively* (hành động tập thể)
+- *collector's item* (món đồ sưu tập)
 ## Từ đồng nghĩa
 - *group* (nhóm)
 - *community* (cộng đồng)
@@ -8475,6 +8504,13 @@
 - *private* (riêng tư)
 ## Word family
 - *collective* (n/adj) (tập thể)
+- *collectively* (adv) (cùng nhau / theo tập thể)
+- *collection* (n) (tập hợp / bộ sưu tập)
+- *collect* (v) (thu thập / sưu tập)
+- *collector* (n) (người thu thập / người sưu tập)
+- *collectible* (n) (vật sưu tập)
+- *collectible* (adj) (đáng sưu tập)
+
 
 # collide
 ## Nghĩa
