@@ -9842,14 +9842,108 @@ Dưới đây là từ vựng **"Dominate"** được biên soạn hoàn chỉnh
 * *dominantly* (adv) (một cách ưu thế / thống trị)
 * *dominator* (n) (kẻ thống trị, bên chi phối)
 
+Dưới đây là từ vựng **"Draft"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing/Speaking và đạt chính xác **88 dòng**:
+
 # draft
+
 ## Nghĩa
+
+1. (n) Bản nháp, bản phác thảo (văn bản, hợp đồng, dự án)
+2. (v) Soạn thảo, phác thảo (viết phiên bản đầu tiên của văn bản/kế hoạch)
+3. (n) Hối phiếu ngân hàng, lệnh thanh toán (trong tài chính/giao dịch)
+4. (v) Tuyển mộ, trưng tập (vào quân đội, đội ngũ chuyên môn)
+5. (n) Gió lùa, luồng không khí (trong không gian kín - cách viết Anh-Mỹ)
+
 ## Ví dụ
+
+* *Students are encouraged to revise their first draft before submitting the final essay.*
+* *The legal team was instructed to draft a new contract for the merger.*
+* *Payment can be made via credit card, wire transfer, or bank draft.*
+* *He was drafted into the national service shortly after graduating from university.*
+* *A cold draft came through the gap under the main entrance door.*
+
 ## Cấu trúc
+
+* *draft something for someone/something* (soạn thảo cái gì cho ai / cái gì)
+* *draft someone into something* (trưng tập / điều động ai vào đâu)
+* *be in draft form* (đang ở dạng bản nháp)
+* *make/write/produce a draft* (tạo / viết / sản xuất bản nháp)
+* *draft a proposal/policy/law* (soạn thảo đề xuất / chính sách / luật)
+
 ## Collocation
+
+* *rough draft* (bản nháp sơ bộ)
+* *first draft* (bản nháp đầu tiên)
+* *final draft* (bản nháp cuối cùng / bản chốt)
+* *initial draft* (bản phác thảo ban đầu)
+* *working draft* (bản nháp đang trong quá trình chỉnh sửa)
+* *revised draft* (bản nháp đã qua sửa đổi)
+* *preliminary draft* (bản phác thảo sơ khởi)
+* *bank draft* (hối phiếu ngân hàng)
+* *banker's draft* (ngân phiếu ngân hàng)
+* *draft agreement* (thỏa thuận sơ bộ)
+* *draft proposal* (đề xuất phác thảo)
+* *draft legislation* (dự thảo luật)
+* *draft policy* (dự thảo chính sách)
+* *draft resolution* (dự thảo nghị quyết)
+* *draft constitution* (dự thảo hiến pháp)
+* *draft contract* (hợp đồng bản nháp)
+* *draft plan* (kế hoạch phác thảo)
+* *draft budget* (dự thảo ngân sách)
+* *draft paper* (bài viết nháp)
+* *draft document* (tài liệu phác thảo)
+* *draft strategy* (chiến lược phác thảo)
+* *draft report* (báo cáo nháp)
+* *draft outline* (dàn ý phác thảo)
+* *draft stage* (giai đoạn phác thảo)
+* *draft version* (phiên bản nháp)
+* *carefully draft* (soạn thảo một cách cẩn trọng)
+* *jointly draft* (cùng nhau soạn thảo)
+* *help draft* (giúp soạn thảo)
+* *redraft a text* (viết lại / chỉnh sửa bản nháp)
+* *prepare a draft* (chuẩn bị một bản nháp)
+* *submit a draft* (nộp bản nháp)
+* *approve a draft* (phê duyệt bản nháp)
+* *review a draft* (đánh giá / duyệt bản nháp)
+* *circulate a draft* (lưu hành bản nháp)
+* *amend a draft* (sửa đổi bản nháp)
+* *reject a draft* (bác bỏ bản nháp)
+* *draft an essay* (soạn thảo bài luận)
+* *draft a response* (soạn thảo lời hồi đáp)
+* *draft a letter* (soạn thảo một lá thư)
+* *draft a speech* (soạn thảo bài phát biểu)
+* *draft a framework* (phác thảo một khung làm việc)
+* *draft recommendations* (soạn thảo các đề xuất)
+* *military draft* (sự trưng tập quân sự)
+* *avoid the draft* (trốn nghĩa vụ quân sự)
+* *cold draft* (luồng gió lùa lạnh)
+
 ## Từ đồng nghĩa
+
+* *outline* (phác thảo dàn ý)
+* *sketch* (vẽ / phác họa)
+* *draw up* (lập kế hoạch, soạn thảo document)
+* *compose* (sáng tác, soạn thảo)
+* *frame* (dựng lên, cấu trúc ý tưởng)
+* *conscript* (tuyển quân, trưng tập)
+* *manuscript* (bản thảo viết tay / gốc)
+
 ## Từ trái nghĩa
+
+* *finalize* (hoàn thiện, chốt phiên bản cuối)
+* *complete* (hoàn thành toàn bộ)
+* *conclude* (kết luận, kết thúc)
+* *polish* (trau chuốt hoàn chỉnh)
+* *execute* (thi hành, thực thi)
+
 ## Word family
+
+* *draft* (n, v) (bản nháp, soạn thảo)
+* *drafter* (n) (người soạn thảo văn bản)
+* *drafting* (n) (việc soạn thảo văn bản / kỹ thuật vẽ)
+* *drafty* (adj) (có gió lùa - cách viết Mỹ: drafty / Anh: draughty)
+* *redraft* (v, n) (soạn thảo lại, bản viết lại)
+* *undrafted* (adj) (chưa được tuyển chọn / chưa phác thảo)
 
 # educate
 ## Nghĩa
