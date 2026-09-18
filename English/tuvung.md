@@ -8656,15 +8656,92 @@
 - *communicatively* (adv) (theo cách giao tiếp/truyền đạt)
 - *communicated* (adj / V3) (được truyền đạt; được thông báo)
 
-
 # compile
 ## Nghĩa
+1. (v) Thu thập, biên soạn, tổng hợp (dữ liệu, tài liệu, danh sách)
+2. (v) Lập, soạn thảo (báo cáo, hồ sơ, danh mục)
+3. (v) Trích góp, sưu tầm (thông tin từ nhiều nguồn khác nhau)
+4. (v) (Tự động hóa / Tin học) Biên dịch (mã nguồn chương trình máy tính)
+5. (v) Tích lũy, xây dựng (hồ sơ, bộ sưu tập qua thời gian)
 ## Ví dụ
+- *Researchers need to compile accurate data before drawing conclusions.* 
+- *The committee spent months compiling a comprehensive report on climate change.*
+- *She compiled evidence from various historical archives for her dissertation.*
+- *The software developer compiled the source code into an executable program.*
+- *Over the years, the museum has compiled an impressive collection of rare artifacts.*
 ## Cấu trúc
+- *compile something* (tổng hợp / biên soạn cái gì)
+- *compile something from something* (tổng hợp cái gì từ những nguồn nào)
+- *compile something for someone/something* (biên soạn cái gì cho ai / mục đích gì)
+- *compile something into something* (tổng hợp cái gì thành một tài liệu / sản phẩm hoàn chỉnh)
+- *be compiled by someone/something* (được tổng hợp / biên soạn bởi ai / tổ chức nào)
 ## Collocation
+- *carefully compile* (cẩn thận tổng hợp / biên soạn)
+- *painstakingly compile* (tỉ mỉ / công phu thu thập và tổng hợp)
+- *meticulously compile* (tổng hợp một cách tỉ mỉ, chi tiết)
+- *systematically compile* (tổng hợp một cách có hệ thống)
+- *independently compile* (tự tổng hợp / thu thập độc lập)
+- *jointly compile* (phối hợp biên soạn / tổng hợp)
+- *annually compile* (tổng hợp hàng năm)
+- *compile data* (tổng hợp dữ liệu)
+- *compile information* (tổng hợp thông tin)
+- *compile evidence* (thu thập / tổng hợp bằng chứng)
+- *compile statistics* (tổng hợp số liệu thống kê)
+- *compile a report* (biên soạn một bản báo cáo)
+- *compile a list* (lập một danh sách)
+- *compile a database* (xây dựng / tổng hợp cơ sở dữ liệu)
+- *compile a dictionary* (biên soạn từ điển)
+- *compile a dossier* (lập một hồ sơ tài liệu)
+- *compile a inventory* (lập bảng kê khai tài sản / hàng hóa)
+- *compile a portfolio* (xây dựng hồ sơ năng lực / danh mục đầu tư)
+- *compile a register* (lập sổ theo dõi / danh sách đăng ký)
+- *compile results* (tổng hợp kết quả)
+- *compile findings* (tổng hợp các phát hiện nghiên cứu)
+- *compile guidelines* (biên soạn bộ hướng dẫn)
+- *compile figures* (tổng hợp các con số / dữ liệu tài chính)
+- *compile feedback* (tổng hợp ý kiến phản hồi)
+- *compile research* (tổng hợp kết quả nghiên cứu)
+- *compile survey responses* (tổng hợp phản hồi khảo sát)
+- *compile official records* (tổng hợp hồ sơ / ghi chép chính thức)
+- *compile historical facts* (tổng hợp các dữ liệu lịch sử)
+- *compile a comprehensive guide* (biên soạn một cuốn hướng dẫn toàn diện)
+- *compile code* (biên dịch mã máy tính)
+- *compile source material* (tổng hợp tài liệu nguồn)
+- *compile relevant literature* (tổng hợp tài liệu tham khảo liên quan)
+- *compile a shortlist* (lập danh sách rút gọn)
+- *compile customer profiles* (tổng hợp hồ sơ khách hàng)
+- *compile financial statements* (lập báo cáo tài chính)
+- *compile academic papers* (tổng hợp các bài báo khoa học)
+- *compile census data* (tổng hợp dữ liệu điều tra dân số)
+- *compile experimental results* (tổng hợp kết quả thí nghiệm)
+- *compile a anthology* (tuyển tập / sưu tầm tác phẩm văn học)
+- *compile exhaustive detail* (tổng hợp thông tin cực kỳ chi tiết)
+- *compile archival materials* (tổng hợp tài liệu lưu trữ)
+- *compile case studies* (tổng hợp các nghiên cứu tình huống)
+- *compile market research* (tổng hợp nghiên cứu thị trường)
+- *compile technical specifications* (tổng hợp thông số kỹ thuật)
+- *compile performance metrics* (tổng hợp các chỉ số đánh giá hiệu suất)
 ## Từ đồng nghĩa
+- *assemble* (lắp ráp, thu thập và nhóm lại)
+- *gather* (thu thập, gặt hái)
+- *collect* (sưu tầm, gom lại)
+- *organize* (sắp xếp, tổ chức)
+- *accumulate* (tích lũy qua thời gian)
+- *amass* (dồn lại, tích tụ số lượng lớn)
+- *collate* (đối chiếu và tổng hợp tài liệu)
 ## Từ trái nghĩa
+- *disperse* (phân tán, giải tán)
+- *scatter* (rải rác, làm tung tóe)
+- *dismantle* (tháo dỡ, phân rã)
+- *distribute* (phân phát, chia nhỏ)
+- *disorganize* (làm xáo trộn, gây mất trật tự)
 ## Word family
+- *compile* (v) (thu thập, tổng hợp, biên soạn)
+- *compilation* (n) (sự tổng hợp, tài liệu/tuyển tập được biên soạn)
+- *compiler* (n) (người biên soạn; chương trình trình biên dịch)
+- *compiled* (adj) (đã được tổng hợp / đã được biên dịch)
+- *compiling* (n) (việc tổng hợp, quá trình biên soạn)
+- *recompile* (v) (biên soạn lại / biên dịch lại)
 
 # conceive
 ## Nghĩa
