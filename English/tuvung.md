@@ -8514,12 +8514,112 @@
 
 # collide
 ## Nghĩa
+1. (v) va chạm, đâm vào (hai vật thể hoặc phương tiện đang di chuyển)
+2. (v) xung đột, mâu thuẫn (ý kiến, mục đích, v.v.)
+3. (v) đụng chạm (lợi ích)
+## Ví dụ
+- *The two cars collided at the intersection.*
+- *Her ideas collided with his beliefs.*
+- *Their interests collided.*
+- *The two theories collide on this point.*
+- *The police car collided with a tree.*
+- *The truck collided with the bridge.*
+- *The collision occurred when two trains collided head-on.*
+## Cấu trúc
+- *collide with someone/something* (va chạm với ai/cái gì)
+- *collide head-on* (đâm trực diện)
+- *ideas collide with beliefs* (ý tưởng xung đột với niềm tin)
+## Collocation
+- *collide with someone/something* (va chạm với ai/cái gì)
+- *collide head-on* (đâm trực diện)
+- *ideas collide with beliefs* (ý tưởng xung đột với niềm tin)
+- *collide with a car* (va chạm với một chiếc ô tô)
+- *collide with another vehicle* (va chạm với phương tiện khác)
+- *collide with a truck* (đâm / va chạm với xe tải)
+- *collide with a wall* (đâm vào tường)
+- *collide with an object* (va vào một vật thể)
+- *collide with another person* (va vào người khác)
+- *two cars collide* (hai chiếc xe va chạm)
+- *vehicles collide* (các phương tiện va chạm)
+- *collide head-on* (va chạm trực diện)
+- *collide at high speed* (va chạm ở tốc độ cao)
+- *collide accidentally* (vô tình va chạm)
+- *collide violently* (va chạm mạnh / dữ dội)
+- *collide with something* (va chạm với cái gì)
+- *collide with each other* (va chạm với nhau)
+- *interests collide* (lợi ích xung đột)
+- *opinions collide* (các quan điểm xung đột)
+- *cultures collide* (các nền văn hóa xung đột / va chạm)
+- *two worlds collide* (hai thế giới gặp nhau / đối đầu)
+## Từ đồng nghĩa
+- *crash* (đâm, va vào)
+- *hit* (đánh, đâm vào)
+- *strike* (đâm, va mạnh vào)
+- *smash into* (đâm mạnh vào)
+- *bump into* (va vào)
+- *impact* (va chạm, tác động mạnh)
+- *come into contact* (tiếp xúc, va chạm)
+- *clash* (xung đột, va chạm)
+- *conflict* (xung đột, mâu thuẫn)
+## Từ trái nghĩa
+- *agree* (đồng ý)
+- *harmonize* (hòa hợp)
+- *avoid* (tránh)
+- *evade* (né tránh)
+- *miss* (trượt, tránh được)
+- *separate* (tách ra)
+- *diverge* (phân kỳ, đi theo hướng khác)
+- *coexist* (cùng tồn tại)
+## Word family
+- *collide* (v) (va chạm)
+- *collision* (n) (sự va chạm)
+- *collisional* (adj) (thuộc về sự va chạm *(chuyên ngành, ít dùng)*)
+- *colliding* (verb / adjective) (đang va chạm; xung đột)
+- *collided* (verb / adjective) (đã va chạm; bị va chạm)
+
+# communicate
+## Nghĩa
 ## Ví dụ
 ## Cấu trúc
 ## Collocation
 ## Từ đồng nghĩa
 ## Từ trái nghĩa
 ## Word family
+
+# compile
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
+# conceive
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+
+# concentrate
+## Nghĩa
+## Ví dụ
+## Cấu trúc
+## Collocation
+## Từ đồng nghĩa
+## Từ trái nghĩa
+## Word family
+| argue a case                     | trình bày / lập luận cho một vụ việc |
+- *avoid* (tránh)
+- *miss* (trượt, tránh được)
+- *agree* (đồng ý)
+- *harmonize* (hòa hợp)
+## Word family
+- *collide* (v) (va chạm)
+- *collision* (n) (sự va chạm)
 
 # communicate
 ## Nghĩa
