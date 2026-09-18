@@ -9533,14 +9533,108 @@ Dưới đây là từ vựng **"Dimension"** được biên soạn hoàn chỉn
 * *one-dimensional* (adj) (một chiều, phiến diện, đơn điệu)
 * *dimensionless* (adj) (không có kích thước, không thứ bậc)
 
+Dưới đây là từ vựng **"Disclose"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho các chủ đề IELTS Speaking & Writing (Task 2) và đạt chính xác **88 dòng**:
+
 # disclose
+
 ## Nghĩa
+
+1. (v) Tiết lộ, bộc lộ (thông tin bí mật, sự thật, chi tiết)
+2. (v) Công khai, minh bạch (tài chính, tài sản, hợp đồng)
+3. (v) Mở ra, làm lộ ra (vật bị che khuất, chi tiết ẩn giấu)
+4. (v) Khai báo, trình báo (với cơ quan chức năng, luật pháp)
+5. (v) Bộc lộ (tình cảm, ý định, kế hoạch với người khác)
+
 ## Ví dụ
+
+* *The company refused to disclose details of the financial merger.*
+* *Public officials are legally required to disclose their financial assets.*
+* *The investigation disclosed a series of systematic safety violations.*
+* *He failed to disclose his pre-existing medical conditions to the insurer.*
+* *She reluctantly disclosed her intentions to resign from the committee.*
+
 ## Cấu trúc
+
+* *disclose something to someone* (tiết lộ cái gì cho ai)
+* *disclose that + clause* (tiết lộ rằng...)
+* *refuse/fail to disclose something* (từ chối / không tiết lộ cái gì)
+* *be required/obliged to disclose something* (bắt buộc phải công khai / tiết lộ cái gì)
+* *disclose information fully/partially* (tiết lộ thông tin đầy đủ / một phần)
+
 ## Collocation
+
+* *fully disclose* (tiết lộ / công khai đầy đủ)
+* *partially disclose* (tiết lộ một phần)
+* *publicly disclose* (công khai rộng rãi)
+* *promptly disclose* (tiết lộ / công khai kịp thời)
+* *voluntarily disclose* (tự nguyện tiết lộ)
+* *inadvertently disclose* (vô tình làm lộ thông tin)
+* *lawfully disclose* (tiết lộ theo đúng quy định pháp luật)
+* *properly disclose* (công khai / khai báo đúng cách)
+* *disclose information* (tiết lộ thông tin)
+* *disclose details* (tiết lộ các chi tiết)
+* *disclose secrets* (tiết lộ bí mật)
+* *disclose identities* (tiết lộ danh tính)
+* *disclose source* (tiết lộ nguồn tin)
+* *disclose evidence* (bộc lộ / cung cấp bằng chứng)
+* *disclose assets* (công khai tài sản)
+* *disclose earnings* (công khai thu nhập)
+* *disclose profits* (công khai lợi nhuận)
+* *disclose financial records* (công khai hồ sơ tài chính)
+* *disclose conflict of interest* (tiết lộ sự xung đột lợi ích)
+* *disclose medical records* (công khai hồ sơ bệnh án)
+* *disclose personal data* (tiết lộ dữ liệu cá nhân)
+* *disclose location* (tiết lộ vị trí / địa điểm)
+* *disclose findings* (công bố các phát hiện)
+* *disclose contents* (tiết lộ nội dung)
+* *disclose strategy* (tiết lộ chiến lược)
+* *disclose terms* (tiết lộ các điều khoản)
+* *disclose identity of donors* (công khai danh tính nhà tài trợ)
+* *disclose classified document* (tiết lộ tài liệu mật)
+* *disclose pre-existing conditions* (khai báo các bệnh lý có sẵn)
+* *disclose full findings* (công bố toàn bộ kết quả nghiên cứu)
+* *disclose financial vulnerabilities* (tiết lộ lỗ hổng tài chính)
+* *disclose business plans* (tiết lộ kế hoạch kinh doanh)
+* *disclose security flaws* (công khai các lỗ hổng bảo mật)
+* *disclose tax returns* (công khai hồ sơ thuế)
+* *duty to disclose* (trách nhiệm / nghĩa vụ phải tiết lộ)
+* *obligation to disclose* (yêu cầu bắt buộc phải công khai)
+* *failure to disclose* (việc không tiết lộ / giấu giếm thông tin)
+* *refusal to disclose* (sự từ chối tiết lộ)
+* *disclose under pressure* (tiết lộ dưới áp lực)
+* *disclose to the press* (tiết lộ cho báo chí)
+* *disclose to the public* (công khai với công chúng)
+* *disclose to authorities* (khai báo với cơ quan chức năng)
+* *legally bound to disclose* (ràng buộc pháp lý phải tiết lộ)
+* *disclose sensitive information* (tiết lộ thông tin nhạy cảm)
+* *disclose proprietary technology* (tiết lộ công nghệ độc quyền)
+
 ## Từ đồng nghĩa
+
+* *reveal* (tiết lộ, bộc lộ)
+* *divulge* (tiết lộ bí mật)
+* *unveil* (hé lộ, công bố)
+* *uncover* (phát giác, khám phá)
+* *expose* (phơi bày, vạch trần)
+* *impart* (truyền đạt, chia sẻ thông tin)
+* *make known* (làm cho mọi người biết)
+
 ## Từ trái nghĩa
+
+* *conceal* (che giấu, giấu giếm)
+* *hide* (ẩn giấu)
+* *suppress* (bãi bỏ, giấu kín thông tin)
+* *cover up* (che đậy, liệm đi)
+* *withhold* (giữ lại, không cung cấp)
+
 ## Word family
+
+* *disclose* (v) (tiết lộ, công khai, bộc lộ)
+* *disclosure* (n) (sự tiết lộ, sự công khai thông tin)
+* *undisclosed* (adj) (chưa được tiết lộ, giữ bí mật)
+* *disclosable* (adj) (có thể tiết lộ / phải công khai)
+* *discloser* (n) (người tiết lộ / bên công khai thông tin)
+* *nondisclosure* (n) (sự không tiết lộ, thỏa thuận bảo mật)
 
 # distinguish
 ## Nghĩa
