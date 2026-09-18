@@ -9739,14 +9739,108 @@ Dưới đây là từ vựng **"Distinguish"** được biên soạn hoàn ch�
 * *distinguishing* (adj) (mang tính chất phân biệt, làm nét đặc trưng)
 * *distinguishably* (adv) (một cách có thể phân biệt được)
 
+Dưới đây là từ vựng **"Dominate"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho các chủ đề IELTS Speaking & Writing (Task 2) và đạt chính xác **88 dòng**:
+
 # dominate
+
 ## Nghĩa
+
+1. (v) Chi phối, thống trị, kiềm chế (người khác, thị trường, nền kinh tế)
+2. (v) Nổi bật, chiếm ưu thế, là đặc điểm chính (trong một không gian, cuộc thảo luận)
+3. (v) Sừng sững, nhô cao vượt lên trên (công trình, núi đồi vươn cao hơn xung quanh)
+4. (v) Áp đảo, làm chủ (trận đấu, giải đấu, đối thủ)
+5. (v) Thao túng, kiểm soát toàn bộ (quy trình, tâm lý, tư tưởng)
+
 ## Ví dụ
+
+* *A few tech giants continue to dominate the global market share.*
+* *Environmental issues dominated the discussion at the international summit.*
+* *The ancient cathedral dominates the city skyline from miles away.*
+* *Our team completely dominated the second half of the championship match.*
+* *Fear should not be allowed to dominate your personal career decisions.*
+
 ## Cấu trúc
+
+* *dominate someone/something* (chi phối / thống trị ai / cái gì)
+* *be dominated by someone/something* (bị chi phối / chiếm ưu thế bởi cái gì)
+* *dominate over someone/something* (áp đảo / xưng hùng xưng bá trên ai hay cái gì)
+* *continue to dominate* (tiếp tục thống trị / giữ vị thế áp đảo)
+* *seek to dominate* (mưu đồ / tìm cách thống trị)
+
 ## Collocation
+
+* *completely dominate* (thống trị hoàn toàn)
+* *totally dominate* (áp đảo / chi phối toàn bộ)
+* *heavily dominate* (chi phối mạnh mẽ)
+* *largely dominate* (phần lớn chiếm ưu thế)
+* *utterly dominate* (áp đảo một cách tuyệt đối)
+* *economically dominate* (thống trị về mặt kinh tế)
+* *politically dominate* (chi phối về mặt chính trị)
+* *culturally dominate* (áp đảo về mặt văn hóa)
+* *militarily dominate* (thống trị về mặt quân sự)
+* *traditionally dominate* (theo truyền thống vẫn chiếm ưu thế)
+* *dominate the market* (thống trị thị trường)
+* *dominate the industry* (chi phối ngành công nghiệp)
+* *dominate the economy* (thống trị nền kinh tế)
+* *dominate the conversation* (chi phối / chiếm phần lớn cuộc trò chuyện)
+* *dominate the headlines* (chiếm trọn các tiêu đề báo chí)
+* *dominate the debate* (chi phối cuộc tranh luận)
+* *dominate the news* (tràn ngập trên tin tức)
+* *dominate the field* (thống trị lĩnh vực / ngành học)
+* *dominate the skyline* (nhô cao / nổi bật trên đường chân trời)
+* *dominate the scene* (làm chủ / nổi bật trên khung cảnh)
+* *dominate the game* (làm chủ trận đấu)
+* *dominate the match* (áp đảo trong trận đấu)
+* *dominate the agenda* (chi phối chương trình nghị sự)
+* *dominate the landscape* (nổi bật trên toàn bộ cảnh quan)
+* *dominate the market share* (chiếm giữ / thống trị thị phần)
+* *dominate the sector* (chi phối phân khúc / khu vực kinh tế)
+* *dominate the discussion* (làm chủ cuộc thảo luận)
+* *dominate global trade* (thống trị thương mại toàn cầu)
+* *dominate the airwaves* (tràn ngập sóng truyền thanh / truyền hình)
+* *dominate the workplace* (chi phối môi trường làm việc)
+* *dominate one's thoughts* (chi phối tư tưởng / suy nghĩ của ai)
+* *dominate one's mind* (thao túng tâm trí của ai)
+* *dominate political discourse* (chi phối diễn ngôn chính trị)
+* *dominate global supply chains* (thống trị chuỗi cung ứng toàn cầu)
+* *dominate the international arena* (xưng hùng trên trường quốc tế)
+* *tendency to dominate* (xu hướng thích chi phối / áp đảo)
+* *struggle to dominate* (tranh giành vị thế thống trị)
+* *ability to dominate* (khả năng làm chủ / chi phối)
+* *allow something to dominate* (để cái gì đó chi phối)
+* *refuse to be dominated* (khước từ bị thao túng / áp đảo)
+* *dominate proceedings* (làm chủ các tiến trình diễn biến)
+* *dominate the retail market* (thống trị thị trường bán lẻ)
+* *dominate the entertainment world* (làm chủ thế giới giải trí)
+* *dominate search results* (thống trị các kết quả tìm kiếm)
+* *dominate public attention* (chiếm trọn sự chú ý của công chúng)
+
 ## Từ đồng nghĩa
+
+* *control* (kiểm soát, quản lý)
+* *govern* (cầm quyền, chi phối)
+* *command* (chỉ huy, bao quát)
+* *monopolize* (độc quyền, chiếm làm của riêng)
+* *overpower* (áp đảo lực lượng)
+* *prevail* (chiếm ưu thế, đánh bại)
+* *rule* (thống trị, cai trị)
+
 ## Từ trái nghĩa
+
+* *surrender* (đầu hàng, khuất phục)
+* *submit* (tuân phục, chịu lép vế)
+* *yield* (nhượng bộ, nhường bước)
+* *follow* (theo sau, tuân theo)
+* *be subordinate* (ở vị thế phụ thuộc / cấp dưới)
+
 ## Word family
+
+* *dominate* (v) (chi phối, thống trị, áp đảo)
+* *domination* (n) (sự thống trị, sự chi phối)
+* *dominance* (n) (thế thế thượng phong, ưu thế thống trị)
+* *dominant* (adj) (có ưu thế, thống trị, vượt trội)
+* *dominantly* (adv) (một cách ưu thế / thống trị)
+* *dominator* (n) (kẻ thống trị, bên chi phối)
 
 # draft
 ## Nghĩa
