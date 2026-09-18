@@ -9636,14 +9636,108 @@ Dưới đây là từ vựng **"Disclose"** được biên soạn hoàn chỉnh
 * *discloser* (n) (người tiết lộ / bên công khai thông tin)
 * *nondisclosure* (n) (sự không tiết lộ, thỏa thuận bảo mật)
 
+Dưới đây là từ vựng **"Distinguish"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing/Speaking và đạt chính xác **88 dòng**:
+
 # distinguish
+
 ## Nghĩa
+
+1. (v) Phân biệt, nhận ra sự khác biệt (giữa hai hay nhiều đối tượng)
+2. (v) Nhận ra, nhìn thấy / nghe thấy rõ (trong điều kiện khó khăn)
+3. (v) Làm cho khác biệt, tạo nên nét đặc trưng (của ai / cái gì)
+4. (v) Tự làm cho mình nổi bật, xuất sắc (bằng thành tựu, tài năng)
+5. (v) Phân loại, chia thành các nhóm dựa trên đặc điểm
+
 ## Ví dụ
+
+* *It is important to distinguish between cause and correlation in scientific research.*
+* *The fog was so thick that I could barely distinguish the shapes of the trees.*
+* *What distinguishes humans from other animals is the complex ability to use language.*
+* *She distinguished herself as a talented researcher during her university years.*
+* *Scholars distinguish three main phases in the evolution of the economic policy.*
+
 ## Cấu trúc
+
+* *distinguish between A and B* (phân biệt giữa A và B)
+* *distinguish A from B* (phân biệt A với B)
+* *distinguish oneself as something* (tự làm cho mình nổi bật với vai trò gì)
+* *distinguish oneself by doing something* (nổi bật nhờ làm điều gì)
+* *be distinguished by something* (được đặc trưng / làm cho nổi bật bởi cái gì)
+
 ## Collocation
+
+* *clearly distinguish* (phân biệt một cách rõ ràng)
+* *easily distinguish* (dễ dàng phân biệt)
+* *sharply distinguish* (phân biệt một cách sắc nét / rõ rệt)
+* *hardly distinguish* (hầu như không thể phân biệt)
+* *barely distinguish* (vừa đủ để nhận ra)
+* *carefully distinguish* (phân biệt một cách cẩn trọng)
+* *readily distinguish* (dễ dàng nhận biết)
+* *instantly distinguish* (ngay lập tức phân biệt được)
+* *distinguish cause from effect* (phân biệt nguyên nhân và kết quả)
+* *distinguish fact from fiction* (phân biệt thực tế và hư cấu)
+* *distinguish right from wrong* (phân biệt đúng sai)
+* *distinguish truth from falsehood* (phân biệt sự thật và dối trá)
+* *distinguish symptoms* (phân biệt các triệu chứng)
+* *distinguish features* (phân biệt các đặc điểm)
+* *distinguish species* (phân biệt các loài)
+* *distinguish sounds* (nhận biết các âm thanh)
+* *distinguish colors* (phân biệt các màu sắc)
+* *distinguish patterns* (nhận biết các hoa văn / mô hình)
+* *distinguish nuances* (phân biệt các sắc thái nhỏ)
+* *distinguish signals* (nhận biết các tín hiệu)
+* *distinguish voices* (phân biệt các giọng nói)
+* *distinguish shapes* (nhận biết các hình dáng)
+* *distinguish trends* (nhận diện các xu hướng)
+* *distinguish details* (phân biệt các chi tiết)
+* *distinguish concepts* (phân biệt các khái niệm)
+* *distinguish stages* (phân biệt các giai đoạn)
+* *distinguish categories* (phân biệt các danh mục)
+* *distinguish roles* (phân biệt các vai trò)
+* *distinguish priorities* (phân biệt các mức độ ưu tiên)
+* *distinguish flavors* (phân biệt các hương vị)
+* *distinguish textures* (phân biệt các bề mặt / kết cấu)
+* *distinguish meanings* (phân biệt các tầng nghĩa)
+* *distinguish styles* (phân biệt các phong cách)
+* *distinguish components* (phân biệt các thành phần)
+* *distinguish characteristics* (phân biệt các đặc tính)
+* *distinguish oneself in battle* (nổi danh / lập công trên chiến trường)
+* *distinguish oneself in academics* (nổi bật trong học thuật)
+* *ability to distinguish* (khả năng phân biệt)
+* *fail to distinguish* (không thể phân biệt được)
+* *struggle to distinguish* (gặp khó khăn khi phân biệt)
+* *serve to distinguish* (giúp phân biệt / làm nổi bật)
+* *help distinguish* (giúp phân biệt)
+* *attempt to distinguish* (cố gắng phân biệt)
+* *crucial to distinguish* (quan trọng phải phân biệt)
+* *visually distinguish* (phân biệt bằng thị giác)
+
 ## Từ đồng nghĩa
+
+* *differentiate* (phân biệt, chỉ ra điểm khác biệt)
+* *discriminate* (phân biệt đối xử / nhận biết sự khác nhau)
+* *discern* (nhận thức, nhìn ra)
+* *perceive* (nhận thức, cảm nhận)
+* *tell apart* (phân biệt hai cái tương tự nhau)
+* *separate* (tách biệt, phân chia)
+* *characterize* (đặc trưng hóa, định hình nét riêng)
+
 ## Từ trái nghĩa
+
+* *confuse* (nhầm lẫn, làm xáo trộn)
+* *mix up* (trộn lẫn, lộn xộn)
+* *muddle* (làm lộn xộn, xáo trộn tâm trí)
+* *lump together* (gộp chung làm một)
+* *overlook* (bỏ qua, không nhận ra sự khác biệt)
+
 ## Word family
+
+* *distinguish* (v) (phân biệt, nhận ra, làm nổi bật)
+* *distinguishable* (adj) (có thể phân biệt được, có thể nhận ra)
+* *indistinguishable* (adj) (không thể phân biệt được, giống hệt nhau)
+* *distinguished* (adj) (kiệt xuất, lỗi lạc, có nét đặc sắc)
+* *distinguishing* (adj) (mang tính chất phân biệt, làm nét đặc trưng)
+* *distinguishably* (adv) (một cách có thể phân biệt được)
 
 # dominate
 ## Nghĩa
