@@ -8745,12 +8745,83 @@
 
 # conceive
 ## Nghĩa
+1. (v) Hình thành, nảy sinh (ý tưởng, kế hoạch, giả thuyết trong tâm trí)
+2. (v) Tưởng tượng, hình dung, mường tượng ra trong tâm trí
+3. (v) Mang thai, thụ thai (con vật, người)
+4. (v) Sáng tạo, phát kiến (giải pháp, phương án)
+5. (v) Hiểu, nắm bắt được (khái niệm, ý nghĩa trừu tượng)
+
 ## Ví dụ
+- *The scientist conceived a groundbreaking theory that changed the field of physics.*
+- *It's hard to conceive of a world without electricity.*
+- *The couple had been trying to conceive for several years before finally having a baby.*
+- *She conceived a plan to improve the company's marketing strategy.*
+- *I couldn't conceive of a solution to the complex problem.*
+
 ## Cấu trúc
+- *conceive of something* (nghĩ ra, hình thành trong đầu ý niệm / khái niệm về cái gì)
+- *conceive of doing something* (nghĩ ra / hình dung việc làm gì)
+- *conceive of + O + V-ing* (hình dung / mường tượng việc gì xảy ra)
+- *conceive a plan/idea/theory* (nảy sinh ý tưởng/kế hoạch/lý thuyết)
+- *conceive a child* (thụ thai / mang thai)
+- *be conceived* (được thụ thai)
+
 ## Collocation
+- *hard to conceive* (khó hình dung / khó tưởng tượng)
+- *difficult to conceive* (khó nghĩ ra / khó mường tượng)
+- *impossible to conceive* (không thể hình dung / không thể tưởng tượng)
+- *easy to conceive* (dễ hình dung / dễ tưởng tượng)
+- *conceive a plan* (nảy sinh / nghĩ ra một kế hoạch)
+- *conceive an idea* (nảy sinh một ý tưởng)
+- *conceive a theory* (hình thành / xây dựng một lý thuyết)
+- *conceive a suspicion* (nảy sinh sự nghi ngờ)
+- *conceive a solution* (tìm ra / nghĩ ra một giải pháp)
+- *conceive a design* (thiết kế / sáng tạo một bản thiết kế)
+- *conceive a child* (mang thai / thụ thai con)
+- *conceive of a plan* (nghĩ ra / tưởng tượng ra một kế hoạch)
+- *conceive of a possibility* (hình dung / nhận thấy một khả năng)
+- *conceive of a future* (hình dung về một tương lai)
+- *conceive of something as* (nhận thức / hình dung cái gì như là)
+- *conceive the idea of* (nảy sinh ý niệm về)
+- *conceive the notion of* (nảy sinh ý niệm về)
+- *conceive the possibility of* (hình dung khả năng)
+- *conceive the plan of* (lên ý tưởng / kế hoạch)
+- *conceive a plan* (nghĩ ra / hình thành một kế hoạch)
+- *conceive a theory* (xây dựng / hình thành một lý thuyết)
+- *conceive a strategy* (xây dựng một chiến lược)
+- *conceive a vision* (hình thành một tầm nhìn)
+- *conceive a design* (nghĩ ra / xây dựng một thiết kế)
+- *conceive a new approach* (hình thành một cách tiếp cận mới)
+- *conceive of something* (hình dung / nghĩ ra điều gì)
+- *conceive of an idea* (nghĩ ra / hình dung một ý tưởng)
+- *conceive of a solution* (nghĩ ra một giải pháp)
+- *conceive of a way to do something* (nghĩ ra cách làm gì)
+- *be difficult to conceive* (khó hình dung / khó tưởng tượng)
+- *be impossible to conceive* (không thể hình dung)
+- *be hard to conceive* (khó hình dung / khó tưởng tượng)
+
 ## Từ đồng nghĩa
+- *imagine* (tưởng tượng, hình dung)
+- *envision* (hình dung trước, mường tượng)
+- *devise* (nghĩ ra, sáng chế, bày mưu tính kế)
+- *formulate* (hình thành, xây dựng, công thức hóa)
+- *originate* (bắt nguồn, sáng tạo ra, nghĩ ra đầu tiên)
+- *create* (sáng tạo, tạo ra)
+- *invent* (phát minh, sáng chế)
+- *contrive* (tính toán, xoay xở, nghĩ ra cách khéo léo)
 ## Từ trái nghĩa
+- *discard* (loại bỏ, vứt bỏ ý tưởng)
+- *abandon* (bỏ rơi, từ bỏ)
+- *dismiss* (bác bỏ, gạt đi)
+- *reject* (từ chối)
+- *fail to conceive* (không thể hình dung / không thể nghĩ ra)
 ## Word family
+- *conceive* (v) (hình thành, nảy sinh; mang thai)
+- *conception* (n) (sự thụ thai; sự hình thành ý niệm / quan niệm)
+- *conceivable* (adj) (có thể hình dung / có thể tưởng tượng được)
+- *inconceivable* (adj) (không thể hình dung / khó tin nổi)
+- *conceived* (adj) (đã được thụ thai; đã được hình thành)
+- *conceiving* (n) (sự thụ thai; quá trình hình thành ý niệm)
 
 # concentrate
 ## Nghĩa
@@ -8760,14 +8831,6 @@
 ## Từ đồng nghĩa
 ## Từ trái nghĩa
 ## Word family
-| argue a case                     | trình bày / lập luận cho một vụ việc |
-- *avoid* (tránh)
-- *miss* (trượt, tránh được)
-- *agree* (đồng ý)
-- *harmonize* (hòa hợp)
-## Word family
-- *collide* (v) (va chạm)
-- *collision* (n) (sự va chạm)
 
 # communicate
 ## Nghĩa
