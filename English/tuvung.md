@@ -9086,12 +9086,90 @@
 
 # contribute
 ## Nghĩa
+1. (v) Đóng góp, cống hiến (tiền bạc, công sức, ý tưởng)
+2. (v) Góp phần gây ra, là nguyên nhân của (vấn đề, hiện tượng)
+3. (v) Viết bài, đóng góp nội dung (cho báo chí, tạp chí, sách)
+4. (v) Đóng góp ý kiến, tham luận (trong hội thảo, thảo luận)
+5. (v) Tăng cường, bồi đắp (vào sự phát triển, thành công chung)
 ## Ví dụ
+- *Many individuals contributed money to help the flood victims.*
+- *Heavy traffic significantly contributes to air pollution in big cities.*
+- *She frequently contributes articles to international medical journals.*
+- *Everyone is encouraged to contribute their ideas during the meeting.*
+- *Hard work and dedication contributed greatly to his academic success.*
 ## Cấu trúc
+- *contribute to something/doing something* (đóng góp vào cái gì / việc gì)
+- *contribute something to/towards something* (đóng góp cái gì vào cái gì)
+- *contribute directly/indirectly to something* (đóng góp trực tiếp / gián tiếp vào điều gì)
+- *be contributed by someone/something* (được đóng góp bởi ai / cái gì)
+- *contribute significantly/greatly to something* (đóng góp đáng kể vào cái gì)
 ## Collocation
+- *significantly contribute* (đóng góp đáng kể)
+- *greatly contribute* (đóng góp rất lớn)
+- *substantially contribute* (đóng góp về mặt bản chất / giá trị lớn)
+- *directly contribute* (đóng góp trực tiếp)
+- *indirectly contribute* (đóng góp gián tiếp)
+- *positively contribute* (đóng góp tích cực)
+- *negatively contribute* (góp phần gây ra tác động tiêu cực)
+- *actively contribute* (tích cực đóng góp)
+- *generously contribute* (đóng góp hào phóng)
+- *valuably contribute* (đóng góp quý báu)
+- *contribute money* (đóng góp tiền bạc)
+- *contribute funds* (đóng góp quỹ)
+- *contribute time* (đóng góp thời gian)
+- *contribute effort* (đóng góp nỗ lực)
+- *contribute expertise* (đóng góp chuyên môn)
+- *contribute ideas* (đóng góp ý kiến / ý tưởng)
+- *contribute knowledge* (đóng góp kiến thức)
+- *contribute resources* (đóng góp nguồn lực)
+- *contribute skills* (đóng góp kỹ năng)
+- *contribute articles* (đóng góp bài viết)
+- *contribute to society* (đóng góp cho xã hội)
+- *contribute to the economy* (đóng góp cho nền kinh tế)
+- *contribute to economic growth* (góp phần vào tăng trưởng kinh tế)
+- *contribute to environmental degradation* (góp phần làm suy thoái môi trường)
+- *contribute to climate change* (góp phần gây ra biến đổi khí hậu)
+- *contribute to global warming* (góp phần gây ra hiện tượng nóng lên toàn cầu)
+- *contribute to success* (đóng góp vào thành công)
+- *contribute to progress* (đóng góp vào sự tiến bộ)
+- *contribute to development* (đóng góp vào sự phát triển)
+- *contribute to decision-making* (đóng góp vào quá trình đưa ra quyết định)
+- *contribute to public debate* (đóng góp vào cuộc tranh luận công khai)
+- *contribute to scientific research* (đóng góp cho nghiên cứu khoa học)
+- *contribute to community welfare* (đóng góp cho phúc lợi cộng đồng)
+- *contribute to sustainable development* (góp phần phát triển bền vững)
+- *contribute to problem-solving* (đóng góp vào việc giải quyết vấn đề)
+- *contribute to cultural preservation* (góp phần bảo tồn văn hóa)
+- *contribute to nation-building* (đóng góp vào việc xây dựng đất nước)
+- *contribute to poverty reduction* (góp phần giảm nghèo)
+- *contribute to educational reform* (đóng góp vào cải cách giáo dục)
+- *contribute to traffic congestion* (góp phần gây ùn tắc giao thông)
+- *contribute to health risks* (góp phần gây ra các rủi ro sức khỏe)
+- *contribute to job creation* (góp phần tạo việc làm)
+- *contribute to social stability* (góp phần ổn định xã hội)
+- *contribute to policy development* (đóng góp vào việc xây dựng chính sách)
+- *contribute to team achievements* (đóng góp vào thành tích của đội nhóm)
 ## Từ đồng nghĩa
+- *donate* (quyên góp, hiến tặng)
+- *provide* (cung cấp, chu cấp)
+- *supply* (cung cấp nguồn lực)
+- *add* (thêm vào, gia tăng)
+- *conduce to* (dẫn đến, góp phần tạo nên)
+- *promote* (thúc đẩy, đẩy mạnh)
+- *foster* (thúc đẩy, nuôi dưỡng)
 ## Từ trái nghĩa
+- *withhold* (giữ lại, không đóng góp)
+- *subtract* (trừ đi, làm giảm bớt)
+- *withdraw* (rút lại, thu hồi)
+- *detract* (làm giảm giá trị, làm mất uy tín)
+- *hinder* (cản trở, gây khó khăn)
 ## Word family
+- *contribute* (v) (đóng góp, góp phần)
+- *contribution* (n) (sự đóng góp, phần cống hiến)
+- *contributor* (n) (người đóng góp, yếu tố góp phần)
+- *contributory* (adj) (có tính chất đóng góp, góp phần vào)
+- *contributive* (adj) (có xu hướng đóng góp, giúp ích)
+- *contributed* (adj / V3) (đã được đóng góp / cống hiến)
 
 # convenient
 ## Nghĩa
