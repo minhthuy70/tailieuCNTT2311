@@ -8270,30 +8270,156 @@
 
 # charge
 ## Nghĩa
+1. (v) tính giá, đòi trả giá
+2. (v) tính tiền, tính phí
+3. (v) buộc tội
+4. (n) tiền phải trả, chi phí
+5. (n) sự buộc tội, sự cáo buộc
+6. (n) sự tấn công, sự xung phong
+7. (n) điện tích
+8. (n) sự nhanh nhẹn
 ## Ví dụ
+- *He charged me 100 dollars for the repair.*
+- *The police charged him with theft.*
+- *The soldiers charged the enemy position.*
+- *The battery has a positive charge.*
 ## Cấu trúc
+- *charge [sb] ... for [sth]* (đòi [ai] trả ... cho [cái gì])
+- *charge [sb] with [sth]* (buộc tội [ai] [cái gì])
+- *charge into [sth]* (tấn công vào [cái gì])
+- *charge [somebody] a fee* (tính phí [ai])
+- *charge [something] to [somebody]* (tính [cái gì] vào [ai])
 ## Collocation
+- *charge a fee* (tính phí)
+- *charge a price* (đòi giá)
+- *charge a rate* (tính mức phí)
+- *charge a tariff* (tính thuế quan)
+- *charge a levy* (tính thuế)
+- *charge a fine* (tính tiền phạt)
+- *charge a penalty* (tính tiền phạt)
+- *charge a commission* (tính tiền hoa hồng)
+- *charge with* (buộc tội với)
+- *charge for* (đòi tiền cho)
+- *charge into* (tấn công vào)
+- *charge in* (tấn công vào)
+- *charge out* (tính tiền cho)
+- *charge on* (tấn công vào)
+- *charge with responsibility* (giao cho trách nhiệm)
+- *charge with care* (giao cho cẩn thận)
+- *charge with honesty* (giao cho trung thực)
+- *charge with integrity* (giao cho liêm chính)
+- *charge with loyalty* (giao cho trung thành)
+- *charge with trustworthiness* (giao cho đáng tin cậy)
+- *charge someone for something* (tính phí ai cho việc gì)
+- *charge a fee* (tính phí)
+- *charge a price* (tính một mức giá)
+- *charge customers* (tính phí khách hàng)
+- *charge a customer for a service* (tính phí khách hàng cho dịch vụ)
+- *charge extra* (tính thêm phí)
+- *charge an additional fee* (tính thêm một khoản phí)
+- *charge a service fee* (tính phí dịch vụ)
+- *charge a delivery fee* (tính phí giao hàng)
+- *charge by the hour* (tính phí theo giờ)
+- *charge by weight* (tính phí theo trọng lượng)
+- *charge for admission* (tính phí vào cửa)
+- *charge for parking* (tính phí đỗ xe)
+- *charge a monthly fee* (tính phí hàng tháng)
+- *charge a reasonable fee* (tính mức phí hợp lý)
+- *free of charge* (miễn phí)
+- *at no extra charge* (không tính thêm phí)
+- *service charge* (phí dịch vụ)
+- *delivery charge* (phí giao hàng)
+- *additional charge* (khoản phí bổ sung)
+- *extra charge* (phí phụ / phí thêm)
+- *admission charge* (phí vào cửa)
+- *charge a battery* (sạc pin)
+- *charge a phone* (sạc điện thoại)
+- *charge a device* (sạc thiết bị)
+- *be fully charged* (được sạc đầy)
+- *charge overnight* (sạc qua đêm)
+- *be in charge of something* (chịu trách nhiệm về việc gì)
+- *take charge of something* (đảm nhận / phụ trách việc gì)
+- *put someone in charge of something* (giao cho ai phụ trách việc gì)
+- *charge someone with a crime* (buộc tội ai về một tội danh)
 ## Từ đồng nghĩa
+- *accuse* (buộc tội)
+- *blame* (đổ lỗi)
+- *indict* (buộc tội)
+- *arraign* (buộc tội)
+- *charge up* (nạp điện, sạc điện)
+- *charge with responsibility* (giao cho trách nhiệm)
 ## Từ trái nghĩa
+- *excuse* (miễn lỗi, tha lỗi)
+- *acquit* (tuyên bố vô tội)
+- *absolve* (tha tội, miễn)
 ## Word family
+- *charge* (v/n) (tính giá; buộc tội)
+- *charged* (adj) (có điện tích; bị buộc tội; tính phí)
+- *charging* (n) (sự tính phí; sự nạp điện)
 
 # clergy
 ## Nghĩa
+1. (n) tăng lữ, hàng giáo sĩ
 ## Ví dụ
+- *He is a member of the clergy.*
+- *The clergy played an important role in the community.*
 ## Cấu trúc
+- *member of the clergy* (thành viên của tăng lữ)
+- *the clergy* (tăng lữ nói chung)
 ## Collocation
+- *member of the clergy* (thành viên của tăng lữ)
+- *the clergy* (tăng lữ nói chung)
 ## Từ đồng nghĩa
+- *cleric* (giáo sĩ)
+- *priest* (linh mục)
+- *pastor* (mục sư)
+- *minister* (mục sư)
+- *reverend* (giáo sĩ)
 ## Từ trái nghĩa
+- *laity* (giáo dân)
+- *layperson* (giáo dân)
+- *non-clergy* (ngoài giáo sĩ)
 ## Word family
+- *clergy* (n) (tăng lữ)
+- *cleric* (n) (giáo sĩ)
+- *clerical* (adj) (thuộc về tăng lữ; thư ký)
 
 # collective
 ## Nghĩa
+1. (n) tập thể, hội
+2. (adj) tập thể, chung
 ## Ví dụ
+- *The workers formed a collective to protect their rights.*
+- *The company made a collective decision.*
 ## Cấu trúc
+- *collective noun* (danh từ tập thể)
+- *collective bargaining* (đàm phán tập thể)
+- *collective action* (hành động tập thể)
+- *collective agreement* (thỏa thuận tập thể)
+- *collective responsibility* (trách nhiệm tập thể)
 ## Collocation
+- *collective noun* (danh từ tập thể)
+- *collective bargaining* (đàm phán tập thể)
+- *collective action* (hành động tập thể)
+- *collective agreement* (thỏa thuận tập thể)
+- *collective responsibility* (trách nhiệm tập thể)
 ## Từ đồng nghĩa
+- *group* (nhóm)
+- *community* (cộng đồng)
+- *association* (hiệp hội)
+- *organization* (tổ chức)
+- *cooperative* (hợp tác xã)
+- *joint* (chung)
+- *shared* (chung)
+- *mutual* (chung)
 ## Từ trái nghĩa
+- *individual* (cá nhân)
+- *personal* (cá nhân)
+- *separate* (riêng biệt)
+- *independent* (độc lập)
+- *private* (riêng tư)
 ## Word family
+- *collective* (n/adj) (tập thể)
 
 # collide
 ## Nghĩa
