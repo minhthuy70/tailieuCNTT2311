@@ -8186,25 +8186,87 @@
 
 # besides
 ## Nghĩa
-1. Ngoài ra, thêm vào đó
-2. Hơn nữa
-3. Ngoài ai/cái gì
+1. (adv) Ngoài ra, bên cạnh đó
+2. (adv) Hơn nữa, thêm vào đó
+3. (prep) Ngoài ... ra
+4. (prep) Bên cạnh, ngoài một người/vật nào đó
 ## Ví dụ
-- *Besides English, I can also speak French.*
-- *It's a beautiful day, and besides, we don't have anything else to do.*
-- *Nobody can solve this problem besides you.*
+- *Besides English, I also study Chinese.*
+- *I don't want to go. Besides, it's too late.*
+- *Besides my parents, nobody knows about this.*
+- *What do you do besides studying?*
 ## Cấu trúc
-- *besides + noun* (ngoài...)
-- *besides + gerund* (ngoài việc...)
-- *besides + pronoun* (ngoài...)
-- *besides that* (ngoài ra)
-- *besides being* (ngoài việc...)
-- *besides all that* (ngoài tất cả những điều đó)
+- *besides + noun* (ngoài cái gì/người nào ra)
+- *besides + V-ing* (ngoài việc làm gì ra)
+- *besides + somebody/something* (ngoài ai/cái gì ra)
+- *besides + clause* (ngoài việc/rằng...)
+- *besides, + clause* (ngoài ra, hơn nữa)
+- *what/how/who + besides...?* (ngoài cái gì/ai ra...?)
 ## Collocation
-
+- *besides English* (ngoài tiếng Anh)
+- *besides studying* (ngoài việc học)
+- *besides work* (ngoài công việc)
+- *besides school* (ngoài trường học)
+- *besides that* (ngoài điều đó ra)
+- *besides this* (ngoài điều này ra)
+- *besides the fact that...* (ngoài thực tế rằng...)
+- *besides the point* (ngoài vấn đề đang được nói tới)
+- *besides myself* (ngoài bản thân tôi)
+- *besides someone else* (ngoài một người khác)
+- *besides the cost* (ngoài chi phí ra)
+- *besides the time* (ngoài thời gian ra)
+- *besides the problem* (ngoài vấn đề đó ra)
+- *besides the advantages* (ngoài những lợi ích ra)
+- *besides the disadvantages* (ngoài những bất lợi ra)
+- *besides being + adjective* (ngoài việc mang đặc điểm gì)
+- *besides doing something* (ngoài việc làm gì)
+- *besides having something* (ngoài việc có cái gì)
+- *besides knowing something* (ngoài việc biết điều gì)
+- *besides wanting something* (ngoài việc muốn điều gì)
+- *besides helping someone* (ngoài việc giúp ai)
+- *besides working* (ngoài việc làm việc)
+- *besides studying English* (ngoài việc học tiếng Anh)
+- *besides going to school* (ngoài việc đi học)
+- *besides living there* (ngoài việc sống ở đó)
+- *besides all this* (ngoài tất cả những điều này)
+- *besides all that* (ngoài tất cả những điều đó)
+- *besides anything else* (ngoài bất cứ điều gì khác)
+- *besides anything else, ...* (ngoài ra, hơn nữa...)
+- *besides the fact that + clause* (ngoài thực tế rằng...)
+- *besides the fact that it is expensive* (ngoài việc nó đắt)
+- *besides the fact that he is busy* (ngoài việc anh ấy bận)
+- *besides the fact that she is young* (ngoài việc cô ấy còn trẻ)
+- *besides the fact that we have no time* (ngoài việc chúng ta không có thời gian)
+- *besides being useful* (ngoài việc hữu ích)
+- *besides being important* (ngoài việc quan trọng)
+- *besides being expensive* (ngoài việc đắt)
+- *besides being difficult* (ngoài việc khó)
+- *besides being convenient* (ngoài việc thuận tiện)
+- *besides studying English, ...* (ngoài việc học tiếng Anh ra...)
+- *besides working full-time, ...* (ngoài việc làm toàn thời gian...)
+- *besides living in Vietnam, ...* (ngoài việc sống ở Việt Nam...)
+- *besides learning Chinese, ...* (ngoài việc học tiếng Trung...)
+- *besides doing homework, ...* (ngoài việc làm bài tập...)
 ## Từ đồng nghĩa
+- *in addition to* (ngoài... ra, thêm vào)
+- *as well as* (cũng như, ngoài... ra)
+- *apart from* (ngoài... ra)
+- *in addition* (ngoài ra, thêm vào đó)
+- *additionally* (ngoài ra, thêm vào đó)
+- *moreover* (hơn nữa)
+- *furthermore* (hơn nữa)
+- *also* (cũng, ngoài ra)
+- *what's more* (hơn nữa)
+- *on top of that* (thêm vào đó)
 ## Từ trái nghĩa
+- *excluding* (loại trừ)
+- *except* (ngoại trừ)
+- *except for* (ngoại trừ)
+- *without* (không có)
+- *minus* (trừ đi)
 ## Word family
+- *besides* (adv/prep) (ngoài ra; ngoài... ra)
+- *beside* (prep/adv) (bên cạnh)
 
 # charge
 ## Nghĩa
