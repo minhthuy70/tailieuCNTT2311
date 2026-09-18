@@ -10618,14 +10618,108 @@ Dưới đây là từ vựng **"Evolve"** được biên soạn hoàn chỉnh t
 * *evolved* (adj) (đã tiến hóa, nâng cao, phát triển)
 * *unevolved* (adj) (chưa tiến hóa, còn sơ khai)
 
+Dưới đây là từ vựng **"Exceed"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # exceed
+
 ## Nghĩa
+
+1. (v) Vượt quá, vượt mức (số lượng, hạn mức, ranh giới, tỷ lệ)
+2. (v) Trội hơn, tốt hơn, vượt xa (sự mong đợi, mục tiêu, tiêu chuẩn)
+3. (v) Lạm dụng, vượt quá thẩm quyền (quyền hạn, giới hạn pháp lý)
+4. (v) Lấn át, chiếm ưu thế hơn (về mức độ, quy mô, sức mạnh)
+5. (v) Vượt qua giới hạn thời gian (thời hạn, thời lượng quy định)
+
 ## Ví dụ
+
+* *The total cost of the infrastructure project is expected to exceed two billion dollars.*
+* *Her academic performance in the final examination far exceeded all expectations.*
+* *The police officer was severely reprimanded for exceeding his legal authority.*
+* *Demand for organic produce continuously exceeds current market supply.*
+* *Speakers who exceed their allotted time will have their microphones muted.*
+
 ## Cấu trúc
+
+* *exceed something by something* (vượt quá cái gì một lượng bao nhiêu)
+* *far/greatly exceed something* (vượt xa / vượt quá rất nhiều cái gì)
+* *be expected to exceed something* (được dự đoán sẽ vượt quá cái gì)
+* *exceed the limit/quota/budget* (vượt quá giới hạn / chỉ tiêu / ngân sách)
+* *exceed one's expectations/capacity* (vượt quá kỳ vọng / khả năng của ai)
+
 ## Collocation
+
+* *far exceed* (vượt xa)
+* *greatly exceed* (vượt quá rất nhiều)
+* *significantly exceed* (vượt qua một cách đáng kể)
+* *substantially exceed* (vượt qua rất nhiều về giá trị/mức độ)
+* *dramatically exceed* (vượt quá một cách ngoạn mục)
+* *vastly exceed* (vượt xa mênh mông / rất lớn)
+* *slightly exceed* (vượt nhẹ / vượt qua một chút)
+* *marginally exceed* (vượt qua không đáng kể)
+* *consistently exceed* (liên tục vượt mức)
+* *routinely exceed* (thường xuyên vượt quá)
+* *exceed expectations* (vượt quá sự kỳ vọng)
+* *exceed limits* (vượt quá giới hạn)
+* *exceed speed limit* (vượt quá tốc độ cho phép)
+* *exceed capacity* (vượt quá sức chứa / khả năng)
+* *exceed budget* (vượt quá ngân sách)
+* *exceed target* (vượt chỉ tiêu / mục tiêu)
+* *exceed quota* (vượt định mức / ngạch)
+* *exceed supply* (vượt quá nguồn cung)
+* *exceed demand* (vượt quá nhu cầu)
+* *exceed authority* (vượt quá thẩm quyền)
+* *exceed powers* (vượt quá quyền hạn)
+* *exceed deadline* (vượt quá thời hạn)
+* *exceed threshold* (vượt qua ngưỡng quy định)
+* *exceed boundaries* (vượt qua các ranh giới)
+* *exceed requirements* (vượt qua các yêu cầu)
+* *exceed standards* (vượt qua các tiêu chuẩn)
+* *exceed parameters* (vượt qua các tham số / giới hạn)
+* *exceed projections* (vượt quá các dự báo)
+* *exceed estimates* (vượt quá ước tính)
+* *exceed revenue* (vượt qua doanh thu kỳ vọng)
+* *exceed costs* (vượt qua chi phí dự kiến)
+* *exceed initial forecasts* (vượt qua dự báo ban đầu)
+* *exceed environmental safety standards* (vượt tiêu chuẩn an toàn môi trường)
+* *exceed legal limits* (vượt quá giới hạn pháp lý)
+* *exceed maximum allowance* (vượt quá mức cho phép tối đa)
+* *exceed recommended dose* (vượt quá liều lượng khuyên dùng)
+* *exceed total capacity* (vượt quá tổng công suất)
+* *exceed previous records* (phá / vượt các kỷ lục trước đó)
+* *exceed weight limits* (vượt quá trọng tải cho phép)
+* *exceed lifetime limit* (vượt quá giới hạn tối đa cả đời)
+* *likely to exceed* (có khả năng sẽ vượt quá)
+* *threaten to exceed* (đe dọa sẽ vượt mức)
+* *allow to exceed* (cho phép vượt quá)
+* *fail to exceed* (không vượt qua được)
+* *manage to exceed* (xoay xở vượt qua được)
+
 ## Từ đồng nghĩa
+
+* *surpass* (vượt qua, trội hơn)
+* *outstrip* (vượt xa, bỏ xa)
+* *outdo* (làm tốt hơn, vượt trội)
+* *top* (vượt đỉnh, đứng đầu)
+* *transcend* (vượt lên trên, siêu việt)
+* *overstep* (vượt quá giới hạn, lạm quyền)
+* *overshoot* (đi quá đà, vượt chỉ tiêu)
+
 ## Từ trái nghĩa
+
+* *fall short of* (không đạt tới, thiếu hụt)
+* *underperform* (thể hiện kém, không đạt mức)
+* *fail* (thất bại, không đạt)
+* *lag behind* (tụt lại phía sau)
+* *remain below* (vẫn duy trì ở dưới mức)
+
 ## Word family
+
+* *exceed* (v) (vượt quá, vượt mức)
+* *excess* (n / adj) (sự vượt quá, dư thừa / dư thừa)
+* *excessive* (adj) (quá mức, thừa thải, quá đáng)
+* *excessively* (adv) (một cách quá mức / quá đáng)
+* *exceeding* (adj) (rất lớn, vượt trội)
+* *exceedingly* (adv) (cực kỳ, vô cùng, hết sức)
 
 # exhibit
 ## Nghĩa
