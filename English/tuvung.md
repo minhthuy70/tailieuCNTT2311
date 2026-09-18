@@ -8360,15 +8360,70 @@
 # clergy
 ## Nghĩa
 1. (n) tăng lữ, hàng giáo sĩ
+2. (n) sự chỉ huy, sự chỉ đạo
+3. (n) sự giao phó, sự ủy thác
+4. (n) sự chăm sóc, sự trông nom
+5. (n) sự phụ trách, sự đảm nhiệm
 ## Ví dụ
 - *He is a member of the clergy.*
 - *The clergy played an important role in the community.*
+- *The clergy has the authority to perform religious ceremonies.*
+- *The clergy is responsible for the spiritual well-being of the congregation.*
+- *The clergy consists of priests, ministers, and other religious leaders.*
+- *The clergy has been a respected institution throughout history.*
 ## Cấu trúc
 - *member of the clergy* (thành viên của tăng lữ)
 - *the clergy* (tăng lữ nói chung)
 ## Collocation
 - *member of the clergy* (thành viên của tăng lữ)
 - *the clergy* (tăng lữ nói chung)
+- *the clergy* (giới giáo sĩ / hàng giáo sĩ)
+- *members of the clergy* (các thành viên của hàng giáo sĩ)
+- *senior clergy* (các giáo sĩ cấp cao)
+- *local clergy* (giáo sĩ địa phương)
+- *Catholic clergy* (giáo sĩ Công giáo)
+- *Christian clergy* (giáo sĩ Kitô giáo)
+- *church clergy* (giáo sĩ của giáo hội)
+- *clergy members* (các thành viên giáo sĩ)
+- *clergy and laity* (giáo sĩ và giáo dân)
+- *clergy and church leaders* (giáo sĩ và các lãnh đạo giáo hội)
+- *clergy training* (đào tạo giáo sĩ)
+- *clergy education* (giáo dục / đào tạo giáo sĩ)
+- *clergy misconduct* (hành vi sai trái của giáo sĩ)
+- *clergy abuse* (hành vi lạm dụng của giáo sĩ)
+- *clergy sexual abuse* (lạm dụng tình dục bởi giáo sĩ)
+- *clergy member* (một thành viên của hàng giáo sĩ)
+- *ordained clergy* (giáo sĩ đã được phong chức)
+- *female clergy* (nữ giáo sĩ)
+- *married clergy* (giáo sĩ đã kết hôn)
+- *clergy meeting* (cuộc họp của các giáo sĩ)
+- *clergy retreat* (chỗ nghỉ của giáo sĩ)
+- *clergy and laity* (giáo sĩ và giáo dân)
+- *clergy and church leaders* (giáo sĩ và các lãnh đạo giáo hội)
+- *clergy training* (đào tạo giáo sĩ)
+- *clergy education* (giáo dục / đào tạo giáo sĩ)
+- *clergy misconduct* (hành vi sai trái của giáo sĩ)
+- *clergy abuse* (hành vi lạm dụng của giáo sĩ)
+- *clergy sexual abuse* (lạm dụng tình dục bởi giáo sĩ)
+- *clergy member* (một thành viên của hàng giáo sĩ)
+- *ordained clergy* (giáo sĩ đã được phong chức)
+- *female clergy* (nữ giáo sĩ)
+- *married clergy* (giáo sĩ đã kết hôn)
+- *clergy meeting* (cuộc họp của các giáo sĩ)
+- *clergy retreat* (chỗ nghỉ của giáo sĩ)
+- *clergy and laity* (giáo sĩ và giáo dân)
+- *clergy and church leaders* (giáo sĩ và các lãnh đạo giáo hội)
+- *clergy training* (đào tạo giáo sĩ)
+- *clergy education* (giáo dục / đào tạo giáo sĩ)
+- *clergy misconduct* (hành vi sai trái của giáo sĩ)
+- *clergy abuse* (hành vi lạm dụng của giáo sĩ)
+- *clergy sexual abuse* (lạm dụng tình dục bởi giáo sĩ)
+- *clergy member* (một thành viên của hàng giáo sĩ)
+- *ordained clergy* (giáo sĩ đã được phong chức)
+- *female clergy* (nữ giáo sĩ)
+- *married clergy* (giáo sĩ đã kết hôn)
+- *clergy meeting* (cuộc họp của các giáo sĩ)
+- *clergy retreat* (chỗ nghỉ của giáo sĩ)
 ## Từ đồng nghĩa
 - *cleric* (giáo sĩ)
 - *priest* (linh mục)
