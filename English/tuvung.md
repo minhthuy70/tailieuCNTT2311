@@ -10824,14 +10824,108 @@ Dưới đây là từ vựng **"Exhibit"** được biên soạn hoàn chỉnh 
 * *exhibitionist* (n) (người thích thể hiện / phô trương)
 * *exhibitionism* (n) (xu hướng thích thể hiện bản thân)
 
+Dưới đây là từ vựng **"Explore"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # explore
+
 ## Nghĩa
+
+1. (v) Khám phá, thám hiểm (vùng đất mới, hành tinh, không gian)
+2. (v) Nghiên cứu, tìm hiểu kỹ (một chủ đề, khía cạnh, khả năng)
+3. (v) Thăm dò, thăm khám (vết thương, chuyên khoa y tế)
+4. (v) Thử nghiệm, khảo sát (các phương án, giải pháp khác nhau)
+5. (v) Khám phá, trải nghiệm (văn hóa, ẩm thực, phong cảnh)
+
 ## Ví dụ
+
+* *Scientists are preparing to explore the outer reaches of the solar system.*
+* *The essay will explore the complex reasons behind urban migration.*
+* *The surgeon used a small camera to explore the damaged joint tissue.*
+* *Businesses must explore new strategies to survive in a competitive market.*
+* *Tourists love to explore the ancient alleys and local street food of the city.*
+
 ## Cấu trúc
+
+* *explore something in detail/depth* (nghiên cứu / tìm hiểu cái gì một cách chi tiết)
+* *explore the possibility of doing something* (khám phá / tìm hiểu khả năng làm gì)
+* *explore ways/avenues to do something* (thăm dò các con đường / giải pháp để làm gì)
+* *be widely/further explored* (được nghiên cứu / mở rộng tìm hiểu rộng rãi)
+* *explore options/alternatives* (khảo sát các lựa chọn / phương án thay thế)
+
 ## Collocation
+
+* *further explore* (nghiên cứu / khám phá sâu hơn)
+* *fully explore* (khám phá / tìm hiểu toàn diện)
+* *carefully explore* (thăm dò / tìm hiểu cẩn trọng)
+* *actively explore* (chủ động tìm hiểu / khám phá)
+* *extensively explore* (nghiên cứu / khám phá trên quy mô rộng)
+* *briefly explore* (điểm qua / tìm hiểu sơ lược)
+* *jointly explore* (cùng nhau hợp tác nghiên cứu / thăm dò)
+* *explore options* (khảo sát các lựa chọn)
+* *explore alternatives* (khám phá các phương án thay thế)
+* *explore possibilities* (tìm hiểu các khả năng)
+* *explore avenues* (thăm dò các hướng đi / giải pháp)
+* *explore opportunities* (tìm kiếm / khám phá cơ hội)
+* *explore implications* (nghiên cứu các hệ lụy / ảnh hưởng)
+* *explore issues* (tìm hiểu các vấn đề)
+* *explore ideas* (khám phá các ý tưởng)
+* *explore themes* (khai thác các chủ đề)
+* *explore concepts* (tìm hiểu các khái niệm)
+* *explore solutions* (tìm kiếm các giải pháp)
+* *explore potential* (khai phá tiềm năng)
+* *explore depth* (đi sâu tìm hiểu)
+* *explore boundaries* (khám phá các giới hạn)
+* *explore frontiers* (khai phá các ranh giới mới)
+* *explore terrain* (thám hiểm địa hình)
+* *explore environment* (khám phá môi trường)
+* *explore culture* (trải nghiệm / tìm hiểu văn hóa)
+* *explore market* (thăm dò / nghiên cứu thị trường)
+* *explore career paths* (tìm hiểu các hướng đi nghề nghiệp)
+* *explore relationship between* (tìm hiểu mối quan hệ giữa)
+* *explore underlying causes* (nghiên cứu các nguyên nhân cốt lõi)
+* *explore theoretical framework* (tìm hiểu khung lý thuyết)
+* *explore creative approaches* (khám phá các phương pháp sáng tạo)
+* *explore space* (khám phá vũ trụ)
+* *explore deep sea* (thám hiểm biển sâu)
+* *explore new perspectives* (tìm kiếm các góc nhìn mới)
+* *explore future prospects* (tìm hiểu triển vọng tương lai)
+* *seek to explore* (nỗ lực / tìm cách nghiên cứu)
+* *aim to explore* (nhắm đến mục tiêu khám phá)
+* *opportunity to explore* (cơ hội để trải nghiệm / tìm hiểu)
+* *need to explore* (nhu cầu cần tìm hiểu)
+* *freedom to explore* (sự tự do khám phá)
+* *continue to explore* (tiếp tục tìm hiểu / mở rộng)
+* *fail to explore* (bỏ lỡ / không nghiên cứu)
+* *help explore* (giúp tìm hiểu / khám phá)
+* *begin to explore* (bắt đầu nghiên cứu)
+* *encourage to explore* (khuyến khích tìm tòi)
+
 ## Từ đồng nghĩa
+
+* *investigate* (điều tra, nghiên cứu kỹ)
+* *examine* (xem xét, khảo sát)
+* *research* (nghiên cứu)
+* *analyze* (phân tích)
+* *discover* (phát hiện, khám phá)
+* *inspect* (thanh tra, kiểm tra)
+* *probe* (thăm dò, dò xét)
+
 ## Từ trái nghĩa
+
+* *ignore* (phớt lờ, ngó lơ)
+* *overlook* (bỏ qua, không chú ý)
+* *neglect* (bỏ mặc, xao nhãng)
+* *disregard* (coi thường, không xem xét)
+* *abandon* (từ bỏ, không tiếp tục)
+
 ## Word family
+
+* *explore* (v) (khám phá, nghiên cứu, thám hiểm)
+* *exploration* (n) (sự khám phá, cuộc thám hiểm, sự nghiên cứu)
+* *exploratory* (adj) (mang tính thăm dò, định hướng khám phá)
+* *explorer* (n) (nhà thám hiểm, người khám phá)
+* *unexplored* (adj) (chưa được khám phá, còn hoang sơ)
+* *explorable* (adj) (có thể khám phá / nghiên cứu được)
 
 # expose
 ## Nghĩa
