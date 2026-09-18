@@ -9173,12 +9173,90 @@
 
 # convenient
 ## Nghĩa
+1. (adj) Thuận tiện, tiện lợi (gần gũi, dễ truy cập hoặc tiết kiệm thời gian)
+2. (adj) Phù hợp, thích hợp (về mặt thời gian hoặc lịch trình)
+3. (adj) Dễ sử dụng, tiện nghi (về đồ dùng, thiết bị, dịch vụ)
+4. (adj) Tiện đường, ở vị trí thuận lợi (về mặt địa lý, giao thông)
+5. (adj) Mang tính thực dụng, cốt để có lợi cho bản thân (thường có ý tiêu cực)
 ## Ví dụ
+- *Public transport offers a convenient way to travel around the city.*
+- *Please call me back whenever it is convenient for you.*
+- *Online shopping is extremely convenient for busy working people.*
+- *The new apartment complex is located in a highly convenient area.*
+- *He used a convenient excuse to avoid attending the mandatory meeting.*
 ## Cấu trúc
+- *convenient for someone/something* (thuận tiện cho ai / cái gì)
+- *convenient to do something* (thuận tiện để làm gì)
+- *it is convenient for someone to do something* (thật thuận tiện cho ai khi làm gì)
+- *convenient location/place* (vị trí / địa điểm thuận tiện)
+- *find something convenient* (cảm thấy cái gì đó thuận tiện)
 ## Collocation
+- *extremely convenient* (cực kỳ thuận tiện)
+- *highly convenient* (rất thuận tiện)
+- *incredibly convenient* (thuận tiện một cách đáng kinh ngạc)
+- *particularly convenient* (đặc biệt thuận tiện)
+- *most convenient* (thuận tiện nhất)
+- *equally convenient* (thuận tiện như nhau)
+- *convenient access* (sự truy cập / lối vào thuận tiện)
+- *convenient location* (vị trí thuận tiện)
+- *convenient route* (tuyến đường thuận tiện)
+- *convenient time* (thời gian thích hợp / thuận tiện)
+- *convenient method* (phương pháp tiện lợi)
+- *convenient way* (cách thức thuận tiện)
+- *convenient service* (dịch vụ tiện lợi)
+- *convenient tool* (công cụ tiện dụng)
+- *convenient feature* (tính năng tiện lợi)
+- *convenient arrangement* (sự sắp xếp thuận tiện)
+- *convenient alternative* (sự lựa chọn thay thế tiện lợi)
+- *convenient transport* (phương tiện giao thông thuận tiện)
+- *convenient shopping* (việc mua sắm tiện lợi)
+- *convenient payment* (thanh toán tiện lợi)
+- *convenient storage* (lưu trữ tiện lợi)
+- *convenient option* (lựa chọn thuận tiện)
+- *convenient solution* (giải pháp tiện lợi)
+- *convenient system* (hệ thống tiện lợi)
+- *convenient schedule* (lịch trình thuận tiện)
+- *convenient distance* (khoảng cách thuận tiện / gần)
+- *convenient connection* (kết nối / sự trung chuyển thuận tiện)
+- *convenient interface* (giao diện dễ sử dụng)
+- *convenient parking* (chỗ đỗ xe thuận tiện)
+- *convenient facilities* (mở rộng tiện nghi / cơ sở vật chất thuận tiện)
+- *conveniently located* (được đặt ở vị trí thuận tiện)
+- *conveniently situated* (nằm ở vị trí thuận lợi)
+- *conveniently placed* (được đặt ở vị trí tiện lợi)
+- *conveniently packaged* (được đóng gói tiện lợi)
+- *conveniently accessible* (dễ dàng tiếp cận)
+- *conveniently available* (có sẵn một cách tiện lợi)
+- *conveniently timed* (được ấn định thời gian thuận lợi)
+- *conveniently arranged* (được sắp xếp một cách tiện lợi)
+- *conveniently close* (ở khoảng cách gần rất thuận tiện)
+- *conveniently designed* (được thiết kế tiện dụng)
+- *make life convenient* (làm cho cuộc sống thuận tiện)
+- *prove to be convenient* (tỏ ra / chứng minh là thuận tiện)
+- *consider something convenient* (coi cái gì đó là thuận tiện)
+- *at your earliest convenient time* (vào thời gian sớm nhất thuận tiện cho bạn)
+- *convenient truth/lie* (sự thật / lời nói dối mang tính biện hộ tiện lợi)
 ## Từ đồng nghĩa
+- *handy* (tiện tay, dễ dùng)
+- *suitable* (phù hợp, thích hợp)
+- *accessible* (dễ dàng tiếp cận)
+- *expedient* (thích hợp, có lợi trước mắt)
+- *advantageous* (có lợi, thuận lợi)
+- *user-friendly* (thân thiện với người dùng)
+- *practical* (thực tế, tiện dụng)
 ## Từ trái nghĩa
+- *inconvenient* (bất tiện, gây khó khăn)
+- *unsuitable* (không phù hợp)
+- *awkward* (vụng về, bất tiện)
+- *inaccessible* (khó tiếp cận, không vào được)
+- *troublesome* (phiền phức, gây rắc rối)
 ## Word family
+- *convenient* (adj) (thuận tiện, tiện lợi)
+- *convenience* (n) (sự thuận tiện, tiện nghi)
+- *conveniently* (adv) (một cách thuận tiện, tiện lợi)
+- *inconvenient* (adj) (bất tiện, không thuận lợi)
+- *inconvenience* (n / v) (sự bất tiện / làm phiền, gây bất tiện)
+- *inconveniently* (adv) (một cách bất tiện)
 
 # crucial
 ## Nghĩa
