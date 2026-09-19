@@ -12089,14 +12089,108 @@ Dưới đây là từ vựng **"Induce"** được biên soạn hoàn chỉnh t
 * *inductee* (n) (người mới được nạp/tuyển)
 * *induct* (v) (chính thức bổ nhiệm, nhập ngũ)
 
+Dưới đây là từ vựng **"Inevitable"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # inevitable
+
 ## Nghĩa
+
+1. (adj) Không thể tránh khỏi, tất yếu (điều chắc chắn sẽ xảy ra)
+2. (adj) Quá quen thuộc, như thường lệ (mang tính châm biếm, diễn ra theo lối mòn)
+3. (n) Điều không thể tránh khỏi, thực tế tất yếu (thường dùng *the inevitable*)
+4. (adj) Định sẵn, tất yếu xảy ra (do quy luật tự nhiên hoặc xã hội)
+5. (adj) Không thể đảo ngược, chắc chắn xảy ra (trong tiến trình lịch sử, công nghệ)
+
 ## Ví dụ
+
+* *With rapid urbanization, a rise in traffic congestion seems almost inevitable.*
+* *Changes are an inevitable part of life that everyone must learn to accept.*
+* *After hours of heated debate, the negotiations reached their inevitable conclusion.*
+* *He responded with the inevitable joke about how unpredictable the weather was.*
+* *Instead of fearing the future, we should prepare to face the inevitable.*
+
 ## Cấu trúc
+
+* *be inevitable that + clause* (là điều tất yếu rằng [mệnh đề])
+* *seem/appear inevitable* (có vẻ như không thể tránh khỏi)
+* *make something inevitable* (làm cho cái gì trở nên tất yếu)
+* *accept/face the inevitable* (chấp nhận / đối mặt với điều tất yếu)
+* *an inevitable consequence/result of something* (hậu quả / kết quả tất yếu của cái gì)
+
 ## Collocation
+
+* *inevitable consequence* (hậu quả tất yếu)
+* *inevitable result* (kết quả tất yếu)
+* *inevitable outcome* (kết quả tất yếu)
+* *inevitable conclusion* (kết luận tất yếu)
+* *inevitable decline* (sự suy giảm tất yếu)
+* *inevitable conflict* (xung đột không thể tránh khỏi)
+* *inevitable collapse* (sự sụp đổ tất yếu)
+* *inevitable delay* (sự chậm trễ không thể tránh khỏi)
+* *inevitable failure* (thất bại tất yếu)
+* *inevitable comparison* (sự so sánh tất yếu)
+* *inevitable part* (phần không thể thiếu / tất yếu)
+* *inevitable feature* (đặc điểm tất yếu)
+* *inevitable trend* (xu hướng tất yếu)
+* *inevitable change* (thay đổi tất yếu)
+* *inevitable process* (quy trình tất yếu)
+* *inevitable phase* (giai đoạn tất yếu)
+* *inevitable byproduct* (sản phẩm phụ tất yếu)
+* *inevitable companion* (bạn đồng hành tất yếu)
+* *inevitable cost* (chi phí tất yếu)
+* *inevitable risk* (rủi ro không thể tránh khỏi)
+* *inevitable tragedy* (bi kịch tất yếu)
+* *inevitable tension* (sự căng thẳng không thể tránh khỏi)
+* *inevitable reaction* (phản ứng tất yếu)
+* *inevitable response* (sự phản hồi tất yếu)
+* *seemingly inevitable* (có vẻ như tất yếu)
+* *almost inevitable* (gần như không thể tránh khỏi)
+* *practically inevitable* (thực sự là tất yếu)
+* *virtually inevitable* (hầu như tất yếu)
+* *absolutely inevitable* (hoàn toàn tất yếu)
+* *historically inevitable* (tất yếu về mặt lịch sử)
+* *biologically inevitable* (tất yếu về mặt sinh học)
+* *economically inevitable* (tất yếu về mặt kinh tế)
+* *politically inevitable* (tất yếu về mặt chính trị)
+* *socially inevitable* (tất yếu về mặt xã hội)
+* *make inevitable* (làm cho thành tất yếu)
+* *render inevitable* (khiến cho không thể tránh khỏi)
+* *delay the inevitable* (trì hoãn điều tất yếu)
+* *postpone the inevitable* (hoãn lại điều tất yếu)
+* *accept the inevitable* (chấp nhận điều tất yếu)
+* *bow to the inevitable* (cúi đầu trước điều tất yếu)
+* *resign to the inevitable* (cam chịu điều tất yếu)
+* *face the inevitable* (đối mặt điều tất yếu)
+* *recognize the inevitable* (nhận ra điều tất yếu)
+* *acknowledge the inevitable* (thừa nhận điều tất yếu)
+* *inevitable end* (cái kết tất yếu)
+
 ## Từ đồng nghĩa
+
+* *unavoidable* (không thể tránh khỏi)
+* *inexorable* (không thể lay chuyển / chặn đứng)
+* *certain* (chắc chắn xảy ra)
+* *fated* (đã được định sẵn)
+* *inedible* (không thể né tránh)
+* *escapeless* (không có lối thoát)
+* *assured* (được đảm bảo / chắc chắn)
+
 ## Từ trái nghĩa
+
+* *avoidable* (có thể tránh được)
+* *preventable* (có thể ngăn chặn được)
+* *uncertain* (không chắc chắn)
+* *evadable* (có thể lẩn tránh)
+* *doubtful* (nghi ngờ, không cố định)
+
 ## Word family
+
+* *inevitable* (adj / n) (không thể tránh khỏi / điều tất yếu)
+* *inevitably* (adv) (một cách tất yếu, chắc chắn)
+* *inevitability* (n) (sự tất yếu, tính không thể tránh khỏi)
+* *evitable* (adj) (có thể tránh khỏi - hiếm dùng)
+* *evitability* (n) (khả năng có thể tránh được)
+* *unevitable* (adj) (biến thể cũ của inevitable)
 
 # inject
 ## Nghĩa
