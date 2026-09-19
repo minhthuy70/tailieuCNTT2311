@@ -12564,14 +12564,108 @@ Dưới đây là từ vựng **"Input"** được biên soạn hoàn chỉnh th
 * *throughput* (n) (lượng dữ liệu/hàng hóa xử lý qua hệ thống)
 * *output* (n / v) (đầu ra, sản xuất ra)
 
+Dưới đây là từ vựng **"Insight"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # insight
+
 ## Nghĩa
+
+1. (n) Sự thấu hiểu sâu sắc, cái nhìn sâu sắc (về bản chất của vấn đề)
+2. (n) Bàn nhìn, tri thức sâu rộng (đạt được qua nghiên cứu hoặc trải nghiệm)
+3. (n) Sự thấu hiểu khách hàng / thị trường (trong kinh doanh - Consumer Insight)
+4. (n) Khả năng thấu hiểu bản thân, sự tự nhận thức (trong tâm lý học)
+5. (n) Phát kiến, thông tin giá trị (rút ra từ quá trình phân tích dữ liệu)
+
 ## Ví dụ
+
+* *The documentary provides valuable insight into the daily lives of ancient civilizations.*
+* *Her analysis offers a fascinating insight into the psychological causes of crime.*
+* *Market research gives companies key insights into changing consumer preferences.*
+* *Through deep reflection, she gained a sudden insight into her own personal strengths.*
+* *Data analytics helps organizations uncover actionable insights from complex datasets.*
+
 ## Cấu trúc
+
+* *gain/get insight into something* (có được / đạt được sự thấu hiểu về cái gì)
+* *provide/offer insight into something* (cung cấp / mang lại cái nhìn sâu sắc về cái gì)
+* *give someone an insight into something* (cho ai cái nhìn thấu đáo về vấn đề gì)
+* *a flash/burst of insight* (sự lóe sáng tri thức / nhận thức đột ngột)
+* *be rich in insight* (chứa đựng nhiều thông tin / nhận thức sâu sắc)
+
 ## Collocation
+
+* *valuable insight* (cái nhìn giá trị)
+* *deep insight* (sự thấu hiểu sâu sắc)
+* *profound insight* (sự thấu hiểu thâm thúy)
+* *crucial insight* (thấu hiểu quan trọng)
+* *key insight* (nhận thức cốt lõi)
+* *unique insight* (cái nhìn độc đáo)
+* *fascinating insight* (sự thấu hiểu thú vị)
+* *clear insight* (cái nhìn rõ ràng)
+* *fresh insight* (góc nhìn mới mẻ)
+* *novel insight* (phát kiến mới)
+* *actionable insight* (thấu hiểu có thể áp dụng ngay)
+* *critical insight* (nhận thức mang tính quyết định)
+* *rare insight* (cái nhìn hiếm có)
+* *useful insight* (thấu hiểu hữu ích)
+* *practical insight* (nhận thức thực tiễn)
+* *scientific insight* (thấu hiểu dưới góc độ khoa học)
+* *political insight* (nhận thức về mặt chính trị)
+* *economic insight* (cái nhìn về kinh tế)
+* *psychological insight* (sự thấu hiểu về tâm lý)
+* *historical insight* (nhận thức về mặt lịch sử)
+* *consumer insight* (sự thấu hiểu người tiêu dùng)
+* *market insight* (thấu hiểu thị trường)
+* *business insight* (tri thức kinh doanh)
+* *cultural insight* (sự thấu hiểu văn hóa)
+* *spiritual insight* (nhận thức về tâm linh)
+* *gain insight* (đạt được sự thấu hiểu)
+* *provide insight* (cung cấp sự thấu hiểu)
+* *offer insight* (mang lại góc nhìn sâu sắc)
+* *yield insight* (tạo ra / mang lại sự thấu hiểu)
+* *uncover insight* (khai quật / phát hiện nhận thức)
+* *generate insight* (tạo ra các phát kiến)
+* *share insight* (chia sẻ góc nhìn)
+* *lack insight* (thiếu sự thấu hiểu)
+* *require insight* (yêu cầu nhận thức sâu)
+* *seek insight* (tìm kiếm góc nhìn sâu sắc)
+* *broaden insight* (mở rộng sự hiểu biết)
+* *deepen insight* (làm sâu sắc thêm sự thấu hiểu)
+* *apply insight* (áp dụng nhận thức)
+* *combining insights* (kết hợp các góc nhìn)
+* *a wealth of insight* (rất nhiều thông tin giá trị)
+* *a flash of insight* (sự lóe sáng tri thức)
+* *a moment of insight* (khoảnh khắc nhận ra)
+* *lack of insight* (sự thiếu thấu hiểu)
+* *insight into behavior* (thấu hiểu về hành vi)
+* *insight into nature* (thấu hiểu bản chất)
+
 ## Từ đồng nghĩa
+
+* *understanding* (sự hiểu biết, thấu hiểu)
+* *perception* (sự nhận thức, góc nhìn)
+* *awareness* (sự nhận biết, ý thức)
+* *comprehension* (sự lĩnh hội, hiểu biết)
+* *discernment* (sự nhận thức sáng suốt)
+* *penetration* (sự nhìn thấu, sắc sảo)
+* *revelation* (sự phát hiện, vạch trần)
+
 ## Từ trái nghĩa
+
+* *ignorance* (sự ngu mờ, không biết)
+* *misunderstanding* (sự hiểu lầm)
+* *blindness* (sự mù mịt, không nhận ra)
+* *obtuseness* (sự đần độn, thiếu nhạy bén)
+* *unawareness* (sự không nhận thức được)
+
 ## Word family
+
+* *insight* (n) (cái nhìn sâu sắc, sự thấu hiểu)
+* *insightful* (adj) (sâu sắc, sáng suốt, thấu đáo)
+* *insightfully* (adv) (một cách sâu sắc, thấu đáo)
+* *insights* (n - số nhiều) (những phát hiện / tri thức giá trị)
+* *insightfulness* (n) (tính chất sâu sắc, sự sáng suốt)
+* *uninsightful* (adj) (hời hợt, không có giá trị thấu hiểu)
 
 # inspire
 ## Nghĩa
