@@ -15097,14 +15097,169 @@ Dưới đây là từ vựng **"Select"** được biên soạn hoàn chỉnh t
 * *selectivity* (n) (tính chọn lọc, độ nhạy chọn lọc)
 * *selector* (n) (người tuyển chọn, bộ lựa chọn)
 
-# simulate
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
+simulate
+Nghĩa
+(v) Mô phỏng, giả lập (tái tạo điều kiện hoặc quy trình thực tế bằng mô hình/máy tính)
+
+(v) Giả vờ, làm ra vẻ (đóng giả một cảm xúc, tình trạng sức khỏe hoặc phản ứng)
+
+(v) Mô phỏng hình dạng/chất liệu (bắt chước vẻ ngoài của một vật liệu tự nhiên khác)
+
+(v) Tái tạo môi trường (tạo ra các điều kiện thử nghiệm tương tự thực tế)
+
+(v) Đóng vai, thực hành tình huống (huấn luyện thông qua bài tập tình huống giả định)
+
+Ví dụ
+Computer software is used to simulate the flight conditions of a new airplane.
+
+He tried to simulate enthusiasm for the project, but his tiredness was obvious.
+
+Synthetic leather is engineered to simulate the appearance and texture of real hide.
+
+Researchers built a chamber to simulate the harsh weather conditions of Antarctica.
+
+The training exercise was carefully designed to simulate a real-world emergency response.
+
+Cấu trúc
+simulate something (mô phỏng / giả lập cái gì)
+
+simulate how + clause (mô phỏng cách thức [mệnh đề] hoạt động)
+
+be designed to simulate something (được thiết kế để mô phỏng cái gì)
+
+simulate conditions/effects (mô phỏng các điều kiện / ảnh hưởng)
+
+simulate behavior/process (mô phỏng hành vi / quy trình)
+
+Collocation
+accurately simulate (mô phỏng chính xác)
+
+closely simulate (mô phỏng sát thực tế)
+
+realistically simulate (mô phỏng một cách chân thực)
+
+computer simulate (mô phỏng trên máy tính)
+
+digitally simulate (giả lập kỹ thuật số)
+
+virtually simulate (mô phỏng ảo)
+
+numerically simulate (mô phỏng bằng số liệu)
+
+experimentally simulate (mô phỏng qua thực nghiệm)
+
+artificially simulate (mô phỏng nhân tạo)
+
+effectively simulate (mô phỏng hiệu quả)
+
+simulate condition (mô phỏng điều kiện)
+
+simulate environment (mô phỏng môi trường)
+
+simulate effect (mô phỏng tác động / hiệu ứng)
+
+simulate impact (mô phỏng ảnh hưởng)
+
+simulate process (mô phỏng quy trình)
+
+simulate system (mô phỏng hệ thống)
+
+simulate flight (mô phỏng chuyến bay)
+
+simulate movement (mô phỏng chuyển động)
+
+simulate behavior (mô phỏng hành vi)
+
+simulate scenario (mô phỏng kịch bản)
+
+simulate situation (mô phỏng tình huống)
+
+simulate response (mô phỏng phản ứng)
+
+simulate emotion (giả vờ bộc lộ cảm xúc)
+
+simulate interest (giả vờ quan tâm)
+
+simulate symptom (giả vờ có triệu chứng)
+
+simulate growth (mô phỏng sự tăng trưởng)
+
+simulate evolution (mô phỏng sự phát triển)
+
+simulate climate (mô phỏng khí hậu)
+
+simulate gravity (mô phỏng trọng lực)
+
+simulate structure (mô phỏng cấu trúc)
+
+ability to simulate (khả năng mô phỏng)
+
+capacity to simulate (năng lực giả lập)
+
+attempt to simulate (nỗ lực mô phỏng)
+
+fail to simulate (thất bại khi mô phỏng)
+
+used to simulate (được dùng để mô phỏng)
+
+designed to simulate (được thiết kế để giả lập)
+
+model to simulate (mô hình dùng để mô phỏng)
+
+software to simulate (phần mềm mô phỏng)
+
+program to simulate (chương trình giả lập)
+
+algorithm to simulate (thuật toán mô phỏng)
+
+simulate realistic outcomes (mô phỏng kết quả thực tế)
+
+simulate human brain (mô phỏng não bộ con người)
+
+simulate market dynamics (mô phỏng động lực thị trường)
+
+simulate solar radiation (mô phỏng bức xạ mặt trời)
+
+simulate natural light (mô phỏng ánh sáng tự nhiên)
+
+Từ đồng nghĩa
+imitate (bắt chước, nhại lại)
+
+replicate (tái tạo, làm giống hệt)
+
+emulate (mô phỏng, thi đua)
+
+feign (giả vờ, vờ như)
+
+mimic (mô phỏng, bắt chước)
+
+reproduce (sao chép, tái sản xuất)
+
+model (dựng mô hình)
+
+Từ trái nghĩa
+authenticate (xác thực, chứng minh thật)
+
+originate (khởi nguồn, sáng tạo mới)
+
+reveal (bộc lộ sự thật)
+
+expose (vạch trần, phơi bày)
+
+actualize (hiện thực hóa)
+
+Word family
+simulate (v) (mô phỏng, giả lập, làm ra vẻ)
+
+simulation (n) (sự mô phỏng, mô hình giả lập)
+
+simulator (n) (máy mô phỏng, thiết bị giả lập)
+
+simulated (adj) (được mô phỏng, nhân tạo, giả)
+
+simulative (adj) (có tính chất mô phỏng)
+
+simulatory (adj) (nhằm mục đích giả lập)
 
 # specify
 ## Nghĩa
