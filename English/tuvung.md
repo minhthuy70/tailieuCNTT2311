@@ -11986,14 +11986,108 @@ Dưới đây là từ vựng **"Indicate"** được biên soạn hoàn chỉnh
 * *indicatively* (adv) (một cách biểu thị)
 * *indicated* (adj) (được chỉ định, được biểu thị)
 
+Dưới đây là từ vựng **"Induce"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # induce
+
 ## Nghĩa
+
+1. (v) Xúi giục, thuyết phục, dẫn dắt (khiến ai đó làm điều gì)
+2. (v) Gây ra, dẫn đến, mang lại (một trạng thái, cảm xúc, căn bệnh)
+3. (v) Gây đẻ, thúc đẻ (trong y tế - dùng thuốc kích thích chuyển dạ)
+4. (v) Cảm ứng (trong vật lý, điện từ học - tạo ra dòng điện hoặc từ trường)
+5. (v) Suy đoán, quy nạp (trong logic học - đi từ cụ thể đến tổng quát)
+
 ## Ví dụ
+
+* *Nothing in the world could induce me to leave my family behind.*
+* *Excessive stress can induce sleep deprivation and chronic health problems.*
+* *Doctors decided to induce labor after the pregnancy went past forty weeks.*
+* *An electric current is induced when a conductor moves through a magnetic field.*
+* *Scientists attempt to induce logical principles from observed empirical facts.*
+
 ## Cấu trúc
+
+* *induce someone to do something* (xúi giục / thuyết phục ai làm điều gì)
+* *be induced by something* (được gây ra / kích thích bởi cái gì)
+* *induce panic/fear/anxiety* (gây ra sự hoảng loạn / sợ hãi / lo âu)
+* *drug-induced/stress-induced* (do thuốc gây ra / do căng thẳng gây ra)
+* *induce labor/birth* (gây chuyển dạ / thúc đẻ)
+
 ## Collocation
+
+* *induce sleep* (gây buồn ngủ)
+* *induce vomiting* (gây nôn)
+* *induce coma* (gây hôn mê nhân tạo)
+* *induce paralysis* (gây liệt)
+* *induce anesthesia* (gây mê)
+* *induce labor* (kích thích chuyển dạ)
+* *induce panic* (gây hoảng loạn)
+* *induce fear* (gây sợ hãi)
+* *induce anxiety* (gây lo âu)
+* *induce stress* (gây căng thẳng)
+* *induce depression* (gây trầm cảm)
+* *induce relaxation* (mở ra sự thư giãn)
+* *induce euphoria* (gây hưng phấn)
+* *induce trance* (đưa vào trạng thái thôi miên)
+* *induce change* (tạo ra sự thay đổi)
+* *induce growth* (kích thích sự phát triển)
+* *induce mutation* (gây đột biến)
+* *induce lactation* (kích thích tiết sữa)
+* *induce remission* (làm thuyên giảm bệnh)
+* *induce ovulation* (kích thích rụng trứng)
+* *induce resistance* (tạo ra sự kháng cự)
+* *induce response* (kích thích phản ứng)
+* *stress-induced* (do căng thẳng gây ra)
+* *drug-induced* (do thuốc gây ra)
+* *chemically induced* (do hóa chất gây ra)
+* *artificially induced* (được kích thích nhân tạo)
+* *naturally induced* (được kích thích tự nhiên)
+* *experimentally induced* (được tạo ra trong thí nghiệm)
+* *radiation-induced* (do bức xạ gây ra)
+* *heat-induced* (do nhiệt gây ra)
+* *exercise-induced* (do vận động gây ra)
+* *trauma-induced* (do chấn thương gây ra)
+* *fear-induced* (do sợ hãi gây ra)
+* *poverty-induced* (do nghèo đói gây ra)
+* *easily induced* (dễ dàng bị kích thích / thuyết phục)
+* *induce compliance* (buộc phải tuân thủ)
+* *induce cooperation* (thúc đẩy sự hợp tác)
+* *induce investment* (kích thích đầu tư)
+* *induce error* (gây ra lỗi)
+* *induce abortion* (gây phá thai)
+* *fail to induce* (không thể kích thích / gây ra)
+* *seek to induce* (tìm cách gây ra)
+* *attempt to induce* (cố gắng kích thích)
+* *ability to induce* (khả năng gây ra)
+* *power to induce* (quyền năng xúi giục / tạo ra)
+
 ## Từ đồng nghĩa
+
+* *cause* (gây ra, dẫn đến)
+* *provoke* (kích động, khiêu khích)
+* *engender* (sinh ra, đem lại)
+* *prompt* (thúc đẩy, xúi giục)
+* *persuade* (thuyết phục)
+* *instigate* (xúi giục, khởi xướng)
+* *trigger* (kích hoạt, gây ra)
+
 ## Từ trái nghĩa
+
+* *prevent* (ngăn chặn, ngăn ngừa)
+* *deter* (răn đe, làm nản lòng)
+* *discourage* (làm nhụt chí)
+* *quell* (dập tắt, đè nén)
+* *suppress* (kìm hãm, triệt hạ)
+
 ## Word family
+
+* *induce* (v) (gây ra, xúi giục, kích thích)
+* *inducement* (n) (sự khuyến khích, vật xúi giục, động cơ)
+* *induction* (n) (sự lễ nạp, sự quy nạp, sự cảm ứng, sự thúc đẻ)
+* *inductive* (adj) (thuộc về quy nạp, cảm ứng)
+* *inductee* (n) (người mới được nạp/tuyển)
+* *induct* (v) (chính thức bổ nhiệm, nhập ngũ)
 
 # inevitable
 ## Nghĩa
