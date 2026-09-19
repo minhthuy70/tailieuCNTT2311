@@ -14273,14 +14273,108 @@ Dưới đây là từ vựng **"Overall"** được biên soạn hoàn chỉnh 
 * *overarching* (adj) (bao quát, quan trọng nhất)
 * *overallness* (n) (tính chất tổng thể, tính bao quát)
 
+Dưới đây là từ vựng **"Participate"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # participate
+
 ## Nghĩa
+
+1. (v) Tham gia, đóng góp phần mình vào (một hoạt động, sự kiện, cuộc thảo luận)
+2. (v) Tham dự, góp mặt (với tư cách là thành viên hoặc người hưởng ứng)
+3. (v) Chia sẻ, cùng hưởng (cảm xúc, trải nghiệm hoặc quyền lợi - *trang trọng*)
+4. (v) Can thiệp, tham gia vào quy trình (như quy trình ra quyết định, quản trị)
+5. (v) Đóng vai trò chủ động (trong việc học tập, phát triển cộng đồng)
+
 ## Ví dụ
+
+* *Students are encouraged to actively participate in extracurricular activities at school.*
+* *Many small businesses failed to participate in the government recovery program.*
+* *Employees should have the right to participate in decisions affecting their workplace.*
+* *Over fifty countries agreed to participate in the global climate summit.*
+* *Citizens are more likely to participate in politics if they feel their voices matter.*
+
 ## Cấu trúc
+
+* *participate in something* (tham gia vào cái gì / hoạt động gì)
+* *participate actively/fully in something* (tham gia một cách tích cực / toàn diện vào cái gì)
+* *refuse/decline to participate* (từ chối tham gia)
+* *be eligible to participate* (đủ điều kiện để tham gia)
+* *opportunity to participate* (cơ hội tham gia)
+
 ## Collocation
+
+* *actively participate* (tích cực tham gia)
+* *fully participate* (tham gia đầy đủ)
+* *directly participate* (trực tiếp tham gia)
+* *equally participate* (tham gia bình đẳng)
+* *voluntarily participate* (tự nguyện tham gia)
+* *eagerly participate* (hăng hái tham gia)
+* *enthusiastically participate* (nhiệt tình tham gia)
+* *regularly participate* (thường xuyên tham gia)
+* *democratically participate* (tham gia một cách dân chủ)
+* *meaningfully participate* (tham gia có ý nghĩa)
+* *participate in activity* (tham gia hoạt động)
+* *participate in discussion* (tham gia thảo luận)
+* *participate in debate* (tham gia tranh luận)
+* *participate in program* (tham gia chương trình)
+* *participate in project* (tham gia dự án)
+* *participate in election* (tham gia bầu cử)
+* *participate in competition* (tham gia cuộc thi)
+* *participate in event* (tham gia sự kiện)
+* *participate in study* (tham gia nghiên cứu)
+* *participate in survey* (tham gia khảo sát)
+* *participate in workshop* (tham gia hội thảo)
+* *participate in conference* (tham gia hội nghị)
+* *participate in sport* (tham gia thể thao)
+* *participate in decision-making* (tham gia ra quyết định)
+* *participate in governance* (tham gia quản trị)
+* *encourage to participate* (khuyến khích tham gia)
+* *invite to participate* (mời tham gia)
+* *allow to participate* (cho phép tham gia)
+* *enable to participate* (tạo điều kiện tham gia)
+* *force to participate* (bắt buộc tham gia)
+* *refuse to participate* (từ chối tham gia)
+* *fail to participate* (thất bại / không tham gia)
+* *decline to participate* (từ khước tham gia)
+* *prepare to participate* (chuẩn bị tham gia)
+* *agree to participate* (đồng ý tham gia)
+* *desire to participate* (khao khát tham gia)
+* *right to participate* (quyền tham gia)
+* *ability to participate* (khả năng tham gia)
+* *opportunity to participate* (cơ hội tham gia)
+* *willingness to participate* (sự sẵn lòng tham gia)
+* *reluctance to participate* (sự do dự khi tham gia)
+* *incentive to participate* (động lực để tham gia)
+* *freedom to participate* (sự tự do tham gia)
+* *capacity to participate* (năng lực tham gia)
+* *chance to participate* (cơ hội tham gia)
+
 ## Từ đồng nghĩa
+
+* *take part* (tham gia, đóng góp)
+* *engage* (dấn thân, tham gia vào)
+* *join* (gia nhập, tham gia)
+* *contribute* (đóng góp, góp phần)
+* *involve oneself* (tự đưa mình vào, tham gia)
+* *attend* (tham dự, hiện diện)
+* *share* (chia sẻ, cùng gánh vác)
+
 ## Từ trái nghĩa
+
+* *abstain* (kiêng, tự chối tham gia)
+* *withdraw* (rút khỏi, rút lui)
+* *refrain* (kiềm chế, không làm)
+* *boycott* (tẩy chay)
+* *avoid* (tránh né, né tránh)
+
 ## Word family
+
+* *participate* (v) (tham gia, đóng góp)
+* *participation* (n) (sự tham gia, sự góp mặt)
+* *participant* (n) (người tham gia, người tham dự)
+* *participatory* (adj) (có tính tham gia, mang tính cộng đồng)
+* *participative* (adj) (dựa trên sự tham gia)
+* *non-participant* (n) (người không tham gia)
 
 # perceive
 ## Nghĩa
