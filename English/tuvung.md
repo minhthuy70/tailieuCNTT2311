@@ -14376,14 +14376,108 @@ Dưới đây là từ vựng **"Participate"** được biên soạn hoàn ch�
 * *participative* (adj) (dựa trên sự tham gia)
 * *non-participant* (n) (người không tham gia)
 
+Dưới đây là từ vựng **"Perceive"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # perceive
+
 ## Nghĩa
+
+1. (v) Nhận thức, nhìn nhận (hiểu hoặc đánh giá cái gì theo một cách cụ thể)
+2. (v) Nhận biết, giác ngộ (nhận ra cái gì bằng các giác quan như thị giác, thính giác)
+3. (v) Cảm nhận, nhận thấy (nhận ra một sự thật hay thay đổi tinh tế qua trực giác)
+4. (v) Coi là, xem như là (thường dùng ở dạng bị động *be perceived as*)
+5. (v) Lĩnh hội, thấu hiểu (nắm bắt ý nghĩa hoặc bản chất của một vấn đề)
+
 ## Ví dụ
+
+* *Public transport is often perceived as inconvenient compared to private vehicles.*
+* *Humans perceive colors differently depending on lighting conditions and surroundings.*
+* *The manager perceived a subtle shift in the team's attitude after the announcement.*
+* *Stress can significantly alter how an individual perceives everyday challenges.*
+* *Society tends to perceive high income as the primary indicator of personal success.*
+
 ## Cấu trúc
+
+* *perceive something/someone as something* (coi / nhìn nhận cái gì/ai như là cái gì)
+* *be perceived to be something* (được cho là / được nhận thức là như thế nào)
+* *perceive something through something* (nhận biết cái gì thông qua các giác quan)
+* *easily/widely perceived* (dễ dàng / được nhìn nhận rộng rãi)
+* *fail to perceive something* (thất bại trong việc nhận ra cái gì)
+
 ## Collocation
+
+* *widely perceived* (được nhìn nhận rộng rãi)
+* *commonly perceived* (thường được coi là)
+* *generally perceived* (nhìn chung được nhìn nhận)
+* *incorrectly perceived* (bị nhìn nhận sai lệch)
+* *mistakenly perceived* (bị hiểu nhầm / coi nhầm là)
+* *clearly perceived* (được nhận thức rõ ràng)
+* *dimly perceived* (được nhận biết một cách mờ nhạt)
+* *acutely perceived* (được nhận thức một cách sắc bén)
+* *negatively perceived* (bị nhìn nhận một cách tiêu cực)
+* *positively perceived* (được nhìn nhận một cách tích cực)
+* *publicly perceived* (được công chúng nhìn nhận)
+* *traditionally perceived* (được nhìn nhận theo truyền thống)
+* *culturally perceived* (được nhận thức về mặt văn hóa)
+* *socially perceived* (được nhìn nhận trong xã hội)
+* *visually perceived* (được nhận biết qua thị giác)
+* *perceive threat* (nhận thức được mối đe dọa)
+* *perceive danger* (cảm nhận được sự nguy hiểm)
+* *perceive risk* (nhận thức được rủi ro)
+* *perceive value* (nhận thức được giá trị)
+* *perceive benefit* (nhận thức được lợi ích)
+* *perceive difference* (nhận ra sự khác biệt)
+* *perceive change* (cảm nhận được sự thay đổi)
+* *perceive importance* (nhận thức được tầm quan trọng)
+* *perceive need* (nhận thức được nhu cầu)
+* *perceive reality* (nhận thức thực tế)
+* *perceive quality* (cảm nhận chất lượng)
+* *perceive fairness* (cảm nhận sự công bằng)
+* *perceive bias* (nhận ra sự thiên vị)
+* *perceive weakness* (nhận ra điểm yếu)
+* *perceive strength* (nhận ra thế mạnh)
+* *tend to perceive* (có xu hướng nhìn nhận)
+* *fail to perceive* (không thể nhận ra)
+* *help to perceive* (giúp nhận thức)
+* *able to perceive* (có khả năng nhận biết)
+* *struggle to perceive* (trật vật để nhận ra)
+* *perceive as a challenge* (coi là một thách thức)
+* *perceive as a threat* (coi là một mối đe dọa)
+* *perceive as an opportunity* (coi là một cơ hội)
+* *perceive as unfair* (cho là không công bằng)
+* *perceive as essential* (xem là yếu tố thiết yếu)
+* *perceive world* (nhận thức thế giới xung quanh)
+* *perceive environment* (cảm nhận môi trường)
+* *perceive situation* (đánh giá tình huống)
+* *perceive problem* (nhận diện vấn đề)
+* *perceive signal* (nhận biết tín hiệu)
+
 ## Từ đồng nghĩa
+
+* *perceive* (v) (nhận thức, nhìn nhận)
+* *regard* (coi là, xem như)
+* *discern* (nhận thức rõ, phân biệt)
+* *comprehend* (lĩnh hội, hiểu thấu)
+* *detect* (phát hiện, nhận ra)
+* *observe* (quan sát, nhận thấy)
+* *interpret* (giải thích, hiểu theo cách nào đó)
+
 ## Từ trái nghĩa
+
+* *misunderstand* (hiểu lầm, hiểu sai)
+* *ignore* (phớt lờ, bỏ qua)
+* *overlook* (bỏ sót, không chú ý)
+* *misinterpret* (diễn giải sai)
+* *disregard* (coi thường, không quan tâm)
+
 ## Word family
+
+* *perceive* (v) (nhận thức, nhìn nhận)
+* *perception* (n) (sự nhận thức, góc nhìn, tri giác)
+* *perceptive* (adj) (mẫn cảm, nhạy bén, sâu sắc)
+* *perceptual* (adj) (thuộc về giác quan / tri giác)
+* *imperceptible* (adj) (không thể nhận thấy, không đáng kể)
+* *perceptibly* (adv) (một cách có thể nhận biết được)
 
 # phase
 ## Nghĩa
