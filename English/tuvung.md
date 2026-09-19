@@ -11574,14 +11574,108 @@ Dưới đây là từ vựng **"Illustrate"** được biên soạn hoàn chỉ
 * *illustrated* (adj) (được vẽ / có tranh minh họa)
 * *illustriously* (adv) (lừng lẫy, rạng rỡ - nghĩa cổ)
 
+Dưới đây là từ vựng **"Imply"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # imply
+
 ## Nghĩa
+
+1. (v) Ngụ ý, ám chỉ (gợi ý gián tiếp mà không nói rõ ràng)
+2. (v) Bao hàm, kéo theo (đòi hỏi sự tồn tại hay tính đúng đắn của cái gì)
+3. (v) Cho thấy, biểu thị (dẫn đến kết luận logic nào đó)
+4. (v) Gợi ý, tạo ấn tượng (làm cho người khác nghĩ theo một hướng)
+5. (v) Thể hiện, hàm chứa (ý nghĩa hoặc thái độ ẩn đằng sau)
+
 ## Ví dụ
+
+* *Her silence seemed to imply agreement with the proposed changes.*
+* *The study's findings imply that early intervention yields better long-term results.*
+* *I did not mean to imply that your work was inadequate in any way.*
+* *Accepting this job offer necessarily implies moving to another country.*
+* *His tone of voice implied a strong sense of disappointment and dissatisfaction.*
+
 ## Cấu trúc
+
+* *imply that + clause* (ngụ ý / cho thấy rằng [mệnh đề])
+* *imply something to someone* (ám chỉ điều gì với ai)
+* *be implied by something* (được suy ra / ám chỉ bởi cái gì)
+* *seem/tend to imply* (có vẻ / có xu hướng ngụ ý)
+* *necessarily imply* (nhất thiết / tất yếu bao hàm)
+
 ## Collocation
+
+* *strongly imply* (ngụ ý một cách mạnh mẽ)
+* *clearly imply* (cho thấy / ngụ ý một cách rõ ràng)
+* *heavily imply* (ám chỉ rất nặng nề)
+* *subtly imply* (ngụ ý một cách tinh tế / kín đáo)
+* *directly imply* (trực tiếp ngụ ý)
+* *indirectly imply* (gián tiếp ám chỉ)
+* *falsely imply* (ngụ ý một cách sai sự thật)
+* *wrongly imply* (gợi ý sai lầm)
+* *merely imply* (chỉ đơn thuần ngụ ý)
+* *simply imply* (đơn giản là cho thấy)
+* *imply guilt* (ngụ ý có tội / lỗi)
+* *imply criticism* (ám chỉ sự phê bình)
+* *imply intention* (cho thấy ý định)
+* *imply consent* (ngụ ý sự đồng ý)
+* *imply willingness* (cho thấy sự sẵn lòng)
+* *imply connection* (ám chỉ mối liên hệ)
+* *imply relationship* (cho thấy mối quan hệ)
+* *imply threat* (ngụ ý sự đe dọa)
+* *imply support* (cho thấy sự ủng hộ)
+* *imply acceptance* (ngụ ý sự chấp thuận)
+* *imply approval* (ngụ ý sự phê chuẩn)
+* *imply rejection* (cho thấy sự từ chối)
+* *imply responsibility* (ngụ ý trách nhiệm)
+* *imply cause* (cho thấy nguyên nhân)
+* *imply existence* (bao hàm sự tồn tại)
+* *imply obligation* (bao hàm nghĩa vụ)
+* *imply necessity* (cho thấy sự cần thiết)
+* *findings imply* (các kết quả nghiên cứu cho thấy)
+* *evidence implies* (bằng chứng cho thấy)
+* *data implies* (dữ liệu gợi ý rằng)
+* *research implies* (nghiên cứu cho thấy)
+* *results imply* (kết quả cho thấy)
+* *statistics imply* (số liệu thống kê cho thấy)
+* *passage implies* (đoạn văn ngụ ý rằng)
+* *statement implies* (tuyên bố ngụ ý rằng)
+* *definition implies* (định nghĩa bao hàm)
+* *logic implies* (lô-gích cho thấy)
+* *theory implies* (lý thuyết ngụ ý rằng)
+* *not meant to imply* (không có ý ám chỉ)
+* *seem to imply* (có vẻ ngụ ý)
+* *tend to imply* (có xu hướng cho thấy)
+* *be taken to imply* (được hiểu là ngụ ý)
+* *be construed to imply* (được suy diễn là ám chỉ)
+* *implicitly imply* (ngụ ý một cách ngầm hiểu)
+* *automatically imply* (tự động bao hàm / kéo theo)
+
 ## Từ đồng nghĩa
+
+* *insinuate* (nói bóng gió, ám chỉ)
+* *hint* (gợi ý, ra hiệu)
+* *suggest* (gợi ý, cho thấy)
+* *indicate* (chỉ ra, biểu thị)
+* *intimate* (gợi ý kín đáo)
+* *connote* (hàm ý, bao hàm)
+* *entail* (đòi hỏi, kéo theo)
+
 ## Từ trái nghĩa
+
+* *state* (phát biểu, tuyên bố rõ ràng)
+* *express* (bày tỏ, thể hiện trực tiếp)
+* *declare* (tuyên bố công khai)
+* *explicitly say* (nói một cách rõ ràng)
+* *deny* (phủ nhận, từ chối)
+
 ## Word family
+
+* *imply* (v) (ngụ ý, ám chỉ, bao hàm)
+* *implication* (n) (sự hàm ý, hệ lụy, sự dính líu)
+* *implicit* (adj) (ngầm, ẩn ý, không nói ra)
+* *implicitly* (adv) (một cách ngầm hiểu, hoàn toàn)
+* *implied* (adj) (được ngụ ý, ngầm hiểu)
+* *unimplied* (adj) (không được ngụ ý / ẩn ý)
 
 # impose
 ## Nghĩa
