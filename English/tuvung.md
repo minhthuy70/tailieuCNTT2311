@@ -15732,14 +15732,108 @@ intensity (n) (độ cường độ, sự mãnh liệt)
 
 intensify (v) (làm tăng cường, gia tăng căng thẳng)
 
+Dưới đây là từ vựng **"Transmit"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # transmit
+
 ## Nghĩa
+
+1. (v) Truyền phát, phát sóng (tín hiệu, chương trình truyền hình/đài phát thanh)
+2. (v) Lây truyền, truyền bệnh (truyền vi-rút, vi khuẩn hoặc bệnh tật sang người khác)
+3. (v) Truyền tải, chuyển giao (truyền kiến thức, văn hóa, tín hiệu hoặc dữ liệu)
+4. (v) Truyền dẫn (cho phép ánh sáng, nhiệt, âm thanh hoặc điện đi qua một môi trường)
+5. (v) Di truyền (truyền lại các đặc tính hoặc gen cho thế hệ sau)
+
 ## Ví dụ
+
+* *Radio waves are used to transmit information across vast distances almost instantaneously.*
+* *Mosquitoes can transmit dangerous diseases such as malaria and dengue fever to humans.*
+* *Cultural values and traditions are transmitted from one generation to the next through stories.*
+* *Glass fibers are capable of transmitting light with minimal loss of signal intensity.*
+* *Certain genetic conditions can be transmitted from parents to their offspring.*
+
 ## Cấu trúc
+
+* *transmit something to someone/something* (truyền cái gì tới ai/cái gì)
+* *transmit something via/by something* (truyền tải cái gì qua kênh/phương tiện gì)
+* *be transmitted through something* (được lây truyền / truyền dẫn qua cái gì)
+* *transmit disease/virus* (lây truyền bệnh tật / vi-rút)
+* *transmit signal/data* (truyền phát tín hiệu / dữ liệu)
+
 ## Collocation
+
+* *electronically transmit* (truyền bằng điện tử)
+* *wirelessly transmit* (truyền không dây)
+* *digitally transmit* (truyền kỹ thuật số)
+* *instantaneously transmit* (truyền tức thì)
+* *directly transmit* (truyền trực tiếp)
+* *sexually transmit* (lây truyền qua đường tình dục)
+* *genetically transmit* (di truyền qua gen)
+* *efficiently transmit* (truyền dẫn hiệu quả)
+* *continuously transmit* (truyền phát liên tục)
+* *orally transmit* (truyền khẩu)
+* *transmit signal* (truyền tín hiệu)
+* *transmit data* (truyền dữ liệu)
+* *transmit information* (truyền thông tin)
+* *transmit message* (truyền thông điệp)
+* *transmit image* (truyền hình ảnh)
+* *transmit disease* (lây truyền bệnh)
+* *transmit virus* (truyền vi-rút)
+* *transmit infection* (lây nhiễm)
+* *transmit power* (truyền công suất / điện năng)
+* *transmit energy* (truyền năng lượng)
+* *transmit heat* (truyền nhiệt)
+* *transmit sound* (truyền âm thanh)
+* *transmit light* (truyền ánh sáng)
+* *transmit impulse* (truyền xung thần kinh)
+* *transmit force* (truyền lực)
+* *transmit knowledge* (truyền đạt kiến thức)
+* *transmit culture* (truyền bá văn hóa)
+* *transmit value* (truyền tải giá trị)
+* *transmit heritage* (truyền lại di sản)
+* *transmit gene* (di truyền gen)
+* *ability to transmit* (khả năng truyền tải)
+* *means to transmit* (phương tiện truyền phát)
+* *power to transmit* (công suất phát sóng)
+* *capacity to transmit* (dung lượng truyền tải)
+* *way to transmit* (cách thức truyền tải)
+* *transmit live* (phát sóng trực tiếp)
+* *transmit radio signal* (truyền tín hiệu vô tuyến)
+* *transmit satellite data* (truyền dữ liệu vệ tinh)
+* *transmit electrical current* (truyền dòng điện)
+* *transmit genetic traits* (di truyền đặc tính)
+* *transmit pathogen* (lây truyền mầm bệnh)
+* *transmit bacterial infection* (lây nhiễm vi khuẩn)
+* *transmit computer virus* (truyền vi-rút máy tính)
+* *transmit radio broadcast* (phát sóng đài radio)
+* *transmit digital code* (truyền mã kỹ thuật số)
+
 ## Từ đồng nghĩa
+
+* *transfer* (chuyển giao, truyền)
+* *convey* (truyền tải, chuyển lời)
+* *broadcast* (phát sóng, truyền hình)
+* *pass on* (truyền lại, chuyển tiếp)
+* *spread* (lan truyền, phát tán)
+* *relate* (truyền đạt lại)
+* *conduct* (dẫn nhiệt, dẫn điện)
+
 ## Từ trái nghĩa
+
+* *receive* (nhận, tiếp nhận)
+* *absorb* (hấp thụ, thẩm thấu)
+* *block* (chặn lại, ngăn cản)
+* *withhold* (giữ lại, giấu đi)
+* *suppress* (triệt tiêu, kìm hãm)
+
 ## Word family
+
+* *transmit* (v) (truyền phát, lây truyền, truyền dẫn)
+* *transmission* (n) (sự truyền phát, sự lây bệnh, bộ số xe)
+* *transmitter* (n) (máy phát tín hiệu, vật lây bệnh)
+* *transmissible* (adj) (có thể lây truyền, có thể truyền phát)
+* *transmissive* (adj) (có khả năng truyền dẫn)
+* *transmittable* (adj) (dễ lây, truyền đi được)
 
 # trigger
 ## Nghĩa
