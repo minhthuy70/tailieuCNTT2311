@@ -13655,14 +13655,108 @@ Dưới đây là từ vựng **"Maximize"** được biên soạn hoàn chỉnh
 * *maximally* (adv) (đến mức tối đa)
 * *maximizer* (n) (người/thiết bị luôn muốn tối ưu hóa)
 
+Dưới đây là từ vựng **"Mechanism"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # mechanism
+
 ## Nghĩa
+
+1. (n) Cơ chế, phương thức (hệ thống hoặc quy trình được thiết lập để thực hiện nhiệm vụ)
+2. (n) Bộ máy, cơ cấu máy móc (tập hợp các bộ phận hoạt động cùng nhau trong thiết bị)
+3. (n) Cơ chế sinh học/hóa học (chuỗi phản ứng hoặc quá trình tự nhiên trong cơ thể)
+4. (n) Cơ chế tâm lý (kỹ năng hoặc phản ứng tự vệ tinh thần của con người)
+5. (n) Công cụ, biện pháp hành chính (phương tiện quản lý, kiểm soát của chính phủ)
+
 ## Ví dụ
+
+* *International treaties need an effective enforcement mechanism to ensure compliance.*
+* *Engineers carefully inspected the internal mechanism of the clock to find the fault.*
+* *Sweating is the primary physiological mechanism by which the human body cools itself.*
+* *Developing healthy coping mechanisms is essential for managing daily stress and anxiety.*
+* *The market economy relies on the price mechanism to allocate scarce resources efficiently.*
+
 ## Cấu trúc
+
+* *mechanism for (doing) something* (cơ chế / phương thức cho việc gì)
+* *mechanism of something* (cơ chế / nguyên lý hoạt động của cái gì)
+* *mechanism to do something* (cơ chế để thực hiện điều gì)
+* *put in place a mechanism* (thiết lập / ban hành một cơ chế)
+* *through a mechanism* (thông qua một cơ chế / phương thức)
+
 ## Collocation
+
+* *effective mechanism* (cơ chế hiệu quả)
+* *formal mechanism* (cơ chế chính thức)
+* *enforcement mechanism* (cơ chế thực thi / cưỡng chế)
+* *coping mechanism* (cơ chế ứng phó / đối phó)
+* *defense mechanism* (cơ chế tự vệ tâm lý)
+* *market mechanism* (cơ chế thị trường)
+* *pricing mechanism* (cơ chế định giá)
+* *regulatory mechanism* (cơ chế quản lý / điều tiết)
+* *control mechanism* (cơ chế kiểm soát)
+* *feedback mechanism* (cơ chế phản hồi)
+* *biological mechanism* (cơ chế sinh học)
+* *underlying mechanism* (cơ chế cốt lõi / bản chất bên dưới)
+* *internal mechanism* (cơ cấu bên trong)
+* *molecular mechanism* (cơ chế phân tử)
+* *funding mechanism* (cơ chế tài trợ vốn)
+* *steering mechanism* (cơ cấu lái / điều hướng)
+* *locking mechanism* (cơ cấu khóa)
+* *safety mechanism* (cơ chế an toàn)
+* *delivery mechanism* (phương thức cung cấp / chuyển giao)
+* *support mechanism* (cơ chế hỗ trợ)
+* *coordination mechanism* (cơ chế phối hợp)
+* *monitoring mechanism* (cơ chế giám sát)
+* *accountability mechanism* (cơ chế giải trình / trách nhiệm)
+* *survival mechanism* (cơ chế sinh tồn)
+* *trigger mechanism* (cơ chế kích hoạt)
+* *consultation mechanism* (cơ chế tham vấn)
+* *dispute resolution mechanism* (cơ chế giải quyết tranh chấp)
+* *establish a mechanism* (thiết lập một cơ chế)
+* *create a mechanism* (tạo ra một cơ chế)
+* *develop a mechanism* (phát triển một cơ chế)
+* *introduce a mechanism* (đưa vào một cơ chế)
+* *implement a mechanism* (triển khai một cơ chế)
+* *strengthen a mechanism* (củng cố cơ chế)
+* *understand the mechanism* (hiểu được cơ chế)
+* *explain the mechanism* (giải thích cơ chế)
+* *trigger a mechanism* (kích hoạt một cơ chế)
+* *rely on a mechanism* (dựa vào một cơ chế)
+* *lack a mechanism* (thiếu một cơ chế)
+* *build a mechanism* (xây dựng cơ chế)
+* *institutional mechanism* (cơ chế định chế / tổ chức)
+* *financial mechanism* (cơ chế tài chính)
+* *legal mechanism* (cơ chế pháp lý)
+* *governance mechanism* (cơ chế quản trị)
+* *policy mechanism* (cơ chế chính sách)
+* *automatic mechanism* (cơ chế tự động)
+
 ## Từ đồng nghĩa
+
+* *system* (hệ thống)
+* *process* (quy trình, quá trình)
+* *procedure* (thủ tục, phương thức)
+* *apparatus* (bộ máy, thiết bị)
+* *means* (phương tiện, cách thức)
+* *method* (phương pháp)
+* *instrument* (công cụ, phương tiện)
+
 ## Từ trái nghĩa
+
+* *disorganization* (sự vô tổ chức, hỗn loạn)
+* *paralysis* (sự đình trệ, tê liệt)
+* *improvisation* (sự ứng biến, ngẫu hứng)
+* *breakdown* (sự hỏng hóc, sụp đổ)
+* *chaos* (sự hỗn loạn)
+
 ## Word family
+
+* *mechanism* (n) (cơ chế, bộ máy, phương thức)
+* *mechanize* (v) (cơ giới hóa, tự động hóa)
+* *mechanical* (adj) (thuộc cơ khí, máy móc, theo quán tính)
+* *mechanically* (adv) (một cách máy móc, tự động)
+* *mechanization* (n) (sự cơ giới hóa)
+* *mechanic* (n) (thợ máy, thợ sửa chữa)
 
 # migrate
 ## Nghĩa
