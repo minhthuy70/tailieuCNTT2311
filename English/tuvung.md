@@ -11883,14 +11883,108 @@ Dưới đây là từ vựng **"Incentive"** được biên soạn hoàn chỉn
 * *disincentivize* (v) (làm nản lòng, nhụt chí)
 * *incentivized* (adj) (được khích lệ, có động lực)
 
+Dưới đây là từ vựng **"Indicate"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # indicate
+
 ## Nghĩa
+
+1. (v) Chỉ ra, biểu thị, cho thấy (xu hướng, thông tin, số liệu trên biểu đồ)
+2. (v) Ngụ ý, cho rằng (tạo ấn tượng hoặc dẫn đến kết luận logic)
+3. (v) Tín hiệu, xin đường (khi lái xe - bật đèn xi-nhan)
+4. (v) Chỉ ra, chỉ hướng (bằng tay, ngón tay hoặc biển chỉ dẫn)
+5. (v) Cần thiết, được chỉ định (trong y khoa - điều trị / kê đơn)
+
 ## Ví dụ
+
+* *Recent survey data indicate a significant shift in consumer buying habits.*
+* *The research results indicate that regular exercise reduces the risk of heart disease.*
+* *Please indicate your preference by ticking the appropriate box on the form.*
+* *The map indicates that the nearest train station is two blocks away.*
+* *A sudden drop in temperature usually indicates an approaching winter storm.*
+
 ## Cấu trúc
+
+* *indicate that + clause* (chỉ ra / cho thấy rằng [mệnh đề])
+* *indicate something to someone* (chỉ ra cái gì cho ai)
+* *as indicated by/in something* (như được chỉ ra bởi / trong cái gì)
+* *be clearly/strongly indicated* (được chỉ ra một cách rõ ràng / mạnh mẽ)
+* *indicate a willingness/preference to do something* (biểu thị sự sẵn lòng / sở thích làm gì)
+
 ## Collocation
+
+* *clearly indicate* (chỉ ra một cách rõ ràng)
+* *strongly indicate* (chỉ ra một cách mạnh mẽ)
+* *strongly indicate* (cho thấy rất rõ)
+* *faintly indicate* (biểu thị một cách mờ nhạt)
+* *indirectly indicate* (gián tiếp cho thấy)
+* *directly indicate* (trực tiếp chỉ ra)
+* *graph indicates* (đồ thị cho thấy)
+* *chart indicates* (biểu đồ chỉ ra)
+* *table indicates* (bảng biểu cho thấy)
+* *figure indicates* (hình vẽ / con số cho thấy)
+* *data indicates* (dữ liệu cho thấy)
+* *research indicates* (nghiên cứu chỉ ra)
+* *study indicates* (nghiên cứu cho thấy)
+* *evidence indicates* (bằng chứng cho thấy)
+* *results indicate* (kết quả chỉ ra)
+* *survey indicates* (cuộc khảo sát cho thấy)
+* *findings indicate* (các phát hiện cho thấy)
+* *statistics indicate* (số liệu thống kê cho thấy)
+* *report indicates* (báo cáo chỉ ra)
+* *arrow indicates* (mũi tên chỉ hướng)
+* *sign indicates* (biển báo chỉ ra)
+* *meter indicates* (đồng hồ đo chỉ mức)
+* *symptom indicates* (triệu chứng chỉ ra)
+* *indicate preference* (biểu thị sở thích / sự ưu tiên)
+* *indicate intention* (cho thấy ý định)
+* *indicate interest* (biểu thị sự quan tâm)
+* *indicate support* (cho thấy sự ủng hộ)
+* *indicate willingness* (biểu thị sự sẵn lòng)
+* *indicate readiness* (cho thấy sự sẵn sàng)
+* *indicate direction* (chỉ hướng đi)
+* *indicate presence* (cho thấy sự hiện diện)
+* *indicate absence* (cho thấy sự vắng mặt)
+* *indicate trend* (chỉ ra xu hướng)
+* *indicate change* (cho thấy sự thay đổi)
+* *indicate growth* (cho thấy sự tăng trưởng)
+* *indicate decline* (cho thấy sự suy giảm)
+* *indicate level* (chỉ ra mức độ)
+* *indicate degree* (chỉ ra độ)
+* *indicate cause* (cho thấy nguyên nhân)
+* *indicate solution* (chỉ ra giải pháp)
+* *indicate approval* (biểu thị sự tán thành)
+* *indicate refusal* (cho thấy sự từ chối)
+* *indicate willingness* (thể hiện sự thiện chí)
+* *indicate desire* (cho thấy mong muốn)
+* *indicate need* (cho thấy nhu cầu)
+
 ## Từ đồng nghĩa
+
+* *show* (cho thấy, thể hiện)
+* *demonstrate* (chứng minh, làm rõ)
+* *reveal* (bộc lộ, tiết lộ)
+* *signify* (biểu thị, có nghĩa là)
+* *point out* (chỉ ra, lưu ý)
+* *suggest* (gợi ý, cho thấy)
+* *denote* (biểu thị, chỉ rõ)
+
 ## Từ trái nghĩa
+
+* *conceal* (che giấu, ẩp xúp)
+* *hide* (giấu giếm)
+* *obscure* (làm mờ, che khuất)
+* *mask* (che đậy, ngụy trang)
+* *disguise* (ngụy trang, bóp méo)
+
 ## Word family
+
+* *indicate* (v) (chỉ ra, biểu thị, xi-nhan)
+* *indication* (n) (dấu hiệu, sự chỉ dẫn, biểu hiện)
+* *indicative* (adj) (tỏ ra, ngụ ý, biểu thị)
+* *indicator* (n) (chỉ số, đèn xi-nhan, thiết bị chỉ báo)
+* *indicatively* (adv) (một cách biểu thị)
+* *indicated* (adj) (được chỉ định, được biểu thị)
 
 # induce
 ## Nghĩa
