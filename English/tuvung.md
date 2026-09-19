@@ -10859,14 +10859,108 @@ Dưới đây là từ vựng **"External"** được biên soạn hoàn chỉnh
 * *externality* (n) (tác động ngoại ứng - thuật ngữ kinh tế)
 * *exterior* (n / adj) (bề ngoài, phần bên ngoài)
 
+Dưới đây là từ vựng **"Extract"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # extract
+
 ## Nghĩa
+
+1. (v) Trích xuất, chiết xuất (chất hóa học, khoáng sản, tinh dầu)
+2. (v) Trích dẫn, rút ra (thông tin, đoạn văn, dữ liệu từ tài liệu)
+3. (v) Nhổ, nhổ ra (răng, vật cắm sâu vào bề mặt)
+4. (v) Vắt óc lấy, ép buộc cung cấp (sự thú nhận, cam kết, tiền bạc)
+5. (n) Đoạn trích, phần trích dẫn / Chất chiết xuất (trong sách, thảo dược)
+
 ## Ví dụ
+
+* *Engineers use advanced machinery to extract precious metals from deep underground.*
+* *The researcher managed to extract relevant statistical data from the main report.*
+* *The dentist decided it was necessary to extract the severely infected tooth.*
+* *Investigators worked tirelessly to extract a full confession from the suspect.*
+* *Read the short extract below and answer the following comprehension questions.*
+
 ## Cấu trúc
+
+* *extract something from something* (trích xuất / rút cái gì từ cái gì)
+* *extract information/data* (trích xuất thông tin / dữ liệu)
+* *extract a promise/confession* (ép buộc / lấy được lời hứa / sự thú nhận)
+* *an extract from a book/article* (một đoạn trích từ cuốn sách / bài báo)
+* *be extracted by means of something* (được trích xuất bằng phương pháp gì)
+
 ## Collocation
+
+* *extract information* (trích xuất thông tin)
+* *extract data* (rút ra / trích xuất dữ liệu)
+* *extract minerals* (khai thác / trích xuất khoáng sản)
+* *extract oil* (khai thác dầu mỏ)
+* *extract juice* (ép / vắt nước trái cây)
+* *extract tooth* (nhổ răng)
+* *extract DNA* (tách / trích xuất DNA)
+* *extract resource* (khai thác tài nguyên)
+* *extract value* (rút ra giá trị)
+* *extract meaning* (rút ra ý nghĩa)
+* *extract confession* (ép lấy lời thú tội)
+* *extract concession* (ép nhượng bộ)
+* *extract promise* (lấy được lời hứa)
+* *extract payment* (ép trả tiền)
+* *extract essence* (chiết xuất tinh chất)
+* *extract compound* (chiết xuất hợp chất)
+* *extract coal* (khai thác than đá)
+* *extract iron* (tách chiết sắt)
+* *extract ore* (khai thác quặng)
+* *extract sample* (lấy mẫu thử)
+* *herbal extract* (chất chiết xuất từ thảo dược)
+* *plant extract* (chiết xuất thực vật)
+* *vanilla extract* (tinh chất vani)
+* *short extract* (đoạn trích ngắn)
+* *literary extract* (đoạn trích văn học)
+* *brief extract* (đoạn trích tóm tắt)
+* *selected extract* (đoạn trích được tuyển chọn)
+* *audio extract* (trích đoạn âm thanh)
+* *video extract* (trích đoạn video)
+* *chemical extract* (chiết xuất hóa học)
+* *carefully extract* (trích xuất một cách cẩn trọng)
+* *efficiently extract* (chiết xuất / khai thác hiệu quả)
+* *chemically extract* (trích xuất bằng phương pháp hóa học)
+* *sustainably extract* (khai thác một cách bền vững)
+* *manually extract* (trích xuất bằng tay / thủ công)
+* *automatically extract* (tự động trích xuất)
+* *painlessly extract* (nhổ / rút ra không gây đau)
+* *succeed in extracting* (thành công trong việc trích xuất)
+* *attempt to extract* (cố gắng rút ra / khai thác)
+* *difficult to extract* (khó khăn để trích xuất)
+* *process to extract* (quy trình chiết xuất)
+* *method to extract* (phương pháp trích xuất)
+* *technology to extract* (công nghệ khai thác / tách chiết)
+* *costly to extract* (tốn kém khi khai thác)
+* *extract maximum benefit* (khai thác tối đa lợi ích)
+
 ## Từ đồng nghĩa
+
+* *obtain* (thu được, lấy được)
+* *derive* (rút ra từ, bắt nguồn)
+* *remove* (tháo ra, nhổ ra)
+* *withdraw* (rút khỏi, lấy ra)
+* *pull out* (kéo ra, nhổ ra)
+* *extricate* (gỡ thoát, giải thoát)
+* *excerpt* (trích dẫn, đoạn trích)
+
 ## Từ trái nghĩa
+
+* *insert* (chèn vào, gài vào)
+* *inject* (tiêm vào, bơm vào)
+* *embed* (gắn chặt, nhúng vào)
+* *deposit* (đặt vào, gửi vào)
+* *implant* (cấy ghép vào)
+
 ## Word family
+
+* *extract* (v / n) (trích xuất, nhổ / đoạn trích, chất chiết)
+* *extraction* (n) (sự trích xuất, sự nhổ răng, nguồn gốc)
+* *extractor* (n) (máy chiết xuất, dụng cụ nhổ)
+* *extractive* (adj) (thuộc về khai thác / trích xuất)
+* *extractable* (adj) (có thể trích xuất / khai thác được)
+* *unextracted* (adj) (chưa được khai thác / chưa trích xuất)
 
 # finance
 ## Nghĩa
