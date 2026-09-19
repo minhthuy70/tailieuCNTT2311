@@ -15568,14 +15568,169 @@ Dưới đây là từ vựng **"Symbol"** được biên soạn hoàn chỉnh t
 * *symbolism* (n) (chủ nghĩa tượng trưng, hệ thống biểu tượng)
 * *symbolist* (n / adj) (người theo chủ nghĩa tượng trưng / thuộc nghệ thuật tượng trưng)
 
-# tense
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
+tense
+Nghĩa
+(adj) Căng thẳng, lo âu (trạng thái tinh thần bị áp lực, bồn chồn)
+
+(adj) Căng cứng, gồng lên (cơ bắp hoặc cơ thể bị siết chặt)
+
+(adj) Ngột ngạt, gay go (tình huống, không khí chứa đầy sự bất hòa/đối đầu)
+
+(n) Thì trong ngữ pháp (thời của động từ: quá khứ, hiện tại, tương lai)
+
+(v) Căng ra, siết chặt cơ bắp (gồng mình lên chuẩn bị va chạm hoặc phản ứng)
+
+Ví dụ
+Diplomatic relations between the two neighboring countries remain extremely tense.
+
+She felt her shoulders tense up as she waited for the critical exam results.
+
+Mastering the correct use of verb tenses is essential for IELTS Academic Writing.
+
+The atmosphere in the conference room grew tense during the budget negotiations.
+
+Relaxation exercises can help relieve tense muscles caused by prolonged sitting.
+
+Cấu trúc
+be/feel tense about something (cảm thấy căng thẳng về điều gì)
+
+tense up (gồng người lên / cơ bắp bị căng cứng lại)
+
+tense atmosphere/situation (bầu không khí / tình huống căng thẳng)
+
+past/present/future tense (thì quá khứ / hiện tại / tương lai)
+
+relieve/ease tense muscles (thả lỏng / làm dịu các cơ bị căng)
+
+Collocation
+extremely tense (cực kỳ căng thẳng)
+
+highly tense (rất căng thẳng)
+
+increasingly tense (ngày càng căng thẳng)
+
+politically tense (căng thẳng về mặt chính trị)
+
+racially tense (căng thẳng về sắc tộc)
+
+socially tense (căng thẳng về xã hội)
+
+emotionally tense (căng thẳng về mặt cảm xúc)
+
+physically tense (căng thẳng về thể chất)
+
+grow tense (trở nên căng thẳng)
+
+become tense (hóa ra căng thẳng)
+
+remain tense (vẫn căng thẳng)
+
+feel tense (cảm thấy lo âu / căng thẳng)
+
+look tense (trông có vẻ căng thẳng)
+
+sound tense (nghe có vẻ căng thẳng)
+
+tense atmosphere (bầu không khí căng thẳng)
+
+tense situation (tình hình gay go)
+
+tense moment (khoảnh khắc căng thẳng)
+
+tense standoff (sự bế tắc căng thẳng)
+
+tense relationship (mối quan hệ căng thẳng)
+
+tense negotiation (cuộc thương lượng gay go)
+
+tense silence (sự im lặng ngột ngạt)
+
+tense muscles (các cơ bị căng)
+
+tense expression (vẻ mặt căng thẳng)
+
+tense posture (tư thế gồng cứng)
+
+tense voice (giọng nói căng thẳng)
+
+verb tense (thì của động từ)
+
+present tense (thì hiện tại)
+
+past tense (thì quá khứ)
+
+future tense (thì tương lai)
+
+perfect tense (thì hoàn thành)
+
+continuous tense (thì tiếp diễn)
+
+simple tense (thì đơn)
+
+tense consistency (sự nhất quán về thì)
+
+tense shift (sự thay đổi thì)
+
+tense agreement (sự hòa hợp về thì)
+
+tense up muscles (gồng cơ bắp)
+
+tense body (gồng toàn bộ cơ thể)
+
+tense jaw (bặm chặt quai hàm)
+
+tense shoulders (co cứng vai)
+
+tense face (mặt căng thẳng)
+
+relieve tense state (giảm trạng thái căng thẳng)
+
+tense standoff breaks (sự bế tắc căng thẳng tan vỡ)
+
+tense period (giai đoạn căng thẳng)
+
+tense confrontation (sự đối đầu căng thẳng)
+
+tense climate (bầu không khí / môi trường căng thẳng)
+
+Từ đồng nghĩa
+anxious (lo âu, trăn trở)
+
+strained (căng thẳng, gượng gạo)
+
+tight (chặt, căng)
+
+nervous (hồi hộp, bồn chồn)
+
+edgy (dễ cáu bẳn, sắc cạnh)
+
+stressful (gây áp lực)
+
+taut (căng thẳng, kéo căng)
+
+Từ trái nghĩa
+relaxed (thư thái, thả lỏng)
+
+calm (bình tĩnh, êm đềm)
+
+peaceful (hòa bình, yên bình)
+
+loose (lỏng lẻo, thả lỏng)
+
+serene (thanh bình, tĩnh lặng)
+
+Word family
+tense (adj / n / v) (căng thẳng / thì ngữ pháp / gồng cứng)
+
+tension (n) (sự căng thẳng, độ kéo căng, tình trạng nảy lửa)
+
+tensely (adv) (một cách căng thẳng, hồi hộp)
+
+tenseness (n) (trạng thái căng thẳng)
+
+intensity (n) (độ cường độ, sự mãnh liệt)
+
+intensify (v) (làm tăng cường, gia tăng căng thẳng)
 
 # transmit
 ## Nghĩa
