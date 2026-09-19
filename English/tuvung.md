@@ -12873,14 +12873,169 @@ Dưới đây là từ vựng **"Instance"** được biên soạn hoàn chỉnh
 * *instantaneous* (adj) (tức thời, diễn ra ngay)
 * *instantly* (adv) (ngay lập tức)
 
-# instead
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
+instead
+Nghĩa
+(adv) Thay vào đó, thay vì (dùng để thế chỗ cho một lựa chọn hoặc hành động khác)
+
+(adv) Trái lại, thay vì thế (đứng cuối câu hoặc đầu câu làm trạng từ nối)
+
+(prep phr - instead of) Thay vì, thay cho (đi kèm với danh từ, đại từ hoặc động từ V-ing)
+
+(adv) Ngược lại, thay vì làm điều đã định (chỉ sự thay đổi phương hướng / hành động)
+
+(adv) Nhằm đại diện, thay mặt (thường dùng trong bối cảnh phân công công việc)
+
+Ví dụ
+He did not study law; instead, he decided to pursue a career in journalism.
+
+If you cannot attend the meeting, we can send a delegate instead.
+
+Instead of complaining about the situation, we should focus on finding solutions.
+
+The weather was too bad for hiking, so we stayed indoors and read instead.
+
+She chose to walk to work instead of taking the crowded morning bus.
+
+Cấu trúc
+instead of + N/V-ing (thay vì làm gì / cái gì)
+
+instead of doing something (thay vì thực hiện hành động gì)
+
+instead, + clause (thay vào đó, [mệnh đề])
+
+use/choose something instead (sử dụng / lựa chọn cái gì thay thế)
+
+do something instead (thực hiện điều gì đó thay thế)
+
+Collocation
+instead of paying (thay vì chi trả)
+
+instead of buying (thay vì mua)
+
+instead of using (thay vì sử dụng)
+
+instead of relying (thay vì phụ thuộc)
+
+instead of focusing (thay vì tập trung)
+
+instead of spending (thay vì tiêu tốn)
+
+instead of investing (thay vì đầu tư)
+
+instead of wasting (thay vì lãng phí)
+
+instead of reducing (thay vì giảm bớt)
+
+instead of increasing (thay vì tăng lên)
+
+instead of adopting (thay vì áp dụng)
+
+instead of promoting (thay vì thúc đẩy)
+
+instead of ignoring (thay vì bỏ qua)
+
+instead of confronting (thay vì đối mặt)
+
+instead of accepting (thay vì chấp nhận)
+
+instead of rejecting (thay vì từ chối)
+
+instead of punishing (thay vì trừng phạt)
+
+instead of rewarding (thay vì khen thưởng)
+
+instead of working (thay vì làm việc)
+
+instead of studying (thay vì học tập)
+
+do that instead (làm điều đó thay thế)
+
+try this instead (thử cách này thay thế)
+
+use this instead (dùng cái này thay vì cái kia)
+
+choose this instead (chọn cái này thay thế)
+
+go there instead (đi đến đó thay vì nơi khác)
+
+buy that instead (mua cái đó thay thế)
+
+pay attention instead (chú ý thay vì lơ đễnh)
+
+look for instead (tìm kiếm cái khác thay vì)
+
+suggest instead (đề xuất phương án thay thế)
+
+propose instead (đề nghị cách khác)
+
+recommend instead (khuyên dùng cái khác)
+
+prefer to instead (thích làm điều khác hơn)
+
+decide to instead (quyết định làm khác đi)
+
+opt for instead (lựa chọn phương án thay thế)
+
+switch to instead (chuyển sang cái khác)
+
+turn to instead (tìm đến giải pháp khác)
+
+rely on instead (dựa vào giải pháp khác)
+
+focus on instead (tập trung vào điều khác)
+
+choose instead (lựa chọn thay thế)
+
+select instead (tuyển chọn thay thế)
+
+adopt instead (tiếp nhận cái khác)
+
+utilize instead (sử dụng phương án khác)
+
+implement instead (thực thi giải pháp khác)
+
+apply instead (áp dụng cách khác)
+
+serve instead (phục vụ mục đích khác)
+
+Từ đồng nghĩa
+alternatively (như một sự lựa chọn khác)
+
+rather (đúng hơn là, thay vào đó)
+
+in place of (thay cho, ở vị trí của)
+
+in lieu of (thay vì - thuật ngữ trang trọng/pháp lý)
+
+as an alternative (như một phương án thay thế)
+
+on the other hand (mặt khác, ngược lại)
+
+in preference to (thích hơn là)
+
+Từ trái nghĩa
+equally (bằng nhau, tương tự)
+
+simultaneously (đồng thời, cùng lúc)
+
+together with (cùng với)
+
+alongside (bên cạnh, song song)
+
+in addition to (thêm vào đó, ngoài ra)
+
+Word family
+instead (adv) (thay vào đó, thay vì)
+
+instead of (prep) (thay cho, thay vì)
+
+substitute (n / v) (người/vật thay thế / thay thế)
+
+substitution (n) (sự thay thế)
+
+replaceable (adj) (có thể thay thế)
+
+irreplaceable (adj) (không thể thay thế)
 
 # intense
 ## Nghĩa
