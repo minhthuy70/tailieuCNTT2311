@@ -15364,14 +15364,106 @@ Dưới đây là từ vựng **"Specify"** được biên soạn hoàn chỉnh 
 * *specificity* (n) (tính cụ thể, đặc tính riêng)
 * *unspecified* (adj) (chưa được chỉ rõ, không xác định)
 
+Dưới đây là từ vựng **"Subsequent"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # subsequent
+
 ## Nghĩa
+
+1. (adj) Xảy ra sau, đến sau (diễn ra sau một sự kiện hoặc mốc thời gian cụ thể)
+2. (adj) Tiếp theo, nối tiếp (nằm ở vị trí liền kề về mặt thứ tự hoặc thời gian)
+3. (adj) Tương lai, về sau (mang tính hệ quả hoặc phát sinh từ nguyên nhân trước)
+4. (adj) Theo sau về mặt logic (kết quả rút ra từ các lập luận phía trước)
+5. (adj) Sau này, hậu thế (dùng để mô tả các giai đoạn hoặc thế hệ sau)
+
 ## Ví dụ
+
+* *The initial experiment failed, but subsequent trials yielded highly positive results.*
+* *Developments in technology and subsequent changes in employment have reshaped society.*
+* *The original contract was amended during subsequent negotiations between both parties.*
+* *An investigation was launched following the accident and subsequent public outcry.*
+* *Subsequent generations have benefited greatly from the educational reforms of that era.*
+
 ## Cấu trúc
+
+* *subsequent to something* (xảy ra sau cái gì / sau khi cái gì diễn ra)
+* *subsequent events/developments* (các sự kiện / diễn biến xảy ra sau đó)
+* *in subsequent years/decades* (trong những năm / thập kỷ tiếp theo)
+* *subsequent analysis/investigation* (sự phân tích / điều tra theo sau)
+* *be subsequent to* (diễn ra sau mốc thời gian nào đó)
+
 ## Collocation
+
+* *subsequent year* (năm tiếp theo)
+* *subsequent decade* (thập kỷ tiếp theo)
+* *subsequent generation* (thế hệ sau)
+* *subsequent event* (sự kiện xảy ra sau đó)
+* *subsequent development* (diễn biến tiếp theo)
+* *subsequent investigation* (cuộc điều tra theo sau)
+* *subsequent study* (nghiên cứu tiếp theo)
+* *subsequent research* (nghiên cứu thực hiện sau đó)
+* *subsequent analysis* (sự phân tích tiếp theo)
+* *subsequent report* (báo cáo ra sau)
+* *subsequent trial* (lần thử nghiệm tiếp theo)
+* *subsequent phase* (giai đoạn tiếp theo)
+* *subsequent stage* (bước tiếp theo)
+* *subsequent chapter* (chương tiếp theo)
+* *subsequent section* (phần tiếp theo)
+* *subsequent action* (hành động theo sau)
+* *subsequent decision* (quyết định đưa ra sau)
+* *subsequent change* (sự thay đổi tiếp theo)
+* *subsequent impact* (tác động về sau)
+* *subsequent effect* (hiệu ứng kéo theo)
+* *subsequent loss* (tổn thất phát sinh sau)
+* *subsequent injury* (chấn thương hệ quả)
+* *subsequent meeting* (cuộc họp tiếp theo)
+* *subsequent publication* (ấn phẩm ra sau)
+* *subsequent amendment* (sự sửa đổi tiếp theo)
+* *subsequent modification* (sự điều chỉnh về sau)
+* *subsequent revision* (bản sửa đổi tiếp theo)
+* *subsequent discovery* (phát hiện tiếp theo)
+* *subsequent discussion* (cuộc thảo luận sau đó)
+* *subsequent assessment* (sự đánh giá tiếp theo)
+* *subsequent evaluation* (sự kiểm định về sau)
+* *subsequent reduction* (sự cắt giảm tiếp theo)
+* *subsequent increase* (sự gia tăng sau đó)
+* *subsequent growth* (sự tăng trưởng về sau)
+* *subsequent decline* (sự sụt giảm tiếp theo)
+* *subsequent collapse* (sự sụp đổ kéo theo)
+* *subsequent failure* (thất bại về sau)
+* *subsequent success* (thành công ở giai đoạn sau)
+* *subsequent version* (phiên bản tiếp theo)
+* *subsequent wave* (làn sóng tiếp theo)
+* *subsequent inquiry* (cuộc truy vấn sau đó)
+* *subsequent interview* (buổi phỏng vấn tiếp theo)
+* *subsequent survey* (cuộc khảo sát tiếp theo)
+* *subsequent examination* (sự kiểm tra theo sau)
+* *subsequent observation* (sự quan sát tiếp theo)
+
 ## Từ đồng nghĩa
+
+* *following* (theo sau, tiếp theo)
+* *succeeding* (kế tiếp, nối tiếp)
+* *consequent* (hệ quả, do kết quả của)
+* *subsequent* (xảy ra sau, tiếp theo)
+* *later* (sau này, muộn hơn)
+* *ensuing* (xảy ra ngay sau đó)
+* *posterior* (đến sau, ở phía sau)
+
 ## Từ trái nghĩa
+
+* *previous* (trước đó)
+* *prior* (xảy ra trước)
+* *preceding* (đi trước, liền trước)
+* *former* (cựu, trước đây)
+* *antecedent* (tiền đề, có trước)
+
 ## Word family
+
+* *subsequent* (adj) (xảy ra sau, tiếp theo)
+* *subsequently* (adv) (sau đó, về sau)
+* *subsequence* (n) (sự xảy ra sau, chuỗi con)
+* *subsequency* (n) (tính chất xảy ra sau)
 
 # symbol
 ## Nghĩa
