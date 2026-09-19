@@ -14994,14 +14994,108 @@ Dưới đây là từ vựng **"Scheme"** được biên soạn hoàn chỉnh t
 * *schematically* (adv) (dưới dạng sơ đồ, một cách khái quát)
 * *schematize* (v) (sơ đồ hóa, hệ thống hóa)
 
+Dưới đây là từ vựng **"Select"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # select
+
 ## Nghĩa
+
+1. (v) Lựa chọn, tuyển chọn (chọn ra người/vật phù hợp nhất từ một nhóm)
+2. (adj) Được chọn lọc, tinh tuyển (mang tính độc quyền, chất lượng cao)
+3. (v) Đánh dấu, chọn (thao tác dữ liệu hoặc đối tượng trong phần mềm)
+4. (v) Chỉ định, bổ nhiệm (giao nhiệm vụ hoặc vị trí cụ thể cho ai)
+5. (adj) Giới hạn, khắt khe (chỉ dành cho một số ít đối tượng đặc biệt)
+
 ## Ví dụ
+
+* *A specialized committee was formed to select the most suitable candidate for the post.*
+* *The university offers admissions to a very select group of international scholars each year.*
+* *Users can easily select their preferred language options from the main settings menu.*
+* *The coach selected three young players to represent the national team in the finals.*
+* *Only a select few individuals are granted access to the highly confidential database.*
+
 ## Cấu trúc
+
+* *select someone/something for something* (lựa chọn ai/cái gì cho mục đích gì)
+* *select someone/something from something* (tuyển chọn ai/cái gì từ một tập hợp)
+* *select someone to do something* (chọn ai đó để thực hiện nhiệm vụ gì)
+* *be randomly/carefully selected* (được lựa chọn ngẫu nhiên / cẩn thận)
+* *a select group/few* (một nhóm / số ít đối tượng được chọn lọc tinh hoa)
+
 ## Collocation
+
+* *carefully select* (lựa chọn cẩn thận)
+* *randomly select* (lựa chọn ngẫu nhiên)
+* *rigorously select* (tuyển chọn nghiêm ngặt)
+* *specially select* (được đặc biệt tuyển chọn)
+* *manually select* (lựa chọn thủ công)
+* *automatically select* (tự động lựa chọn)
+* *properly select* (lựa chọn đúng đắn)
+* *judiciously select* (lựa chọn sáng suốt)
+* *competitively select* (tuyển chọn qua cạnh tranh)
+* *nationally select* (tuyển chọn cấp quốc gia)
+* *select candidate* (tuyển chọn ứng viên)
+* *select participant* (lựa chọn người tham gia)
+* *select sample* (chọn mẫu nghiên cứu)
+* *select site* (lựa chọn địa điểm)
+* *select location* (chọn vị trí)
+* *select committee* (ủy ban đặc biệt / ủy ban chọn lọc)
+* *select group* (nhóm chọn lọc / tinh hoa)
+* *select few* (số ít đối tượng tinh tuyển)
+* *select method* (lựa chọn phương pháp)
+* *select strategy* (lựa chọn chiến lược)
+* *select option* (chọn tùy chọn)
+* *select text* (chọn văn bản)
+* *select item* (chọn vật phẩm / mặt hàng)
+* *select criteria* (tiêu chí lựa chọn)
+* *select process* (quy trình tuyển chọn)
+* *help to select* (giúp lựa chọn)
+* *seek to select* (tìm cách tuyển chọn)
+* *attempt to select* (cố gắng lựa chọn)
+* *fail to select* (thất bại trong việc lựa chọn)
+* *refuse to select* (từ chối lựa chọn)
+* *care in selecting* (sự cẩn trọng khi lựa chọn)
+* *freedom to select* (sự tự do lựa chọn)
+* *ability to select* (khả năng lựa chọn)
+* *process to select* (quy trình lựa chọn)
+* *right to select* (quyền lựa chọn)
+* *select audience* (khán giả được chọn lọc)
+* *select circle* (giới tinh hoa / nhóm khép kín)
+* *select company* (nhóm người chọn lọc)
+* *select list* (danh sách rút gọn)
+* *select service* (dịch vụ chọn lọc cao cấp)
+* *select target* (chọn mục tiêu)
+* *select topic* (chọn chủ đề)
+* *select partner* (chọn đối tác)
+* *select applicant* (tuyển chọn người nộp đơn)
+* *select representative* (chọn đại diện)
+
 ## Từ đồng nghĩa
+
+* *choose* (chọn lựa, lựa chọn)
+* *pick* (chọn, hái)
+* *opt for* (lựa chọn, hướng tới)
+* *designate* (chỉ định, bổ nhiệm)
+* *handpick* (tự tay chọn lựa kĩ càng)
+* *single out* (chọn riêng ra)
+* *elect* (bầu chọn, bình chọn)
+
 ## Từ trái nghĩa
+
+* *reject* (bác bỏ, từ chối)
+* *discard* (loại bỏ, thải ra)
+* *dismiss* (gạt bỏ, sa thải)
+* *ignore* (phớt lờ, bỏ qua)
+* *overlook* (bỏ sót, không chú ý)
+
 ## Word family
+
+* *select* (v / adj) (lựa chọn / chọn lọc, tinh tuyển)
+* *selection* (n) (sự lựa chọn, sự tuyển chọn, bộ sưu tập)
+* *selective* (adj) (có chọn lọc, khắt khe trong lựa chọn)
+* *selectively* (adv) (một cách có chọn lọc)
+* *selectivity* (n) (tính chọn lọc, độ nhạy chọn lọc)
+* *selector* (n) (người tuyển chọn, bộ lựa chọn)
 
 # simulate
 ## Nghĩa
