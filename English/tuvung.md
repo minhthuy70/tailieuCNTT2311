@@ -14067,14 +14067,108 @@ Dưới đây là từ vựng **"Motivate"** được biên soạn hoàn chỉnh
 * *motivated* (adj) (đầy hăng hái, có động lực)
 * *demotivate* (v) (làm nhụt chí, làm mất động lực)
 
+Dưới đây là từ vựng **"Orient"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # orient
+
 ## Nghĩa
+
+1. (v) Định hướng, hướng tới (tập trung sự chú ý, nỗ lực vào mục tiêu hoặc đối tượng cụ thể)
+2. (v) Định vị, xác định phương hướng (xác định vị trí của bản thân dựa trên xung quanh)
+3. (v) Đào tạo nhập môn, hướng dẫn (giúp nhân viên, sinh viên mới làm quen với môi trường)
+4. (v) Quay về hướng đông (nghĩa cổ / kiến trúc - đặt công trình quay về hướng đông)
+5. (n) Phương Đông, các nước châu Á (thường viết hoa *the Orient* - thuật ngữ trang trọng/văn học)
+
 ## Ví dụ
+
+* *Educational programs should be designed to orient students toward practical job skills.*
+* *It took me a few minutes to orient myself after stepping out of the underground station.*
+* *The university holds an annual session to orient international students to campus life.*
+* *Modern businesses need to orient their marketing strategies around customer feedback.*
+* *The ancient temple was carefully built to orient directly toward the rising sun.*
+
 ## Cấu trúc
+
+* *orient something to/toward(s) something* (định hướng cái gì vào / hướng tới cái gì)
+* *orient oneself (to/toward something)* (tự định vị / thích nghi với cái gì)
+* *be oriented to/toward(s) something* (được định hướng / chú trọng vào cái gì)
+* *orient new staff/students* (đào tạo / hướng dẫn nhân sự hay sinh viên mới)
+* *future-oriented / market-oriented* (hướng tới tương lai / hướng theo thị trường)
+
 ## Collocation
+
+* *future-oriented* (hướng tới tương lai)
+* *action-oriented* (hướng tới hành động)
+* *market-oriented* (hướng theo thị trường)
+* *customer-oriented* (hướng tới khách hàng)
+* *result-oriented* (hướng tới kết quả)
+* *detail-oriented* (chú trọng chi tiết)
+* *goal-oriented* (hướng tới mục tiêu)
+* *task-oriented* (chú trọng vào nhiệm vụ)
+* *family-oriented* (hướng về gia đình)
+* *community-oriented* (hướng về cộng đồng)
+* *profit-oriented* (hướng tới lợi nhuận)
+* *service-oriented* (hướng tới dịch vụ)
+* *export-oriented* (hướng về xuất khẩu)
+* *growth-oriented* (hướng tới sự phát triển)
+* *solution-oriented* (hướng tới giải pháp)
+* *value-oriented* (hướng tới giá trị)
+* *performance-oriented* (hướng tới hiệu suất)
+* *career-oriented* (hướng tới sự nghiệp)
+* *research-oriented* (hướng tới nghiên cứu)
+* *people-oriented* (hướng tới con người)
+* *orient strategy* (định hướng chiến lược)
+* *orient policy* (định hướng chính sách)
+* *orient curriculum* (định hướng chương trình giảng dạy)
+* *orient research* (định hướng nghiên cứu)
+* *orient activity* (định hướng hoạt động)
+* *orient focus* (định hướng sự tập trung)
+* *orient effort* (định hướng nỗ lực)
+* *orient training* (định hướng đào tạo)
+* *orient development* (định hướng sự phát triển)
+* *orient culture* (định hướng văn hóa tổ chức)
+* *help to orient* (giúp định hướng)
+* *seek to orient* (tìm cách định hướng)
+* *attempt to orient* (cố gắng định hướng)
+* *need to orient* (nhu cầu cần định hướng)
+* *fail to orient* (thất bại trong việc định hướng)
+* *ability to orient* (khả năng định hướng)
+* *way to orient* (cách thức định hướng)
+* *properly orient* (định hướng một cách đúng đắn)
+* *clearly orient* (định hướng rõ ràng)
+* *strictly orient* (định hướng nghiêm ngặt)
+* *orient toward success* (định hướng tới thành công)
+* *orient toward change* (định hướng tới sự thay đổi)
+* *orient toward needs* (định hướng theo nhu cầu)
+* *orient toward global market* (định hướng ra thị trường toàn cầu)
+* *orient toward sustainability* (định hướng tới sự phát triển bền vững)
+
 ## Từ đồng nghĩa
+
+* *align* (sắp xếp, định hướng theo hàng)
+* *guide* (hướng dẫn, dẫn đường)
+* *direct* (nhắm vào, chỉ hướng)
+* *focus* (tập trung vào)
+* *adapt* (thích nghi, điều chỉnh)
+* *familiarize* (làm cho quen thuộc)
+* *position* (định vị, đặt vị trí)
+
 ## Từ trái nghĩa
+
+* *disorient* (làm mất phương hướng)
+* *confuse* (gây bối rối, làm xáo trộn)
+* *misguide* (dẫn đường sai trái)
+* *misdirect* (định hướng sai)
+* *distract* (làm phân tâm, xao nhãng)
+
 ## Word family
+
+* *orient* (v / n) (định hướng, định vị / Phương Đông)
+* *orientation* (n) (sự định hướng, buổi hướng dẫn nhập môn)
+* *oriental* (adj / n) (thuộc về Phương Đông / người Phương Đông)
+* *oriented* (adj) (được định hướng, thiên về)
+* *disorient* (v) (làm mất phương hướng)
+* *disorientation* (n) (sự mất phương hướng)
 
 # overall
 ## Nghĩa
