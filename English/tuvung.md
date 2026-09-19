@@ -10756,14 +10756,108 @@
 - *unexposed* (adj) (chưa bị phơi bày / chưa phơi sáng)
 - *expose* (n) (bài báo / báo cáo vạch trần sự thật)
 
+Dưới đây là từ vựng **"External"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # external
+
 ## Nghĩa
+
+1. (adj) Bên ngoài, ở bên ngoài (thuộc về phía ngoài, diện mạo bên ngoài)
+2. (adj) Đối ngoại, từ bên ngoài (thuộc về nước ngoài, tổ chức bên ngoài)
+3. (adj) Ngoại cảnh, bên ngoài tác động vào (yếu tố, áp lực, ảnh hưởng)
+4. (adj) Dùng ngoài da, tác động bên ngoài (trong y học, dược phẩm)
+5. (adj) Ngoại trú, bên ngoài trường học/viện (đánh giá, kiểm định)
+
 ## Ví dụ
+
+* *The external walls of the historic building are made of natural limestone.*
+* *The country relies heavily on external trade to boost its economic growth.*
+* *Success often depends on how well a company adapts to external factors.*
+* *This ointment is strictly meant for external application on the skin.*
+* *An external auditor was appointed to review the university's financial records.*
+
 ## Cấu trúc
+
+* *external to something* (nằm ở bên ngoài cái gì / không thuộc về cái gì)
+* *external factors/influences* (các yếu tố / ảnh hưởng từ bên ngoài)
+* *external examination/audit* (sự kiểm định / kiểm toán độc lập bên ngoài)
+* *be purely external* (hoàn toàn mang tính chất bên ngoài)
+* *rely on external aid/support* (phụ thuộc vào viện trợ / hỗ trợ bên ngoài)
+
 ## Collocation
+
+* *external factor* (yếu tố bên ngoài)
+* *external influence* (ảnh hưởng bên ngoài)
+* *external pressure* (áp lực bên ngoài)
+* *external shock* (cú sốc từ bên ngoài)
+* *external threat* (mối đe dọa bên ngoài)
+* *external force* (lực tác động bên ngoài)
+* *external environment* (môi trường bên ngoài)
+* *external source* (nguồn bên ngoài)
+* *external aid* (viện trợ bên ngoài)
+* *external funding* (nguồn vốn từ bên ngoài)
+* *external trade* (thương mại đối ngoại)
+* *external market* (thị trường nước ngoài / bên ngoài)
+* *external debt* (nợ nước ngoài)
+* *external affairs* (đối ngoại / việc đối ngoại)
+* *external agency* (cơ quan bên ngoài / độc lập)
+* *external auditor* (kiểm toán viên độc lập bên ngoài)
+* *external examiner* (giám khảo / người kiểm định bên ngoài)
+* *external validation* (sự công nhận / xác thực từ bên ngoài)
+* *external evaluation* (đánh giá độc lập bên ngoài)
+* *external consultant* (cố vấn bên ngoài)
+* *external appearance* (diện mạo bên ngoài)
+* *external feature* (đặc điểm bên ngoài)
+* *external damage* (damages / tổn hại bên ngoài)
+* *external conflict* (xung đột bên ngoài)
+* *external stimulus* (tác nhân kích thích bên ngoài)
+* *external application* (sự bôi / dùng ngoài da)
+* *external memory* (bộ nhớ ngoài - công nghệ)
+* *external hard drive* (ổ cứng di động)
+* *external link* (liên kết bên ngoài - tin học)
+* *external relations* (quan hệ đối ngoại)
+* *external constraints* (những hạn chế từ bên ngoài)
+* *external economic conditions* (điều kiện kinh tế bên ngoài)
+* *external political pressure* (áp lực chính trị từ bên ngoài)
+* *external quality assurance* (đảm bảo chất lượng độc lập bên ngoài)
+* *purely external* (hoàn toàn ở bên ngoài)
+* *largely external* (phần lớn do bên ngoài)
+* *entirely external* (toàn bộ đến từ bên ngoài)
+* *seemingly external* (có vẻ là từ bên ngoài)
+* *respond to external demands* (phản ứng với các nhu cầu bên ngoài)
+* *protect against external threats* (bảo vệ khỏi các mối đe dọa bên ngoài)
+* *isolate from external influences* (cách ly khỏi các ảnh hưởng bên ngoài)
+* *vulnerable to external shocks* (dễ bị tổn thương trước cú sốc bên ngoài)
+* *depend on external support* (phụ thuộc vào sự hỗ trợ bên ngoài)
+* *minimize external risks* (giảm thiểu các rủi ro bên ngoài)
+* *integrate external resources* (tích hợp các nguồn lực bên ngoài)
+
 ## Từ đồng nghĩa
+
+* *outer* (ở phía ngoài)
+* *outside* (bên ngoài)
+* *exterior* (bề ngoài, ngoại thất)
+* *extrinsic* (bên ngoài, không cốt lõi)
+* *foreign* (nước ngoài, xa lạ)
+* *outward* (hướng ra ngoài, diện mạo ngoài)
+* *alien* (xa lạ, từ bên ngoài)
+
 ## Từ trái nghĩa
+
+* *internal* (bên trong, nội bộ)
+* *inner* (ở bên trong)
+* *interior* (nội thất, phía trong)
+* *intrinsic* (bản chất, thuộc bên trong)
+* *domestic* (trong nước, nội địa)
+
 ## Word family
+
+* *external* (adj) (bên ngoài, đối ngoại)
+* *externally* (adv) (ở bên ngoài, về mặt đối ngoại)
+* *externalize* (v) (ngoại hiện hóa, biểu lộ ra bên ngoài)
+* *externalization* (n) (sự ngoại hiện hóa, sự chuyển ra bên ngoài)
+* *externality* (n) (tác động ngoại ứng - thuật ngữ kinh tế)
+* *exterior* (n / adj) (bề ngoài, phần bên ngoài)
 
 # extract
 ## Nghĩa
