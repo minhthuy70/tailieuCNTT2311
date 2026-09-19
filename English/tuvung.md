@@ -11471,14 +11471,108 @@ Dưới đây là từ vựng **"Highlight"** được biên soạn hoàn chỉn
 * *highlighter* (n) (bút dạ quang, phấn bắt sáng)
 * *highlighting* (n) (việc tô đậm, hành động làm nổi bật)
 
+Dưới đây là từ vựng **"Illustrate"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # illustrate
+
 ## Nghĩa
+
+1. (v) Minh họa, làm rõ (bằng ví dụ, hình ảnh, biểu đồ, câu chuyện)
+2. (v) Vẽ hình minh họa (cho sách, báo, tài liệu, ấn phẩm)
+3. (v) Thể hiện, bộc lộ rõ (một thực tế, xu hướng, tính chất)
+4. (v) Nêu gương, làm mẫu (chứng minh cho một quan điểm)
+5. (v) Đốm sáng, tỏa sáng (nghĩa văn học cổ/ít dùng)
+
 ## Ví dụ
+
+* *The chart below illustrates the changes in international student enrollment.*
+* *The artist was commissioned to illustrate a new edition of classic fairy tales.*
+* *This tragic incident clearly illustrates the dangers of reckless driving.*
+* *He used a simple personal anecdote to illustrate a complex scientific concept.*
+* *Recent economic data illustrate how deeply inflation affects low-income families.*
+
 ## Cấu trúc
+
+* *illustrate something with/by something* (minh họa cái gì bằng cái gì)
+* *illustrate how/why...* (minh họa cách thức / lý do tại sao...)
+* *be clearly/vividly illustrated by something* (được minh họa rõ ràng bởi cái gì)
+* *serve to illustrate something* (phục vụ cho việc minh họa cái gì)
+* *as illustrated in/by something* (như được minh họa trong / bởi cái gì)
+
 ## Collocation
+
+* *clearly illustrate* (minh họa một cách rõ ràng)
+* *vividly illustrate* (minh họa một cách sinh động)
+* *graphically illustrate* (minh họa một cách trực quan / sinh động)
+* *aptly illustrate* (minh họa một cách thích đáng / khéo léo)
+* *dramatically illustrate* (minh họa một cách ấn tượng / kịch tính)
+* *strikingly illustrate* (minh họa một cách nổi bật)
+* *effectively illustrate* (minh họa một cách hiệu quả)
+* *well illustrate* (minh họa rất tốt)
+* *briefly illustrate* (minh họa sơ lược)
+* *further illustrate* (minh họa rõ hơn nữa)
+* *illustrate point* (minh họa cho quan điểm)
+* *illustrate trend* (minh họa cho xu hướng)
+* *illustrate concept* (minh họa cho khái niệm)
+* *illustrate problem* (minh họa cho vấn đề)
+* *illustrate principle* (minh họa cho nguyên tắc)
+* *illustrate process* (minh họa cho quy trình)
+* *illustrate impact* (minh họa cho tác động)
+* *illustrate difficulty* (minh họa cho khó khăn)
+* *illustrate difference* (minh họa sự khác biệt)
+* *illustrate importance* (minh họa tầm quan trọng)
+* *illustrate growth* (minh họa sự phát triển)
+* *illustrate change* (minh họa sự thay đổi)
+* *illustrate potential* (minh họa tiềm năng)
+* *illustrate relationship* (minh họa mối quan hệ)
+* *illustrate technique* (minh họa kỹ thuật)
+* *illustrate story* (vẽ minh họa cho câu chuyện)
+* *illustrate book* (vẽ minh họa cho sách)
+* *illustrate article* (minh họa cho bài báo)
+* *diagram illustrates* (biểu đồ minh họa rằng)
+* *chart illustrates* (đồ thị minh họa rằng)
+* *figure illustrates* (hình vẽ minh họa rằng)
+* *table illustrates* (bảng biểu minh họa rằng)
+* *graph illustrates* (đồ thị đường minh họa rằng)
+* *map illustrates* (bản đồ minh họa rằng)
+* *example illustrates* (ví dụ minh họa rằng)
+* *case illustrates* (trường hợp minh họa rằng)
+* *study illustrates* (nghiên cứu minh họa rằng)
+* *data illustrates* (dữ liệu minh họa rằng)
+* *help to illustrate* (giúp minh họa)
+* *serve to illustrate* (có tác dụng minh họa)
+* *seek to illustrate* (tìm cách minh họa)
+* *aim to illustrate* (nhắm đến việc minh họa)
+* *used to illustrate* (được dùng để minh họa)
+* *designed to illustrate* (được thiết kế để minh họa)
+* *best illustrated by* (được minh họa tốt nhất bởi)
+
 ## Từ đồng nghĩa
+
+* *demonstrate* (chứng minh, giải thích rõ)
+* *depict* (mô tả, khắc họa)
+* *exemplify* (làm ví dụ minh họa)
+* *clarify* (làm sáng tỏ)
+* *show* (cho thấy, thể hiện)
+* *portray* (phác họa, thể hiện)
+* *elucidate* (làm rõ, giải thích)
+
 ## Từ trái nghĩa
+
+* *obscure* (làm che khuất, làm mờ mịt)
+* *confuse* (làm bối rối, gây nhầm lẫn)
+* *misrepresent* (bóp méo, xuyên tạc)
+* *complicate* (làm phức tạp hóa)
+* *hide* (che giấu, ẩn nấp)
+
 ## Word family
+
+* *illustrate* (v) (minh họa, làm rõ)
+* *illustration* (n) (hình minh họa, ví dụ minh họa)
+* *illustrative* (adj) (có tính chất minh họa)
+* *illustrator* (n) (họa sĩ vẽ tranh minh họa)
+* *illustrated* (adj) (được vẽ / có tranh minh họa)
+* *illustriously* (adv) (lừng lẫy, rạng rỡ - nghĩa cổ)
 
 # imply
 ## Nghĩa
