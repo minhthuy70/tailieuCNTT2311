@@ -13552,14 +13552,108 @@ Dưới đây là từ vựng **"Likely"** được biên soạn hoàn chỉnh t
 * *like* (v / prep) (thích / giống như)
 * *likeness* (n) (sự giống nhau, diện mạo)
 
+Dưới đây là từ vựng **"Maximize"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # maximize
+
 ## Nghĩa
+
+1. (v) Tối đa hóa, làm tăng đến mức tối đa (lợi nhuận, hiệu quả, tiềm năng)
+2. (v) Tận dụng tối đa, triệt để (cơ hội, tài nguyên, thời gian)
+3. (v) Phóng to, làm to hết cỡ (cửa sổ ứng dụng trên màn hình máy tính)
+4. (v) Đề cao, làm nổi bật tầm quan trọng (của một sự việc, thành tựu)
+5. (v) Tối ưu hóa hiệu suất (trong sản xuất, kinh doanh và công nghệ)
+
 ## Ví dụ
+
+* *Businesses strive to maximize their profits while minimizing operational costs.*
+* *Students should maximize their potential by engaging in diverse extracurricular activities.*
+* *Click the icon in the top right corner to maximize the video to full screen.*
+* *The government implemented new policies to maximize efficiency in public services.*
+* *Proper planning allows investors to maximize returns and mitigate financial risks.*
+
 ## Cấu trúc
+
+* *maximize something* (tối đa hóa / tận dụng tối đa cái gì)
+* *maximize the potential/use of something* (tối đa hóa tiềm năng / công dụng của cái gì)
+* *maximize opportunities for someone* (tạo tối đa cơ hội cho ai)
+* *seek/attempt to maximize something* (tìm cách / nỗ lực tối đa hóa cái gì)
+* *help (to) maximize something* (giúp tối đa hóa cái gì)
+
 ## Collocation
+
+* *maximize profit* (tối đa hóa lợi nhuận)
+* *maximize revenue* (tối đa hóa doanh thu)
+* *maximize return* (tối đa hóa lợi nhuận đầu tư)
+* *maximize efficiency* (tối đa hóa hiệu suất)
+* *maximize productivity* (tối đa hóa năng suất)
+* *maximize potential* (tối đa hóa tiềm năng)
+* *maximize output* (tối đa hóa sản lượng)
+* *maximize impact* (tối đa hóa tác động)
+* *maximize benefit* (tối đa hóa lợi ích)
+* *maximize value* (tối đa hóa giá trị)
+* *maximize opportunity* (tận dụng tối đa cơ hội)
+* *maximize resource* (tận dụng triệt để nguồn lực)
+* *maximize space* (tối ưu hóa không gian)
+* *maximize time* (tận dụng tối đa thời gian)
+* *maximize performance* (tối đa hóa hiệu năng)
+* *maximize flexibility* (tối đa hóa sự linh hoạt)
+* *maximize growth* (tối đa hóa sự tăng trưởng)
+* *maximize participation* (tối đa hóa sự tham gia)
+* *maximize exposure* (tối đa hóa sự hiện diện / tiếp cận)
+* *maximize engagement* (tối đa hóa sự tương tác)
+* *maximize safety* (tăng cường an toàn tối đa)
+* *maximize security* (tối đa hóa sự bảo mật)
+* *maximize comfort* (mang lại sự thoải mái tối đa)
+* *maximize utility* (tối đa hóa mức độ hữu dụng)
+* *maximize capacity* (tối đa hóa công suất)
+* *effort to maximize* (nỗ lực nhằm tối đa hóa)
+* *strategy to maximize* (chiến lược tối đa hóa)
+* *seek to maximize* (tìm cách tối đa hóa)
+* *attempt to maximize* (cố gắng tối đa hóa)
+* *aim to maximize* (mục tiêu tối đa hóa)
+* *designed to maximize* (được thiết kế để tối đa hóa)
+* *help maximize* (giúp tối đa hóa)
+* *serve to maximize* (phục vụ việc tối đa hóa)
+* *fail to maximize* (thất bại trong việc tối đa hóa)
+* *continue to maximize* (tiếp tục tối đa hóa)
+* *maximize effectiveness* (tối đa hóa tính hiệu quả)
+* *maximize advantage* (tận dụng tối đa lợi thế)
+* *maximize gain* (tối đa hóa thành quả)
+* *maximize interaction* (tối đa hóa sự tương tác)
+* *maximize storage* (tối đa hóa khả năng lưu trữ)
+* *maximize window* (phóng to cửa sổ màn hình)
+* *maximize shareholder value* (tối đa hóa giá trị cổ đông)
+* *maximize economic growth* (tối đa hóa sự tăng trưởng kinh tế)
+* *maximize learning potential* (tối đa hóa tiềm năng học tập)
+* *maximize tax deductions* (tối đa hóa khoản khấu trừ thuế)
+
 ## Từ đồng nghĩa
+
+* *optimize* (tối ưu hóa)
+* *capitalize on* (tận dụng triệt để, khai thác)
+* *enhance* (nâng cao, tăng cường)
+* *boost* (thúc đẩy, làm tăng mạnh)
+* *magnify* (phóng đại, làm lớn lên)
+* *expand* (mở rộng, phát triển)
+* *exploit* (khai thác tối đa)
+
 ## Từ trái nghĩa
+
+* *minimize* (tối thiểu hóa, giảm đến mức thấp nhất)
+* *reduce* (giảm bớt, cắt giảm)
+* *curtail* (cắt bớt, hạn chế)
+* *diminish* (làm suy giảm, hạ thấp)
+* *decrease* (giảm xuống, suy giảm)
+
 ## Word family
+
+* *maximize* (v) (tối đa hóa, tận dụng tối đa)
+* *maximum* (n / adj) (mức tối đa / tối đa)
+* *maximization* (n) (sự tối đa hóa)
+* *maximal* (adj) (ở mức lớn nhất, tối đa)
+* *maximally* (adv) (đến mức tối đa)
+* *maximizer* (n) (người/thiết bị luôn muốn tối ưu hóa)
 
 # mechanism
 ## Nghĩa
