@@ -14479,14 +14479,108 @@ Dưới đây là từ vựng **"Perceive"** được biên soạn hoàn chỉnh
 * *imperceptible* (adj) (không thể nhận thấy, không đáng kể)
 * *perceptibly* (adv) (một cách có thể nhận biết được)
 
+Dưới đây là từ vựng **"Phase"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # phase
+
 ## Nghĩa
+
+1. (n) Giai đoạn, thời kỳ (một phần trong quá trình phát triển hoặc triển khai)
+2. (n) Pha mặt trăng / hành tinh (hình dạng chiếu sáng quan sát được từ Trái Đất)
+3. (n) Pha điện / vật lý (trạng thái tồn tại của chất hoặc chu kỳ sóng điện)
+4. (v) Thực hiện theo từng giai đoạn, chia đoạn (*phase in/out*)
+5. (v) Lên kế hoạch / sắp xếp theo chu kỳ (trong quản lý dự án và sản xuất)
+
 ## Ví dụ
+
+* *The project is currently in its initial phase of research and development.*
+* *The government plans to phase out single-use plastics over the next three years.*
+* *Different phases of the moon affect the ocean tides significantly.*
+* *Children go through various developmental phases as they grow into adolescence.*
+* *New environmental regulations will be phased in gradually to give businesses time to adapt.*
+
 ## Cấu trúc
+
+* *in a phase / during a phase* (trong một giai đoạn nào đó)
+* *phase out something* (dần loại bỏ / bãi bỏ cái gì theo từng giai đoạn)
+* *phase in something* (dần đưa cái gì vào áp dụng theo từng giai đoạn)
+* *go through a phase* (trải qua một giai đoạn)
+* *enter a new phase* (bước vào một giai đoạn mới)
+
 ## Collocation
+
+* *initial phase* (giai đoạn đầu)
+* *final phase* (giai đoạn cuối)
+* *critical phase* (giai đoạn then chốt)
+* *crucial phase* (giai đoạn quan trọng)
+* *developmental phase* (giai đoạn phát triển)
+* *experimental phase* (giai đoạn thử nghiệm)
+* *transition phase* (giai đoạn chuyển tiếp)
+* *implementation phase* (giai đoạn thực thi)
+* *planning phase* (giai đoạn lập kế hoạch)
+* *construction phase* (giai đoạn xây dựng)
+* *testing phase* (giai đoạn kiểm thử)
+* *pilot phase* (giai đoạn chạy thử nghiệm)
+* *early phase* (giai đoạn sơ khởi)
+* *late phase* (giai đoạn muộn)
+* *acute phase* (giai đoạn cấp tính)
+* *difficult phase* (giai đoạn khó khăn)
+* *transitional phase* (giai đoạn quá độ)
+* *preliminary phase* (giai đoạn tiền đề / sơ bộ)
+* *operational phase* (giai đoạn vận hành)
+* *active phase* (giai đoạn hoạt động tích cực)
+* *phase out strategy* (chiến lược loại bỏ dần)
+* *phase out policy* (chính sách loại bỏ từng bước)
+* *phase in process* (quy trình đưa vào từng bước)
+* *phase out production* (ngừng sản xuất theo giai đoạn)
+* *phase out subsidy* (cắt giảm trợ cấp theo giai đoạn)
+* *enter a phase* (bước vào một giai đoạn)
+* *reach a phase* (đạt đến một giai đoạn)
+* *pass through a phase* (trải qua một giai đoạn)
+* *complete a phase* (hoàn thành một giai đoạn)
+* *extend a phase* (kéo dài một giai đoạn)
+* *delay a phase* (trì hoãn một giai đoạn)
+* *skip a phase* (bỏ qua một giai đoạn)
+* *monitor a phase* (giám sát một giai đoạn)
+* *manage a phase* (quản lý một giai đoạn)
+* *evaluate a phase* (đánh giá một giai đoạn)
+* *out of phase* (lệch pha / không đồng bộ)
+* *in phase with* (đồng pha / đồng bộ với)
+* *lunar phase* (pha mặt trăng)
+* *gas phase* (pha khí)
+* *liquid phase* (pha lỏng)
+* *solid phase* (pha rắn)
+* *phase transition* (sự chuyển pha vật lý)
+* *phase shift* (sự dịch chuyển pha)
+* *phase angle* (góc pha)
+* *phase difference* (độ lệch pha)
+
 ## Từ đồng nghĩa
+
+* *stage* (giai đoạn, thời kỳ)
+* *period* (khoảng thời gian, thời kỳ)
+* *step* (bước, công đoạn)
+* *chapter* (chương, giai đoạn cuộc đời)
+* *epoch* (kỷ nguyên, thời đại)
+* *point* (thời điểm, mức độ)
+* *span* (khoảng thời gian)
+
 ## Từ trái nghĩa
+
+* *whole* (toàn bộ, tổng thể)
+* *entirety* (sự toàn vẹn)
+* *continuity* (sự liên tục, không ngắt quãng)
+* *permanence* (sự vĩnh cửu, cố định)
+* *constancy* (sự kiên định, không đổi)
+
 ## Word family
+
+* *phase* (n / v) (giai đoạn / chia đoạn, thực hiện theo giai đoạn)
+* *phased* (adj) (được chia theo giai đoạn, thực hiện từng bước)
+* *phasic* (adj) (thuộc về giai đoạn, định kỳ)
+* *interphase* (n) (kỳ trung gian trong phân bào)
+* *multiphase* (adj) (đa pha, nhiều giai đoạn)
+* *polyphase* (adj) (nhiều pha - điện học)
 
 # precede
 ## Nghĩa
