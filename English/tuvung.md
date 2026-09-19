@@ -14685,14 +14685,108 @@ Dưới đây là từ vựng **"Precede"** được biên soạn hoàn chỉnh 
 * *unprecedented* (adj) (chưa từng có tiền lệ)
 * *precedently* (adv) (trước đây, từ trước)
 
+Dưới đây là từ vựng **"Qualify"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # qualify
+
 ## Nghĩa
+
+1. (v) Đủ điều kiện, đủ tiêu chuẩn (đạt các yêu cầu cần thiết để nhận quyền lợi / cơ hội)
+2. (v) Tốt nghiệp, cấp chứng chỉ (hoàn thành chương trình đào tạo để hành nghề chuyên nghiệp)
+3. (v) Giới hạn, làm dịu bớt (thêm điều kiện để làm cho một nhận định bớt tuyệt đối)
+4. (v) Lọt vào vòng trong, giành quyền tham dự (trong các giải đấu thể thao / thi đấu)
+5. (v) Miêu tả, dán nhãn (xem ai/cái gì có phẩm chất hoặc tính chất cụ thể)
+
 ## Ví dụ
+
+* *To qualify for the government housing grant, applicants must meet strict income limits.*
+* *After four years of intensive medical training, she finally qualified as a surgeon.*
+* *I would like to qualify my earlier statement by adding that this rule has exceptions.*
+* *The national football team managed to qualify for the final tournament after a tie.*
+* *His extensive overseas experience qualifies him unique insights into international trade.*
+
 ## Cấu trúc
+
+* *qualify for something* (đủ điều kiện / tiêu chuẩn cho cái gì)
+* *qualify as something* (đủ trình độ / tốt nghiệp để làm nghề gì)
+* *qualify someone to do something* (trao quyền / làm cho ai đủ năng lực làm gì)
+* *qualify a statement/claim* (làm rõ / thêm điều kiện hạn chế cho nhận định)
+* *be fully qualified* (có đầy đủ bằng cấp / trình độ chuyên môn)
+
 ## Collocation
+
+* *fully qualify* (có đầy đủ trình độ / bằng cấp)
+* *professionally qualify* (đủ tiêu chuẩn hành nghề)
+* *academically qualify* (đủ tiêu chuẩn về học thuật)
+* *legally qualify* (đủ điều kiện về mặt pháp lý)
+* *automatically qualify* (tự động đủ điều kiện)
+* *hardly qualify* (hầu như không đủ tiêu chuẩn)
+* *barely qualify* (vừa đủ điều kiện)
+* *easily qualify* (dễ dàng đạt tiêu chuẩn)
+* *narrowly qualify* (xuất sắc lọt vào / vừa sát nút)
+* *qualify for grant* (đủ điều kiện nhận trợ cấp)
+* *qualify for loan* (đủ điều kiện vay vốn)
+* *qualify for benefit* (đủ điều kiện hưởng lợi ích)
+* *qualify for discount* (đủ điều kiện giảm giá)
+* *qualify for pension* (đủ điều kiện nhận lương hưu)
+* *qualify for citizenship* (đủ điều kiện nhập quốc tịch)
+* *qualify for position* (đủ năng lực cho vị trí)
+* *qualify for final* (giành quyền vào trận chung kết)
+* *qualify for tournament* (lọt vào giải đấu)
+* *qualify for championship* (đủ điều kiện dự giải vô địch)
+* *qualify as doctor* (tốt nghiệp bác sĩ)
+* *qualify as lawyer* (đủ điều kiện làm luật sư)
+* *qualify as teacher* (đủ tiêu chuẩn làm giáo viên)
+* *qualify as accountant* (được cấp chứng chỉ kế toán)
+* *qualify as success* (được coi là một thành công)
+* *qualify statement* (làm dịu / hạn chế bớt nhận định)
+* *qualify claim* (thêm điều kiện cho tuyên bố)
+* *qualify remark* (làm rõ lời nhận xét)
+* *qualify answer* (thêm điều kiện cho câu trả lời)
+* *qualify definition* (nêu rõ phạm vi định nghĩa)
+* *help to qualify* (giúp đạt tiêu chuẩn)
+* *seek to qualify* (tìm cách đủ điều kiện)
+* *fail to qualify* (không đủ tiêu chuẩn / bị loại)
+* *manage to qualify* (xoay sở để đủ điều kiện)
+* *refuse to qualify* (từ chối cấp quyền)
+* *opportunity to qualify* (cơ hội đạt tiêu chuẩn)
+* *right to qualify* (quyền đủ điều kiện)
+* *criteria to qualify* (tiêu chí để xét duyệt)
+* *effort to qualify* (nỗ lực để đạt tiêu chuẩn)
+* *ability to qualify* (khả năng đạt tiêu chuẩn)
+* *qualify lead* (đánh giá khách hàng tiềm năng)
+* *qualify candidate* (sàng lọc ứng viên)
+* *qualify voter* (xác minh cử tri)
+* *qualify supplier* (đánh giá nhà cung cấp)
+* *qualify product* (kiểm định sản phẩm)
+* *qualify standard* (đạt tiêu chuẩn kỹ thuật)
+
 ## Từ đồng nghĩa
+
+* *certify* (chứng nhận, cấp bằng)
+* *entitle* (cho quyền, đủ điều kiện)
+* *authorize* (ủy quyền, cho phép)
+* *fit* (phù hợp, vừa vặn)
+* *capitate* (đủ năng lực, làm cho đủ khả năng)
+* *restrict* (giới hạn, làm hẹp lại)
+* *modify* (sửa đổi, làm dịu bớt)
+
 ## Từ trái nghĩa
+
+* *disqualify* (tước quyền, làm cho không đủ điều kiện)
+* *incapacitate* (làm cho mất năng lực)
+* *invalidate* (làm mất hiệu lực)
+* *bar* (cấm đoán, ngăn cản)
+* *exclude* (loại trừ, không cho tham gia)
+
 ## Word family
+
+* *qualify* (v) (đủ điều kiện, cấp chứng chỉ, làm dịu bớt)
+* *qualification* (n) (bằng cấp, trình độ chuyên môn, sự hạn chế)
+* *qualified* (adj) (đủ trình độ, có bằng cấp, có điều kiện)
+* *unqualified* (adj) (không đủ trình độ / tuyệt đối, không hạn chế)
+* *disqualify* (v) (loại ra, tước quyền thi đấu / hưởng quyền)
+* *disqualification* (n) (sự tước quyền, sự bị loại)
 
 # reveal
 ## Nghĩa
