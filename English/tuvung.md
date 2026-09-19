@@ -11780,14 +11780,108 @@ Dưới đây là từ vựng **"Impose"** được biên soạn hoàn chỉnh t
 * *unimposing* (adj) (khiêm tốn, không gây ấn tượng)
 * *imposer* (n) (người áp đặt / cơ quan ban hành)
 
+Dưới đây là từ vựng **"Incentive"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # incentive
+
 ## Nghĩa
+
+1. (n) Sự động viên, khích lệ (yếu tố thúc đẩy ai đó nỗ lực làm gì)
+2. (n) Bổng lộc, tiền thưởng (động lực tài chính để nâng cao hiệu suất)
+3. (n) Ưu đãi, chính sách khuyến khích (thuế, đầu tư từ chính phủ)
+4. (n) Động cơ, lý do (thúc đẩy hành động hoặc quyết định)
+5. (adj) Mang tính khuyến khích, có tác dụng động viên (*incentive scheme*)
+
 ## Ví dụ
+
+* *Financial rewards act as a powerful incentive for employees to meet sales targets.*
+* *The government offers tax incentives to encourage foreign investment in clean energy.*
+* *There is little incentive for young graduates to remain in rural areas without job prospects.*
+* *School rewards provide pupils with a strong incentive to improve their academic results.*
+* *The company introduced an incentive bonus scheme to boost overall workplace productivity.*
+
 ## Cấu trúc
+
+* *incentive to do something* (động lực / sự khích lệ để làm điều gì)
+* *incentive for someone/something* (sự khuyến khích cho ai / cái gì)
+* *offer/provide an incentive* (đưa ra / cung cấp sự khích lệ)
+* *financial/tax/economic incentive* (ưu đãi tài chính / thuế / kinh tế)
+* *lack of incentive* (sự thiếu hụt động lực)
+
 ## Collocation
+
+* *financial incentive* (khuyến khích về tài chính)
+* *economic incentive* (động lực kinh tế)
+* *tax incentive* (ưu đãi thuế)
+* *monetary incentive* (khuyến khích bằng tiền mặt)
+* *cash incentive* (tiền thưởng khích lệ)
+* *material incentive* (khuyến khích về vật chất)
+* *perverse incentive* (động lực phản tác dụng / lệch lạc)
+* *moral incentive* (động lực đạo đức)
+* *social incentive* (động lực xã hội)
+* *powerful incentive* (động lực mạnh mẽ)
+* *strong incentive* (sự khích lệ lớn)
+* *great incentive* (động lực to lớn)
+* *additional incentive* (sự khích lệ bổ sung)
+* *added incentive* (động lực tăng thêm)
+* *effective incentive* (sự khích lệ hiệu quả)
+* *positive incentive* (động lực tích cực)
+* *negative incentive* (động lực mang tính răn đe / tiêu cực)
+* *offer incentive* (đưa ra sự khích lệ)
+* *provide incentive* (cung cấp động lực)
+* *create incentive* (tạo ra sự khích lệ)
+* *give incentive* (trao động lực)
+* *introduce incentive* (áp dụng chính sách ưu đãi)
+* *receive incentive* (nhận sự khuyến khích)
+* *gain incentive* (có được động lực)
+* *lack incentive* (thiếu động lực)
+* *destroy incentive* (triệt hạ động lực)
+* *diminish incentive* (làm giảm sự khích lệ)
+* *reduce incentive* (giảm bớt động lực)
+* *incentive program* (chương trình khuyến khích)
+* *incentive scheme* (hệ thống bổng lộc / khích lệ)
+* *incentive pay* (tiền thưởng theo hiệu suất)
+* *incentive package* (gói ưu đãi)
+* *incentive structure* (cơ cấu thưởng khích lệ)
+* *incentive system* (hệ thống khích lệ)
+* *incentive measure* (biện pháp khuyến khích)
+* *incentive policy* (chính sách ưu đãi)
+* *huge incentive* (động lực khổng lồ)
+* *major incentive* (động lực chính)
+* *main incentive* (sự khích lệ cốt lõi)
+* *chief incentive* (động lực hàng đầu)
+* *primary incentive* (khuyến khích ban đầu / hàng đầu)
+* *vital incentive* (động lực thiết yếu)
+* *incentive to innovate* (động lực để đổi mới sáng tạo)
+* *incentive to invest* (động lực để đầu tư)
+* *incentive to work* (động lực để làm việc)
+
 ## Từ đồng nghĩa
+
+* *motivation* (động lực, sự thúc đẩy)
+* *encouragement* (sự khuyến khích, động viên)
+* *inducement* (sự dụ dỗ, sự khuyến khích)
+* *stimulus* (tác nhân kích thích, sự thúc đẩy)
+* *spur* (sự khích lệ, động lực tiến lên)
+* *enticement* (sự lôi cuốn, sự hấp dẫn)
+* *reward* (phần thưởng, sự đền đáp)
+
 ## Từ trái nghĩa
+
+* *disincentive* (sự cản trở, làm nản lòng)
+* *deterrent* (chất răn đe, yếu tố ngăn chặn)
+* *discouragement* (sự làm nản chí)
+* *obstacle* (chướng ngại vật, sự cản trở)
+* *hindrance* (sự cản trở, gây trở ngại)
+
 ## Word family
+
+* *incentive* (n / adj) (sự khích lệ, ưu đãi / mang tính khích lệ)
+* *incentivize* (v) (khuyến khích, thúc đẩy, thưởng)
+* *incentivization* (n) (sự khuyến khích, sự tạo động lực)
+* *disincentive* (n) (yếu tố làm nản lòng, sự cản trở)
+* *disincentivize* (v) (làm nản lòng, nhụt chí)
+* *incentivized* (adj) (được khích lệ, có động lực)
 
 # indicate
 ## Nghĩa
