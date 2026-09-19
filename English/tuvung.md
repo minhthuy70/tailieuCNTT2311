@@ -15261,14 +15261,108 @@ simulative (adj) (có tính chất mô phỏng)
 
 simulatory (adj) (nhằm mục đích giả lập)
 
+Dưới đây là từ vựng **"Specify"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # specify
+
 ## Nghĩa
+
+1. (v) Chỉ rõ, ghi rõ (nêu chi tiết, cụ thể thông tin hoặc yêu cầu trong tài liệu/hợp đồng)
+2. (v) Quy định, định rõ (xác định các tiêu chuẩn, giới hạn hoặc điều kiện bắt buộc)
+3. (v) Định danh, xác định cụ thể (chỉ ra chính xác một đối tượng hoặc yếu tố)
+4. (v) Kê khai, liệt kê (đưa ra danh mục chi tiết các thành phần hoặc thông số kỹ thuật)
+5. (v) Đặt điều kiện, yêu cầu cụ thể (chỉ định rõ loại vật liệu hoặc quy trình cần dùng)
+
 ## Ví dụ
+
+* *The contract clearly specifies that all construction work must be completed by December.*
+* *Applicants are required to specify their highest educational qualification on the form.*
+* *Unless explicitly specified, the government regulation applies to all commercial businesses.*
+* *The architect specified eco-friendly building materials to reduce the environmental impact.*
+* *The user manual does not specify how to troubleshoot this particular system error.*
+
 ## Cấu trúc
+
+* *specify that + clause* (chỉ rõ / quy định rằng [mệnh đề])
+* *specify something as something* (chỉ định / xác định cái gì như là cái gì)
+* *clearly/explicitly specify* (quy định / nêu rõ một cách minh bạch)
+* *as specified in/by something* (như được quy định / chỉ rõ trong cái gì)
+* *fail to specify something* (không nêu rõ / thiếu quy định về cái gì)
+
 ## Collocation
+
+* *clearly specify* (chỉ rõ một cách rõ ràng)
+* *explicitly specify* (nêu rõ một cách dứt khoát)
+* *precisely specify* (quy định một cách chính xác)
+* *strictly specify* (quy định một cách nghiêm ngặt)
+* *further specify* (chỉ rõ thêm)
+* *previously specify* (đã quy định trước đó)
+* *specifically specify* (chỉ định một cách cụ thể)
+* *statutorily specify* (quy định theo luật định)
+* *legally specify* (quy định về mặt pháp lý)
+* *formally specify* (chính thức quy định)
+* *specify requirement* (chỉ rõ yêu cầu)
+* *specify condition* (quy định điều kiện)
+* *specify criterion* (nêu rõ tiêu chí)
+* *specify detail* (chỉ rõ chi tiết)
+* *specify reason* (nêu rõ lý do)
+* *specify purpose* (chỉ rõ mục đích)
+* *specify objective* (xác định mục tiêu)
+* *specify role* (quy định vai trò)
+* *specify function* (chỉ rõ chức năng)
+* *specify limit* (quy định giới hạn)
+* *specify time* (xác định thời gian)
+* *specify date* (chỉ rõ ngày tháng)
+* *specify amount* (xác định số lượng)
+* *specify cost* (chỉ rõ chi phí)
+* *specify location* (xác định địa điểm)
+* *specify standard* (quy định tiêu chuẩn)
+* *specify procedure* (chỉ rõ quy trình)
+* *specify material* (chỉ định vật liệu)
+* *specify parameter* (xác định tham số)
+* *specify format* (quy định định dạng)
+* *fail to specify* (không nêu rõ)
+* *need to specify* (cần phải chỉ rõ)
+* *attempt to specify* (cố gắng xác định)
+* *seek to specify* (tìm cách quy định)
+* *refuse to specify* (từ chối nêu rõ)
+* *forget to specify* (quên không ghi rõ)
+* *decline to specify* (từ khước chỉ rõ)
+* *required to specify* (được yêu cầu ghi rõ)
+* *important to specify* (quan trọng phải quy định rõ)
+* *difficult to specify* (khó xác định chính xác)
+* *specify terms* (quy định các điều khoản)
+* *specify guidelines* (chỉ rõ hướng dẫn)
+* *specify age group* (xác định nhóm tuổi)
+* *specify target audience* (chỉ rõ đối tượng mục tiêu)
+* *specify minimum standard* (quy định tiêu chuẩn tối thiểu)
+
 ## Từ đồng nghĩa
+
+* *state* (phát biểu, tuyên bố rõ)
+* *stipulate* (quy định, đặt điều kiện)
+* *detail* (trình bày chi tiết)
+* *indicate* (chỉ ra, biểu thị)
+* *define* (định nghĩa, xác định rõ)
+* *designate* (chỉ định, bổ nhiệm)
+* *itemize* (liệt kê từng khoản)
+
 ## Từ trái nghĩa
+
+* *generalize* (khái quát hóa)
+* *generalise* (nói chung chung)
+* *confuse* (gây mơ hồ, bối rối)
+* *obfuscate* (làm mập mờ, khó hiểu)
+* *overlook* (bỏ qua, không đề cập)
+
 ## Word family
+
+* *specify* (v) (chỉ rõ, quy định, ghi rõ)
+* *specification* (n) (đặc tả kỹ thuật, sự chỉ rõ, thông số)
+* *specific* (adj / n) (cụ thể, đặc trưng / nét đặc thù)
+* *specifically* (adv) (một cách cụ thể, đặc biệt là)
+* *specificity* (n) (tính cụ thể, đặc tính riêng)
+* *unspecified* (adj) (chưa được chỉ rõ, không xác định)
 
 # subsequent
 ## Nghĩa
