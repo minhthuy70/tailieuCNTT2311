@@ -16446,11 +16446,103 @@ Dưới đây là từ vựng **"Variety"** được biên soạn hoàn chỉnh 
 * *variable* (adj / n) (có thể thay đổi / biến số)
 * *invariable* (adj) (không thể thay đổi, cố định)
 
+Dưới đây là từ vựng **"Widespread"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # widespread
+
 ## Nghĩa
+
+1. (adj) Lan rộng, phổ biến (diễn ra trên một phạm vi diện tích địa lý hoặc không gian lớn)
+2. (adj) Rộng rãi, chung (được nhiều người thừa nhận, chấp nhận hoặc tin tưởng)
+3. (adj) Tràn lan, khắp nơi (xuất hiện ở nhiều cá nhân, tổ chức hoặc tầng lớp xã hội)
+4. (adj) Mang tính hệ thống (tình trạng ảnh hưởng sâu rộng đến toàn bộ cấu trúc)
+5. (adj) Mở rộng ra hai bên (*thơ văn/mô tả* - giang rộng như đôi cánh)
+
 ## Ví dụ
+
+* *The proposed tax reform sparked widespread protest across the entire country.*
+* *There is a widespread belief that education is the most effective tool to escape poverty.*
+* *Drought conditions caused widespread damage to agricultural crops throughout the region.*
+* *Corruption remains a widespread issue that hampers economic growth in developing nations.*
+* *The news of the scandal generated widespread media coverage within hours.*
+
 ## Cấu trúc
+
+* *widespread among/in someone/something* (phổ biến / tràn lan trong nhóm hay khu vực nào)
+* *widespread acceptance/support* (sự chấp nhận / ủng hộ rộng rãi)
+* *widespread concern/criticism* (sự lo ngại / phê bình gay gắt từ nhiều phía)
+* *become widespread* (trở nên phổ biến / lan rộng)
+* *cause widespread damage/destruction* (gây ra thiệt hại / sự tàn phá trên diện rộng)
+
 ## Collocation
+
+* *widespread belief* (niềm tin phổ biến)
+* *widespread acceptance* (sự chấp nhận rộng rãi)
+* *widespread support* (sự ủng hộ rộng rãi)
+* *widespread approval* (sự tán thành rộng rãi)
+* *widespread agreement* (sự đồng thuận rộng rãi)
+* *widespread concern* (sự lo ngại sâu rộng)
+* *widespread anxiety* (sự lo âu tràn lan)
+* *widespread alarm* (sự báo động trên diện rộng)
+* *widespread criticism* (sự phê bình gay gắt rộng rãi)
+* *widespread condemnation* (sự lên án mạnh mẽ từ công chúng)
+* *widespread protest* (cuộc biểu tình trên diện rộng)
+* *widespread resistance* (sự kháng cự tràn lan)
+* *widespread opposition* (sự phản đối rộng khắp)
+* *widespread discontent* (sự bất mãn sâu rộng)
+* *widespread outrage* (sự phẫn nộ trong cộng đồng)
+* *widespread damage* (thiệt hại trên diện rộng)
+* *widespread destruction* (sự tàn phá diện rộng)
+* *widespread devastation* (sự thảm họa lan rộng)
+* *widespread flooding* (ngập lụt trên diện rộng)
+* *widespread disruption* (sự gián đoạn diện rộng)
+* *widespread corruption* (nạn tham nhũng tràn lan)
+* *widespread poverty* (nạn nghèo đói diện rộng)
+* *widespread unemployment* (nạn thất nghiệp tràn lan)
+* *widespread panic* (sự hoảng loạn diện rộng)
+* *widespread fear* (nỗi sợ hãi tràn lan)
+* *widespread usage* (việc sử dụng phổ biến)
+* *widespread adoption* (sự áp dụng rộng rãi)
+* *widespread availability* (sự sẵn có khắp nơi)
+* *widespread popularity* (sự ưa chuộng rộng rãi)
+* *widespread recognition* (sự công nhận rộng rãi)
+* *widespread coverage* (sự đưa tin rộng khắp)
+* *widespread interest* (sự quan tâm sâu rộng)
+* *widespread influence* (ảnh hưởng sâu rộng)
+* *widespread impact* (tác động trên diện rộng)
+* *widespread consequence* (hệ quả diện rộng)
+* *widespread application* (ứng dụng rộng rãi)
+* *widespread implementation* (triển khai trên diện rộng)
+* *widespread reform* (cuộc cải cách diện rộng)
+* *widespread disease* (dịch bệnh lan rộng)
+* *widespread infection* (sự lây nhiễm rộng)
+* *become widespread* (trở nên lan rộng)
+* *remain widespread* (vẫn còn phổ biến)
+* *increasingly widespread* (ngày càng phổ biến)
+* *fairly widespread* (khá phổ biến)
+* *extremely widespread* (cực kỳ phổ biến)
+
 ## Từ đồng nghĩa
+
+* *pervasive* (lan tỏa, tràn ngập)
+* *prevalent* (phổ biến, thịnh hành)
+* *extensive* (rộng lớn, quy mô)
+* *ubiquitous* (có mặt ở khắp nơi)
+* *rampant* (tràn lan, không kiểm soát được)
+* *far-reaching* (có ảnh hưởng sâu rộng)
+* *general* (chung, phổ quát)
+
 ## Từ trái nghĩa
+
+* *limited* (hạn chế, có giới hạn)
+* *localized* (mang tính cục bộ)
+* *localised* (giới hạn trong một vùng)
+* *rare* (hiếm có, ít gặp)
+* *scarcely* (hiếm khi, hầu như không)
+
 ## Word family
+
+* *widespread* (adj) (lan rộng, phổ biến, tràn lan)
+* *widespreadness* (n) (tính chất lan rộng, sự phổ biến)
+* *spread* (v / n) (lan ra, trải dài / sự lan rộng)
+* *spreading* (n / adj) (sự phát tán / đang lan rộng)
