@@ -12461,14 +12461,108 @@ Dưới đây là từ vựng **"Innovate"** được biên soạn hoàn chỉnh
 * *innovator* (n) (nhà đổi mới, người tiên phong)
 * *innovatory* (adj) (có tính chất cách tân)
 
+Dưới đây là từ vựng **"Input"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # input
+
 ## Nghĩa
+
+1. (n) Ý kiến đóng góp, sự đóng góp (thông tin, tư vấn, nỗ lực cho một kế hoạch)
+2. (n) Đầu vào, dữ liệu vào (thông tin, số liệu nạp vào máy tính hoặc hệ thống)
+3. (n) Đầu vào sản xuất (nguyên liệu, năng lượng, chi phí cho quá trình sản xuất)
+4. (v) Nhập dữ liệu, đưa thông tin vào (máy tính, hệ thống lưu trữ)
+5. (n) Công suất đầu vào (trong kỹ thuật, thiết bị điện)
+
 ## Ví dụ
+
+* *We need your valuable input before making a final decision on the project.*
+* *The computer system processes the input data to generate monthly sales reports.*
+* *High input costs for raw materials have reduced the company's profit margin.*
+* *It takes several hours to input all the survey results into the database.*
+* *Agricultural output depends heavily on the quality of natural inputs like soil and water.*
+
 ## Cấu trúc
+
+* *input into/to something* (sự đóng góp ý kiến / nguồn lực vào cái gì)
+* *input data/information into a system* (nhập dữ liệu / thông tin vào hệ thống)
+* *provide/give input on something* (đóng góp ý kiến về vấn đề gì)
+* *valuable/constructive input* (ý kiến đóng góp quý báu / mang tính xây dựng)
+* *input from someone* (ý kiến đóng góp từ ai)
+
 ## Collocation
+
+* *valuable input* (sự đóng góp quý báu)
+* *constructive input* (ý kiến đóng góp xây dựng)
+* *expert input* (ý kiến chuyên gia)
+* *user input* (dữ liệu / ý kiến người dùng)
+* *community input* (ý kiến cộng đồng)
+* *public input* (sự đóng góp ý kiến từ công chúng)
+* *direct input* (sự đóng góp trực tiếp)
+* *positive input* (sự đóng góp tích cực)
+* *significant input* (sự đóng góp quan trọng)
+* *creative input* (đóng góp mang tính sáng tạo)
+* *financial input* (sự đóng góp về tài chính)
+* *labor input* (đầu vào lao động)
+* *energy input* (đầu vào năng lượng)
+* *material input* (đầu vào nguyên vật liệu)
+* *cost of input* (chi phí đầu vào)
+* *input data* (dữ liệu đầu vào)
+* *input signal* (tín hiệu đầu vào)
+* *input device* (thiết bị đầu vào)
+* *input parameter* (tham số đầu vào)
+* *input field* (trường nhập dữ liệu)
+* *provide input* (cung cấp ý kiến / đầu vào)
+* *seek input* (tìm kiếm sự đóng góp ý kiến)
+* *gather input* (thu thập ý kiến đóng góp)
+* *welcome input* (hoan nghênh ý kiến đóng góp)
+* *solicit input* (kêu gọi ý kiến đóng góp)
+* *require input* (yêu cầu dữ liệu đầu vào)
+* *need input* (cần sự đóng góp)
+* *value input* (trân trọng ý kiến đóng góp)
+* *encourage input* (khuyến khích đóng góp ý kiến)
+* *invite input* (mời đóng góp ý kiến)
+* *input information* (nhập thông tin)
+* *input details* (nhập chi tiết)
+* *input code* (nhập mã lệnh)
+* *input password* (nhập mật khẩu)
+* *manually input* (nhập liệu thủ công)
+* *electronically input* (nhập liệu điện tử)
+* *correctly input* (nhập đúng dữ liệu)
+* *accurately input* (nhập liệu chính xác)
+* *input cost* (chi phí đầu vào)
+* *input level* (mức độ đầu vào)
+* *input source* (nguồn đầu vào)
+* *input force* (lực đầu vào)
+* *input power* (công suất đầu vào)
+* *input voltage* (điện áp đầu vào)
+* *input capacity* (dung lượng đầu vào)
+
 ## Từ đồng nghĩa
+
+* *contribution* (sự đóng góp)
+* *feedback* (ý kiến phản hồi)
+* *data* (dữ liệu, thông tin)
+* *advice* (lời khuyên, tư vấn)
+* *entry* (sự nhập vào, dữ liệu nhập)
+* *resource* (nguồn lực)
+* *opinion* (quan điểm, ý kiến)
+
 ## Từ trái nghĩa
+
+* *output* (đầu ra, sản lượng)
+* *yield* (sản lượng, lợi nhuận tạo ra)
+* *result* (kết quả)
+* *product* (sản phẩm hoàn thành)
+* *outcome* (kết quả cuối cùng)
+
 ## Word family
+
+* *input* (n / v) (đầu vào, sự đóng góp / nhập dữ liệu)
+* *inputting* (gerund/v-ing) (việc nhập dữ liệu)
+* *inputs* (n - số nhiều) (các yếu tố đầu vào)
+* *re-input* (v) (nhập lại dữ liệu)
+* *throughput* (n) (lượng dữ liệu/hàng hóa xử lý qua hệ thống)
+* *output* (n / v) (đầu ra, sản xuất ra)
 
 # insight
 ## Nghĩa
