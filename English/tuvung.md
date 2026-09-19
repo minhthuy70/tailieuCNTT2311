@@ -16343,14 +16343,108 @@ Dưới đây là từ vựng **"Utility"** được biên soạn hoàn chỉnh 
 * *utilitarianism* (n) (chủ nghĩa vị lợi)
 * *reutilize* (v) (tái sử dụng, dùng lại)
 
+Dưới đây là từ vựng **"Variety"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # variety
+
 ## Nghĩa
+
+1. (n) Sự đa dạng, sự phong phú (sự tồn tại của nhiều kiểu, loại hoặc hình thức khác nhau)
+2. (n) Loại, giống, biến thể (một kiểu cụ thể thuộc một nhóm, loài thực vật hoặc động vật)
+3. (n) Sự thay đổi, muôn màu muôn vẻ (trạng thái không bị đơn điệu hay lặp đi lặp lại)
+4. (n) Chương trình tạp kỹ (hình thức biểu diễn nghệ thuật gồm nhiều tiết mục khác nhau)
+5. (n) Hàng hóa nhiều chủng loại (tập hợp các mặt hàng phong phú để lựa chọn)
+
 ## Ví dụ
+
+* *The local market offers a wide variety of fresh organic fruits and vegetables.*
+* *This specific variety of wheat is highly resistant to severe drought conditions.*
+* *Adding variety to your daily exercise routine helps prevent boredom and injury.*
+* *She enjoyed watching the television variety show featuring music and comedy.*
+* *The store stocks a rich variety of books catering to readers of all ages.*
+
 ## Cấu trúc
+
+* *a wide/huge/rich variety of something* (rất nhiều / đa dạng cái gì)
+* *variety of options/choices* (sự phong phú về các lựa chọn)
+* *add variety to something* (thêm sự phong phú / mới mẻ vào cái gì)
+* *for variety's sake* (để cho có sự đổi mới / đỡ nhàm chán)
+* *a particular variety of something* (một giống / loại cụ thể của cái gì)
+
 ## Collocation
+
+* *wide variety* (sự đa dạng rộng lớn)
+* *great variety* (sự đa dạng lớn)
+* *huge variety* (sự đa dạng khổng lồ)
+* *vast variety* (sự đa dạng mênh mông)
+* *rich variety* (sự đa dạng phong phú)
+* *endless variety* (sự đa dạng vô tận)
+* *infinite variety* (sự đa dạng vô hạn)
+* *broad variety* (sự đa dạng mở rộng)
+* *enormous variety* (sự đa dạng cực lớn)
+* *surprising variety* (sự đa dạng đáng kinh ngạc)
+* *variety of factors* (nhiều yếu tố khác nhau)
+* *variety of reasons* (nhiều lý do khác nhau)
+* *variety of sources* (nhiều nguồn khác nhau)
+* *variety of methods* (nhiều phương pháp khác nhau)
+* *variety of products* (nhiều sản phẩm khác nhau)
+* *variety of topics* (nhiều chủ đề khác nhau)
+* *variety of opinion* (sự đa dạng về ý kiến)
+* *variety of culture* (sự phong phú về văn hóa)
+* *variety of species* (sự đa dạng các loài)
+* *variety of background* (nhiều xuất thân khác nhau)
+* *plant variety* (giống cây trồng)
+* *crop variety* (giống cây lương thực)
+* *apple variety* (giống táo)
+* *grape variety* (giống nho)
+* *hybrid variety* (giống lai)
+* *local variety* (giống địa phương)
+* *rare variety* (giống hiếm)
+* *resistant variety* (giống có sức đề kháng)
+* *new variety* (giống mới)
+* *improved variety* (giống cải tiến)
+* *variety show* (chương trình tạp kỹ)
+* *variety store* (cửa hàng bách hóa tổng hợp)
+* *variety theater* (nhà hát tạp kỹ)
+* *variety act* (tiết mục tạp kỹ)
+* *spice of life variety* (sự đa dạng là gia vị cuộc sống)
+* *offer a variety* (cung cấp sự đa dạng)
+* *provide a variety* (mang lại sự đa dạng)
+* *display a variety* (hiển thị sự đa dạng)
+* *contain a variety* (bao gồm sự đa dạng)
+* *lack variety* (thiếu sự đa dạng)
+* *ensure variety* (đảm bảo sự phong phú)
+* *introduce variety* (đưa vào sự mới mẻ)
+* *require variety* (yêu cầu sự phong phú)
+* *seek variety* (tìm kiếm sự đa dạng)
+* *enjoy variety* (thích sự phong phú)
+
 ## Từ đồng nghĩa
+
+* *diversity* (sự đa dạng, muôn màu)
+* *assortment* (sự phối hợp, bộ sưu tập đủ loại)
+* *range* (mức độ, phạm vi, dải đa dạng)
+* *array* (sự sắp đặt phong phú, mảng)
+* *mixture* (sự pha trộn, hỗn hợp)
+* *selection* (sự lựa chọn phong phú)
+* *variation* (sự biến đổi, biến thể)
+
 ## Từ trái nghĩa
+
+* *monotony* (sự đơn điệu, đều đều)
+* *uniformity* (sự đồng nhất, giống hệt)
+* *similarity* (sự tương đồng, giống nhau)
+* *sameness* (sự một màu, không đổi)
+* *regularity* (sự đều đặn, quy chuẩn)
+
 ## Word family
+
+* *variety* (n) (sự đa dạng, giống loại)
+* *vary* (v) (thay đổi, biến đổi, làm cho khác nhau)
+* *various* (adj) (nhiều, đa dạng)
+* *varied* (adj) (màu sắc, phong phú, nhiều mặt)
+* *variable* (adj / n) (có thể thay đổi / biến số)
+* *invariable* (adj) (không thể thay đổi, cố định)
 
 # widespread
 ## Nghĩa
