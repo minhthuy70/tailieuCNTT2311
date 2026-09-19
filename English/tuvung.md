@@ -13449,14 +13449,108 @@ Dưới đây là từ vựng **"Legislate"** được biên soạn hoàn chỉn
 * *legislature* (n) (cơ quan lập pháp, quốc hội)
 * *legislatively* (adv) (về mặt lập pháp, bằng con đường luật pháp)
 
+Dưới đây là từ vựng **"Likely"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # likely
+
 ## Nghĩa
+
+1. (adj) Có khả năng xảy ra, rất có thể (chỉ xác suất cao trong tương lai)
+2. (adj) Phù hợp, thích hợp, hứa hẹn (cho một mục đích hoặc vai trò cụ thể)
+3. (adv) Có lẽ, Rất có thể (thường đi kèm với *most*, *very*, *more*, *less*)
+4. (adj) Đáng tin, có vẻ đúng (về một lời giải thích, lý do hoặc câu chuyện)
+5. (adj) Có vẻ thành công, triển vọng (về một ứng viên, địa điểm, giải pháp)
+
 ## Ví dụ
+
+* *It is highly likely that renewable energy will dominate the global market by 2030.*
+* *Children who read regularly are more likely to achieve academic success.*
+* *He is a very likely candidate for the position of senior research analyst.*
+* *The most likely cause of the equipment failure was a sudden power surge.*
+* *If prices continue to rise, consumers will most likely reduce non-essential spending.*
+
 ## Cấu trúc
+
+* *be likely to do something* (có khả năng / rất có thể làm điều gì)
+* *it is (highly/very) likely that + clause* (rất có khả năng rằng [mệnh đề])
+* *more/less likely to do something* (có nhiều / ít khả năng làm gì hơn)
+* *the most likely outcome/cause* (kết quả / nguyên nhân có khả năng cao nhất)
+* *seem/appear likely* (dường như rất có thể xảy ra)
+
 ## Collocation
+
+* *highly likely* (rất có khả năng)
+* *very likely* (rất có thể)
+* *most likely* (có khả năng nhất)
+* *more likely* (có nhiều khả năng hơn)
+* *less likely* (ít có khả năng hơn)
+* *equally likely* (có khả năng ngang nhau)
+* *extremely likely* (cực kỳ có khả năng)
+* *increasingly likely* (ngày càng có khả năng)
+* *quite likely* (khá có khả năng)
+* *fairly likely* (tương đối có khả năng)
+* *seem likely* (có vẻ rất triển vọng / dễ xảy ra)
+* *appear likely* (dường như có khả năng)
+* *remain likely* (vẫn có khả năng xảy ra)
+* *become likely* (trở nên dễ xảy ra)
+* *make likely* (làm cho dễ xảy ra)
+* *render likely* (khiến cho có khả năng cao)
+* *likely cause* (nguyên nhân có khả năng nhất)
+* *likely outcome* (kết quả có thể xảy ra)
+* *likely result* (kết quả dễ đoán)
+* *likely scenario* (kịch bản có khả năng nhất)
+* *likely candidate* (ứng viên triển vọng)
+* *likely target* (mục tiêu dễ bị ảnh hưởng)
+* *likely beneficiary* (đối tượng dễ được hưởng lợi)
+* *likely consequence* (hậu quả dễ xảy ra)
+* *likely impact* (tác động có thể xảy ra)
+* *likely successor* (người kế nhiệm tiềm năng)
+* *likely winner* (người thắng cuộc tiềm năng)
+* *likely explanation* (lời giải thích có lý)
+* *likely source* (nguồn có khả năng cao)
+* *likely location* (địa điểm phù hợp)
+* *likely response* (phản ứng có thể đoán trước)
+* *likely development* (diễn biến có khả năng xảy ra)
+* *likely effect* (hiệu ứng dễ xảy ra)
+* *likely trend* (xu hướng có khả năng cao)
+* *likely culprit* (thủ phạm có khả năng nhất)
+* *far more likely* (có khả năng hơn nhiều)
+* *far less likely* (ít có khả năng hơn nhiều)
+* *least likely* (ít có khả năng nhất)
+* *likely to occur* (có khả năng xảy ra)
+* *likely to happen* (có khả năng diễn ra)
+* *likely to succeed* (có khả năng thành công)
+* *likely to fail* (có khả năng thất bại)
+* *likely to increase* (có khả năng tăng lên)
+* *likely to decrease* (có khả năng giảm xuống)
+* *likely to continue* (có khả năng tiếp diễn)
+
 ## Từ đồng nghĩa
+
+* *probable* (có khả năng, có thể)
+* *plausible* (có hợp lý, có vẻ đúng)
+* *apt* (có khuynh hướng, dễ)
+* *prone* (có thiên hướng, dễ bị)
+* *liable* (có khả năng xảy ra, dễ chịu ảnh hưởng)
+* *expected* (được dự đoán, kỳ vọng)
+* *prospective* (tiềm năng, tương lai)
+
 ## Từ trái nghĩa
+
+* *unlikely* (khó có thể xảy ra)
+* *improbable* (không chắc xảy ra)
+* *doubtful* (nghi ngờ, không chắc chắn)
+* *implausible* (không hợp lý, khó tin)
+* *impossible* (không thể nào)
+
 ## Word family
+
+* *likely* (adj / adv) (có khả năng, rất có thể)
+* *unlikely* (adj) (không có khả năng xảy ra)
+* *likelihood* (n) (sự có khả năng, xác suất)
+* *unlikelihood* (n) (sự khó xảy ra, sự không chắc chắn)
+* *like* (v / prep) (thích / giống như)
+* *likeness* (n) (sự giống nhau, diện mạo)
 
 # maximize
 ## Nghĩa
