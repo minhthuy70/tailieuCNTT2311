@@ -16037,14 +16037,106 @@ Dưới đây là từ vựng **"Undergo"** được biên soạn hoàn chỉnh 
 * *undergone* (v - quá khứ phân từ) (đã trải qua)
 * *undergoing* (n / adj) (việc trải qua / đang diễn ra)
 
+Dưới đây là từ vựng **"Unique"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # unique
+
 ## Nghĩa
+
+1. (adj) Độc nhất, duy nhất (chỉ có một trên đời, không có cái thứ hai tương tự)
+2. (adj) Độc đáo, đặc sắc (có tính chất khác biệt nổi bật so me với những cái khác)
+3. (adj) Đặc trưng, riêng biệt (chỉ có ở một vùng, một loài hoặc một nhóm cụ thể)
+4. (adj) Hiếm có, phi thường (mang lại cơ hội hoặc trải nghiệm đặc biệt)
+5. (adj) Riêng biệt cá nhân (phản ánh phong cách hoặc bản sắc cá thể)
+
 ## Ví dụ
+
+* *Each individual possesses a unique pattern of DNA that sets them apart from others.*
+* *The museum offers visitors a unique opportunity to view ancient historical artifacts.*
+* *Kangaroo species are completely unique to the Australian continent and environment.*
+* *Her unique architectural design seamlessly blends modern aesthetics with traditional forms.*
+* *The region's unique climate allows rare botanical species to thrive naturally.*
+
 ## Cấu trúc
+
+* *unique to someone/something* (đặc trưng / chỉ có ở ai hay cái gì)
+* *truly/completely unique* (hoàn toàn độc nhất / độc đáo)
+* *a unique feature/characteristic* (một đặc điểm / tính chất độc đáo)
+* *a unique opportunity/experience* (một cơ hội / trải nghiệm hiếm có)
+* *render something unique* (làm cho cái gì trở nên độc đáo)
+
 ## Collocation
+
+* *truly unique* (thực sự độc đáo)
+* *completely unique* (hoàn toàn độc nhất)
+* *utterly unique* (cực kỳ độc đáo)
+* *quite unique* (khá độc đáo)
+* *fairly unique* (tương đối độc đáo)
+* *virtually unique* (hầu như độc nhất)
+* *nearly unique* (gần như độc nhất)
+* *culturally unique* (độc đáo về văn hóa)
+* *historically unique* (đặc sắc về lịch sử)
+* *genetically unique* (độc nhất về di truyền)
+* *unique feature* (đặc điểm độc đáo)
+* *unique characteristic* (tính chất đặc trưng)
+* *unique opportunity* (cơ hội hiếm có)
+* *unique experience* (trải nghiệm độc đáo)
+* *unique style* (phong cách riêng biệt)
+* *unique identity* (bản sắc độc đáo)
+* *unique perspective* (góc nhìn độc đáo)
+* *unique insight* (phát hiện / hiểu biết sâu sắc độc đáo)
+* *unique position* (vị thế độc tôn)
+* *unique role* (vai trò đặc thù)
+* *unique situation* (tình huống đặc biệt)
+* *unique challenge* (thách thức đặc thù)
+* *unique blend* (sự pha trộn độc đáo)
+* *unique combination* (sự kết hợp độc đáo)
+* *unique flavor* (hương vị độc đáo)
+* *unique design* (thiết kế độc đáo)
+* *unique architecture* (kiến trúc độc đáo)
+* *unique species* (loài đặc hữu / độc đáo)
+* *unique ecosystem* (hệ sinh thái đặc hữu)
+* *unique talent* (tài năng hiếm có)
+* *unique quality* (phẩm chất đặc biệt)
+* *unique property* (thuộc tính độc đáo)
+* *unique advantage* (lợi thế độc quyền / đặc thù)
+* *unique selling point* (điểm bán hàng độc nhất - USP)
+* *unique contribution* (đóng góp độc đáo)
+* *make something unique* (tạo nên sự độc đáo cho cái gì)
+* *render something unique* (khiến cái gì trở nên độc đáo)
+* *remain unique* (vẫn giữ được sự độc đáo)
+* *consider unique* (coi là độc đáo)
+* *recognize as unique* (công nhận là độc nhất)
+* *unique to humans* (chỉ có ở con người)
+* *unique to region* (đặc hữu của vùng)
+* *unique to culture* (chỉ có trong văn hóa)
+* *unique sound* (âm thanh độc đáo)
+* *unique voice* (giọng nói / tiếng nói riêng biệt)
+
 ## Từ đồng nghĩa
+
+* *singular* (độc nhất, khác thường)
+* *unparalleled* (không gì sánh bằng, vô song)
+* *distinctive* (đặc trưng, dễ nhận biết)
+* *incomparable* (không thể so sánh được)
+* *unrivaled* (không có đối thủ)
+* *exclusive* (độc quyền, dành riêng)
+* *matchless* (không ai bằng)
+
 ## Từ trái nghĩa
+
+* *common* (phổ biến, thông thường)
+* *ordinary* (bình thường, thông thường)
+* *typical* (điển hình, tiêu biểu)
+* *widespread* (lan rộng, phổ biến)
+* *conventional* (theo tập quán, thông thường)
+
 ## Word family
+
+* *unique* (adj / n) (độc nhất, độc đáo / vật độc nhất)
+* *uniquely* (adv) (một cách độc đáo, duy nhất)
+* *uniqueness* (n) (sự độc nhất, tính độc đáo)
+* *non-unique* (adj) (không độc nhất, đại trà)
 
 # upgrade
 ## Nghĩa
