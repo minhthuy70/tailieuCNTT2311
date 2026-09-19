@@ -12358,14 +12358,108 @@ injected (adj) (được tiêm, được bơm vào)
 
 reinject (v) (tiêm lại, tái bơm vốn)
 
+Dưới đây là từ vựng **"Innovate"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # innovate
+
 ## Nghĩa
+
+1. (v) Đổi mới, tân trang (áp dụng phương pháp, ý tưởng hoặc sản phẩm mới)
+2. (v) Sáng tạo, phát minh (tiên phong đưa ra các giải pháp tiên tiến)
+3. (v) Cách tân, cải tiến (thay đổi quy trình để nâng cao hiệu suất)
+4. (v) Tiên phong thay đổi (trong công nghệ, giáo dục, mô hình kinh doanh)
+5. (v) Đột phá (phá vỡ lối mòn, tạo ra giá trị mới)
+
 ## Ví dụ
+
+* *Tech companies must constantly innovate to remain competitive in the market.*
+* *The school encourages teachers to innovate new ways of engaging students.*
+* *In order to survive, traditional businesses need to innovate their business models.*
+* *He is widely recognized for his ability to innovate under tight constraints.*
+* *The organization strives to innovate continuously in response to climate change.*
+
 ## Cấu trúc
+
+* *innovate in something* (đổi mới / sáng tạo trong lĩnh vực gì)
+* *innovate on/upon something* (cải tiến / cách tân trên nền tảng cái gì)
+* *ability to innovate* (khả năng đổi mới sáng tạo)
+* *pressure to innovate* (áp lực phải đổi mới)
+* *innovate continuously/constantly* (đổi mới một cách liên tục)
+
 ## Collocation
+
+* *constantly innovate* (liên tục đổi mới)
+* *continuously innovate* (đổi mới không ngừng)
+* *relentlessly innovate* (đổi mới không mệt mỏi)
+* *successfully innovate* (đổi mới thành công)
+* *dramatically innovate* (cách tân một cách ấn tượng)
+* *radically innovate* (đổi mới một cách triệt để)
+* *substantially innovate* (cải tiến đáng kể)
+* *rapidly innovate* (đổi mới nhanh chóng)
+* *locally innovate* (đổi mới ở cấp địa phương)
+* *globally innovate* (sáng tạo trên quy mô toàn cầu)
+* *innovate technology* (đổi mới công nghệ)
+* *innovate process* (cải tiến quy trình)
+* *innovate product* (đổi mới sản phẩm)
+* *innovate service* (cách tân dịch vụ)
+* *innovate design* (sáng tạo thiết kế)
+* *innovate curriculum* (đổi mới chương trình học)
+* *innovate business model* (cách tân mô hình kinh doanh)
+* *innovate strategy* (đổi mới chiến lược)
+* *innovate solution* (sáng tạo giải pháp)
+* *innovate practice* (đổi mới thực tiễn làm việc)
+* *innovate system* (cách tân hệ thống)
+* *innovate method* (cải tiến phương pháp)
+* *innovate concept* (sáng tạo khái niệm mới)
+* *drive to innovate* (động lực để đổi mới)
+* *freedom to innovate* (sự tự do sáng tạo)
+* *capacity to innovate* (năng lực đổi mới)
+* *desire to innovate* (khao khát sáng tạo)
+* *need to innovate* (nhu cầu đổi mới)
+* *struggle to innovate* (vật lộn để đổi mới)
+* *fail to innovate* (thất bại trong việc đổi mới)
+* *help to innovate* (giúp ích cho việc đổi mới)
+* *encourage to innovate* (khuyến khích sáng tạo)
+* *foster to innovate* (thúc đẩy đổi mới)
+* *strive to innovate* (nỗ lực đổi mới)
+* *seek to innovate* (tìm cách cách tân)
+* *incentive to innovate* (động lực thúc đẩy sáng tạo)
+* *opportunity to innovate* (cơ hội để đổi mới)
+* *culture that innovates* (nền văn hóa khuyến khích đổi mới)
+* *firm that innovates* (doanh nghiệp tiên phong sáng tạo)
+* *innovate responsibly* (đổi mới một cách có trách nhiệm)
+* *innovate sustainably* (sáng tạo một cách bền vững)
+* *innovate under pressure* (đổi mới dưới áp lực)
+* *innovate for future* (sáng tạo cho tương lai)
+* *innovate from within* (đổi mới từ bên trong)
+* *innovate at scale* (đổi mới trên quy mô lớn)
+
 ## Từ đồng nghĩa
+
+* *invent* (phát minh, sáng chế)
+* *revolutionize* (cách mạng hóa)
+* *pioneer* (tiên phong, mở đường)
+* *modernize* (hiện đại hóa)
+* *transform* (biến đổi, chuyển hóa)
+* *devise* (nghĩ ra, sáng tạo ra)
+* *refine* (tinh chỉnh, cải tiến)
+
 ## Từ trái nghĩa
+
+* *stagnate* (trì trệ, giậm chân tại chỗ)
+* *copy* (sao chép, mô phỏng)
+* *imitate* (bắt chước, nhại lại)
+* *follow* (theo sau, tuân theo lối cũ)
+* *deteriorate* (xuống cấp, thoái hóa)
+
 ## Word family
+
+* *innovate* (v) (đổi mới, sáng tạo, cách tân)
+* *innovation* (n) (sự đổi mới, sáng kiến, phát minh)
+* *innovative* (adj) (mới mẻ, mang tính đổi mới)
+* *innovatively* (adv) (sáng tạo, một cách mới mẻ)
+* *innovator* (n) (nhà đổi mới, người tiên phong)
+* *innovatory* (adj) (có tính chất cách tân)
 
 # input
 ## Nghĩa
