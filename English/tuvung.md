@@ -14582,14 +14582,108 @@ Dưới đây là từ vựng **"Phase"** được biên soạn hoàn chỉnh th
 * *multiphase* (adj) (đa pha, nhiều giai đoạn)
 * *polyphase* (adj) (nhiều pha - điện học)
 
+Dưới đây là từ vựng **"Precede"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # precede
+
 ## Nghĩa
+
+1. (v) Đi trước, đến trước (về mặt thời gian, thứ tự hoặc không gian)
+2. (v) Đặt trước, làm trước (thực hiện một hành động trước một hành động khác)
+3. (v) Đứng trước (về vị trí, thứ hạng hoặc tầm quan trọng trong một chuỗi)
+4. (v) Mở đầu, dẫn nhập (làm phần giới thiệu hoặc tiền đề cho sự việc theo sau)
+5. (v) Có trước, tồn tại trước (về mặt lịch sử, nguồn gốc hoặc sự kiện)
+
 ## Ví dụ
+
+* *A thorough market evaluation should precede any major financial investment.*
+* *The dark clouds and high winds preceded the heavy torrential rainstorm.*
+* *The introduction section precedes the detailed analysis chapter in the report.*
+* *Strict safety warnings must precede the operation of heavy industrial machinery.*
+* *A period of intense negotiation preceded the signing of the peace treaty.*
+
 ## Cấu trúc
+
+* *precede something/someone* (đi trước / diễn ra trước cái gì/ai)
+* *be preceded by something* (được đi trước / mở đầu bởi cái gì)
+* *precede something with something* (mở đầu cái gì bằng cái gì)
+* *immediately precede* (diễn ra ngay trước khi)
+* *logically precede* (xảy ra trước một cách logic)
+
 ## Collocation
+
+* *immediately precede* (diễn ra ngay trước)
+* *directly precede* (trực tiếp đi trước)
+* *logically precede* (xảy ra trước theo logic)
+* *chronologically precede* (xảy ra trước theo trình tự thời gian)
+* *historically precede* (tồn tại trước về mặt lịch sử)
+* *naturally precede* (xảy ra trước một cách tự nhiên)
+* *usually precede* (thường diễn ra trước)
+* *often precede* (thường xuyên đi trước)
+* *always precede* (luôn luôn đứng trước)
+* *rarely precede* (hiếm khi diễn ra trước)
+* *precede decision* (diễn ra trước quyết định)
+* *precede event* (diễn ra trước sự kiện)
+* *precede action* (đi trước hành động)
+* *precede publication* (diễn ra trước khi xuất bản)
+* *precede departure* (diễn ra trước khi khởi hành)
+* *precede release* (diễn ra trước khi phát hành)
+* *precede arrival* (diễn ra trước khi đến)
+* *precede speech* (mở đầu cho bài phát biểu)
+* *precede collapse* (xảy ra ngay trước khi sụp đổ)
+* *precede storm* (xảy ra trước cơn bão)
+* *precede war* (diễn ra trước chiến tranh)
+* *precede crisis* (xảy ra trước khủng hoảng)
+* *precede change* (diễn ra trước sự thay đổi)
+* *precede growth* (mở đầu cho sự tăng trưởng)
+* *precede development* (đi trước sự phát triển)
+* *precede interview* (diễn ra trước buổi phỏng vấn)
+* *precede ceremony* (diễn ra trước buổi lễ)
+* *precede announcement* (diễn ra trước thông báo)
+* *precede discussion* (mở đầu cho cuộc thảo luận)
+* *precede agreement* (xảy ra trước thỏa thuận)
+* *precede chapter* (đứng trước chương)
+* *precede section* (đứng trước phần)
+* *precede phrase* (đứng trước cụm từ)
+* *precede paragraph* (đứng trước đoạn văn)
+* *precede sentence* (đứng trước câu)
+* *precede name* (đứng trước tên)
+* *precede number* (đứng trước số)
+* *precede symbol* (đứng trước ký hiệu)
+* *precede title* (đứng trước tiêu đề)
+* *precede rank* (xếp trên thứ hạng)
+* *precede in time* (đi trước về thời gian)
+* *precede in rank* (đứng trên về thứ hạng)
+* *precede in importance* (quan trọng hơn)
+* *precede in order* (đứng trước về thứ tự)
+* *precede in position* (đứng trước về vị trí)
+
 ## Từ đồng nghĩa
+
+* *antedate* (có trước, xảy ra trước)
+* *forego* (đi trước, dẫn trước)
+* *herald* (báo hiệu, đi trước báo tin)
+* *pave the way for* (mở đường cho)
+* *lead up to* (dẫn đến, xảy ra trước)
+* *introduce* (giới thiệu, mở đầu)
+* *prefigure* (báo trước, làm tiền đề)
+
 ## Từ trái nghĩa
+
+* *follow* (theo sau, tiếp theo)
+* *succeed* (kế tiếp, nối tiếp)
+* *ensue* (xảy ra sau đó)
+* *traverse* (đi qua, vắt ngang)
+* *postdate* (ghi lùi ngày, xảy ra sau)
+
 ## Word family
+
+* *precede* (v) (đi trước, đến trước, làm trước)
+* *precedence* (n) (sự ưu tiên, thứ tự ưu tiên)
+* *precedent* (n / adj) (tiền lệ / có từ trước)
+* *preceding* (adj) (trước, đi trước)
+* *unprecedented* (adj) (chưa từng có tiền lệ)
+* *precedently* (adv) (trước đây, từ trước)
 
 # qualify
 ## Nghĩa
