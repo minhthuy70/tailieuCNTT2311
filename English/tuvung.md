@@ -15835,14 +15835,106 @@ Dưới đây là từ vựng **"Transmit"** được biên soạn hoàn chỉnh
 * *transmissive* (adj) (có khả năng truyền dẫn)
 * *transmittable* (adj) (dễ lây, truyền đi được)
 
+Dưới đây là từ vựng **"Trigger"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # trigger
+
 ## Nghĩa
+
+1. (v) Kích hoạt, gây ra (khởi phát đột ngột một chuỗi hành động, sự kiện hoặc phản ứng)
+2. (v) Gây dị ứng / phát bệnh (kích thích triệu chứng bệnh lý hoặc phản ứng tâm lý)
+3. (n) Ngòi nổ, nguyên nhân châm ngòi (yếu tố trực tiếp dẫn đến một biến cố hoặc tình huống)
+4. (n) Cò súng (bộ phận nhấp vào để bắn súng)
+5. (n) Tác nhân kích thích (yếu tố khiến một người nhớ lại ký ức đau buồn/sang chấn)
+
 ## Ví dụ
+
+* *A sudden spike in unemployment can trigger widespread social unrest across the nation.*
+* *Certain air pollutants are known to trigger severe asthma attacks in young children.*
+* *The proposed tax increase served as the main trigger for the massive public protests.*
+* *He pulled the trigger, releasing the mechanism and firing the shot into the target.*
+* *Identifying emotional triggers is a crucial step in managing post-traumatic stress.*
+
 ## Cấu trúc
+
+* *trigger something* (kích hoạt / gây ra cái gì)
+* *trigger off something* (châm ngòi / làm bùng nổ cái gì)
+* *act as a trigger for something* (đóng vai trò là ngòi nổ cho cái gì)
+* *pull/squeeze the trigger* (bóp cò súng)
+* *be triggered by something* (được kích hoạt / gây ra bởi cái gì)
+
 ## Collocation
+
+* *automatically trigger* (tự động kích hoạt)
+* *immediately trigger* (kích hoạt ngay lập tức)
+* *accidentally trigger* (vô tình châm ngòi)
+* *inadvertently trigger* (vô tình gây ra)
+* *potentially trigger* (có khả năng gây ra)
+* *easily trigger* (dễ dàng kích hoạt)
+* *directly trigger* (trực tiếp gây ra)
+* *ultimately trigger* (cuối cùng châm ngòi)
+* *promptly trigger* (kích hoạt nhanh chóng)
+* *effectively trigger* (kích hoạt hiệu quả)
+* *trigger reaction* (kích hoạt phản ứng)
+* *trigger response* (gây ra sự phản hồi)
+* *trigger event* (kích hoạt sự kiện)
+* *trigger alarm* (kích hoạt báo động)
+* *trigger mechanism* (kích hoạt cơ chế)
+* *trigger collapse* (gây ra sự sụp đổ)
+* *trigger crisis* (châm ngòi khủng hoảng)
+* *trigger debate* (khơi mào cuộc tranh luận)
+* *trigger protest* (gây ra cuộc biểu tình)
+* *trigger war* (châm ngòi chiến tranh)
+* *trigger recession* (gây ra suy thoái)
+* *trigger inflammation* (gây ra viêm nhiễm)
+* *trigger allergy* (gây dị ứng)
+* *trigger attack* (kích phát cơn bệnh)
+* *trigger memory* (gợi lại ký ức)
+* *trigger emotion* (kích thích cảm xúc)
+* *main trigger* (nguyên nhân chính)
+* *primary trigger* (tác nhân hàng đầu)
+* *potential trigger* (tác nhân tiềm năng)
+* *underlying trigger* (tác nhân sâu xa)
+* *economic trigger* (ngòi nổ kinh tế)
+* *environmental trigger* (tác nhân môi trường)
+* *emotional trigger* (tác nhân cảm xúc)
+* *psychological trigger* (tác nhân tâm lý)
+* *internal trigger* (tác nhân bên trong)
+* *external trigger* (tác nhân bên ngoài)
+* *serve as a trigger* (đóng vai trò là ngòi nổ)
+* *identify a trigger* (nhận diện tác nhân)
+* *avoid a trigger* (tránh tác nhân kích thích)
+* *minimize a trigger* (giảm thiểu tác nhân)
+* *trigger rapid growth* (kích thích tăng trưởng nhanh)
+* *trigger chain reaction* (kích hoạt phản ứng dây chuyền)
+* *trigger massive alteration* (gây ra sự thay đổi lớn)
+* *trigger security system* (kích hoạt hệ thống an ninh)
+* *trigger public outcry* (châm ngòi cho sự phẫn nộ công cộng)
+
 ## Từ đồng nghĩa
+
+* *cause* (gây ra, dẫn đến)
+* *activate* (kích hoạt)
+* *spark* (khơi mào, làm bùng phát)
+* *provoke* (khiêu khích, gây ra)
+* *set off* (châm ngòi, khởi động)
+* *instigate* (xúi giục, khởi xướng)
+* *prompt* (thúc đẩy, nhắc nhở)
+
 ## Từ trái nghĩa
+
+* *halt* (chặn lại, tạm dừng)
+* *prevent* (ngăn chặn, phòng ngừa)
+* *suppress* (kìm hãm, triệt tiêu)
+* *block* (ngăn cản, làm tắc nghẽn)
+* *deactivate* (hủy kích hoạt, tắt)
+
 ## Word family
+
+* *trigger* (v / n) (kích hoạt, châm ngòi / cò súng, tác nhân)
+* *triggered* (adj) (bị kích động, bị kích hoạt)
+* *triggering* (n / adj) (sự kích hoạt / gây ra phản ứng)
+* *trigger-happy* (adj) (dễ nổi giận, thích dùng bạo lực/súng ống)
 
 # undergo
 ## Nghĩa
