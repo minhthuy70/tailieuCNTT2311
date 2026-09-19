@@ -13140,14 +13140,108 @@ Dưới đây là từ vựng **"Intense"** được biên soạn hoàn chỉnh 
 * *intensely* (adv) (một cách mãnh liệt, dữ dội)
 * *intensive* (adj) (chuyên sâu, cấp tập, thâm canh)
 
+Dưới đây là từ vựng **"Involve"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # involve
+
 ## Nghĩa
+
+1. (v) Bao gồm, đòi hỏi, kéo theo (khiến cái gì trở thành một phần cần thiết của quá trình)
+2. (v) Lôi kéo, lôi cuốn, thu hút (ai đó tham gia vào một hoạt động hay sự kiện)
+3. (v) Dính dấp, dính líu, liên quan (vào một vụ việc, tình huống rắc rối hoặc bất hợp pháp)
+4. (v) Đặt tâm trí, dồn hết tâm trí vào (thường dùng ở dạng bị động *be involved in/with*)
+5. (v) Tác động, ảnh hưởng đến (khiến cái gì chịu sự can thiệp hoặc ảnh hưởng trực tiếp)
+
 ## Ví dụ
+
+* *The new research project involves extensive field study and detailed data analysis.*
+* *Parents should actively involve themselves in their children's daily educational activities.*
+* *Several prominent officials were involved in the financial corruption scandal.*
+* *Successful language learning involves regular practice and consistent exposure to native speakers.*
+* *The proposed infrastructure upgrade will involve significant public expenditure over five years.*
+
 ## Cấu trúc
+
+* *involve doing something* (bao gồm / đòi hỏi phải làm việc gì)
+* *involve someone in something* (lôi kéo / thu hút ai tham gia vào cái gì)
+* *be/get involved in something* (tham gia vào / dính líu đến cái gì)
+* *be involved with someone* (có mối quan hệ / dính líu tới ai)
+* *involve risk/cost/effort* (đòi hỏi / kéo theo rủi ro, chi phí, nỗ lực)
+
 ## Collocation
+
+* *directly involve* (trực tiếp liên quan / lôi kéo)
+* *heavily involve* (tham gia / dính líu sâu sắc)
+* *actively involve* (tích cực tham gia / lôi cuốn)
+* *deeply involve* (dính líu / can thiệp sâu)
+* *inevitably involve* (tất yếu đòi hỏi / kéo theo)
+* *necessarily involve* (nhất thiết phải bao gồm)
+* *closely involve* (gắn kết / liên quan chặt chẽ)
+* *fully involve* (tham gia / lôi kéo toàn bộ)
+* *emotionally involve* (gắn bó / bị ảnh hưởng về mặt cảm xúc)
+* *personally involve* (đích thân tham gia / liên quan cá nhân)
+* *involve risk* (tiềm ẩn / kéo theo rủi ro)
+* *involve cost* (tốn kém chi phí)
+* *involve effort* (đòi hỏi sự nỗ lực)
+* *involve change* (kéo theo sự thay đổi)
+* *involve preparation* (yêu cầu sự chuẩn bị)
+* *involve planning* (đòi hỏi sự lập kế hoạch)
+* *involve training* (yêu cầu quá trình đào tạo)
+* *involve sacrifice* (đòi hỏi sự hy sinh)
+* *involve complexity* (mức độ phức tạp cao)
+* *involve danger* (chứa đựng sự nguy hiểm)
+* *involve technology* (ứng dụng / liên quan tới công nghệ)
+* *involve negotiation* (yêu cầu đàm phán)
+* *involve decision-making* (liên quan đến việc ra quyết định)
+* *involve problem-solving* (bao gồm việc giải quyết vấn đề)
+* *involve collaboration* (đòi hỏi sự hợp tác)
+* *involve research* (yêu cầu nghiên cứu)
+* *involve investment* (yêu cầu vốn đầu tư)
+* *involve responsibility* (gắn liền với trách nhiệm)
+* *involve commitment* (yêu cầu sự cam kết)
+* *involve process* (bao gồm cả quy trình)
+* *be actively involved* (chủ động tham gia)
+* *be heavily involved* (dính líu / can thiệp sâu)
+* *be politically involved* (tham gia vào chính trị)
+* *be socially involved* (hoạt động xã hội tích cực)
+* *be criminally involved* (dính líu đến tội phạm)
+* *seek to involve* (tìm cách lôi kéo tham gia)
+* *attempt to involve* (cố gắng đưa vào cuộc)
+* *refuse to involve* (từ chối dính líu)
+* *fail to involve* (không thể đưa vào / bỏ sót)
+* *tend to involve* (có xu hướng bao gồm)
+* *seem to involve* (hình như kéo theo)
+* *likely to involve* (có khả năng đòi hỏi)
+* *involve community* (lôi cuốn cộng đồng)
+* *involve public* (thu hút công chúng)
+* *involve students* (lôi cuốn học sinh)
+
 ## Từ đồng nghĩa
+
+* *include* (bao gồm, tính cả)
+* *entail* (đòi hỏi, kéo theo tất yếu)
+* *require* (yêu cầu, đòi hỏi)
+* *engage* (thu hút, lôi cuốn tham gia)
+* *implicate* (lôi kéo, dính líu vào vụ việc)
+* *incorporate* (kết hợp, sáp nhập)
+* *comprehend* (bao hàm, lĩnh hội)
+
 ## Từ trái nghĩa
+
+* *exclude* (loại trừ, không bao gồm)
+* *omit* (bỏ qua, bỏ sót)
+* *isolate* (cô lập, tách biệt)
+* *detach* (tháo rời, buông bỏ)
+* *disengage* (rút khỏi, tháo lui)
+
 ## Word family
+
+* *involve* (v) (bao gồm, lôi kéo, dính líu)
+* *involved* (adj) (phức tạp, có liên quan, tâm huyết)
+* *involvement* (n) (sự tham gia, sự dính líu)
+* *uninvolved* (adj) (không liên quan, thờ ơ)
+* *uninvolvement* (n) (sự không tham gia, thờ ơ)
+* *involving* (prep / v-ing) (bao gồm, có liên quan đến)
 
 # justify
 ## Nghĩa
