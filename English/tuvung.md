@@ -12192,14 +12192,171 @@ Dưới đây là từ vựng **"Inevitable"** được biên soạn hoàn chỉ
 * *evitability* (n) (khả năng có thể tránh được)
 * *unevitable* (adj) (biến thể cũ của inevitable)
 
-# inject
-## Nghĩa
-## Ví dụ
-## Cấu trúc
-## Collocation
-## Từ đồng nghĩa
-## Từ trái nghĩa
-## Word family
+Dưới đây là từ vựng "Inject" được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác 88 dòng:
+
+inject
+Nghĩa
+(v) Tiêm, chích (thuốc, chất lỏng vào cơ thể)
+
+(v) Bơm, tiêm (chất lỏng, khí vào máy móc hoặc cấu trúc)
+
+(v) Rót vào, bổ sung (tiền bạc, vốn, nguồn lực vào dự án/nền kinh tế)
+
+(v) Thổi vào, thêm vào (sự hứng khởi, năng lượng, niềm tin, hài hước)
+
+(v) Chèn vào, xen vào (mã lệnh, dữ liệu trong tin học)
+
+Ví dụ
+The nurse used a sterile needle to inject the vaccine into his upper arm.
+
+Fuel injectors are designed to inject petrol directly into the engine cylinders.
+
+The central bank plans to inject billions of dollars into the struggling economy.
+
+Her sense of humor helped to inject some life into an otherwise boring meeting.
+
+Hackers can exploit vulnerabilities to inject malicious scripts into web pages.
+
+Cấu trúc
+inject something into something (tiêm / bơm / rót cái gì vào cái gì)
+
+be injected with something (được tiêm / bơm cái gì)
+
+inject capital/funds into the market (rót vốn / tiền vào thị trường)
+
+inject new life/energy into something (thổi sức sống / năng lượng mới vào cái gì)
+
+inject confidence/enthusiasm into a team (truyền niềm tin / sự hào hứng cho đội ngũ)
+
+Collocation
+inject capital (rót vốn)
+
+inject cash (bơm tiền mặt)
+
+inject funds (rót nguồn quỹ)
+
+inject liquidity (bơm thanh khoản)
+
+inject money (bơm tiền)
+
+inject stimulus (bơm gói kích thích)
+
+inject momentum (tạo đà / tiếp động lực)
+
+inject vigor (tiếp thêm sinh lực)
+
+inject vitality (thổi sức sống)
+
+inject life (thổi làn gió mới)
+
+inject energy (thêm năng lượng)
+
+inject enthusiasm (truyền sự nhiệt huyết)
+
+inject confidence (tiếp thêm sự tự tin)
+
+inject optimism (truyền sự quan sắc)
+
+inject realism (mang tính thực tế vào)
+
+inject humor (thêm yếu tố hài hước)
+
+inject urgency (tạo ra sự cấp bách)
+
+inject creativity (thổi sự sáng tạo)
+
+inject excitement (tạo sự kịch tính)
+
+inject vaccine (tiêm vắc-xin)
+
+inject drug (tiêm thuốc)
+
+inject hormone (tiêm hoóc-môn)
+
+inject insulin (tiêm in-su-lin)
+
+inject dye (tiêm chất nhuộm)
+
+inject fluid (bơm chất lỏng)
+
+inject gas (bơm khí)
+
+inject fuel (bơm nhiên liệu)
+
+inject code (chèn mã lệnh)
+
+inject script (chèn kịch bản phần mềm)
+
+directly inject (trực tiếp bơm / tiêm)
+
+subcutaneously inject (tiêm dưới da)
+
+intramuscularly inject (tiêm vào cơ)
+
+intravenously inject (tiêm tĩnh mạch)
+
+continuously inject (bơm liên tục)
+
+gradually inject (rót vào từ từ)
+
+artificially inject (bơm vào một cách nhân tạo)
+
+urgently inject (khẩn cấp bơm vốn / tiêm)
+
+badly need to inject (rất cần được thổi vào)
+
+seek to inject (tìm cách truyền vào)
+
+attempt to inject (cố gắng rót vào)
+
+help inject (giúp tiếp thêm)
+
+fail to inject (thất bại trong việc tiếp sức)
+
+inject into the system (bơm vào hệ thống)
+
+inject into the bloodstream (tiêm vào dòng máu)
+
+inject into the economy (bơm vào nền kinh tế)
+
+Từ đồng nghĩa
+administer (tiêm thuốc, cho dùng thuốc)
+
+infuse (truyền vào, thổi vào)
+
+insert (chèn vào, gài vào)
+
+introduce (đưa vào, giới thiệu)
+
+pump (bơm vào)
+
+instill (vẫn thấm, truyền cho)
+
+imbue (thấm đượm, ghi khắc)
+
+Từ trái nghĩa
+extract (rút ra, trích xuất)
+
+withdraw (rút khỏi, thu hồi)
+
+drain (rút sạch, làm cạn kiệt)
+
+remove (loại bỏ, tháo ra)
+
+withhold (giữ lại, từ chối cấp)
+
+Word family
+inject (v) (tiêm, bơm, rót vốn, thổi vào)
+
+injection (n) (mũi tiêm, sự bơm, sự rót vốn)
+
+injector (n) (kim tiêm, xi-ranh, vòi phun nhiên liệu)
+
+injectable (adj) (có thể tiêm / bơm được)
+
+injected (adj) (được tiêm, được bơm vào)
+
+reinject (v) (tiêm lại, tái bơm vốn)
 
 # innovate
 ## Nghĩa
