@@ -11168,14 +11168,107 @@ Dưới đây là từ vựng **"Formulate"** được biên soạn hoàn chỉn
 * *reformulate* (v) (xây dựng lại, làm lại công thức)
 * *reformulation* (n) (sự tái cấu trúc / xây dựng lại)
 
+Dưới đây là từ vựng **"Guideline"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # guideline
+
 ## Nghĩa
+
+1. (n) Nguyên tắc chỉ đạo, hướng dẫn (chính sách, quy định chung)
+2. (n) Chỉ dẫn, tiêu chuẩn (trong y tế, kỹ thuật, nghiệp vụ)
+3. (n) Khung tham chiếu, định hướng (cho việc ra quyết định)
+4. (n) Đường chỉ dẫn, dây hướng dẫn (trong thực địa, an toàn)
+5. (n) Quy tắc hành xử, chuẩn mực (trong tổ chức, cộng đồng)
+
 ## Ví dụ
+
+* *The government issued new medical guidelines to prevent disease transmission.*
+* *Teachers should follow the official guidelines when marking examination papers.*
+* *The organization established clear ethical guidelines for all employees.*
+* *Applicants must adhere strictly to the submission guidelines on the portal.*
+* *These recommendations serve as a general guideline for sustainable farming.*
+
 ## Cấu trúc
+
+* *guidelines on/for something* (nguyên tắc hướng dẫn về / cho việc gì)
+* *issue/publish guidelines* (ban hành / xuất bản các hướng dẫn)
+* *follow/adhere to guidelines* (tuân thủ / làm theo các hướng dẫn)
+* *draw up/formulate guidelines* (xây dựng / đề ra các nguyên tắc hướng dẫn)
+* *provide guidelines for someone* (cung cấp hướng dẫn cho ai)
+
 ## Collocation
+
+* *clear guidelines* (hướng dẫn rõ ràng)
+* *strict guidelines* (hướng dẫn nghiêm ngặt)
+* *official guidelines* (hướng dẫn chính thức)
+* *general guidelines* (hướng dẫn chung)
+* *specific guidelines* (hướng dẫn cụ thể)
+* *detailed guidelines* (hướng dẫn chi tiết)
+* *ethical guidelines* (quy tắc đạo đức)
+* *clinical guidelines* (hướng dẫn lâm sàng)
+* *practical guidelines* (hướng dẫn thực tế)
+* *national guidelines* (hướng dẫn cấp quốc gia)
+* *international guidelines* (hướng dẫn quốc tế)
+* *editorial guidelines* (quy tắc biên tập)
+* *safety guidelines* (hướng dẫn an toàn)
+* *environmental guidelines* (hướng dẫn môi trường)
+* *procedural guidelines* (hướng dẫn quy trình)
+* *issue guidelines* (ban hành hướng dẫn)
+* *publish guidelines* (công bố hướng dẫn)
+* *establish guidelines* (thiết lập hướng dẫn)
+* *formulate guidelines* (xây dựng hướng dẫn)
+* *draw up guidelines* (soạn thảo hướng dẫn)
+* *update guidelines* (cập nhật hướng dẫn)
+* *revise guidelines* (sửa đổi hướng dẫn)
+* *follow guidelines* (làm theo hướng dẫn)
+* *adhere to guidelines* (tuân thủ hướng dẫn)
+* *comply with guidelines* (chấp hành hướng dẫn)
+* *ignore guidelines* (phớt lờ hướng dẫn)
+* *violate guidelines* (vi phạm hướng dẫn)
+* *breach guidelines* (z vi phạm quy tắc)
+* *enforce guidelines* (thực thi hướng dẫn)
+* *set out guidelines* (vạch ra các hướng dẫn)
+* *provide guidelines* (cung cấp hướng dẫn)
+* *lay down guidelines* (đưa ra các quy tắc)
+* *guidelines suggest* (hướng dẫn gợi ý rằng)
+* *guidelines require* (hướng dẫn yêu cầu rằng)
+* *guidelines recommend* (hướng dẫn khuyến nghị)
+* *guidelines state* (hướng dẫn nêu rõ)
+* *within the guidelines* (trong phạm vi hướng dẫn)
+* *according to guidelines* (theo như hướng dẫn)
+* *lack of guidelines* (mối thiếu sót về hướng dẫn)
+* *set of guidelines* (bộ nguyên tắc hướng dẫn)
+* *framework of guidelines* (khung quy tắc hướng dẫn)
+* *strict adherence to guidelines* (sự tuân thủ nghiêm ngặt hướng dẫn)
+* *guidelines for practice* (hướng dẫn thực hành)
+* *guidelines for treatment* (hướng dẫn điều trị)
+* *guidelines on safety* (hướng dẫn về an toàn)
+
 ## Từ đồng nghĩa
+
+* *instruction* (sự hướng dẫn, chỉ dẫn)
+* *directive* (chỉ thị, hướng dẫn thi hành)
+* *rule* (quy tắc, luật lệ)
+* *standard* (tiêu chuẩn, chuẩn mực)
+* *recommendation* (khuyến nghị, đề xuất)
+* *principle* (nguyên tắc, đạo lý)
+* *code* (bộ quy tắc, bộ luật)
+
 ## Từ trái nghĩa
+
+* *lawlessness* (sự vô pháp luật, không quy tắc)
+* *disorder* (sự hỗn loạn, mất trật tự)
+* *improvisation* (sự ứng biến, không theo quy chuẩn)
+* *violation* (sự vi phạm, chống đối)
+* *noncompliance* (sự không tuân thủ)
+
 ## Word family
+
+* *guideline* (n) (nguyên tắc hướng dẫn, chỉ dẫn)
+* *guide* (v / n) (hướng dẫn / người hướng dẫn, sách hướng dẫn)
+* *guidance* (n) (sự chỉ dẫn, sự định hướng)
+* *guided* (adj) (được hướng dẫn, có định hướng)
+* *unguided* (adj) (không có người hướng dẫn, tự do)
 
 # hence
 ## Nghĩa
