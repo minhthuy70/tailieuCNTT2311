@@ -14891,14 +14891,108 @@ Dưới đây là từ vựng **"Reveal"** được biên soạn hoàn chỉnh t
 * *unrevealed* (adj) (chưa được tiết lộ, bí ẩn)
 * *revelatory* (adj) (mang tính khải thị / làm sáng tỏ)
 
+Dưới đây là từ vựng **"Scheme"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # scheme
+
 ## Nghĩa
+
+1. (n) Kế hoạch, chương trình (hệ thống do chính phủ hoặc tổ chức ban hành)
+2. (n) Mưu đồ, âm mưu (kế hoạch bí mật, bất hợp pháp hoặc thiếu minh bạch)
+3. (n) Sơ đồ, hệ thống sắp xếp (sự kết hợp màu sắc, cấu trúc - *color scheme*)
+4. (v) Lập kế hoạch, mưu tính (thường mang nét nghĩa tiêu cực, lén lút)
+5. (n) Mô hình, phương thức (cơ cấu tổ chức hoặc phân loại - *classification scheme*)
+
 ## Ví dụ
+
+* *The government has introduced a new pension scheme to support retired citizens.*
+* *He was arrested for operating a fraudulent investment scheme that cheated millions.*
+* *The interior designer selected a warm color scheme to make the room feel cozy.*
+* *They were caught scheming against their competitors to manipulate the market price.*
+* *The housing scheme aims to provide affordable homes for low-income urban families.*
+
 ## Cấu trúc
+
+* *scheme for/to do something* (kế hoạch / chương trình nhằm thực hiện điều gì)
+* *scheme against someone* (mưu tính / mưu đồ chống lại ai)
+* *introduce/launch a scheme* (ban hành / khởi chạy một chương trình)
+* *under the scheme* (theo khuôn khổ / quy định của chương trình)
+* *a scheme of something* (một hệ thống / cơ cấu của cái gì)
+
 ## Collocation
+
+* *pension scheme* (chương trình lương hưu)
+* *housing scheme* (dự án / kế hoạch phát triển nhà ở)
+* *training scheme* (chương trình đào tạo)
+* *insurance scheme* (chế độ / chương trình bảo hiểm)
+* *welfare scheme* (chương trình phúc lợi xã hội)
+* *classification scheme* (hệ thống phân loại)
+* *color scheme* (phối màu / hệ thống màu sắc)
+* *tax scheme* (chính sách / chế độ thuế)
+* *sponsorship scheme* (chương trình tài trợ)
+* *bonus scheme* (chế độ thưởng)
+* *pyramid scheme* (mô hình đa cấp biến tướng)
+* *fraudulent scheme* (mưu đồ lừa đảo)
+* *ponzi scheme* (mô hình lừa đảo Ponzi)
+* *illegal scheme* (âm mưu bất hợp pháp)
+* *ambitious scheme* (kế hoạch đầy tham vọng)
+* *grand scheme* (kế hoạch lớn / tổng thể)
+* *pilot scheme* (chương trình thí điểm)
+* *voluntary scheme* (chương trình tự nguyện)
+* *compulsory scheme* (chương trình bắt buộc)
+* *national scheme* (chương trình cấp quốc gia)
+* *local scheme* (chương trình cấp địa phương)
+* *innovative scheme* (chương trình mang tính đổi mới)
+* *effective scheme* (chương trình hiệu quả)
+* *successful scheme* (chương trình thành công)
+* *introduce a scheme* (giới thiệu / áp dụng chương trình)
+* *launch a scheme* (khởi chạy một kế hoạch)
+* *implement a scheme* (triển khai một chương trình)
+* *operate a scheme* (vận hành một kế hoạch)
+* *join a scheme* (tham gia vào một chương trình)
+* *participate in a scheme* (góp mặt trong một kế hoạch)
+* *support a scheme* (ủng hộ một chương trình)
+* *reject a scheme* (bác bỏ một kế hoạch)
+* *approve a scheme* (phê duyệt một dự án)
+* *devise a scheme* (nghĩ ra / vạch ra một kế hoạch)
+* *uncover a scheme* (phát giác một âm mưu)
+* *foil a scheme* (đập tan một mưu đồ)
+* *scheme constantly* (liên tục mưu tính)
+* *scheme secretly* (âm mưu lén lút)
+* *scheme to gain power* (mưu tính để giành quyền lực)
+* *overall scheme* (kế hoạch tổng thể)
+* *grant scheme* (chương trình cấp học bổng / trợ cấp)
+* *recycling scheme* (chương trình tái chế)
+* *employment scheme* (chương trình giải quyết việc làm)
+* *compensation scheme* (chương trình bồi thường)
+* *accreditation scheme* (hệ thống kiểm định chất lượng)
+
 ## Từ đồng nghĩa
+
+* *plan* (kế hoạch, dự định)
+* *program* (chương trình, dự án)
+* *project* (dự án, đề án)
+* *strategy* (chiến lược)
+* *plot* (âm mưu, mưu đồ)
+* *conspiracy* (sự thông đồng, âm mưu)
+* *system* (hệ thống, cơ cấu)
+
 ## Từ trái nghĩa
+
+* *candor* (sự thật thà, sự thẳng thắn)
+* *honesty* (sự trung thực)
+* *disorganization* (sự vô tổ chức, hỗn loạn)
+* *improvisation* (sự ứng biến, ngẫu hứng)
+* *frankness* (sự bộc trực, không giấu giếm)
+
 ## Word family
+
+* *scheme* (n / v) (kế hoạch, mưu đồ / lập kế hoạch, mưu tính)
+* *schemer* (n) (kẻ mưu mô, người xảo quyệt)
+* *scheming* (adj) (mưu mô, xảo quyệt, hay tính toán)
+* *schematic* (adj / n) (thuộc sơ đồ, giản đồ / sơ đồ nguyên lý)
+* *schematically* (adv) (dưới dạng sơ đồ, một cách khái quát)
+* *schematize* (v) (sơ đồ hóa, hệ thống hóa)
 
 # select
 ## Nghĩa
