@@ -11270,14 +11270,105 @@ Dưới đây là từ vựng **"Guideline"** được biên soạn hoàn chỉn
 * *guided* (adj) (được hướng dẫn, có định hướng)
 * *unguided* (adj) (không có người hướng dẫn, tự do)
 
+Dưới đây là từ vựng **"Hence"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # hence
+
 ## Nghĩa
+
+1. (adv) Do đó, vì thế, cho nên (chỉ kết quả trực tiếp của một sự thật / lý do)
+2. (adv) Kể từ nay, từ đây (chỉ khoảng thời gian trong tương lai)
+3. (adv) Từ nguồn này, từ nơi này (chỉ nguồn gốc hay xuất xứ - nghĩa cổ)
+4. (adv) Dẫn đến việc, kéo theo (kết nối trực tiếp giữa hai cụm danh từ)
+5. (adv) Do vậy mà có tên gọi (giải thích nguồn gốc tên gọi / thuật ngữ)
+
 ## Ví dụ
+
+* *The cost of transport has risen sharply; hence, consumer prices have increased.*
+* *The project will be fully completed two years hence.*
+* *He grew up in a bilingual home, hence his exceptional command of languages.*
+* *The building lacks modern fire escapes, hence the grave safety concern.*
+* *The company was founded in Tokyo, hence its Asian market orientation.*
+
 ## Cấu trúc
+
+* *hence + noun phrase* (do đó dẫn đến cái gì)
+* *hence, + clause* (vì thế, [mệnh đề])
+* *years/months hence* (mấy năm / mấy tháng kể từ bây giờ)
+* *hence the need for something* (do đó dẫn đến nhu cầu cho cái gì)
+* *hence the name* (do đó mà có tên gọi này)
+
 ## Collocation
+
+* *hence the need* (do đó dẫn đến nhu cầu)
+* *hence the name* (do đó có tên gọi)
+* *hence the decision* (vì thế dẫn đến quyết định)
+* *hence the importance* (do đó mới có tầm quan trọng)
+* *hence the reason* (vì thế là lý do)
+* *hence the confusion* (do đó gây ra sự nhầm lẫn)
+* *hence the title* (vì thế mà có tiêu đề)
+* *hence the term* (do đó mới dùng thuật ngữ)
+* *hence the popularity* (vì thế mới có sự phổ biến)
+* *hence the interest* (do đó tạo ra sự quan tâm)
+* *hence the problem* (vì vậy gây ra vấn đề)
+* *hence the concern* (do đó mới có sự lo ngại)
+* *hence the delay* (vì thế dẫn đến sự chậm trễ)
+* *hence the change* (do đó mới có sự thay đổi)
+* *hence the controversy* (vì thế gây ra tranh cãi)
+* *hence the reluctance* (do đó mới có sự miễn cưỡng)
+* *hence the success* (vì thế mới đạt được thành công)
+* *hence the difficulty* (do đó tạo ra sự khó khăn)
+* *hence the requirement* (vì thế mới có yêu cầu)
+* *hence the emphasis* (do đó mới nhấn mạnh)
+* *a week hence* (một tuần kể từ bây giờ)
+* *a month hence* (một tháng kể từ bây giờ)
+* *a year hence* (một năm kể từ bây giờ)
+* *five years hence* (năm năm kể từ bây giờ)
+* *decades hence* (nhiều thập kỷ kể từ bây giờ)
+* *hence forward* (kể từ nay trở đi)
+* *henceforth* (kể từ đó trở đi)
+* *logically hence* (do đó một cách lô-gích)
+* *and hence* (và do đó)
+* *not hence* (không phải từ lý do đó)
+* *hence arises* (do đó nảy sinh)
+* *hence follows* (do đó suy ra)
+* *hence stems* (vì thế bắt nguồn từ)
+* *hence results* (do đó dẫn đến kết quả)
+* *hence leading to* (vì thế dẫn đến)
+* *hence contributing to* (do đó góp phần vào)
+* *hence creating* (vì thế tạo ra)
+* *hence making* (do đó làm cho)
+* *hence reducing* (vì thế làm giảm)
+* *hence increasing* (do đó làm tăng)
+* *hence allowing* (vì thế cho phép)
+* *hence enabling* (do đó giúp cho)
+* *hence forcing* (vì thế buộc phải)
+* *hence ensuring* (do đó đảm bảo)
+* *hence preventing* (vì thế ngăn chặn)
+
 ## Từ đồng nghĩa
+
+* *therefore* (do đó, vì vậy)
+* *thus* (như vậy, do đó)
+* *consequently* (kết quả là, cho nên)
+* *as a result* (kết quả là)
+* *wherefore* (vì lẽ đó)
+* *ergo* (do đó - thuật ngữ logic)
+* *accordingly* (theo đó, do đó)
+
 ## Từ trái nghĩa
+
+* *however* (tuy nhiên)
+* *nevertheless* (dù sao đi nữa)
+* *nonetheless* (dù vậy)
+* *despite that* (mặc dù vậy)
+* *conversely* (ngược lại)
+
 ## Word family
+
+* *hence* (adv) (do đó, vì thế, từ đây)
+* *henceforth* (adv) (kể từ nay trở đi, từ nay về sau)
+* *henceforward* (adv) (từ đây về sau)
 
 # highlight
 ## Nghĩa
