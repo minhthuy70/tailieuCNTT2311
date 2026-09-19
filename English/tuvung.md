@@ -14788,14 +14788,108 @@ Dưới đây là từ vựng **"Qualify"** được biên soạn hoàn chỉnh 
 * *disqualify* (v) (loại ra, tước quyền thi đấu / hưởng quyền)
 * *disqualification* (n) (sự tước quyền, sự bị loại)
 
+Dưới đây là từ vựng **"Reveal"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # reveal
+
 ## Nghĩa
+
+1. (v) Bộc lộ, tiết lộ (làm lộ ra thông tin bí mật, sự thật hoặc phát hiện mới)
+2. (v) Mở ra, để lộ ra (cho thấy cái gì đó bị che khuất hoặc không thấy trước đây)
+3. (v) Phản ánh, cho thấy (số liệu, nghiên cứu hoặc khảo sát đưa ra kết quả)
+4. (v) Bộc lộ bản chất, tính cách (thông qua hành vi, phản ứng hoặc hoàn cảnh)
+5. (v) Khải thị, mạc khải (nghĩa tôn giáo / triết học - tiết lộ ý chí thần thánh)
+
 ## Ví dụ
+
+* *Statistical analysis reveals a strong correlation between education levels and income.*
+* *The company refused to reveal confidential details about its new product line.*
+* *Removing the old wallpaper revealed a beautifully preserved brick wall underneath.*
+* *Her sudden reaction during the crisis revealed her true leadership qualities.*
+* *Scientific investigations often reveal surprising insights into human behavior.*
+
 ## Cấu trúc
+
+* *reveal something to someone* (bộc lộ / tiết lộ cái gì cho ai)
+* *reveal that + clause* (phát hiện / bộc lộ rằng [mệnh đề])
+* *be revealed as/to be something* (được tiết lộ / phát hiện là cái gì)
+* *fail/refuse to reveal something* (không / từ chối tiết lộ cái gì)
+* *seek/attempt to reveal something* (tìm cách / nỗ lực làm rõ cái gì)
+
 ## Collocation
+
+* *clearly reveal* (bộc lộ / thể hiện rõ ràng)
+* *further reveal* (tiết lộ thêm)
+* *recently reveal* (mới tiết lộ gần đây)
+* *finally reveal* (cuối cùng đã bộc lộ)
+* *accidentally reveal* (vô tình để lộ)
+* *inadvertently reveal* (vô ý tiết lộ)
+* *publicly reveal* (công khai tiết lộ)
+* *privately reveal* (tiết lộ riêng tư)
+* *dramatically reveal* (tiết lộ một cách kịch tính)
+* *startlingly reveal* (tiết lộ đầy kinh ngạc)
+* *reveal truth* (bộc lộ sự thật)
+* *reveal secret* (tiết lộ bí mật)
+* *reveal identity* (tiết lộ danh tính)
+* *reveal detail* (tiết lộ chi tiết)
+* *reveal information* (tiết lộ thông tin)
+* *reveal plan* (bộc lộ kế hoạch)
+* *reveal intention* (bộc lộ ý định)
+* *reveal strategy* (tiết lộ chiến lược)
+* *reveal result* (cho thấy kết quả)
+* *reveal finding* (bộc lộ phát hiện)
+* *reveal pattern* (cho thấy mô hình / quy luật)
+* *reveal trend* (phản ánh xu hướng)
+* *reveal evidence* (đưa ra bằng chứng)
+* *reveal source* (tiết lộ nguồn tin)
+* *reveal contents* (mở ra nội dung bên trong)
+* *reveal weakness* (bộc lộ điểm yếu)
+* *reveal strength* (cho thấy thế mạnh)
+* *reveal flaw* (bộc lộ thiếu sót)
+* *reveal potential* (bộc lộ tiềm năng)
+* *reveal character* (bộc lộ tính cách)
+* *refuse to reveal* (từ chối tiết lộ)
+* *fail to reveal* (thất bại trong việc làm rõ)
+* *decline to reveal* (từ khước tiết lộ)
+* *promise to reveal* (hứa sẽ tiết lộ)
+* *threaten to reveal* (đe dọa tiết lộ)
+* *agreed to reveal* (đồng ý công khai)
+* *attempt to reveal* (cố gắng tiết lộ)
+* *seek to reveal* (tìm cách làm sáng tỏ)
+* *study reveals* (nghiên cứu cho thấy)
+* *survey reveals* (khảo sát phản ánh)
+* *report reveals* (báo cáo chỉ ra)
+* *data reveals* (dữ liệu cho thấy)
+* *evidence reveals* (bằng chứng bộc lộ)
+* *analysis reveals* (phân tích chỉ ra)
+* *investigation reveals* (điều tra làm rõ)
+
 ## Từ đồng nghĩa
+
+* *disclose* (tiết lộ, bộc lộ)
+* *unveil* (công bố, khánh thành, vén màn)
+* *divulge* (mách nước, tiết lộ bí mật)
+* *expose* (vạch trần, phơi bày)
+* *uncover* (khám phá, phát hiện)
+* *manifest* (biểu lộ, thể hiện rõ)
+* *betray* (vô tình để lộ, phản bội)
+
 ## Từ trái nghĩa
+
+* *conceal* (che giấu, giấu giếm)
+* *hide* (ẩn nấp, giấu)
+* *cover* (che phủ, bao bọc)
+* *mask* (che đậy, ngụy trang)
+* *suppress* (kìm hãm, che đậy thông tin)
+
 ## Word family
+
+* *reveal* (v / n) (tiết lộ, bộc lộ / sự phát hiện)
+* *revelation* (n) (sự tiết lộ, phát hiện bất ngờ)
+* *revealing* (adj) (bộc lộ nhiều điều, để hở)
+* *revealingly* (adv) (một cách bộc lộ / hở mở)
+* *unrevealed* (adj) (chưa được tiết lộ, bí ẩn)
+* *revelatory* (adj) (mang tính khải thị / làm sáng tỏ)
 
 # scheme
 ## Nghĩa
