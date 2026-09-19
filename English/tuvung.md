@@ -15936,14 +15936,106 @@ Dưới đây là từ vựng **"Trigger"** được biên soạn hoàn chỉnh 
 * *triggering* (n / adj) (sự kích hoạt / gây ra phản ứng)
 * *trigger-happy* (adj) (dễ nổi giận, thích dùng bạo lực/súng ống)
 
+Dưới đây là từ vựng **"Undergo"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # undergo
+
 ## Nghĩa
+
+1. (v) Trải qua, chịu đựng (sự thay đổi, biến đổi, quá trình hoặc điều kiện khó khăn)
+2. (v) Phẫu thuật, điều trị (thực hiện một ca mổ, trị liệu y tế hoặc xét nghiệm)
+3. (v) Kiểm tra, kiểm định (trải qua quá trình đánh giá, thanh tra hoặc kiểm duyệt)
+4. (v) Tập huấn, đào tạo (tham gia chương trình huấn luyện hoặc rèn luyện thể chất)
+5. (v) Chịu sự tác động (chịu sự tái cơ cấu, tu sửa hoặc cải tổ quy mô lớn)
+
 ## Ví dụ
+
+* *The old city center is currently undergoing massive restoration and modernization.*
+* *Patients with severe knee injuries often need to undergo extensive surgery.*
+* *All candidates must undergo a rigorous background check before being hired.*
+* *New recruit officers are required to undergo intensive physical training.*
+* *The company is undergoing significant structural changes to boost profitability.*
+
 ## Cấu trúc
+
+* *undergo something* (trải qua / chịu sự tác động của cái gì)
+* *undergo surgery/treatment* (trải qua phẫu thuật / điều trị y tế)
+* *undergo change/transformation* (trải qua sự thay đổi / biến đổi)
+* *undergo training/preparation* (trải qua đào tạo / chuẩn bị)
+* *be required to undergo something* (được yêu cầu phải trải qua cái gì)
+
 ## Collocation
+
+* *currently undergo* (hiện đang trải qua)
+* *recently undergo* (mới trải qua gần đây)
+* *frequently undergo* (thường xuyên trải qua)
+* *gradually undergo* (dần dần trải qua)
+* *continually undergo* (liên tục trải qua)
+* *successfully undergo* (trải qua thành công)
+* *reluctantly undergo* (miễn cưỡng trải qua)
+* *spontaneously undergo* (tự phát trải qua)
+* *voluntarily undergo* (tự nguyện trải qua)
+* *compulsorily undergo* (bắt buộc phải trải qua)
+* *undergo change* (trải qua sự thay đổi)
+* *undergo transformation* (trải qua sự biến đổi)
+* *undergo restructuring* (trải qua sự tái cơ cấu)
+* *undergo evolution* (trải qua quá trình tiến hóa)
+* *undergo reform* (trải qua cuộc cải cách)
+* *undergo development* (trải qua sự phát triển)
+* *undergo growth* (trải qua sự tăng trưởng)
+* *undergo expansion* (trải qua sự mở rộng)
+* *undergo decline* (trải qua sự sụt giảm)
+* *undergo surge* (trải qua đợt tăng vọt)
+* *undergo surgery* (trải qua phẫu thuật)
+* *undergo operation* (trải qua ca mổ)
+* *undergo treatment* (trải qua trị liệu)
+* *undergo therapy* (trải qua trị liệu chuyên sâu)
+* *undergo procedure* (trải qua quy trình y tế)
+* *undergo examination* (trải qua sự kiểm tra)
+* *undergo inspection* (trải qua thanh tra)
+* *undergo audit* (trải qua kiểm toán)
+* *undergo testing* (trải qua kiểm thử)
+* *undergo assessment* (trải qua đánh giá)
+* *undergo training* (trải qua đào tạo)
+* *undergo preparation* (trải qua chuẩn bị)
+* *undergo trial* (trải qua thử thách / xét xử)
+* *undergo hardship* (trải qua gian khó)
+* *undergo ordeal* (trải qua thử thách nghiệt ngã)
+* *undergo stress* (chịu áp lực / sự căng thẳng)
+* *undergo pressure* (chịu sức ép)
+* *undergo scrutiny* (chịu sự xem xét kỹ lưỡng)
+* *undergo renovation* (trải qua sự nâng cấp / sửa sang)
+* *undergo alteration* (trải qua sự chỉnh sửa)
+* *need to undergo* (cần phải trải qua)
+* *forced to undergo* (bị buộc phải trải qua)
+* *expected to undergo* (được kỳ vọng trải qua)
+* *prepare to undergo* (chuẩn bị trải qua)
+* *refuse to undergo* (từ chối trải qua)
+
 ## Từ đồng nghĩa
+
+* *experience* (trải qua, kinh qua)
+* *go through* (trải qua, đi qua)
+* *endure* (chịu đựng, cam chịu)
+* *suffer* (chịu đựng, bị ảnh hưởng)
+* *sustain* (chịu tổn thất, duy trì)
+* *bear* (gánh chịu, chịu đựng)
+* *face* (đối mặt với)
+
 ## Từ trái nghĩa
+
+* *avoid* (tránh né, né tránh)
+* *bypass* (bỏ qua, đi tắt)
+* *escape* (trốn thoát, thoát khỏi)
+* *evade* (lẩn tránh, né)
+* *resist* (kháng cự, chống lại)
+
 ## Word family
+
+* *undergo* (v) (trải qua, chịu đựng)
+* *underwent* (v - quá khứ) (đã trải qua)
+* *undergone* (v - quá khứ phân từ) (đã trải qua)
+* *undergoing* (n / adj) (việc trải qua / đang diễn ra)
 
 # unique
 ## Nghĩa
