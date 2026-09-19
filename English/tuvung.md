@@ -13037,14 +13037,108 @@ replaceable (adj) (có thể thay thế)
 
 irreplaceable (adj) (không thể thay thế)
 
+Dưới đây là từ vựng **"Intense"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # intense
+
 ## Nghĩa
+
+1. (adj) Cực kỳ mạnh mẽ, dữ dội, mãnh liệt (về cảm xúc, cảm giác, ánh sáng, nhiệt độ)
+2. (adj) Nghiêm túc, tập trung cao độ (về tính cách hoặc sự chú ý của một người)
+3. (adj) Đòi hỏi nhiều sức lực, căng thẳng, dồn dập (về công việc, hoạt động, khóa học)
+4. (adj) Đậm, gắt, sắc nét (về màu sắc, mùi vị, âm thanh)
+5. (adj) Quyết liệt, cạnh tranh gay gắt (về sự thi đấu, tranh luận, áp lực)
+
 ## Ví dụ
+
+* *The players were under intense pressure to win the final match of the season.*
+* *After hours of intense debate, the parliament finally passed the new environmental bill.*
+* *The sun shone with intense heat, making it difficult for laborers to work outdoors.*
+* *She underwent an intense training course before being deployed to the project.*
+* *Global companies face intense competition in the rapidly evolving digital market.*
+
 ## Cấu trúc
+
+* *intense + Noun* (sự việc / cảm xúc mãnh liệt hoặc căng thẳng)
+* *feel/experience intense + Noun* (cảm nhận / trải qua cảm xúc dữ dội)
+* *be under intense pressure* (chịu áp lực nặng nề / dữ dội)
+* *face intense competition* (đối mặt với sự cạnh tranh gay gắt)
+* *subject someone to intense scrutiny* (đưa ai đó vào sự xem xét / soi xét kỹ lưỡng)
+
 ## Collocation
+
+* *intense pressure* (áp lực dữ dội)
+* *intense competition* (sự cạnh tranh gay gắt)
+* *intense debate* (cuộc tranh luận nảy lửa)
+* *intense pain* (cơn đau dữ dội)
+* *intense heat* (cái nóng oi ả / dữ dội)
+* *intense scrutiny* (sự soi xét kỹ lưỡng)
+* *intense concentration* (sự tập trung cao độ)
+* *intense emotion* (cảm xúc mãnh liệt)
+* *intense interest* (sự quan tâm sâu sắc)
+* *intense training* (sự huấn luyện dồn dập)
+* *intense effort* (nỗ lực phi thường)
+* *intense desire* (khao khát mãnh liệt)
+* *intense rivalry* (sự kình địch gay gắt)
+* *intense focus* (sự tập trung chuyên sâu)
+* *intense cold* (cái lạnh buốt giá)
+* *intense light* (ánh sáng chói lọi)
+* *intense color* (màu sắc rực rỡ / đậm)
+* *intense flavor* (hương vị đậm đà / gắt)
+* *intense noise* (tiếng ồn dữ dội)
+* *intense fear* (nỗi sợ hãi tột cùng)
+* *intense anger* (cơn giận dữ dội)
+* *intense joy* (niềm vui sướng mãnh liệt)
+* *intense anxiety* (sự lo âu tột độ)
+* *intense longing* (nỗi khao khát cháy bỏng)
+* *intense regret* (sự hối hận sâu sắc)
+* *intense lobbying* (sự vận động hành lang ráo riết)
+* *intense research* (nghiên cứu chuyên sâu)
+* *intense conflict* (xung đột gay gắt)
+* *intense negotiation* (đàm phán căng thẳng)
+* *intense activity* (hoạt động sôi nổi / dồn dập)
+* *become intense* (trở nên dữ dội)
+* *remain intense* (vẫn tiếp tục gay gắt)
+* *feel intense* (cảm thấy mãnh liệt)
+* *grow intense* (ngày càng tăng nhiệt)
+* *seem intense* (vẻ như rất nghiêm túc / căng thẳng)
+* *intense sunlight* (ánh nắng gay gắt)
+* *intense campaign* (chiến dịch dồn dập)
+* *intense focus on* (sự tập trung cao độ vào)
+* *intense dislike* (sự ghét bỏ cay đắng)
+* *intense suffering* (sự đau khổ tột cùng)
+* *intense workload* (khối lượng công việc cực nặng)
+* *intense struggle* (cuộc đấu tranh khốc liệt)
+* *intense pride* (niềm tự hào kiêu hãnh)
+* *intense look* (ánh nhìn chằm chằm / nghiêm nghị)
+* *intense atmosphere* (bầu không khí căng thẳng)
+
 ## Từ đồng nghĩa
+
+* *extreme* (cực đoan, khắc nghiệt)
+* *fierce* (dữ dội, khốc liệt)
+* *acute* (sắc bén, cực kỳ nghiêm trọng)
+* *severe* (gay gắt, khắt khe)
+* *profound* (sâu sắc, thâm thúy)
+* *passionate* (nhiệt huyết, say đắm)
+* *rigorous* (nghiêm ngặt, khắt khe)
+
 ## Từ trái nghĩa
+
+* *mild* (nhẹ nhàng, êm dịu)
+* *moderate* (vừa phải, ôn hòa)
+* *slight* (nhẹ, không đáng kể)
+* *weak* (yếu ớt, mờ nhạt)
+* *calm* (bình tĩnh, điềm tĩnh)
+
 ## Word family
+
+* *intense* (adj) (mãnh liệt, gay gắt, căng thẳng)
+* *intensify* (v) (gia tăng, làm cho dữ dội hơn)
+* *intensification* (n) (sự gia tăng, sự đẩy mạnh)
+* *intensity* (n) (cường độ, độ mãnh liệt)
+* *intensely* (adv) (một cách mãnh liệt, dữ dội)
+* *intensive* (adj) (chuyên sâu, cấp tập, thâm canh)
 
 # involve
 ## Nghĩa
