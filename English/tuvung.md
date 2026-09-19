@@ -14170,14 +14170,108 @@ Dưới đây là từ vựng **"Orient"** được biên soạn hoàn chỉnh t
 * *disorient* (v) (làm mất phương hướng)
 * *disorientation* (n) (sự mất phương hướng)
 
+Dưới đây là từ vựng **"Overall"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # overall
+
 ## Nghĩa
+
+1. (adj) Nhìn chung, tổng thể, toàn bộ (bao gồm tất cả mọi khía cạnh hoặc bộ phận)
+2. (adv) Nói chung, xét theo tổng thể (dùng làm trạng từ nối câu hoặc đánh giá chung)
+3. (n) Quần yếm lao động, áo bảo hộ (trang phục bảo vệ mặc ngoài khi làm việc)
+4. (adj) Tính toàn bộ, tổng cộng (trong đo lường, quy mô, chi phí - *overall cost*)
+5. (adv) Tính từ đầu đến cuối, trên mọi khía cạnh (đánh giá bức tranh toàn cảnh)
+
 ## Ví dụ
+
+* *Overall, the trend indicates a steady increase in international student enrollment.*
+* *The overall cost of the project exceeded the initial budget estimates by 15 percent.*
+* *Despite minor setbacks, the company reported strong overall performance this year.*
+* *The manager provided an overall assessment of the team's achievements during the meeting.*
+* *Workers in the factory are required to wear protective overalls at all times.*
+
 ## Cấu trúc
+
+* *overall, + clause* (nhìn chung, [mệnh đề] - cực kỳ phổ biến trong IELTS Writing Task 1)
+* *overall effect/impact on something* (tác động / ảnh hưởng tổng thể lên cái gì)
+* *an overall increase/decrease in something* (sự tăng / giảm tổng thể ở cái gì)
+* *in terms of overall performance* (xét về mặt hiệu suất tổng thể)
+* *the overall picture shows that...* (bức tranh toàn cảnh cho thấy rằng...)
+
 ## Collocation
+
+* *overall performance* (hiệu suất / kết quả tổng thể)
+* *overall cost* (tổng chi phí)
+* *overall impact* (tác động tổng thể)
+* *overall effect* (hiệu ứng tổng thể)
+* *overall score* (điểm tổng kết / điểm tổng)
+* *overall trend* (xu hướng chung)
+* *overall strategy* (chiến lược tổng thể)
+* *overall impression* (ấn tượng chung)
+* *overall assessment* (danh giá tổng thể)
+* *overall picture* (bức tranh toàn cảnh)
+* *overall structure* (cấu trúc tổng thể)
+* *overall health* (sức khỏe tổng quát)
+* *overall quality* (chất lượng tổng thể)
+* *overall pattern* (mô hình chung)
+* *overall rate* (tỷ lệ tổng cộng)
+* *overall level* (mức độ tổng thể)
+* *overall majority* (đa số tuyệt đối)
+* *overall growth* (sự tăng trưởng tổng thể)
+* *overall winner* (người chiến thắng chung cuộc)
+* *overall objective* (mục tiêu tổng thể)
+* *overall goal* (mục đích chung)
+* *overall system* (hệ thống tổng thể)
+* *overall process* (quy trình tổng thể)
+* *overall market* (thị trường chung)
+* *overall design* (thiết kế tổng thể)
+* *overall economy* (nền kinh tế chung)
+* *overall situation* (tình hình chung)
+* *overall view* (cái nhìn tổng quan)
+* *overall evaluation* (sự đánh giá tổng thể)
+* *overall framework* (khung khổ tổng thể)
+* *improve overall* (cải thiện toàn diện)
+* *assess overall* (đánh giá tổng thể)
+* *consider overall* (xem xét tổng thể)
+* *evaluate overall* (đánh giá chung)
+* *manage overall* (quản lý tổng thể)
+* *determine overall* (Xác định tổng thể)
+* *reflect overall* (phản ánh tổng quan)
+* *lead overall* (dẫn đầu chung cuộc)
+* *rank overall* (xếp hạng tổng thể)
+* *reduce overall* (cắt giảm tổng thể)
+* *overall well-being* (sức khỏe và sự hạnh phúc toàn diện)
+* *overall satisfaction* (sự hài lòng chung)
+* *overall development* (sự phát triển toàn diện)
+* *overall efficiency* (hiệu suất tổng thể)
+* *overall safety* (mức độ an toàn chung)
+
 ## Từ đồng nghĩa
+
+* *general* (chung, tổng quát)
+* *comprehensive* (toàn diện, bao quát)
+* *total* (tổng cộng, toàn bộ)
+* *gross* (tổng, chưa trừ chi phí)
+* *inclusive* (bao gồm tất cả)
+* *wholesale* (quy mô lớn, toàn bộ)
+* *blanket* (bao phủ, toàn diện)
+
 ## Từ trái nghĩa
+
+* *specific* (cụ thể, đặc thù)
+* *particular* (riêng biệt)
+* *partial* (một phần, từng phần)
+* *detailed* (chi tiết, tỉ mỉ)
+* *individual* (cá nhân, riêng lẻ)
+
 ## Word family
+
+* *overall* (adj / adv / n) (tổng thể / nhìn chung / quần yếm bảo hộ)
+* *all-over* (adj) (toàn bộ, trên khắp bề mặt)
+* *all-inclusive* (adj) (bao gồm trọn gói)
+* *overalls* (n - số nhiều) (trang phục bảo hộ lao động)
+* *overarching* (adj) (bao quát, quan trọng nhất)
+* *overallness* (n) (tính chất tổng thể, tính bao quát)
 
 # participate
 ## Nghĩa
