@@ -12770,14 +12770,108 @@ Dưới đây là từ vựng **"Inspire"** được biên soạn hoàn chỉnh 
 * *inspiring* (adj) (gây cảm hứng, truyền cảm hứng)
 * *uninspired* (adj) (không có cảm hứng, tầm thường)
 
+Dưới đây là từ vựng **"Instance"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # instance
+
 ## Nghĩa
+
+1. (n) Ví dụ, trường hợp điển hình (minh họa cho một quy luật, nhận định)
+2. (n) Trạng thái, sự cố, lần xảy ra (một sự việc diễn ra trong thực tế)
+3. (n) Yêu cầu, sự xúi giục, đề nghị (thường dùng *at the instance of*)
+4. (n) Phiên bản, đối tượng khởi tạo (trong khoa học máy tính - OOP)
+5. (v) Trích dẫn, đưa ra làm ví dụ (nghĩa trang trọng / văn phong học thuật)
+
 ## Ví dụ
+
+* *This is a clear instance of how modern technology improves daily life.*
+* *There have been several instances of data breaches reported this year.*
+* *At the instance of the local council, the new community park was built.*
+* *In the first instance, all applicants must submit their resume online.*
+* *He instanced the recent economic crisis as evidence of market volatility.*
+
 ## Cấu trúc
+
+* *for instance* (ví dụ như, chẳng hạn như)
+* *in this/that instance* (trong trường hợp này / đó)
+* *in the first instance* (đầu tiên, trước hết, ở giai đoạn đầu)
+* *at the instance of someone* (theo yêu cầu / đề nghị của ai)
+* *an instance of something* (một ví dụ / trường hợp về cái gì)
+
 ## Collocation
+
+* *clear instance* (ví dụ rõ ràng)
+* *classic instance* (trường hợp điển hình)
+* *prime instance* (ví dụ tiêu biểu nhất)
+* *striking instance* (ví dụ nổi bật)
+* *isolated instance* (trường hợp nhỏ lẻ / cá biệt)
+* *rare instance* (trường hợp hiếm gặp)
+* *common instance* (trường hợp phổ biến)
+* *specific instance* (trường hợp cụ thể)
+* *extreme instance* (trường hợp cực đoan)
+* *particular instance* (trường hợp đặc biệt)
+* *notable instance* (trường hợp đáng chú ý)
+* *tragic instance* (trường hợp đau thương)
+* *graphic instance* (trường hợp minh họa sống động)
+* *concrete instance* (trường hợp cụ thể / thực tế)
+* *single instance* (một trường hợp duy nhất)
+* *repeated instance* (trường hợp lặp đi lặp lại)
+* *documented instance* (trường hợp đã được ghi nhận)
+* *known instance* (trường hợp đã được biết đến)
+* *historical instance* (trường hợp trong lịch sử)
+* *recent instance* (trường hợp gần đây)
+* *give an instance* (đưa ra một ví dụ)
+* *cite an instance* (trích dẫn một trường hợp)
+* *provide an instance* (cung cấp một ví dụ)
+* *mention an instance* (đề cập một trường hợp)
+* *recount an instance* (kể lại một trường hợp)
+* *recall an instance* (nhớ lại một trường hợp)
+* *describe an instance* (mô tả một trường hợp)
+* *record an instance* (ghi nhận một trường hợp)
+* *report an instance* (báo cáo một trường hợp)
+* *investigate an instance* (điều tra một trường hợp)
+* *instance of corruption* (trường hợp tham nhũng)
+* *instance of violence* (trường hợp bạo lực)
+* *instance of fraud* (trường hợp gian lận)
+* *instance of discrimination* (trường hợp phân biệt đối xử)
+* *instance of success* (trường hợp thành công)
+* *instance of failure* (trường hợp thất bại)
+* *instance of misconduct* (trường hợp sai phạm)
+* *instance of abuse* (trường hợp lạm dụng)
+* *instance of bullying* (trường hợp bắt nạt)
+* *instance of non-compliance* (trường hợp không tuân thủ)
+* *in almost every instance* (trong hầu hết mọi trường hợp)
+* *in a few instances* (trong một vài trường hợp)
+* *in many instances* (trong nhiều trường hợp)
+* *in rare instances* (trong những trường hợp hiếm hoi)
+* *in extreme instances* (trong những trường hợp cực đoan)
+
 ## Từ đồng nghĩa
+
+* *example* (ví dụ, mẫu)
+* *case* (trường hợp, vụ việc)
+* *illustration* (sự minh họa, ví dụ)
+* *occurrence* (sự cố, sự việc xảy ra)
+* *sample* (mẫu thử, ví dụ)
+* *specimen* (mẫu vật, minh họa)
+* *precedent* (tiền lệ)
+
 ## Từ trái nghĩa
+
+* *generality* (quy tắc chung, điều tổng quát)
+* *rule* (quy tắc, luật lệ chung)
+* *exceptionlessness* (sự không có ngoại lệ)
+* *totality* (toàn bộ, tổng thể)
+* *universality* (tính phổ quát)
+
 ## Word family
+
+* *instance* (n / v) (ví dụ, trường hợp / trích dẫn ví dụ)
+* *instantiate* (v) (ví dụ hóa, tạo đối tượng khởi tạo)
+* *instantiation* (n) (sự minh họa bằng ví dụ, sự khởi tạo)
+* *instant* (adj / n) (ngay lập tức / khoảnh khắc)
+* *instantaneous* (adj) (tức thời, diễn ra ngay)
+* *instantly* (adv) (ngay lập tức)
 
 # instead
 ## Nghĩa
