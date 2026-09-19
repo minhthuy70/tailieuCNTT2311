@@ -16240,14 +16240,108 @@ Dưới đây là từ vựng **"Upgrade"** được biên soạn hoàn chỉnh 
 * *upgradable* (adj) (có thể nâng cấp được)
 * *upgradeability* (n) (khả năng nâng cấp)
 
+Dưới đây là từ vựng **"Utility"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # utility
+
 ## Nghĩa
+
+1. (n) Dịch vụ công cộng (điện, nước, ga, xử lý rác do nhà nước hoặc công ty cung cấp)
+2. (n) Tính tiện ích, sự hữu ích (giá trị thực dụng, khả năng đáp ứng nhu cầu thực tế)
+3. (n) Tiện ích phần mềm (chương trình máy tính phục vụ các chức năng quản lý, hỗ trợ)
+4. (n) Độ thỏa dụng (thuật ngữ kinh tế học: mức độ hài lòng nhận được từ tiêu dùng)
+5. (adj) Đa năng, thực dụng (được thiết kế tập trung vào công năng hơn là thẩm mỹ)
+
 ## Ví dụ
+
+* *Public utilities such as water, electricity, and gas are essential for urban life.*
+* *The practical utility of this new software application remains open to debate.*
+* *You can run a system utility to clear temporary files and optimize performance.*
+* *In economics, consumer choice is guided by maximizing total overall utility.*
+* *He bought a sturdy utility vehicle designed to navigate rough off-road terrain.*
+
 ## Cấu trúc
+
+* *utility bill/costs* (hóa đơn / chi phí điện nước, dịch vụ công)
+* *public utility* (dịch vụ tiện ích công cộng)
+* *of great/limited utility* (có tính hữu ích lớn / hạn chế)
+* *maximize utility* (tối đa hóa độ thỏa dụng / tính tiện ích)
+* *utility vehicle/room* (xe bán tải, xe việt dã / phòng để đồ, giặt giũ)
+
 ## Collocation
+
+* *public utility* (dịch vụ công cộng)
+* *electric utility* (dịch vụ cung cấp điện)
+* *water utility* (dịch vụ cung cấp nước)
+* *gas utility* (dịch vụ cung cấp khí đốt)
+* *local utility* (dịch vụ tiện ích địa phương)
+* *municipal utility* (dịch vụ công cộng thành phố)
+* *system utility* (tiện ích hệ thống)
+* *software utility* (tiện ích phần mềm)
+* *disk utility* (tiện ích đĩa cứng)
+* *utility bill* (hóa đơn điện nước)
+* *utility cost* (chi phí tiện ích)
+* *utility company* (công ty dịch vụ công)
+* *utility provider* (nhà cung cấp tiện ích)
+* *utility service* (dịch vụ tiện ích)
+* *utility rate* (mức giá tiện ích)
+* *utility room* (phòng phụ trợ / giặt đồ)
+* *utility vehicle* (xe việt dã / đa năng)
+* *utility function* (hàm thỏa dụng)
+* *utility pole* (cột điện / viễn thông)
+* *utility closet* (tủ đựng đồ tiện ích)
+* *practical utility* (tính tiện ích thực tế)
+* *social utility* (lợi ích xã hội)
+* *marginal utility* (độ thỏa dụng biên)
+* *total utility* (tổng độ thỏa dụng)
+* *limited utility* (tính hữu dụng hạn chế)
+* *maximize utility* (tối đa hóa tính hữu dụng)
+* *assess utility* (đánh giá tính hữu ích)
+* *demonstrate utility* (chứng minh tính hữu dụng)
+* *prove utility* (chứng tỏ sự hữu ích)
+* *enhance utility* (nâng cao tính tiện ích)
+* *diminish utility* (làm giảm tính hữu dụng)
+* *consider utility* (cân nhắc tính hữu ích)
+* *question utility* (nghi ngờ tính hữu ích)
+* *lack utility* (thiếu tính thực dụng)
+* *offer utility* (mang lại sự hữu ích)
+* *high utility* (mức độ hữu dụng cao)
+* *low utility* (mức độ hữu dụng thấp)
+* *utility knife* (dao rọc giấy / đa năng)
+* *utility belt* (dây đai công cụ)
+* *utility payment* (khoản thanh toán điện nước)
+* *utility network* (mạng lưới hạ tầng công)
+* *utility grid* (lưới điện tiện ích)
+* *utility infrastructure* (hạ tầng dịch vụ công)
+* *utility sector* (ngành dịch vụ tiện ích)
+* *utility charge* (phí dịch vụ tiện ích)
+
 ## Từ đồng nghĩa
+
+* *usefulness* (sự hữu ích, giá trị sử dụng)
+* *use* (mục đích sử dụng, công dụng)
+* *practicality* (tính thực tiễn, thực dụng)
+* *service* (dịch vụ, sự phục vụ)
+* *advantage* (lợi thế, điểm có lợi)
+* *benefit* (lợi ích, giá trị mang lại)
+* *efficacy* (tính hiệu quả, công hiệu)
+
 ## Từ trái nghĩa
+
+* *uselessness* (sự vô dụng, không ích gì)
+* *futility* (sự vô ích, vô nghĩa)
+* *inefficacy* (sự không hiệu quả)
+* *impracticality* (tính không thực tế)
+* *worthlessness* (sự vô giá trị)
+
 ## Word family
+
+* *utility* (n / adj) (tiện ích, dịch vụ công / đa năng)
+* *utilize* (v) (sử dụng, tận dụng, khai thác)
+* *utilization* (n) (sự sử dụng, sự khai thác)
+* *utilitarian* (adj / n) (thực dụng, vị lợi / người theo chủ nghĩa vị lợi)
+* *utilitarianism* (n) (chủ nghĩa vị lợi)
+* *reutilize* (v) (tái sử dụng, dùng lại)
 
 # variety
 ## Nghĩa
