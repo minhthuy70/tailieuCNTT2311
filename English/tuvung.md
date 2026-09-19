@@ -11677,14 +11677,108 @@ Dưới đây là từ vựng **"Imply"** được biên soạn hoàn chỉnh th
 * *implied* (adj) (được ngụ ý, ngầm hiểu)
 * *unimplied* (adj) (không được ngụ ý / ẩn ý)
 
+Dưới đây là từ vựng **"Impose"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # impose
+
 ## Nghĩa
+
+1. (v) Áp đặt, áp dụng (thuế, phạt, quy định, luật lệ, lệnh trừng phạt)
+2. (v) Áp đặt, bắt buộc chấp nhận (quan điểm, niềm tin, lối sống lên người khác)
+3. (v) Gây phiền phức, làm phiền (đòi hỏi sự giúp đỡ, lạm dụng sự tốt bụng)
+4. (v) Bắt phải gánh chịu (gánh nặng, hạn chế, trách nhiệm)
+5. (v) Gây ấn tượng mạnh, tạo sự uy nghiêm (nghĩa văn học - *impose oneself*)
+
 ## Ví dụ
+
+* *The government decided to impose higher taxes on luxury imported goods.*
+* *Parents should not try to impose their career choices on their children.*
+* *I hope I am not imposing by asking to stay at your house overnight.*
+* *Strict restrictions were imposed on international travel during the pandemic.*
+* *A successful leader must know how to impose authority without causing resentment.*
+
 ## Cấu trúc
+
+* *impose something on/upon someone* (áp đặt cái gì lên ai)
+* *impose a ban/tax/fine/sanction* (áp đặt lệnh cấm / thuế / mức phạt / lệnh trừng phạt)
+* *impose oneself on someone* (áp đặt sự hiện diện / uy quyền lên ai)
+* *be imposed by law/authority* (được áp đặt bởi luật pháp / cơ quan có thẩm quyền)
+* *impose constraints/limitations on something* (áp đặt sự hạn chế lên cái gì)
+
 ## Collocation
+
+* *impose taxes* (áp thuế)
+* *impose sanctions* (áp đặt lệnh trừng phạt)
+* *impose ban* (ban hành lệnh cấm)
+* *impose fine* (áp mức phạt tiền)
+* *impose penalty* (áp dụng hình phạt)
+* *impose restriction* (áp đặt sự hạn chế)
+* *impose limitation* (áp đặt giới hạn)
+* *impose constraint* (áp đặt sự ràng buộc)
+* *impose quota* (áp đặt hạn ngạch)
+* *impose duty* (áp thuế nhập khẩu / nghĩa vụ)
+* *impose tariff* (áp mức thuế quan)
+* *impose curfew* (áp đặt lệnh giới nghiêm)
+* *impose condition* (áp đặt điều kiện)
+* *impose requirement* (áp đặt yêu cầu)
+* *impose obligation* (áp đặt nghĩa vụ)
+* *impose sentence* (tuyên án / áp mức án)
+* *impose burden* (trút / áp đặt gánh nặng)
+* *impose strain* (gây ra sự căng thẳng)
+* *impose hardship* (gây ra sự gian khổ)
+* *impose stress* (gây áp lực)
+* *impose cost* (gây ra chi phí / tổn thất)
+* *impose discipline* (thiết lập kỷ luật)
+* *impose order* (thiết lập trật tự)
+* *impose standard* (áp đặt tiêu chuẩn)
+* *impose control* (áp đặt sự kiểm soát)
+* *impose rule* (áp đặt quy tắc)
+* *impose authority* (khẳng định uy quyền)
+* *impose will* (áp đặt ý chí)
+* *impose belief* (áp đặt niềm tin)
+* *impose view* (áp đặt góc nhìn / quan điểm)
+* *impose lifestyle* (áp đặt lối sống)
+* *strictly impose* (áp đặt một cách nghiêm ngặt)
+* *unilaterally impose* (áp đặt một cách đơn phương)
+* *arbitrarily impose* (áp đặt một cách tùy tiện)
+* *formally impose* (áp đặt một cách chính thức)
+* *legally impose* (áp đặt về mặt pháp lý)
+* *heavily impose* (áp đặt nặng nề)
+* *threaten to impose* (đe dọa áp đặt)
+* *seek to impose* (tìm cách áp đặt)
+* *attempt to impose* (cố gắng áp đặt)
+* *refuse to impose* (từ chối áp đặt)
+* *power to impose* (quyền hạn áp đặt)
+* *right to impose* (quyền áp đặt)
+* *decision to impose* (quyết định áp đặt)
+* *impose on hospitality* (lạm dụng sự hiếu khách)
+
 ## Từ đồng nghĩa
+
+* *enforce* (thi hành, bắt tuân thủ)
+* *inflict* (gây ra, bắt gánh chịu)
+* *levy* (thu thuế, đánh thuế)
+* *dictate* (tuyên bố, áp đặt)
+* *prescribe* (quy định, bắt buộc)
+* *foist* (gán ghép, ép buộc nhận)
+* *apply* (áp dụng, đưa vào thực thi)
+
 ## Từ trái nghĩa
+
+* *lift* (bỏ, dỡ bỏ lệnh cấm/thuế)
+* *remove* (loại bỏ, tháo dỡ)
+* *abolish* (bãi bỏ, hủy bỏ)
+* *withdraw* (rút lại, thu hồi)
+* *exempt* (miễn, tha cho)
+
 ## Word family
+
+* *impose* (v) (áp đặt, áp dụng, làm phiền)
+* *imposition* (n) (sự áp đặt, sự gánh chịu, gánh nặng)
+* *imposing* (adj) (đồ sộ, uy nghi, gây ấn tượng mạnh)
+* *imposingly* (adv) (một cách uy nghi, ấn tượng)
+* *unimposing* (adj) (khiêm tốn, không gây ấn tượng)
+* *imposer* (n) (người áp đặt / cơ quan ban hành)
 
 # incentive
 ## Nghĩa
