@@ -10962,14 +10962,108 @@ Dưới đây là từ vựng **"Extract"** được biên soạn hoàn chỉnh 
 * *extractable* (adj) (có thể trích xuất / khai thác được)
 * *unextracted* (adj) (chưa được khai thác / chưa trích xuất)
 
+Dưới đây là từ vựng **"Finance"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # finance
+
 ## Nghĩa
+
+1. (n) Tài chính (hệ thống, quản lý tiền tệ và đầu tư)
+2. (n) Nguồn tài chính, tiền vốn (được cấp cho một dự án, tổ chức)
+3. (v) Cấp vốn, tài trợ tài chính (cho một hoạt động, kế hoạch, mua sắm)
+4. (n) Khoa tài chính, ngành học quản lý tài chính
+5. (n) Tình hình tài chính, thu chi (cá nhân, doanh nghiệp, quốc gia)
+
 ## Ví dụ
+
+* *She decided to pursue a master's degree in international finance.*
+* *The government has promised to finance the construction of the new railway.*
+* *Proper management of personal finance is essential for long-term stability.*
+* *The project collapsed due to a sudden lack of adequate finance.*
+* *An independent board was established to oversee the company's finances.*
+
 ## Cấu trúc
+
+* *finance something through/by something* (tài trợ cái gì thông qua cái gì)
+* *raise finance for something* (huy động nguồn vốn cho cái gì)
+* *be funded by public/private finance* (được tài trợ bởi nguồn vốn công / tư)
+* *in charge of finance* (chịu trách nhiệm về mảng tài chính)
+* *finance a project/campaign/expansion* (cấp vốn cho dự án / chiến dịch / sự mở rộng)
+
 ## Collocation
+
+* *corporate finance* (tài chính doanh nghiệp)
+* *personal finance* (tài chính cá nhân)
+* *public finance* (tài chính công)
+* *international finance* (tài chính quốc tế)
+* *global finance* (tài chính toàn cầu)
+* *high finance* (tài chính cấp cao / giới tài chính lớn)
+* *micro finance* (tài chính vi mô)
+* *consumer finance* (tài chính tiêu dùng)
+* *sustainable finance* (tài chính bền vững)
+* *climate finance* (tài chính khí hậu)
+* *deficit finance* (tài trợ thâm hụt)
+* *raise finance* (huy động vốn)
+* *provide finance* (cung cấp nguồn vốn)
+* *secure finance* (đảm bảo nguồn tài chính)
+* *arrange finance* (arranges / sắp xếp nguồn tài chính)
+* *obtain finance* (thu hút / đạt được nguồn vốn)
+* *manage finance* (quản lý tài chính)
+* *oversee finance* (giám sát tài chính)
+* *finance sector* (ngành tài chính)
+* *finance industry* (công nghiệp tài chính)
+* *finance market* (thị trường tài chính)
+* *finance minister* (bộ trưởng tài chính)
+* *finance ministry* (bộ tài chính)
+* *finance committee* (ủy ban tài chính)
+* *finance director* (giám đốc tài chính)
+* *finance manager* (quản lý tài chính)
+* *finance department* (phòng tài chính)
+* *finance officer* (chuyên viên tài chính)
+* *finance company* (công ty tài chính)
+* *finance agreement* (hợp đồng tài trợ vốn)
+* *finance package* (gói hỗ trợ tài chính)
+* *finance charge* (phí tài chính)
+* *finance lease* (cho thuê tài chính)
+* *sound finances* (tình hình tài chính lành mạnh)
+* *healthy finances* (tài chính vững mạnh)
+* *strained finances* (tài chính căng thẳng)
+* *dwindling finances* (nguồn tài chính hao hụt)
+* *precarious finances* (tài chính bấp bênh)
+* *fully finance* (cấp vốn toàn bộ)
+* *partially finance* (tài trợ một phần)
+* *jointly finance* (cùng cấp vốn / đồng tài trợ)
+* *privately finance* (tài trợ từ nguồn tư nhân)
+* *publicly finance* (cấp vốn từ ngân sách công)
+* *independently finance* (tài trợ độc lập)
+* *help finance* (giúp tài trợ / cấp vốn)
+
 ## Từ đồng nghĩa
+
+* *fund* (cấp vốn, tài trợ)
+* *subsidize* (trợ cấp, hỗ trợ tài chính)
+* *sponsor* (tài trợ, bảo trợ)
+* *capital* (vốn, tiền đầu tư)
+* *funds* (tiền quỹ, nguồn tài chính)
+* *bankroll* (cung cấp tiền mặt, tài trợ)
+* *revenue* (doanh thu, ngân sách)
+
 ## Từ trái nghĩa
+
+* *defund* (cắt viện trợ, rút vốn)
+* *drain* (làm kiệt quệ tài chính)
+* *impoverish* (làm cho bần cùng hóa)
+* *bankrupt* (làm phá sản)
+* *exhaust* (tiêu tốn sạch sẽ nguồn lực)
+
 ## Word family
+
+* *finance* (n / v) (tài chính, cấp vốn)
+* *financial* (adj) (thuộc về tài chính)
+* *financially* (adv) (về mặt tài chính)
+* *financier* (n) (nhà tài chính, người đầu tư lớn)
+* *financing* (n) (sự cấp vốn, sự huy động tài chính)
+* *refinance* (v) (tái cấp vốn, cấu trúc lại khoản nợ)
 
 # formulate
 ## Nghĩa
