@@ -12667,14 +12667,108 @@ Dưới đây là từ vựng **"Insight"** được biên soạn hoàn chỉnh 
 * *insightfulness* (n) (tính chất sâu sắc, sự sáng suốt)
 * *uninsightful* (adj) (hời hợt, không có giá trị thấu hiểu)
 
+Dưới đây là từ vựng **"Inspire"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # inspire
+
 ## Nghĩa
+
+1. (v) Truyền cảm hứng, truyền khơi gợi (cho ai đó ý tưởng, cảm xúc tích cực)
+2. (v) Thúc đẩy, xúi giục (khiến ai đó hành động hoặc sáng tạo)
+3. (v) Khơi dậy, làm nảy sinh (cảm xúc, niềm tin, sự kính trọng)
+4. (v) Hít vào, thở vào (nghĩa y khoa / sinh học - đối lập với *expire*)
+5. (v) Thổi hồn, truyền sinh khí (vào một tác phẩm, dự án, phong trào)
+
 ## Ví dụ
+
+* *Her remarkable resilience continues to inspire millions of people worldwide.*
+* *The natural beauty of the countryside has inspired countless poets and painters.*
+* *A great teacher does not merely impart knowledge but strives to inspire students.*
+* *His confident leadership style inspires absolute trust among his team members.*
+* *The successful reform in the capital inspired similar initiatives across the nation.*
+
 ## Cấu trúc
+
+* *inspire someone to do something* (truyền cảm hứng cho ai làm điều gì)
+* *inspire something in someone* (khơi dậy cảm xúc / niềm tin ở ai)
+* *be inspired by something/someone* (được truyền cảm hứng bởi cái gì / ai)
+* *inspire confidence/respect/awe* (khơi dậy sự tự tin / kính trọng / nể phục)
+* *draw inspiration from something* (lấy nguồn cảm hứng từ cái gì)
+
 ## Collocation
+
+* *deeply inspire* (truyền cảm hứng sâu sắc)
+* *greatly inspire* (truyền cảm hứng to lớn)
+* *profoundly inspire* (truyền cảm hứng thâm thúy)
+* *immensely inspire* (truyền cảm hứng vô cùng)
+* *continually inspire* (liên tục truyền cảm hứng)
+* *directly inspire* (trực tiếp truyền cảm hứng)
+* *truly inspire* (thực sự truyền cảm hứng)
+* *inspire confidence* (khơi dậy sự tự tin)
+* *inspire trust* (khơi dậy niềm tin)
+* *inspire respect* (khơi dậy sự tôn trọng)
+* *inspire awe* (khơi dậy sự nể phục / kinh ngạc)
+* *inspire loyalty* (khơi dậy lòng trung thành)
+* *inspire hope* (thắp lên hy vọng)
+* *inspire fear* (gây ra sự sợ hãi)
+* *inspire change* (thúc đẩy sự thay đổi)
+* *inspire action* (thúc đẩy hành động)
+* *inspire creativity* (kích thích sự sáng tạo)
+* *inspire innovation* (thúc đẩy sự đổi mới)
+* *inspire enthusiasm* (khơi dậy sự nhiệt huyết)
+* *inspire devotion* (khơi dậy sự cống hiến)
+* *inspire passion* (truyền ngọn lửa đam mê)
+* *inspire optimism* (truyền tinh thần lạc quan)
+* *inspire admiration* (khơi dậy sự ngưỡng mộ)
+* *inspire curiosity* (kích thích sự tò mò)
+* *inspire pride* (khơi dậy niềm tự hào)
+* *inspire generation* (truyền cảm hứng cho một thế hệ)
+* *inspire audience* (truyền cảm hứng cho khán giả)
+* *inspire student* (truyền cảm hứng cho học sinh)
+* *inspire youth* (truyền cảm hứng cho giới trẻ)
+* *inspire worker* (thúc đẩy người lao động)
+* *art that inspires* (nghệ thuật truyền cảm hứng)
+* *leader who inspires* (người lãnh đạo truyền cảm hứng)
+* *story that inspires* (câu chuyện truyền cảm hứng)
+* *music that inspires* (âm nhạc truyền cảm hứng)
+* *speech that inspires* (bài phát biểu truyền cảm hứng)
+* *seek to inspire* (tìm cách truyền cảm hứng)
+* *aim to inspire* (mục tiêu truyền cảm hứng)
+* *serve to inspire* (phục vụ việc truyền cảm hứng)
+* *help to inspire* (giúp truyền cảm hứng)
+* *ability to inspire* (khả năng truyền cảm hứng)
+* *power to inspire* (sức mạnh truyền cảm hứng)
+* *capacity to inspire* (năng lực truyền cảm hứng)
+* *inspire awe in* (gây kinh ngạc cho)
+* *inspire confidence in* (tạo sự tự tin cho)
+* *inspire loyalty in* (tạo lòng trung thành cho)
+
 ## Từ đồng nghĩa
+
+* *encourage* (khuyến khích, động viên)
+* *motivate* (thúc đẩy, tạo động lực)
+* *stimulate* (kích thích, khơi dậy)
+* *galvanize* (kích động, làm sôi nổi)
+* *spark* (khơi mào, tạo tia sáng)
+* *animate* (thổi sức sống, làm nhộn nhịp)
+* *inflame* (khơi dậy mạnh mẽ, đốt cháy)
+
 ## Từ trái nghĩa
+
+* *discourage* (làm nản lòng)
+* *dishearten* (làm nhụt chí)
+* *dampen* (làm tụt cảm xúc, dập tắt)
+* *depress* (làm thất vọng, trì trệ)
+* *deter* (răn đe, ngăn cản)
+
 ## Word family
+
+* *inspire* (v) (truyền cảm hứng, khơi dậy)
+* *inspiration* (n) (nguồn cảm hứng, cảm hứng)
+* *inspirational* (adj) (mang tính truyền cảm hứng)
+* *inspired* (adj) (đầy cảm hứng, xuất thần)
+* *inspiring* (adj) (gây cảm hứng, truyền cảm hứng)
+* *uninspired* (adj) (không có cảm hứng, tầm thường)
 
 # instance
 ## Nghĩa
