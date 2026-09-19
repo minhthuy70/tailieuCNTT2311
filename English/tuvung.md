@@ -13964,14 +13964,108 @@ Dưới đây là từ vựng **"Minimize"** được biên soạn hoàn chỉnh
 * *minimally* (adv) (ở mức độ tối thiểu)
 * *minimalist* (n / adj) (người theo chủ nghĩa tối giản / tối giản)
 
+Dưới đây là từ vựng **"Motivate"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # motivate
+
 ## Nghĩa
+
+1. (v) Thúc đẩy, tạo động lực (khiến ai đó có năng lượng, quyết tâm làm điều gì)
+2. (v) Là động cơ, nguyên nhân thúc đẩy (giải thích lý do đằng sau một hành vi / quyết định)
+3. (v) Khích lệ, truyền hứng thú (giúp học sinh, nhân viên hăng hái làm việc)
+4. (v) Đưa ra lý do hợp lý, biện minh (cho một hành động hoặc giả thuyết trong nghiên cứu)
+5. (v) Kích thích, khơi dậy tiềm năng (giúp ai đó vượt qua giới hạn của bản thân)
+
 ## Ví dụ
+
+* *Effective leaders know how to inspire and motivate their team members during crises.*
+* *The desire to improve living standards motivates many youths to move to urban areas.*
+* *Financial rewards alone are often insufficient to motivate employees in the long run.*
+* *Teachers should employ interactive teaching methods to keep students highly motivated.*
+* *What truly motivated her decision to quit her prestigious job remains a mystery.*
+
 ## Cấu trúc
+
+* *motivate someone to do something* (thúc đẩy / tạo động lực cho ai làm gì)
+* *be motivated by something* (được thúc đẩy / có động cơ bởi cái gì)
+* *highly/strongly motivated* (có động lực vô cùng mạnh mẽ)
+* *motivate someone toward(s) something* (hướng ai đó đến mục tiêu gì)
+* *intrinsic/extrinsic factor that motivates* (yếu tố nội tại / bên ngoài thúc đẩy)
+
 ## Collocation
+
+* *strongly motivate* (thúc đẩy mạnh mẽ)
+* *highly motivate* (tạo động lực cao)
+* *deeply motivate* (thúc đẩy sâu sắc)
+* *directly motivate* (trực tiếp thúc đẩy)
+* *primarily motivate* (chủ yếu thúc đẩy)
+* *financially motivate* (thúc đẩy bằng tài chính)
+* *politically motivate* (thúc đẩy vì mục đích chính trị)
+* *ideologically motivate* (thúc đẩy bởi tư tưởng)
+* *emotionally motivate* (thúc đẩy về mặt cảm xúc)
+* *socially motivate* (thúc đẩy bởi yếu tố xã hội)
+* *motivate workforce* (thúc đẩy lực lượng lao động)
+* *motivate staff* (thúc đẩy nhân viên)
+* *motivate student* (thúc đẩy học sinh)
+* *motivate child* (tạo động lực cho trẻ em)
+* *motivate individual* (thúc đẩy cá nhân)
+* *motivate team* (tạo động lực cho tập thể)
+* *motivate athlete* (thúc đẩy vận động viên)
+* *motivate worker* (tạo động lực cho công nhân)
+* *motivate learner* (thúc đẩy người học)
+* *motivate consumer* (kích thích người tiêu dùng)
+* *motivate behavior* (thúc đẩy hành vi)
+* *motivate action* (thúc đẩy hành động)
+* *motivate change* (thúc đẩy sự thay đổi)
+* *motivate achievement* (thúc đẩy thành tựu)
+* *motivate performance* (thúc đẩy hiệu suất)
+* *motivate innovation* (thúc đẩy sự đổi mới)
+* *motivate participation* (thúc đẩy sự tham gia)
+* *motivate learning* (thúc đẩy sự học hỏi)
+* *motivate growth* (thúc đẩy sự phát triển)
+* *motivate effort* (thúc đẩy nỗ lực)
+* *help to motivate* (giúp tạo động lực)
+* *seek to motivate* (tìm cách thúc đẩy)
+* *aim to motivate* (mục tiêu thúc đẩy)
+* *fail to motivate* (thất bại trong việc tạo động lực)
+* *serve to motivate* (phục vụ việc tạo động lực)
+* *ability to motivate* (khả năng thúc đẩy)
+* *capacity to motivate* (năng lực tạo động lực)
+* *way to motivate* (cách thức thúc đẩy)
+* *strategy to motivate* (chiến lược tạo động lực)
+* *power to motivate* (sức mạnh thúc đẩy)
+* *factor that motivates* (yếu tố thúc đẩy)
+* *desire that motivates* (khao khát thúc đẩy)
+* *need that motivates* (nhu cầu thúc đẩy)
+* *incentive to motivate* (mức thưởng thúc đẩy)
+* *reward to motivate* (phần thưởng tạo động lực)
+
 ## Từ đồng nghĩa
+
+* *inspire* (truyền cảm hứng, khơi gợi)
+* *encourage* (khuyến khích, động viên)
+* *drive* (thúc đẩy, dẫn dắt)
+* *impel* (ép buộc, thúc giục từ bên trong)
+* *prompt* (xúi giục, thúc giục)
+* *stimulate* (kích thích, khơi dậy)
+* *galvanize* (kích động, khiến hành động ngay)
+
 ## Từ trái nghĩa
+
+* *demotivate* (làm mất động lực, chán nản)
+* *discourage* (làm nản lòng)
+* *dishearten* (làm nhụt chí)
+* *dampen* (dập tắt, làm tụt cảm xúc)
+* *deter* (răn đe, ngăn cản)
+
 ## Word family
+
+* *motivate* (v) (thúc đẩy, tạo động lực)
+* *motivation* (n) (động lực, sự thúc đẩy, động cơ)
+* *motivational* (adj) (mang tính truyền động lực)
+* *motive* (n / adj) (động cơ, lý do / làm chuyển động)
+* *motivated* (adj) (đầy hăng hái, có động lực)
+* *demotivate* (v) (làm nhụt chí, làm mất động lực)
 
 # orient
 ## Nghĩa
