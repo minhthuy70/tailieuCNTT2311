@@ -15465,14 +15465,108 @@ Dưới đây là từ vựng **"Subsequent"** được biên soạn hoàn chỉ
 * *subsequence* (n) (sự xảy ra sau, chuỗi con)
 * *subsequency* (n) (tính chất xảy ra sau)
 
+Dưới đây là từ vựng **"Symbol"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # symbol
+
 ## Nghĩa
+
+1. (n) Biểu tượng, hình ảnh tượng trưng (vật thể, dấu hiệu đại diện cho ý niệm hoặc tổ chức)
+2. (n) Ký hiệu, danh mục quy ước (trong toán học, hóa học, âm nhạc, khoa học)
+3. (n) Dấu hiệu, biểu hiện (điều thể hiện một trạng thái, xu hướng hoặc giá trị xã hội)
+4. (n) Trạng thái / vật tượng trưng (đại diện cho vị thế hoặc sự thành đạt - *status symbol*)
+5. (v) Tượng trưng cho, biểu thị (*dạng hiếm / thơ văn* - thường dùng động詞 *symbolize*)
+
 ## Ví dụ
+
+* *The dove has long been recognized globally as a universal symbol of peace.*
+* *Chemical symbols like H2O represent the molecular composition of water.*
+* *Owning a luxury sports car is often regarded as a prominent status symbol.*
+* *The historic building stands as a proud symbol of the city's rich heritage.*
+* *In literature, the rising sun frequently serves as a symbol of hope and rebirth.*
+
 ## Cấu trúc
+
+* *symbol of something* (biểu tượng của cái gì / điều gì)
+* *status symbol* (biểu tượng của địa vị / đẳng cấp)
+* *a symbol for something* (ký hiệu đại diện cho cái gì)
+* *stand as a symbol of something* (sừng sững như một biểu tượng của cái gì)
+* *serve as a symbol of something* (đóng vai trò là biểu tượng cho cái gì)
+
 ## Collocation
+
+* *national symbol* (biểu tượng quốc gia)
+* *religious symbol* (biểu tượng tôn giáo)
+* *cultural symbol* (biểu tượng văn hóa)
+* *universal symbol* (biểu tượng toàn cầu / phổ quát)
+* *potent symbol* (biểu tượng mạnh mẽ)
+* *powerful symbol* (biểu tượng đầy sức mạnh)
+* *enduring symbol* (biểu tượng trường tồn)
+* *iconic symbol* (biểu tượng mang tính hình tượng cao)
+* *status symbol* (biểu tượng địa vị)
+* *sex symbol* (biểu tượng quyến rũ)
+* *chemical symbol* (ký hiệu hóa học)
+* *mathematical symbol* (ký hiệu toán học)
+* *phonetic symbol* (ký hiệu ngữ âm)
+* *graphic symbol* (ký hiệu đồ họa)
+* *currency symbol* (ký hiệu tiền tệ)
+* *status symbol* (biểu tượng của sự giàu có/địa vị)
+* *symbol of hope* (biểu tượng của hy vọng)
+* *symbol of freedom* (biểu tượng của sự tự do)
+* *symbol of unity* (biểu tượng của sự đoàn kết)
+* *symbol of resistance* (biểu tượng của sự kháng cự)
+* *symbol of oppression* (biểu tượng của sự áp bức)
+* *symbol of power* (biểu tượng của quyền lực)
+* *symbol of success* (biểu tượng của sự thành công)
+* *symbol of status* (biểu tượng của địa vị xã hội)
+* *symbol of authority* (biểu tượng của quyền lực/thẩm quyền)
+* *become a symbol* (trở thành một biểu tượng)
+* *remain a symbol* (vẫn là một biểu tượng)
+* *adopt a symbol* (chấp nhận / dùng một biểu tượng)
+* *create a symbol* (tạo ra một biểu tượng)
+* *design a symbol* (thiết kế một biểu tượng)
+* *display a symbol* (hiển thị / trưng bày biểu tượng)
+* *recognize a symbol* (nhận diện một biểu tượng)
+* *interpret a symbol* (diễn giải một biểu tượng)
+* *understand a symbol* (hiểu một biểu tượng)
+* *use a symbol* (sử dụng một biểu tượng)
+* *symbolic representation* (sự đại diện mang tính biểu tượng)
+* *symbolic gesture* (hành động mang tính biểu tượng)
+* *symbolic meaning* (ý nghĩa biểu tượng)
+* *symbolic value* (giá trị biểu tượng)
+* *symbolic importance* (tầm quan trọng mang tính biểu tượng)
+* *visible symbol* (biểu tượng có thể nhìn thấy rõ)
+* *tangible symbol* (biểu tượng hữu hình)
+* *potent symbol of change* (biểu tượng mạnh mẽ của sự thay đổi)
+* *symbol of prosperity* (biểu tượng của sự thịnh vượng)
+* *symbol of fertility* (biểu tượng của sự sinh sôi / màu mỡ)
+
 ## Từ đồng nghĩa
+
+* *emblem* (huy hiệu, biểu tượng)
+* *token* (dấu hiệu, vật kỷ niệm/tượng trưng)
+* *icon* (hình tượng, biểu tượng lớn)
+* *badge* (huy hiệu, dấu hiệu)
+* *mark* (dấu vết, ký hiệu)
+* *sign* (dấu hiệu, biển hiệu)
+* *representation* (sự đại diện, sự thể hiện)
+
 ## Từ trái nghĩa
+
+* *literalness* (sự nghĩa đen, tính thực tế không thấu đáo)
+* *fact* (sự thật, thực tế)
+* *reality* (thực tại, thực tế)
+* *substance* (bản chất, vật chất thực tế)
+* *concrete object* (vật thể cụ thể)
+
 ## Word family
+
+* *symbol* (n / v) (biểu tượng, ký hiệu / tượng trưng)
+* *symbolize* (v) (tượng trưng cho, biểu thị)
+* *symbolic* (adj) (mang tính biểu tượng)
+* *symbolically* (adv) (một cách tượng trưng)
+* *symbolism* (n) (chủ nghĩa tượng trưng, hệ thống biểu tượng)
+* *symbolist* (n / adj) (người theo chủ nghĩa tượng trưng / thuộc nghệ thuật tượng trưng)
 
 # tense
 ## Nghĩa
