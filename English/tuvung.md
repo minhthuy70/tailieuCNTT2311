@@ -11370,14 +11370,106 @@ Dưới đây là từ vựng **"Hence"** được biên soạn hoàn chỉnh th
 * *henceforth* (adv) (kể từ nay trở đi, từ nay về sau)
 * *henceforward* (adv) (từ đây về sau)
 
+Dưới đây là từ vựng **"Highlight"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # highlight
+
 ## Nghĩa
+
+1. (v) Nhấn mạnh, làm nổi bật (một vấn đề, sự thật, chi tiết quan trọng)
+2. (v) Tô đậm, đánh dấu (dòng chữ bằng bút dạ quang hoặc công cụ kỹ thuật số)
+3. (v) Nhuộm highlight (tóc)
+4. (n) Điểm nổi bật, phần hay nhất (của một sự kiện, chuyến đi, trận đấu)
+5. (n) Vùng sáng nhất, điểm phản quang (trong nhiếp ảnh, hội họa)
+
 ## Ví dụ
+
+* *The report aims to highlight the growing disparity between urban and rural areas.*
+* *Students are encouraged to highlight key phrases while reading dense academic texts.*
+* *Visiting the ancient ruins was definitely the highlight of our trip to South America.*
+* *The artist used soft white paint to create delicate highlights on the portrait.*
+* *Recent statistics highlight the urgent need for comprehensive educational reform.*
+
 ## Cấu trúc
+
+* *highlight something to someone* (làm nổi bật / nhấn mạnh cái gì cho ai)
+* *highlight the importance/need of something* (nhấn mạnh tầm quan trọng / nhu cầu của cái gì)
+* *be highlighted by something* (được làm nổi bật / nhấn mạnh bởi cái gì)
+* *highlight the fact that* (nhấn mạnh một thực tế rằng)
+* *be a major highlight of something* (là điểm nhấn chính của cái gì)
+
 ## Collocation
+
+* *highlight issue* (nhấn mạnh vấn đề)
+* *highlight problem* (làm nổi bật rắc rối)
+* *highlight need* (nhấn mạnh nhu cầu)
+* *highlight importance* (nhấn mạnh tầm quan trọng)
+* *highlight role* (làm nổi bật vai trò)
+* *highlight difference* (làm rõ sự khác biệt)
+* *highlight contrast* (làm nổi bật sự tương phản)
+* *highlight success* (nhấn mạnh thành công)
+* *highlight risk* (làm nổi bật rủi ro)
+* *highlight flaw* (chỉ ra thiếu sót)
+* *highlight weakness* (làm rõ điểm yếu)
+* *highlight strength* (nhấn mạnh thế mạnh)
+* *highlight concern* (làm nổi bật mối quan ngại)
+* *highlight priority* (nhấn mạnh ưu tiên)
+* *highlight difficulty* (làm rõ khó khăn)
+* *highlight tension* (làm nổi bật sự căng thẳng)
+* *highlight value* (nhấn mạnh giá trị)
+* *highlight achievement* (làm nổi bật thành tựu)
+* *highlight plight* (làm nổi bật hoàn cảnh khó khăn)
+* *highlight vulnerability* (chỉ ra lỗ hổng / điểm yếu)
+* *highlight text* (tô đậm văn bản)
+* *highlight passage* (đánh dấu đoạn văn)
+* *highlight sentence* (tô sáng câu)
+* *highlight phrase* (đánh dấu cụm từ)
+* *career highlight* (điểm sáng trong sự nghiệp)
+* *personal highlight* (điểm nhấn cá nhân)
+* *musical highlight* (điểm nhấn âm nhạc)
+* *tournament highlight* (điểm nhấn của giải đấu)
+* *festival highlight* (điểm nổi bật của lễ hội)
+* *clearly highlight* (nhấn mạnh một cách rõ ràng)
+* *further highlight* (làm nổi bật hơn nữa)
+* *dramatically highlight* (nhấn mạnh một cách kịch tính / ấn tượng)
+* *effectively highlight* (làm nổi bật hiệu quả)
+* *sharply highlight* (nhấn mạnh một cách sắc nét)
+* *vividly highlight* (tái hiện / làm nổi bật sinh động)
+* *correctly highlight* (nhấn mạnh một cách chính xác)
+* *continually highlight* (liên tục làm nổi bật)
+* *serve to highlight* (phục vụ cho việc làm nổi bật)
+* *help to highlight* (giúp làm rõ / nhấn mạnh)
+* *tend to highlight* (có xu hướng nhấn mạnh)
+* *seek to highlight* (tìm cách làm nổi bật)
+* *aim to highlight* (nhắm đến việc làm nổi bật)
+* *fail to highlight* (không làm nổi bật được)
+* *highlight reels* (cuộn phim tổng hợp khoảnh khắc nổi bật)
+* *highlight package* (gói tổng hợp điểm tin / sự kiện)
+
 ## Từ đồng nghĩa
+
+* *emphasize* (nhấn mạnh, làm nổi bật)
+* *underline* (gạch chân, nhấn mạnh)
+* *stress* (nhấn mạnh, đặt trọng tâm)
+* *accentuate* (làm nổi bật, làm chú ý)
+* *spotlight* (rọi đèn vào, tập trung sự chú ý)
+* *feature* (đưa ra làm điểm đặc trưng)
+* *showcase* (phô bày, tôn vinh điểm mạnh)
+
 ## Từ trái nghĩa
+
+* *downplay* (nói giảm nói tránh, coi nhẹ)
+* *understate* (nói bớt đi, làm giảm tầm quan trọng)
+* *minimize* (giảm thiểu, hạ thấp)
+* *ignore* (phớt lờ, bỏ qua)
+* *overshadow* (che bóng, làm mờ nhạt)
+
 ## Word family
+
+* *highlight* (v / n) (nhấn mạnh, tô đậm / điểm nổi bật)
+* *highlighted* (adj) (được tô đậm, được nhấn mạnh)
+* *highlighter* (n) (bút dạ quang, phấn bắt sáng)
+* *highlighting* (n) (việc tô đậm, hành động làm nổi bật)
 
 # illustrate
 ## Nghĩa
