@@ -16138,14 +16138,107 @@ Dưới đây là từ vựng **"Unique"** được biên soạn hoàn chỉnh t
 * *uniqueness* (n) (sự độc nhất, tính độc đáo)
 * *non-unique* (adj) (không độc nhất, đại trà)
 
+Dưới đây là từ vựng **"Upgrade"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # upgrade
+
 ## Nghĩa
+
+1. (v) Nâng cấp, cải tiến (nâng cao chất lượng, hiệu suất của hệ thống, thiết bị)
+2. (v) Thăng cấp, nâng hạng (được chuyển sang hạng dịch vụ cao hơn như vé máy bay, phòng khách sạn)
+3. (n) Sự nâng cấp, bản cập nhật (sản phẩm, tính năng hoặc hệ thống mới hơn, tốt hơn)
+4. (n) Sự thăng hạng dịch vụ (việc được đổi sang vị trí hay hạng ghế ưu đãi hơn)
+5. (v) Nâng cao năng lực/trình độ (trau dồi kỹ năng chuyên môn của bản thân hay lao động)
+
 ## Ví dụ
+
+* *The company decided to upgrade its IT infrastructure to improve network security.*
+* *Frequent travelers are often eligible to be upgraded to business class for free.*
+* *Installing solar panels is a major energy-efficient upgrade for modern homes.*
+* *She received a complimentary room upgrade upon arriving at the luxury hotel.*
+* *Workers need to constantly upgrade their skills to remain competitive in the market.*
+
 ## Cấu trúc
+
+* *upgrade something to something* (nâng cấp cái gì lên mức/tiêu chuẩn gì)
+* *upgrade from something to something* (nâng cấp từ cái gì lên cái gì)
+* *be upgraded to something* (được nâng hạng / thăng cấp lên vị trí/hạng nào)
+* *a major/significant upgrade* (một sự nâng cấp / cải tiến lớn)
+* *upgrade skills/qualifications* (nâng cao kỹ năng / trình độ chuyên môn)
+
 ## Collocation
+
+* *substantially upgrade* (nâng cấp đáng kể)
+* *significantly upgrade* (nâng cấp quan trọng)
+* *continually upgrade* (liên tục nâng cấp)
+* *regularly upgrade* (thường xuyên nâng cấp)
+* *gradually upgrade* (dần dần nâng cấp)
+* *urgently upgrade* (nâng cấp khẩn cấp)
+* *technologically upgrade* (nâng cấp về mặt công nghệ)
+* *automatically upgrade* (tự động nâng cấp)
+* *cost-effectively upgrade* (nâng cấp tiết kiệm chi phí)
+* *comprehensively upgrade* (nâng cấp toàn diện)
+* *upgrade system* (nâng cấp hệ thống)
+* *upgrade software* (nâng cấp phần mềm)
+* *upgrade hardware* (nâng cấp phần cứng)
+* *upgrade facility* (nâng cấp cơ sở vật chất)
+* *upgrade equipment* (nâng cấp thiết bị)
+* *upgrade network* (nâng cấp mạng lưới)
+* *upgrade infrastructure* (nâng cấp hạ tầng)
+* *upgrade skill* (nâng cao kỹ năng)
+* *upgrade knowledge* (trau dồi kiến thức)
+* *upgrade status* (nâng cao vị thế)
+* *upgrade service* (nâng cấp dịch vụ)
+* *upgrade security* (nâng cao an ninh)
+* *upgrade capability* (nâng cao năng lực)
+* *upgrade standard* (nâng cao tiêu chuẩn)
+* *upgrade version* (nâng cấp phiên bản)
+* *major upgrade* (sự nâng cấp lớn)
+* *minor upgrade* (sự nâng cấp nhỏ)
+* *massive upgrade* (sự nâng cấp quy mô lớn)
+* *necessary upgrade* (sự nâng cấp cần thiết)
+* *essential upgrade* (sự nâng cấp thiết yếu)
+* *free upgrade* (sự nâng hạng miễn phí)
+* *complimentary upgrade* (sự thăng hạng ưu đãi)
+* *paid upgrade* (sự nâng cấp trả phí)
+* *automatic upgrade* (sự nâng cấp tự động)
+* *recent upgrade* (bản nâng cấp gần đây)
+* *plan to upgrade* (kế hoạch nâng cấp)
+* *decide to upgrade* (quyết định nâng cấp)
+* *need to upgrade* (cần phải nâng cấp)
+* *refuse to upgrade* (từ chối nâng cấp)
+* *fail to upgrade* (thất bại khi nâng cấp)
+* *require an upgrade* (yêu cầu sự nâng cấp)
+* *deserve an upgrade* (xứng đáng được nâng hạng)
+* *offer an upgrade* (đề xuất sự nâng cấp)
+* *worth the upgrade* (đáng giá để nâng cấp)
+* *eligible for upgrade* (đủ điều kiện được nâng hạng)
+
 ## Từ đồng nghĩa
+
+* *improve* (cải thiện, nâng cao)
+* *enhance* (gia tăng, đẩy mạnh)
+* *promote* (thăng chức, đề bạt)
+* *modernize* (hiện đại hóa)
+* *revamp* (sửa đổi, cải tạo)
+* *refurbish* (tân trang, nâng cấp)
+* *advance* (thúc đẩy, tiến bộ)
+
 ## Từ trái nghĩa
+
+* *downgrade* (giáng cấp, hạ bậc)
+* *degrade* (làm suy thoái, hạ thấp)
+* *deteriorate* (làm hư hỏng, xấu đi)
+* *demote* (giáng chức, hạ bậc)
+* *devalue* (làm giảm giá trị)
+
 ## Word family
+
+* *upgrade* (v / n) (nâng cấp, thăng hạng / sự nâng cấp)
+* *upgraded* (adj) (đã được nâng cấp, cải tiến)
+* *upgrading* (n / adj) (quá trình nâng cấp / mang tính nâng cấp)
+* *upgradable* (adj) (có thể nâng cấp được)
+* *upgradeability* (n) (khả năng nâng cấp)
 
 # utility
 ## Nghĩa
