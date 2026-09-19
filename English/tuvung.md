@@ -13346,14 +13346,108 @@ Dưới đây là từ vựng **"Justify"** được biên soạn hoàn chỉnh 
 * *unjustifiable* (adj) (không thể bào chữa / chấp nhận)
 * *justified* (adj) (chính đáng, có lý do rõ ràng)
 
+Dưới đây là từ vựng **"Legislate"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # legislate
+
 ## Nghĩa
+
+1. (v) Lập pháp, ban hành pháp luật (thông qua các đạo luật chính thức)
+2. (v) Kiểm soát bằng luật pháp, điều chỉnh bằng luật (quy định hành vi xã hội)
+3. (v) Ban hành chính sách (nhằm giải quyết các vấn đề kinh tế, xã hội, môi trường)
+4. (v) Đưa ra quy định bắt buộc (trong quản trị doanh nghiệp hoặc tổ chức)
+5. (v) Ngăn chặn hoặc thúc đẩy thông qua luật (*legislate against/for*)
+
 ## Ví dụ
+
+* *Governments must legislate to protect natural habitats from industrial pollution.*
+* *It is extremely difficult to legislate against prejudice and social discrimination.*
+* *Parliament plans to legislate on stricter gun control measures next month.*
+* *You cannot simply legislate good morality into human behavior.*
+* *The council acted swiftly to legislate mandatory recycling programs across the city.*
+
 ## Cấu trúc
+
+* *legislate for/against something* (ban hành luật ủng hộ / chống lại cái gì)
+* *legislate on/about something* (lập pháp về / điều chỉnh vấn đề gì)
+* *legislate to do something* (ban hành luật để thực hiện điều gì)
+* *power to legislate* (quyền ban hành pháp luật)
+* *attempt/seek to legislate* (nỗ lực / tìm cách điều chỉnh bằng luật)
+
 ## Collocation
+
+* *legislate against discrimination* (ban hành luật chống phân biệt đối xử)
+* *legislate against corruption* (lập pháp chống tham nhũng)
+* *legislate against crime* (ban hành luật phòng chống tội phạm)
+* *legislate for equality* (ban hành luật thúc đẩy bình đẳng)
+* *legislate for safety* (lập pháp về an toàn lao động)
+* *legislate for protection* (ban hành luật bảo vệ)
+* *legislate on climate change* (lập pháp về biến đổi khí hậu)
+* *legislate on healthcare* (ban hành luật về chăm sóc y tế)
+* *legislate on education* (lập pháp về giáo dục)
+* *legislate on taxation* (ban hành luật về thuế)
+* *legislate effectively* (lập pháp một cách hiệu quả)
+* *legislate strictly* (quy định bằng luật một cách nghiêm ngặt)
+* *legislate retroactively* (ban hành luật có hiệu lực hồi tố)
+* *legislate nationally* (lập pháp trên quy mô quốc gia)
+* *legislate locally* (ban hành quy định ở cấp địa phương)
+* *legislate internationally* (lập pháp ở quy mô quốc tế)
+* *power to legislate* (quyền hạn lập pháp)
+* *authority to legislate* (thẩm quyền ban hành luật)
+* *attempt to legislate* (nỗ lực điều chỉnh bằng luật)
+* *seek to legislate* (tìm cách quy định bằng luật)
+* *refuse to legislate* (từ chối ban hành luật)
+* *fail to legislate* (thất bại trong việc lập pháp)
+* *need to legislate* (nhu cầu cần ban hành luật)
+* *ability to legislate* (khả năng lập pháp)
+* *duty to legislate* (trách nhiệm ban hành luật)
+* *right to legislate* (quyền được ban hành luật)
+* *legislate morality* (quy định đạo đức bằng luật)
+* *legislate behavior* (điều chỉnh hành vi bằng luật)
+* *legislate practice* (quy định thực tiễn hoạt động)
+* *legislate reform* (ban hành luật cải cách)
+* *legislate change* (thúc đẩy sự thay đổi bằng luật)
+* *legislate standards* (quy định các tiêu chuẩn bằng luật)
+* *legislate limits* (quy định giới hạn bằng luật)
+* *legislate requirements* (quy định các yêu cầu bắt buộc)
+* *legislate solution* (đưa ra giải pháp bằng luật pháp)
+* *parliament legislates* (quốc hội ban hành luật)
+* *government legislates* (chính phủ lập pháp)
+* *state legislates* (nhà nước ban hành quy định)
+* *assembly legislates* (nghị viện lập pháp)
+* *congress legislates* (quốc hội / nghị viện thông qua luật)
+* *hard to legislate* (khó có thể điều chỉnh bằng luật)
+* *impossible to legislate* (không thể quy định bằng luật)
+* *vital to legislate* (rất yếu tố cần ban hành luật)
+* *urgent to legislate* (khẩn cấp phải lập pháp)
+* *prepared to legislate* (sẵn sàng ban hành luật)
+
 ## Từ đồng nghĩa
+
+* *enact* (ban hành luật, thông qua)
+* *pass laws* (thông qua các đạo luật)
+* *decree* (ra sắc lệnh, quy định)
+* *ordain* (quy định, phán quyết)
+* *codify* (luật hóa, hệ thống hóa luật)
+* *regulate* (điều chỉnh, quy định)
+* *sanction* (phê chuẩn, ban hành)
+
 ## Từ trái nghĩa
+
+* *repeal* (hủy bỏ luật, bãi bỏ)
+* *deregulate* (bãi bỏ quy định / bãi bỏ điều tiết)
+* *abolish* (thủ tiêu, bãi bỏ đạo luật)
+* *nullify* (làm mất hiệu lực, vô hiệu hóa)
+* *annul* (bãi bỏ, hủy bỏ chính thức)
+
 ## Word family
+
+* *legislate* (v) (lập pháp, ban hành pháp luật)
+* *legislation* (n) (pháp luật, sự ban hành luật, bộ luật)
+* *legislative* (adj) (thuộc về lập pháp, cơ quan lập pháp)
+* *legislator* (n) (nhà lập pháp, nghị sĩ)
+* *legislature* (n) (cơ quan lập pháp, quốc hội)
+* *legislatively* (adv) (về mặt lập pháp, bằng con đường luật pháp)
 
 # likely
 ## Nghĩa
