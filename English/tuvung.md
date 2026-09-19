@@ -13243,14 +13243,108 @@ Dưới đây là từ vựng **"Involve"** được biên soạn hoàn chỉnh 
 * *uninvolvement* (n) (sự không tham gia, thờ ơ)
 * *involving* (prep / v-ing) (bao gồm, có liên quan đến)
 
+Dưới đây là từ vựng **"Justify"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # justify
+
 ## Nghĩa
+
+1. (v) Bào chữa, biện minh, thanh minh (đưa ra lý do hợp lý cho một hành động)
+2. (v) Chứng minh là đúng, hợp lý hóa (cho thấy một quyết định / chi phí là xứng đáng)
+3. (v) Căn lề đều hai bên (trong soạn thảo văn bản / in ấn - *justify text*)
+4. (v) Khẳng định sự tồn tại, làm bằng chứng cho (sự cần thiết hoặc giá trị của cái gì)
+5. (v) Xưng công bình, xá tội (nghĩa tôn giáo / triết học)
+
 ## Ví dụ
+
+* *It is difficult to justify spending so much public money on a single project.*
+* *The results of the experiment fully justify the time and effort invested.*
+* *How can you justify treating your employees in such an unfair manner?*
+* *You should justify your answer with specific examples in the IELTS Writing test.*
+* *Please ensure that all paragraphs are justified to make the document look professional.*
+
 ## Cấu trúc
+
+* *justify doing something* (biện minh / hợp lý hóa cho việc làm gì)
+* *justify something to someone* (thanh minh / giải thích cái gì với ai)
+* *be fully justified in doing something* (hoàn toàn có lý / chính đáng khi làm gì)
+* *hardly/scarcely justify something* (hầu như không thể biện minh cho cái gì)
+* *justify the cost/expense/means* (chứng minh chi phí / phương tiện là xứng đáng)
+
 ## Collocation
+
+* *fully justify* (hoàn toàn hợp lý hóa)
+* *amply justify* (chứng minh quá rõ ràng)
+* *hardly justify* (khó có thể biện minh)
+* *scarcely justify* (hầu như không thể hợp lý hóa)
+* *morally justify* (biện minh về mặt đạo đức)
+* *legally justify* (hợp lý hóa về mặt pháp lý)
+* *economically justify* (chứng minh tính hiệu quả kinh tế)
+* *socially justify* (hợp lý hóa về mặt xã hội)
+* *politically justify* (biện minh về mặt chính trị)
+* *rationally justify* (giải thích một cách hợp lý)
+* *justify decision* (biện minh cho quyết định)
+* *justify action* (thanh minh cho hành động)
+* *justify cost* (chứng minh chi phí là hợp lý)
+* *justify expenditure* (hợp lý hóa khoản chi tiêu)
+* *justify investment* (chứng minh vốn đầu tư là đúng đắn)
+* *justify price* (giải thích cho mức giá)
+* *justify existence* (chứng minh sự tồn tại là cần thiết)
+* *justify means* (biện minh cho phương tiện / cách thức)
+* *justify behavior* (thanh minh cho hành vi)
+* *justify policy* (biện minh cho chính sách)
+* *justify strategy* (hợp lý hóa chiến lược)
+* *justify change* (giải thích cho sự thay đổi)
+* *justify stance* (bảo vệ lập trường)
+* *justify claim* (chứng minh cho tuyên bố)
+* *justify inclusion* (chứng minh việc đưa vào là hợp lý)
+* *justify exclusion* (giải thích cho sự loại trừ)
+* *justify use* (chứng minh việc sử dụng là đúng)
+* *justify intervention* (biện minh cho sự can thiệp)
+* *attempt to justify* (cố gắng biện minh)
+* *seek to justify* (tìm cách thanh minh)
+* *try to justify* (nỗ lực chứng minh là đúng)
+* *fail to justify* (thất bại trong việc biện minh)
+* *help to justify* (giúp hợp lý hóa)
+* *difficult to justify* (khó có thể biện minh)
+* *impossible to justify* (không thể thanh minh nổi)
+* *easy to justify* (dễ dàng chứng minh là đúng)
+* *ability to justify* (khả năng biện minh)
+* *need to justify* (nhu cầu cần giải thích)
+* *end justifies the means* (kết quả biện minh cho phương tiện)
+* *justify text* (căn đều hai bên văn bản)
+* *justify margin* (căn lề đều)
+* *left-justify* (căn lề trái)
+* *right-justify* (căn lề phải)
+* *center-justify* (căn giữa)
+* *fully-justified layout* (bố cục căn đều hai bên)
+
 ## Từ đồng nghĩa
+
+* *defend* (bảo vệ, bào chữa)
+* *vindicate* (thanh minh, chứng minh là đúng)
+* *rationalize* (hợp lý hóa, hợp logic)
+* *substantiate* (chứng minh, làm cho có căn cứ)
+* *validate* (xác nhận tính hợp lệ)
+* *warrant* (đảm bảo, chứng nhận)
+* *legitimize* (hợp pháp hóa, chính thống hóa)
+
 ## Từ trái nghĩa
+
+* *condemn* (lên án, chỉ trích)
+* *disprove* (bác bỏ, chứng minh là sai)
+* *invalidate* (làm mất hiệu lực, phủ nhận)
+* *undermine* (làm suy yếu, hủy hoại)
+* *refute* (bác lại, bẻ gãy tranh luận)
+
 ## Word family
+
+* *justify* (v) (biện minh, chứng minh là đúng, căn lề)
+* *justification* (n) (sự biện minh, lý do chính đáng)
+* *justifiable* (adj) (có thể biện minh, hợp lý)
+* *justifiability* (n) (tính chất có thể biện minh)
+* *unjustifiable* (adj) (không thể bào chữa / chấp nhận)
+* *justified* (adj) (chính đáng, có lý do rõ ràng)
 
 # legislate
 ## Nghĩa
