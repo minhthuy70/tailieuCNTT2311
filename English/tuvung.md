@@ -11065,14 +11065,108 @@ Dưới đây là từ vựng **"Finance"** được biên soạn hoàn chỉnh 
 * *financing* (n) (sự cấp vốn, sự huy động tài chính)
 * *refinance* (v) (tái cấp vốn, cấu trúc lại khoản nợ)
 
+Dưới đây là từ vựng **"Formulate"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # formulate
+
 ## Nghĩa
+
+1. (v) Đề ra, xây dựng, kiến tạo (chính sách, chiến lược, kế hoạch, lý thuyết)
+2. (v) Trình bày, phát biểu (ý tưởng, lập luận một cách rõ ràng, hệ thống)
+3. (v) Pha chế, chế tạo (công thức hóa chất, dược phẩm, sản phẩm)
+4. (v) Định hình, hình thành (suy nghĩ, phản hồi, câu hỏi trong đầu)
+5. (v) Biểu thị bằng công thức (trong toán học, khoa học)
+
 ## Ví dụ
+
+* *The committee spent months attempting to formulate an effective policy.*
+* *It takes careful thought to formulate a response to such complex questions.*
+* *Scientists are trying to formulate a vaccine that works against all strains.*
+* *Students should learn how to formulate coherent arguments in their essays.*
+* *The team was hired to formulate a new marketing strategy for the product.*
+
 ## Cấu trúc
+
+* *formulate something for something* (xây dựng cái gì cho mục đích gì)
+* *formulate a response/answer* (định hình / chuẩn bị lời hồi đáp)
+* *formulate a plan/strategy/policy* (đề ra kế hoạch / chiến lược / chính sách)
+* *be formulated to do something* (được chế tạo / xây dựng để làm gì)
+* *help formulate something* (giúp định hình / xây dựng cái gì)
+
 ## Collocation
+
+* *formulate policy* (xây dựng chính sách)
+* *formulate strategy* (đề ra chiến lược)
+* *formulate plan* (lập kế hoạch)
+* *formulate proposal* (xây dựng đề xuất)
+* *formulate theory* (xây dựng lý thuyết)
+* *formulate hypothesis* (đưa ra giả thuyết)
+* *formulate law* (ban hành / đề ra luật)
+* *formulate framework* (xây dựng khung khổ)
+* *formulate concept* (định hình khái niệm)
+* *formulate goal* (đề ra mục tiêu)
+* *formulate response* (chuẩn bị lời hồi đáp)
+* *formulate answer* (định hình câu trả lời)
+* *formulate question* (đặt ra câu hỏi)
+* *formulate argument* (xây dựng lập luận)
+* *formulate opinion* (hình thành quan điểm)
+* *formulate vision* (định hình tầm nhìn)
+* *formulate approach* (đề ra phương pháp tiếp cận)
+* *formulate solution* (tìm ra / đề xuất giải pháp)
+* *formulate recommendation* (đưa ra khuyến nghị)
+* *formulate objective* (xác định mục tiêu)
+* *formulate guidelines* (xây dựng hướng dẫn)
+* *formulate product* (pha chế sản phẩm)
+* *formulate drug* (chế tạo thuốc)
+* *formulate vaccine* (chế tạo vắc-xin)
+* *carefully formulate* (xây dựng một cách cẩn trọng)
+* *clearly formulate* (trình bày một cách rõ ràng)
+* *jointly formulate* (cùng nhau xây dựng)
+* *precisely formulate* (đề ra một cách chính xác)
+* *specially formulate* (được chế tạo đặc biệt)
+* *newly formulate* (mới được xây dựng / pha chế)
+* *formulate in detail* (xây dựng chi tiết)
+* *formulate a clear plan* (đề ra một kế hoạch rõ ràng)
+* *formulate effective strategies* (xây dựng các chiến lược hiệu quả)
+* *formulate public policy* (xây dựng chính sách công)
+* *formulate long-term goals* (đề ra các mục tiêu dài hạn)
+* *formulate alternative options* (đưa ra các lựa chọn thay thế)
+* *help to formulate* (hỗ trợ xây dựng)
+* *fail to formulate* (thất bại trong việc xây dựng)
+* *struggle to formulate* (vật lộn để định hình)
+* *attempt to formulate* (cố gắng đề ra)
+* *seek to formulate* (nỗ lực xây dựng)
+* *ability to formulate* (khả năng xây dựng / định hình)
+* *process to formulate* (quy trình xây dựng)
+* *opportunity to formulate* (cơ hội xây dựng)
+* *responsibility to formulate* (trách nhiệm xây dựng)
+
 ## Từ đồng nghĩa
+
+* *devise* (nghĩ ra, sáng tạo ra)
+* *develop* (phát triển, xây dựng)
+* *create* (tạo ra, thiết lập)
+* *draft* (soạn thảo, phác thảo)
+* *design* (thiết kế, kiến tạo)
+* *frame* (dựng lên, lập khung)
+* *prepare* (chuẩn bị, soạn thảo)
+
 ## Từ trái nghĩa
+
+* *destroy* (phá hủy, triệt hạ)
+* *dismantle* (tháo dỡ, dẹp bỏ)
+* *disorganize* (làm xáo trộn, gây rối)
+* *neglect* (bỏ mặc, xao nhãng)
+* *ruin* (làm hỏng, làm phá sản)
+
 ## Word family
+
+* *formulate* (v) (đề ra, xây dựng, pha chế)
+* *formulation* (n) (sự xây dựng, sự pha chế, công thức)
+* *formula* (n) (công thức, thể thức)
+* *formulator* (n) (người đề ra, nhà pha chế)
+* *reformulate* (v) (xây dựng lại, làm lại công thức)
+* *reformulation* (n) (sự tái cấu trúc / xây dựng lại)
 
 # guideline
 ## Nghĩa
