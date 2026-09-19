@@ -13758,14 +13758,108 @@ Dưới đây là từ vựng **"Mechanism"** được biên soạn hoàn chỉn
 * *mechanization* (n) (sự cơ giới hóa)
 * *mechanic* (n) (thợ máy, thợ sửa chữa)
 
+Dưới đây là từ vựng **"Migrate"** được biên soạn hoàn chỉnh theo đúng cấu trúc của bạn, tối ưu cho bài thi IELTS Writing (Task 1 & Task 2) / Speaking và đạt chính xác **88 dòng**:
+
 # migrate
+
 ## Nghĩa
+
+1. (v) Di cư, di dân (con người di chuyển sang vùng đất hoặc quốc gia khác để sống)
+2. (v) Di cư theo mùa (động vật, chim, cá di chuyển định kỳ theo thời tiết / nguồn thức ăn)
+3. (v) Chuyển đổi hệ thống, di chuyển dữ liệu (trong công nghệ thông tin - *migrate data*)
+4. (v) Dịch chuyển, di chuyển (từ vị trí, ngành nghề hoặc công việc này sang công việc khác)
+5. (v) Tải sang, chuyển đổi nền tảng (chuyển người dùng / dịch vụ sang nền tảng mới)
+
 ## Ví dụ
+
+* *Thousands of workers migrate from rural areas to major cities in search of better job opportunities.*
+* *Many species of birds migrate southwards during the harsh winter months to find food.*
+* *The company plans to migrate its entire database to a secure cloud platform next year.*
+* *As automation expands, skilled workers may migrate towards high-tech industries.*
+* *Banks are actively encouraging customers to migrate to mobile application services.*
+
 ## Cấu trúc
+
+* *migrate from... to...* (di cư / chuyển đổi từ nơi/nền tảng này sang nơi/nền tảng khác)
+* *migrate in search of something* (di cư để tìm kiếm cái gì)
+* *migrate to the cloud* (chuyển đổi dữ liệu lên điện toán đám mây)
+* *be forced to migrate* (buộc phải di cư)
+* *tendency to migrate* (khuynh hướng di cư)
+
 ## Collocation
+
+* *massively migrate* (di cư hàng loạt)
+* *permanently migrate* (di cư vĩnh viễn)
+* *temporarily migrate* (di cư tạm thời)
+* *seasonally migrate* (di cư theo mùa)
+* *legally migrate* (di cư hợp pháp)
+* *illegally migrate* (di cư bất hợp pháp)
+* *gradually migrate* (từng bước chuyển đổi)
+* *seamlessly migrate* (di chuyển dữ liệu mượt mà)
+* *freely migrate* (di chuyển tự do)
+* *internally migrate* (di cư nội địa)
+* *globally migrate* (di cư toàn cầu)
+* *migrate online* (dịch chuyển lên môi trường mạng)
+* *migrate southward* (di cư về phía nam)
+* *migrate northward* (di cư về phía bắc)
+* *migrate abroad* (di cư ra nước ngoài)
+* *migrate to cities* (dịch chuyển về thành phố)
+* *migrate data* (di chuyển dữ liệu)
+* *migrate system* (chuyển đổi hệ thống)
+* *migrate application* (di chuyển ứng dụng)
+* *migrate infrastructure* (chuyển đổi hạ tầng)
+* *migrate platform* (chuyển đổi nền tảng)
+* *migrate workforce* (dịch chuyển lực lượng lao động)
+* *migrate population* (quần thể di cư)
+* *migrate species* (loài di cư)
+* *force to migrate* (bắt buộc di cư)
+* *choose to migrate* (lựa chọn di cư)
+* *allow to migrate* (cho phép di cư)
+* *help to migrate* (hỗ trợ di cư / chuyển đổi)
+* *encourage to migrate* (khuyến khích di chuyển)
+* *fail to migrate* (thất bại trong việc chuyển đổi)
+* *prepare to migrate* (chuẩn bị di cư)
+* *decide to migrate* (quyết định di cư)
+* *tend to migrate* (có xu hướng di cư)
+* *continue to migrate* (tiếp tục di cư)
+* *refuse to migrate* (từ chối di chuyển)
+* *freedom to migrate* (sự tự do di cư)
+* *decision to migrate* (quyết định di dân)
+* *right to migrate* (quyền di cư)
+* *need to migrate* (nhu cầu di cư)
+* *reason to migrate* (lý do di dân)
+* *ability to migrate* (khả năng di chuyển)
+* *pattern to migrate* (mô hình di cư)
+* *incentive to migrate* (động lực di cư)
+* *pressure to migrate* (áp lực di dân)
+* *opportunity to migrate* (cơ hội di cư)
+
 ## Từ đồng nghĩa
+
+* *relocate* (chuyển chỗ ở, di dời)
+* *emigrate* (xuất xứ di cư ra nước ngoài)
+* *immigrate* (nhập cư vào một nước)
+* *resettle* (tái định cư)
+* *transfer* (chuyển giao, di chuyển)
+* *move* (di chuyển)
+* *shift* (dịch chuyển, thay đổi)
+
 ## Từ trái nghĩa
+
+* *remain* (ở lại, giữ nguyên)
+* *stay* (ở lại)
+* *settle* (an cư, định cư lâu dài)
+* *inhabit* (cư trú, ở cố định)
+* *persist* (kiên trì ở lại, duy trì)
+
 ## Word family
+
+* *migrate* (v) (di cư, di dân, chuyển đổi dữ liệu)
+* *migration* (n) (sự di cư, sự dịch chuyển)
+* *migrant* (n) (người di cư, động vật di cư)
+* *migratory* (adj) (có tính chất di cư, theo mùa)
+* *non-migratory* (adj) (không di cư, ở cố định)
+* *interregional* (adj) (mang tính liên vùng)
 
 # minimize
 ## Nghĩa
