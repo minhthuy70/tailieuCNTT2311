@@ -97,4 +97,14 @@ machine at the right time. (*Cung cấp thông tin chính xác cho đúng ngư�
 - **Things**: Physical devices and objects connected to the Internet
 and each other for intelligent decision-making, often called
 IoT. (*Thiết bị và vật thể vật lý được kết nối với Internet và với nhau để ra quyết định thông minh, thường được gọi là IoT.*)
-
+### 1.1.4. How to Monitor and Control Things from Anywhere in the World?
+(*Chúng ta có thể theo dõi và điều khiển các thiết bị từ bất cứ nơi đâu trên thế giới như thế nào?*)
+- The basic requirements for IoT are the unique identity per “thing” (e.g., IP address), the ability to communicate between things (e.g., wireless communications), and the ability to sense specific information about the thing (sensors).
+ (*Các yêu cầu cơ bản cho IoT là định danh duy nhất cho mỗi “vật” (ví dụ: địa chỉ IP), khả năng giao tiếp giữa các vật (ví dụ: truyền thông không dây) và khả năng cảm nhận thông tin cụ thể về vật (cảm biến).*)
+- With these three requirements, one should be able to monitor things from anywhere in the world. Another foundation requirement is a medium to communicate. Such requirement is typically handled by a telecommunications network. (*Với ba yêu cầu này, một người nên có thể theo dõi các thiết bị từ bất cứ nơi đâu trên thế giới. Một yêu cầu nền tảng khác là phương tiện để giao tiếp. Yêu cầu này thường được xử lý bởi mạng viễn thông.*)
+- Yêu cầu cơ bản của một giải pháp IoT:
+    1. Unique Address (Địa chỉ duy nhất)
+    2. Sensing & actuating (Cảm biến và tác động)
+    3. Ability to communicate (Khả năng giao tiếp)
+    4. Notification & Control (Thông báo và điều khiển)
+    
