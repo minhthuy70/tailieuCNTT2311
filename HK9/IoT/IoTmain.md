@@ -123,4 +123,15 @@ licenses, and other documents from Department Motor Vehicle, senior citizen).
 examples of huge business and service opportunities to boost the economic impact for
 consumers, businesses, governments, hospitals, and many other entities.
  (*Cung cấp giải trí và trò chơi giá cả phải chăng hơn cho trẻ em và người lớn. Tất cả những điều này là ví dụ về các cơ hội kinh doanh và dịch vụ lớn để thúc đẩy tác động kinh tế cho người tiêu dùng, doanh nghiệp, chính phủ, bệnh viện và nhiều tổ chức khác.*)
-### 1.1.6. 
+### 1.1.6. Who will monitor and control?
+(*Ai sẽ giám sát và điều khiển?*)
+Generally speaking, monitoring and control of IoT services may be done by any person or any machine.
+ (*Nhìn chung, việc giám sát và điều khiển các dịch vụ IoT có thể được thực hiện bởi bất kỳ người nào hoặc bất kỳ máy nào.*)
+- Homeowner monitoring his own home on a mobile device based on a security system she or he has installed and configured. The homeowner may also control lights, turn on the air conditioning, shut off the heater, etc.
+ (*Chủ nhà giám sát ngôi nhà của mình trên thiết bị di động dựa trên hệ thống an ninh mà cô ấy hoặc anh ấy đã cài đặt và cấu hình. Chủ nhà cũng có thể điều khiển đèn, bật điều hòa, tắt lò sưởi, v.v.*)
+- Another example is for a service provider to monitor and control services for its customers in a network operations center (NOC) .
+ (*Một ví dụ khác là nhà cung cấp dịch vụ giám sát và điều khiển dịch vụ cho khách hàng của mình tại một trung tâm vận hành mạng (NOC).*)
+
+Obviously, security is a major concern to prevent access by non-authorized people and, more importantly, prevent a malicious hacker from gaining access to the system and sending old views to the homeowner while a thief is breaking in. The areas of control are far more critical for enterprise-sensitive applications such as healthcare monitoring of patients and banking applications.
+(*Rõ ràng, bảo mật là một mối quan tâm lớn để ngăn chặn truy cập trái phép và quan trọng hơn là ngăn chặn hacker độc hại truy cập hệ thống và gửi cảnh báo cũ cho chủ nhà khi có trộm đột nhập. Các lĩnh vực kiểm soát quan trọng hơn đối với các ứng dụng nhạy cảm của doanh nghiệp như theo dõi sức khỏe bệnh nhân và các ứng dụng ngân hàng.*)
+
