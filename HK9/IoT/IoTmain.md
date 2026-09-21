@@ -157,4 +157,40 @@ unauthorized persons to access the device’s data.
 Lưu trữ chia sẻ trên đám mây là một vấn đề khác, trong đó khách hàng có thể đăng nhập với tư cách khách hàng B và xem dữ liệu của mình. Một vấn đề phổ biến khác là mạo danh dữ liệu qua Bluetooth. Nhiều công ty đang bổ sung hỗ trợ Bluetooth cho thiết bị của họ, giúp những người không được ủy quyền truy cập dữ liệu của thiết bị dễ dàng hơn.*)
 - Stealing official user or network identity (stealing user or network credentials). Many websites provide default passwords for vendors
 (*Đánh cắp danh tính người dùng hoặc mạng chính thức (đánh cắp thông tin đăng nhập người dùng hoặc mạng). Nhiều trang web cung cấp mật khẩu mặc định cho nhà cung cấp*)
-### 1.1.8
+### 1.1.8. Level IoT
+(*Cấp độ IoT*)
+1. IoT Device Level includes all IoT sensors and actuators (i.e., the Things in IoT).
+(*Cấp độ thiết bị IoT bao gồm tất cả các cảm biến và bộ truyền động IoT (tức là các Things trong IoT).*)
+2. IoT Network Level includes all IoT network components including IoT gateways, routers, switches, etc.
+(*Cấp độ mạng IoT bao gồm tất cả các thành phần mạng IoT bao gồm cổng IoT, bộ định tuyến, bộ chuyển mạch, v.v.*)
+3. IoT Application Services Platform Level The functions of the IoT Services Platform include the ability to deploy, configure, troubleshoot, secure, manage, and monitor IoT devices.
+(*Cấp độ nền tảng dịch vụ ứng dụng IoT Các chức năng của Nền tảng dịch vụ IoT bao gồm khả năng triển khai, cấu hình, khắc phục sự cố, bảo mật, quản lý và giám sát các thiết bị IoT.*)
+4. IoT Application Level includes all applications operating in the IoT network.
+(*Cấp độ ứng dụng IoT bao gồm tất cả các ứng dụng hoạt động trong mạng IoT.*)
+
+Advantages of the proposed IoT four-level model include:
+- Reduced Complexity: It breaks IoT elements and communication processes into smaller
+and simpler components, thereby helping IoT component development, design, and
+troubleshooting.
+(*Giảm độ phức tạp: Nó chia các yếu tố IoT và quy trình truyền thông thành các
+thành phần nhỏ hơn và đơn giản hơn, do đó giúp phát triển, thiết kế và
+khắc phục sự cố thành phần IoT. *)
+- Standardized Components and Interfaces: The model standardizes the specific components within each level (e.g., what are the key components for general IoT
+Services Platform) as well as the interfaces between the various levels. This would allow different vendors to develop joint solutions and common support models.
+(*Các thành phần và giao diện tiêu chuẩn: Mô hình tiêu chuẩn hóa các thành phần cụ thể
+trong mỗi cấp độ (ví dụ: các thành phần chính cho Nền tảng dịch vụ IoT chung)
+cũng như các giao diện giữa các cấp độ khác nhau. Điều này sẽ cho phép
+các nhà cung cấp khác nhau phát triển các giải pháp chung và mô hình hỗ trợ chung. *)
+- Module Engineering: It allows various types of IoT hardware and software systems to communicate with each other.
+(*Kỹ thuật module: Nó cho phép các loại hệ thống phần cứng và phần mềm IoT khác nhau giao tiếp với nhau. *)
+- Interoperability between vendors by ensuring the various technology building blocks can interwork and interoperate.
+(*Khả năng tương tác giữa các nhà cung cấp bằng cách đảm bảo các khối công nghệ xây dựng khác nhau có thể làm việc và tương tác với nhau. *)
+- Accelerate Innovation: It allows developers to focus on solving the main problem at hand without worrying about basic functions that can be implemented once across different business verticals.
+(*Thúc đẩy đổi mới: Nó cho phép các nhà phát triển tập trung vào việc giải quyết vấn đề chính trước mắt mà không phải lo lắng về các chức năng cơ bản có thể được triển khai một lần trên các lĩnh vực kinh doanh khác nhau. *)
+- Simplified Education: It breaks down the overall complex IoT solution into smaller more manageable components to make learning easier.
+(*Giáo dục đơn giản: Nó chia giải pháp IoT phức tạp tổng thể thành các thành phần nhỏ hơn và dễ quản lý hơn để giúp việc học dễ dàng hơn. *)
+### 1.1.9. IoT Driving Factors
+- IoT has already become a powerful force for business transformation, and its disruptive impact is already felt across all industries and all areas of society.
+(*IoT đã trở thành một lực lượng mạnh mẽ cho sự chuyển đổi kinh doanh, và tác động đột phá của nó đã được cảm nhận trên tất cả các ngành và tất cả các lĩnh vực của xã hội.*)
+- There is a perfect storm of market disruptions happening at an unprecedented pace triggered by technology as well as new business and social requirements.
+(*Có một cơn bão hoàn hảo về sự gián đoạn thị trường đang diễn ra với tốc độ chưa từng có được kích hoạt bởi công nghệ cũng như các yêu cầu kinh doanh và xã hội mới.*)
