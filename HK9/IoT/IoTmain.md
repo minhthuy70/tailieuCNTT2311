@@ -107,4 +107,20 @@ IoT. (*Thiết bị và vật thể vật lý được kết nối với Interne
     2. Sensing & actuating (Cảm biến và tác động)
     3. Ability to communicate (Khả năng giao tiếp)
     4. Notification & Control (Thông báo và điều khiển)
-    
+### 1.1.5. Why Do We Want to Monitor and Control Things?
+There are many reasons to monitor and control things remotely over the Internet:
+(*Có nhiều lý do để theo dõi và điều khiển các thiết bị từ xa qua Internet:*)
+- Monitoring and controlling things by experts (e.g., a patient’s temperature or blood pressure
+while the patient is at the comfort of his or her own home).
+ (*Theo dõi và điều khiển các thiết bị bởi các chuyên gia (ví dụ: nhiệt độ hoặc huyết áp của bệnh nhân trong khi bệnh nhân đang ở nhà một cách thoải mái).*)
+- Learning about things by pointing a smartphone to a thing of interest, for instance; searching
+for things that search engines (e.g., Google) do not provide today (e.g., where are my car keys).
+ (*Tìm hiểu về mọi thứ bằng cách hướng điện thoại thông minh vào một thứ gì đó thú vị, ví dụ; tìm kiếm những thứ mà công cụ tìm kiếm (ví dụ: Google) không cung cấp ngày nay (ví dụ: chìa khóa xe của tôi ở đâu).*)
+- Allowing authorities to manage things in smart cities in an optimal manner (e.g., energy, driver
+licenses, and other documents from Department Motor Vehicle, senior citizen).
+ (*Cho phép các cơ quan quản lý các thiết bị trong các thành phố thông minh một cách tối ưu (ví dụ: năng lượng, bằng lái xe và các tài liệu khác từ Bộ Giao thông Vận tải, người cao tuổi).*) 
+- Providing more affordable entertainment and games for children and adults. All of these are
+examples of huge business and service opportunities to boost the economic impact for
+consumers, businesses, governments, hospitals, and many other entities.
+ (*Cung cấp giải trí và trò chơi giá cả phải chăng hơn cho trẻ em và người lớn. Tất cả những điều này là ví dụ về các cơ hội kinh doanh và dịch vụ lớn để thúc đẩy tác động kinh tế cho người tiêu dùng, doanh nghiệp, chính phủ, bệnh viện và nhiều tổ chức khác.*)
+### 1.1.6. 
