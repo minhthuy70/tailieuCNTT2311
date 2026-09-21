@@ -135,3 +135,26 @@ Generally speaking, monitoring and control of IoT services may be done by any pe
 Obviously, security is a major concern to prevent access by non-authorized people and, more importantly, prevent a malicious hacker from gaining access to the system and sending old views to the homeowner while a thief is breaking in. The areas of control are far more critical for enterprise-sensitive applications such as healthcare monitoring of patients and banking applications.
 (*Rõ ràng, bảo mật là một mối quan tâm lớn để ngăn chặn truy cập trái phép và quan trọng hơn là ngăn chặn hacker độc hại truy cập hệ thống và gửi cảnh báo cũ cho chủ nhà khi có trộm đột nhập. Các lĩnh vực kiểm soát quan trọng hơn đối với các ứng dụng nhạy cảm của doanh nghiệp như theo dõi sức khỏe bệnh nhân và các ứng dụng ngân hàng.*)
 
+### 1.1.7. How Is Security Guaranteed?
+(*Làm thế nào để đảm bảo an ninh?*)
+Securing IoT is perhaps the biggest opportunity for technology companies and will remain so far some time in the future. Before IoT, information technology security professionals worked in a bubble as they literally owned and controlled their entire networks and secured all devices behind firewalls.
+(*Trước IoT, các chuyên gia bảo mật công nghệ thông tin làm việc trong một bong bóng vì họ thực sự sở hữu và kiểm soát toàn bộ mạng lưới của mình và bảo mật tất cả các thiết bị đằng sau tường lửa.*)
+With IoT, data will be collected from external, often mobile, sensors that are placed in public sites (e.g., city streets) allowing strangers to send harmful data to any network.
+(*Với IoT, dữ liệu sẽ được thu thập từ các cảm biến bên ngoài, thường là di động, được đặt ở các địa điểm công cộng (ví dụ: đường phố thành phố) cho phép người lạ gửi dữ liệu độc hại đến bất kỳ mạng nào.*)
+Bring your own device (BYOD) is another example where third-party devices and hence
+noncorporate data sources are allowed to enter the network.
+(*Bring your own device (BYOD) là một ví dụ khác trong đó các thiết bị của bên thứ ba và do đó các nguồn dữ liệu phi doanh nghiệp được phép truy cập vào mạng.*)
+IoT areas that are considered to be most vulnerable include:
+- Accessing data during transport (network and transport security). Data will be transported in IoT networks at all time, for example, from sensors tongateways and from gateways to data centers in enterprises or from sensors to gateways for residential services such as video from home monitoring system to the homeowner’s smartphone while he is in a coffee shop. This data may be sniffed by the man in the middle unless the transport protocols are fully secured and encrypted.
+(*Truy cập dữ liệu trong quá trình truyền (bảo mật mạng và truyền tải). Dữ liệu sẽ được truyền trong mạng IoT mọi lúc, ví dụ, từ cảm biến đến cổng và từ cổng đến trung tâm dữ liệu trong doanh nghiệp hoặc từ cảm biến đến cổng cho các dịch vụ dân cư như video từ hệ thống giám sát nhà đến điện thoại thông minh của chủ nhà trong khi anh ấy đang ở quán cà phê. Dữ liệu này có thể bị nghe lén bởi người ở giữa trừ khi các giao thức truyền tải được bảo mật và mã hóa đầy đủ.*)
+- Having control of IoT devices (control of the APIs) allows unauthorized persons to take full control of entire networks. Examples include shutting down cameras at home and shutting down patient monitoring systems
+(*Việc kiểm soát các thiết bị IoT (kiểm soát API) cho phép những người không được ủy quyền kiểm soát hoàn toàn toàn bộ mạng. Ví dụ bao gồm tắt camera tại nhà và tắt hệ thống theo dõi bệnh nhân*)
+- Having access to the IoT data itself. Is the data easily accessible? Is it stored encrypted?
+Shared storage in the cloud is another problem where customer may log in as customer
+B and look at his data. Another common problem is spoofing data via Bluetooth. Many companies are adding Bluetooth support to their devices making it more feasible for
+unauthorized persons to access the device’s data.
+(*Truy cập vào chính dữ liệu IoT. Dữ liệu có dễ dàng truy cập không? Nó có được lưu trữ dưới dạng mã hóa không?
+Lưu trữ chia sẻ trên đám mây là một vấn đề khác, trong đó khách hàng có thể đăng nhập với tư cách khách hàng B và xem dữ liệu của mình. Một vấn đề phổ biến khác là mạo danh dữ liệu qua Bluetooth. Nhiều công ty đang bổ sung hỗ trợ Bluetooth cho thiết bị của họ, giúp những người không được ủy quyền truy cập dữ liệu của thiết bị dễ dàng hơn.*)
+- Stealing official user or network identity (stealing user or network credentials). Many websites provide default passwords for vendors
+(*Đánh cắp danh tính người dùng hoặc mạng chính thức (đánh cắp thông tin đăng nhập người dùng hoặc mạng). Nhiều trang web cung cấp mật khẩu mặc định cho nhà cung cấp*)
+### 1.1.8
