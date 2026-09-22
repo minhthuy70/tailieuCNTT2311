@@ -317,3 +317,65 @@ It is possible to summarize Moore’s Law impact with three key observation:
 (*Công nghệ lưu trữ bóng bán dẫn silicon ngày càng thu nhỏ qua các năm và đang tiến gần đến cấp độ nguyên tử. Trong nhiều năm nay, chúng ta đã đưa nhiều sức mạnh và dung lượng lưu trữ hơn vào cùng một thiết bị.*)
 3. The price of the transistor is being reduced by more than 50% every year.
 (*Giá của bóng bán dẫn giảm hơn 50% mỗi năm.*)
+
+### 1.1.14. Applications of IoT
+(*Ứng dụng IoT*)
+
+Transport (*Vận tải*):
+- Reducing travel times by analyzing traffic
+(*Giảm thời gian di chuyển bằng cách phân tích giao thông*)
+- Ride-sharing apps-determining the price, supply chain prediction
+(*Ứng dụng chia sẻ xe - xác định giá, dự đoán chuỗi cung ứng*)
+- Autonomous vehicles
+(*Xe tự lái*)
+
+Workplace (*Nơi làm việc*):
+- Robotics in manufacturing (*Robot trong sản xuất*)
+- Automated safety checks in factories (*Kiểm tra an toàn tự động trong nhà máy*)
+- Autonomous haulage (*Vận tải tự động*)
+- Enriched recruitment (*Tuyển dụng phong phú*)
+- Automated timesheets(e.g., Blackbelt) (*Bảng chấm công tự động (ví dụ: Blackbelt)*)
+
+Education (*Giáo dục*):
+- Plagiarism checkers (*Kiểm tra đạo văn*)
+- Automated grading (*Chấm điểm tự động*)
+- Customized digital learning interfaces (*Giao diện học tập kỹ thuật số tùy chỉnh*)
+- Virtual teachers or lecturers (*Giáo viên hoặc giảng viên ảo*)
+
+Sport (*Thể thao*):
+- Wearable tech to analyze performance (*Công nghệ đeo để phân tích hiệu suất*)
+- Smart ticketing (*Bán vé thông minh*)
+- Automated video highlights (*Tự động hóa video nổi bật*)
+- Computer vision referee (*Trọng tài thị giác máy tính*)
+
+Healthcare (*Chăm sóc sức khỏe*):
+- Autonomous surgical robots (*Robot phẫu thuật tự động*)
+- Automatic disease identificationand diagnosis (*Nhận dạng và chẩn đoán bệnh tự động*)
+- Epidemic outbreak prediction (*Dự đoán bùng phát dịch bệnh*)
+
+Agriculture (*Nông nghiệp*):
+- Robot harvesters (*Thu hoạch robot*)
+- Computer vision to monitor crop and soil health
+(*Thị giác máy tính để theo dõi sức khỏe cây trồng và đất*)
+- Predictive analysis for environmental impacts on crops
+(*Phân tích dự đoán các tác động môi trường đến cây trồng*)
+
+Entertainment (*Giải trí*):
+- Music suggestions (Spotify, Apple Music, Google Play music)
+(*Gợi ý âm nhạc (Spotify, Apple Music, Google Play music)*)
+- Automatic music creation (*Tạo nhạc tự động*)
+- Film and TV suggestions (Netfix, Amazon Prime, Hulu)
+(*Gợi ý phim và TV (Netfix, Amazon Prime, Hulu)*)
+
+Smart homes (*Nhà thông minh*):
+- Personal assistants (*Trợ lý cá nhân*)
+- Automatic goods ordering (*Đặt hàng tự động*)
+- Home security (*Bảo mật gia đình*)
+- Temperature and light control (*Điều khiển nhiệt độ và ánh sáng*)
+
+Defence (*Quốc phòng*):
+- Unmanned Aerial Vehicles (UAVs) (*Phương tiện bay không người lái (UAV)*)
+- Civilian detection (*Phát hiện dân sự*)
+- Autonomous decision making (*Ra quyết định tự động*)
+- Target identification (*Nhận dạng mục tiêu*)
+- Diagnosis and maintenance of weapons systems (*Chẩn đoán và bảo trì hệ thống vũ khí*)
