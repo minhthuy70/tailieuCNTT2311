@@ -305,3 +305,15 @@ Telephony)
 
 - Protection of business and personal data and systems has been an issue since the inception of data networks. With the commercialization of the Internet, security concerns expanded to cover personal privacy, financial transactions, and the threat of cyber robbery. Today, security of the network is being expanded to include safety or physical security.
 (*Bảo vệ dữ liệu và hệ thống kinh doanh và cá nhân đã là một vấn đề kể từ khi bắt đầu mạng dữ liệu. Với việc thương mại hóa Internet, các mối quan tâm về bảo mật mở rộng để bao gồm quyền riêng tư cá nhân, giao dịch tài chính và các mối đe dọa của tội phạm mạng. Ngày nay, bảo mật mạng đang được mở rộng để bao gồm sự an toàn hoặc an ninh vật chất.*)
+
+### 1.1.13. The Nonstop Moore’s Law
+(*Luật Moore không ngừng*) 
+
+It is possible to summarize Moore’s Law impact with three key observation:
+(*Có thể tóm tắt tác động của Luật Moore với ba quan sát chính:*)
+1. Over the history of computing hardware, computer power has been doubling approximately every 18 months.
+(*Trong lịch sử phần cứng máy tính, sức mạnh máy tính đã tăng gấp đôi xấp xỉ mỗi 18 tháng.*)
+2. Silicon transistor storage technology size has continued to shrink over the years and is approaching atomic level. For years now, we have been putting more power and more storage on the same size device.
+(*Công nghệ lưu trữ bóng bán dẫn silicon ngày càng thu nhỏ qua các năm và đang tiến gần đến cấp độ nguyên tử. Trong nhiều năm nay, chúng ta đã đưa nhiều sức mạnh và dung lượng lưu trữ hơn vào cùng một thiết bị.*)
+3. The price of the transistor is being reduced by more than 50% every year.
+(*Giá của bóng bán dẫn giảm hơn 50% mỗi năm.*)
