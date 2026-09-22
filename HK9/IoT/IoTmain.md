@@ -240,4 +240,192 @@ các nhà cung cấp khác nhau phát triển các giải pháp chung và mô h�
     (*Sự gia tăng của an ninh: Sự gia tăng của an ninh đã trở thành một mối quan tâm lớn đối với các doanh nghiệp và chính phủ. Các giải pháp IoT có thể giúp giải quyết mối lo ngại này bằng cách cung cấp các tính năng bảo mật nâng cao.*)
     - Moore's Law: The doubling of processor speeds approximately every two years has driven the development of IoT solutions, which can provide enhanced processing power and analytics capabilities.
     (*Định luật Moore: Sự tăng gấp đôi tốc độ xử lý khoảng hai năm một lần đã thúc đẩy sự phát triển của các giải pháp IoT, có thể cung cấp khả năng xử lý và phân tích nâng cao.*)
+### 1.1.10.Convergence of IT and OT
+- Operation technology (OT) is the world of industrial plants and industrial control and automation equipment that include machines and systems to run the business, controllers, sensors, and actuators.
+(*Công nghệ vận hành (OT) là thế giới của các nhà máy công nghiệp và thiết bị điều khiển và tự động hóa công nghiệp bao gồm máy móc và hệ thống để vận hành doanh nghiệp, bộ điều khiển, cảm biến và bộ truyền động.*)
+- Information technology (IT) is the world of end- to-end information systems focusing on compute, data storage, and networking to support business operation in some context such as business process automation systems, customer relation management (CRM) systems, supply chain management systems, logistics systems, and human resources systems.
+(*Công nghệ thông tin (IT) là thế giới của các hệ thống thông tin đầu cuối tập trung vào tính toán, lưu trữ dữ liệu và mạng để hỗ trợ hoạt động kinh doanh trong một số bối cảnh như hệ thống tự động hóa quy trình kinh doanh, hệ thống quản lý quan hệ khách hàng (CRM), hệ thống quản lý chuỗi cung ứng, hệ thống hậu cần và hệ thống nguồn nhân lực.*)
+- Historically, IT and OT were always managed by two separate organizations with different cultures, philosophies, and set of technologies.
+(*Theo truyền thống, IT và OT luôn được quản lý bởi hai tổ chức riêng biệt với các nền văn hóa, triết lý và bộ công nghệ khác nhau.*)
+- IT departments were originally created by companies to create efficient and effective forms of telephony communication among various departments. Then they were extended to provide video and web conferences and network internal communications and secure external electronic communications such as emails. Often the final decision with the selection of communication systems, website hosting, and backup servers was the responsibility of the IT department.
+(*Các bộ phận IT ban đầu được các công ty tạo ra để tạo ra các hình thức giao tiếp điện thoại hiệu quả và hiệu quả giữa các phòng ban khác nhau. Sau đó, chúng được mở rộng để cung cấp hội nghị truyền hình và hội nghị web cũng như mạng truyền thông nội bộ và truyền thông điện tử bên ngoài an toàn như email. Thông thường, quyết định cuối cùng với việc lựa chọn hệ thống giao tiếp, lưu trữ trang web và máy chủ sao lưu là trách nhiệm của bộ phận IT.*)
+- OT relies on real-time data that drives safety, security, and control. It depends on very well-defined, tested, and trusted processes. Many plants need to run 24 × 7 with zero downtime (e.g., City Water Filtration System), and thus industrial processes cannot tolerate shutdown for software updates. IT is more lenient with software updates, introduction of new technologies, etc.
+(*OT dựa vào dữ liệu thời gian thực thúc đẩy an toàn, bảo mật và kiểm soát. Nó phụ thuộc vào các quy trình được xác định rõ ràng, đã được thử nghiệm và tin cậy. Nhiều nhà máy cần chạy 24 × 7 với số lần ngừng hoạt động bằng không (ví dụ: Hệ thống lọc nước thành phố), do đó, các quy trình công nghiệp không thể chấp nhận việc ngừng hoạt động để cập nhật phần mềm. IT linh hoạt hơn với các cập nhật phần mềm, giới thiệu các công nghệ mới, v.v.*)
+### 1.1.11. The Astonishing Introduction of Creative Internet-Based Businesses
+(*Sự ra đời đáng kinh ngạc của các doanh nghiệp sáng tạo dựa trên Internet*)
+Uber
+- The key component of Uber’s solution is the Internet-based platform connecting customers (passengers) with the service providers (car drivers). Because the consumers are not Uber’s employees and because there is practically an infinite number of cars that could potentially join Uber, Uber has the requirement to scale at an incredibly fast rate at zero marginal cost.
+(*Thành phần chính của giải pháp Uber là nền tảng dựa trên Internet kết nối khách hàng (hành khách) với nhà cung cấp dịch vụ (tài xế ô tô). Bởi vì người tiêu dùng không phải là nhân viên của Uber và vì có vô số ô tô có thể tham gia Uber, Uber có yêu cầu mở rộng với tốc độ cực nhanh với chi phí cận biên bằng không.*)
+- Uber uses sensor technologies in driver’s smartphones to track their behaviors. If you ride with Uber and your driver speeds, breaks too hard, or takes you on a wildly lengthy route to your destination, it is no longer your word against theirs. Uber is using Gyrometer and GPS data to track the behavior of their drivers. Gyrometers in smartphones measure small movements, while GPS combined with accelerometers shows how often a vehicle starts and stops and the overall speed.
+(*Uber sử dụng công nghệ cảm biến trong điện thoại thông minh của tài xế để theo dõi hành vi của họ. Nếu bạn đi Uber và tài xế của bạn lái xe quá tốc độ, phanh gấp hoặc đi một lộ trình cực kỳ dài đến đích, đó không còn là lời nói của bạn chống lại họ. Uber đang sử dụng dữ liệu Gyrometer và GPS để theo dõi hành vi của tài xế. Gyrometer trong điện thoại thông minh đo các chuyển động nhỏ, trong khi GPS kết hợp với gia tốc kế cho thấy tần suất xe khởi động và dừng cũng như tốc độ tổng thể.*)
+- Uber Eat: Today Uber is one of the leading transportation services in the world with a market
+value over 20 billion dollars.
+(*Uber Eat: Ngày nay Uber là một trong những dịch vụ vận tải hàng đầu thế giới với giá trị thị trường trên 20 tỷ đô la.*)
 
+Airbnb is an Internet-based service for people to list, find, and rent lodging. It was founded in 2008 in San Francisco, California, by Brian Check and Joe Gebbia shortly after creating AirBed and Breakfast during a conference. The original site offered rooms,breakfast, and business networking opportunity for the conference attendees who were unable to find a hotel. Shortly thereafter, the newly created company focused on high-profile events where alternative lodging was very limited.
+(*Airbnb là một dịch vụ dựa trên Internet để mọi người liệt kê, tìm kiếm và cho thuê chỗ ở. Nó được thành lập vào năm 2008 tại San Francisco, California, bởi Brian Check và Joe Gebbia ngay sau khi tạo ra AirBed and Breakfast trong một hội nghị. Trang web ban đầu cung cấp chỗ ở, bữa sáng và cơ hội kết nối kinh doanh cho những người tham dự hội nghị không tìm được khách sạn. Ngay sau đó, công ty mới thành lập tập trung vào các sự kiện nổi tiếng nơi chỗ ở thay thế rất hạn chế.*)
+
+Amazon.com is the largest Internet retailer company in the world started, in 1994, as an Internet-based book seller and swiftly expanded into music, movies, electronics, and
+household goods; Amazon utilized the Internet to break the traditional retailer model. It did not need to stock many of the merchandises it was selling on its website. Instead, it identified matching partner companies and issued customer orders over a secure Internet-based platform.
+(*Amazon.com là công ty bán lẻ Internet lớn nhất thế giới bắt đầu vào năm 1994 với tư cách là người bán sách dựa trên Internet và nhanh chóng mở rộng sang âm nhạc, phim ảnh, đồ điện tử và hàng gia dụng; Amazon đã sử dụng Internet để phá vỡ mô hình bán lẻ truyền thống. Nó không cần phải lưu trữ nhiều hàng hóa mà nó đang bán trên trang web của mình. Thay vào đó, nó xác định các công ty đối tác phù hợp và phát hành đơn đặt hàng của khách hàng thông qua một nền tảng an toàn dựa trên Internet.*)
+
+Tesla
+- Tesla Motors was founded in 2003 by a group of engineers in Silicon Valley with a mission to develop a successful luxurious electrical car and then invest the resulting profits to make a less expensive electric car. With instant torque, incredible power, and zero emissions, Tesla’s products would be cars without compromise.
+(*Tesla Motors được thành lập vào năm 2003 bởi một nhóm kỹ sư tại Thung lũng Silicon với sứ mệnh phát triển một chiếc xe điện sang trọng thành công và sau đó đầu tư lợi nhuận thu được để chế tạo một chiếc xe điện rẻ hơn. Với mô-men xoắn tức thời, công suất ấn tượng và không phát thải, các sản phẩm của Tesla sẽ là những chiếc xe không thỏa hiệp.*)
+- Tesla’s engineers first designed a power train for a sports car built around an AC induction motor, patented in 1888 by Nikola Tesla, the inventor who inspired the company’s name. The resulting Tesla Roadster was launched in 2008 with an incredible range of 245 miles per charge of its lithium ion battery. The Roadster was able to set a new standard for electric mobility. In 2012, Tesla launched Model S, the world’s first premium electric sedan.
+(*Các kỹ sư của Tesla lần đầu tiên thiết kế một hệ truyền động cho một chiếc xe thể thao được chế tạo xung quanh động cơ cảm ứng AC, được cấp bằng sáng chế vào năm 1888 bởi Nikola Tesla, nhà phát minh đã truyền cảm hứng cho tên của công ty. Chiếc Tesla Roadster ra đời đã được ra mắt vào năm 2008 với phạm vi hoạt động đáng kinh ngạc là 245 dặm sau mỗi lần sạc pin lithium ion. Roadster đã có thể thiết lập một tiêu chuẩn mới cho khả năng di chuyển bằng điện. Vào năm 2012, Tesla đã ra mắt Model S, chiếc sedan điện cao cấp đầu tiên trên thế giới.*)
+- Tesla is considered as the best example yet of IoT. It did not only bend the traditional industry manufacturing model to Internet-based model with thousands of sensors.
+(*Tesla được coi là ví dụ điển hình nhất của IoT cho đến nay. Nó không chỉ bẻ cong mô hình sản xuất công nghiệp truyền thống sang mô hình dựa trên Internet với hàng ngàn cảm biến.*)
+
+Self-Driving Cars
+- Self-driving cars can be divided into two main categories: semiautonomous and fully autonomous. A semiautonomous car performs certain self-driving tasks (e.g., fully brakes when it gets too close to an object, drives itself on the freeway), while a fully autonomous car drives itself from origin to destination without any driver interaction. Fully autonomous cars are further divided into user-operated and driverless.
+(*Xe tự lái có thể được chia thành hai loại chính: bán tự lái và hoàn toàn tự lái. Một chiếc xe bán tự lái thực hiện các nhiệm vụ tự lái nhất định (ví dụ: tự động phanh khi quá gần vật thể, tự lái trên đường cao tốc), trong khi một chiếc xe hoàn toàn tự lái tự lái từ điểm gốc đến điểm đích mà không cần sự tương tác của người lái. Xe hoàn toàn tự lái được chia nhỏ hơn thành xe do người dùng vận hành và xe không người lái.*)
+- Safety is considered one of the biggest advantages of self-driving cars. In general, self-driving cars are equipped with a large number of sensors including laser range finders (to measure a subject’s distance and take photos that are in sharp focus), radars, and video cameras collecting information from the road. They are also equipped with actuators to control steering and braking. The collected data (from sensors, radars, and video) is promptly processed with the positional information from the car’s GPS unit and the navigation system to determine its position and to build a three-dimensional model of its surroundings.
+(*An toàn được coi là một trong những lợi thế lớn nhất của xe tự lái. Nói chung, xe tự lái được trang bị một số lượng lớn các cảm biến bao gồm bộ tìm phạm vi laser (để đo khoảng cách của vật thể và chụp ảnh sắc nét), radar và camera video thu thập thông tin từ đường. Chúng cũng được trang bị các cơ cấu chấp hành để kiểm soát lái và phanh. Dữ liệu thu thập được (từ cảm biến, radar và video) là được xử lý nhanh chóng với thông tin vị trí từ đơn vị GPS của xe và hệ thống định vị để xác định vị trí của nó và xây dựng mô hình ba chiều của nó
+bao quanh.*)
+- The resulting model is then processed by the car’s control system to make navigation decisions. Self-driving car control systems typically use stored maps to find optimal path to destination, avoid obstacles, and send decisions to the car’s actuators. IoT applies to interactions and communications between self-driving care components, between the car and roadside infrastructure, as well as among self- driving cars.
+(*Mô hình kết quả sau đó được xử lý bởi hệ thống điều khiển của xe để đưa ra quyết định điều hướng. Các hệ thống điều khiển xe tự lái thường sử dụng bản đồ lưu trữ để tìm đường đi tối ưu đến đích, tránh chướng ngại vật và gửi quyết định đến các cơ cấu chấp hành của xe. IoT áp dụng cho các tương tác và giao tiếp giữa các thành phần của xe tự lái, giữa xe và cơ sở hạ tầng ven đường, cũng như giữa các xe tự lái.*)
+- Mobile Device Explosion: Mobile data traffic has grown 18-fold in the last few years. The increase in mobile data traffic is driven by two factors: the increase in the number of users and the data consumption per user. The average smartphone generated 4 GB of traffic per month in 2019. This growth is fueled by IoT connecting things with people and more importantly allowing people to monitor and control things from anywhere in the world in real time.
+(*Bùng nổ thiết bị di động: Lưu lượng dữ liệu di động đã tăng gấp 18 lần trong vài năm qua. Sự gia tăng lưu lượng dữ liệu di động được thúc đẩy bởi hai yếu tố: sự gia tăng số lượng người dùng và mức tiêu thụ dữ liệu trên mỗi người dùng. Trung bình một điện thoại thông minh tạo ra 4 GB lưu lượng truy cập mỗi tháng vào năm 2019. Sự tăng trưởng này được thúc đẩy bởi IoT kết nối mọi thứ với mọi người và quan trọng hơn là cho phép mọi người theo dõi và kiểm soát mọi thứ từ bất kỳ đâu trên thế giới trong thời gian thực.*)
+
+Social Network Explosion: Social networks, such as Facebook, Instagram, Twitter, and YouTube, and the adoption of cloud-based services, such as Amazon’s AWS and Salesforce.com, are all examples of the large-scale migration to the cloud across virtually every industry. In fact, two-thirds of all data center traffic will be from the cloud in 3 years. All of this leads to data explosion, where, already, the data being created on the Internet each day is equal to half of all the data that has been accumulated since the dawn of humanity.
+(*Bùng nổ mạng xã hội: Các mạng xã hội, như Facebook, Instagram, Twitter và YouTube, và việc áp dụng các dịch vụ dựa trên đám mây, như AWS của Amazon và Salesforce.com, đều là những ví dụ về việc di chuyển quy mô lớn lên đám mây trên hầu hết mọi ngành. Trên thực tế, hai phần ba lưu lượng truy cập trung tâm dữ liệu sẽ đến từ đám mây trong 3 năm. Tất cả những điều này dẫn đến sự bùng nổ dữ liệu, nơi mà, ngay cả bây giờ, dữ liệu được tạo ra trên Internet mỗi ngày đã bằng một nửa tất cả dữ liệu đã được tích lũy kể từ khi loài người ra đời.*)
+
+Analytics at the Edge: 
+- Before introducing the different versions of analytics, it is important to define the terms: big data, structured data, and unstructured data. Big data refers to the extremely large amount of data being generated and accumulated by IT systems as the result of the operation of an associated system. The latter could be a product, process, service, etc. This massive amount of data can be analyzed to identify patterns and gain insights into the operation of the associated system. The analysis often involves applying statistical techniques since human processing is not viable due to the sheer volume of the data.
+(*Phân tích tại biên: Trước khi giới thiệu các phiên bản khác nhau của phân tích, điều quan trọng là phải định nghĩa các thuật ngữ: dữ liệu lớn, dữ liệu có cấu trúc và dữ liệu phi cấu trúc. Dữ liệu lớn đề cập đến lượng dữ liệu cực lớn đang được tạo ra và tích lũy bởi các hệ thống CNTT như là kết quả của hoạt động của một hệ thống liên quan. Hệ thống sau này có thể là một sản phẩm, quy trình, dịch vụ, vv. Lượng dữ liệu khổng lồ này có thể được phân tích để xác định các mẫu và hiểu rõ hơn về hoạt động của hệ thống liên quan. Phân tích thường liên quan đến việc áp dụng các kỹ thuật thống kê vì việc xử lý của con người không khả thi do khối lượng dữ liệu khổng lồ.*)
+- Structured data refers to organized data that can fit in rows and columns. Examples of such data include customer data, sales data, and stock records. Structured data is often
+high value, cleansed, and indexed. Unstructured data, on the other hand, is difficult to
+organize or bring together. Examples of unstructured data include images, X-rays, video,
+social media data, and some machine outputs mixed with text.
+(*Dữ liệu có cấu trúc đề cập đến dữ liệu được tổ chức có thể nằm trong các hàng và cột. Ví dụ về dữ liệu như vậy bao gồm dữ liệu khách hàng, dữ liệu bán hàng và hồ sơ chứng khoán. Dữ liệu có cấu trúc thường có giá trị cao, được làm sạch và lập chỉ mục. Mặt khác, dữ liệu phi cấu trúc khó tổ chức hoặc tổng hợp lại. Ví dụ về dữ liệu phi cấu trúc bao gồm hình ảnh, X-quang, video, dữ liệu truyền thông xã hội và một số kết quả máy móc trộn lẫn với văn bản.*)
+
+Cloud Computing and Virtualization: Cloud computing, which was introduced in 2008, allows enterprises to outsource their computing infrastructure fully or partially to public cloud provides (e.g., Amazon AWS, Microsoft Azure, Google Compute Engine).
+(*Điện toán đám mây, được giới thiệu vào năm 2008, cho phép các doanh nghiệp thuê ngoài toàn bộ hoặc một phần cơ sở hạ tầng điện toán của họ cho các nhà cung cấp đám mây công cộng (ví dụ: Amazon AWS, Microsoft Azure, Google Compute Engine).*)
+
+Technology Explosion: IoT hardware (e.g., sensors, inexpensive computers such as Raspberry Pi, open - source microcontrollers such as Arduino) and software technologies are not only being developed faster than ever before but with much lower prices. Such devices are already transforming user behaviors and creating new business opportunities.
+(*Bùng nổ Công nghệ: Phần cứng IoT (ví dụ: cảm biến, máy tính giá rẻ như Raspberry Pi, vi điều khiển mã nguồn mở như Arduino) và các công nghệ phần mềm không chỉ được phát triển nhanh hơn bao giờ hết mà còn với giá rẻ hơn nhiều. Những thiết bị như vậy đã và đang thay đổi hành vi người dùng và tạo ra các cơ hội kinh doanh mới.*)
+
+Digital Convergence/Transformation: 
+(*Số hóa hội tụ/chuyển đổi số:*)
+- Digital convergence has initially started with a limited scope: move to “paperless” operation and save trees.
+(*Số hóa hội tụ ban đầu bắt đầu với phạm vi hạn chế: chuyển sang hoạt động “không giấy tờ” và tiết kiệm cây xanh.*)
+- Convergence is a concept that describes how previously separate technologies, processes, and data combine to create new products, services, end experiences that reshape industries.
+(*Hội tụ là một khái niệm mô tả cách các công nghệ, quy trình và dữ liệu riêng biệt trước đây kết hợp để tạo ra các sản phẩm, dịch vụ, trải nghiệm cuối cùng định hình lại các ngành.*)
+- The smartphone is a classic example of convergence. It’s a camera, address book, map, and media player.
+(*Điện thoại thông minh là một ví dụ điển hình về sự hội tụ. Nó là một máy ảnh, danh bạ, bản đồ và trình phát đa phương tiện.*)
+
+Enhanced User Interfaces (*Giao diện người dùng được cải tiến*):
+
+Fast Rate of IoT Technology Adoption (Five Times More than Electricity and
+Telephony) 
+(*Tỷ lệ áp dụng công nghệ IoT nhanh chóng (Năm lần so với Điện và Điện thoại)*)
+
+### 1.1.12. The Rise of Security Requirements
+(*Sự gia tăng yêu cầu bảo mật*)
+
+- Protection of business and personal data and systems has been an issue since the inception of data networks. With the commercialization of the Internet, security concerns expanded to cover personal privacy, financial transactions, and the threat of cyber robbery. Today, security of the network is being expanded to include safety or physical security.
+(*Bảo vệ dữ liệu và hệ thống kinh doanh và cá nhân đã là một vấn đề kể từ khi bắt đầu mạng dữ liệu. Với việc thương mại hóa Internet, các mối quan tâm về bảo mật mở rộng để bao gồm quyền riêng tư cá nhân, giao dịch tài chính và các mối đe dọa của tội phạm mạng. Ngày nay, bảo mật mạng đang được mở rộng để bao gồm sự an toàn hoặc an ninh vật chất.*)
+
+### 1.1.13. The Nonstop Moore’s Law
+(*Luật Moore không ngừng*) 
+
+It is possible to summarize Moore’s Law impact with three key observation:
+(*Có thể tóm tắt tác động của Luật Moore với ba quan sát chính:*)
+1. Over the history of computing hardware, computer power has been doubling approximately every 18 months.
+(*Trong lịch sử phần cứng máy tính, sức mạnh máy tính đã tăng gấp đôi xấp xỉ mỗi 18 tháng.*)
+2. Silicon transistor storage technology size has continued to shrink over the years and is approaching atomic level. For years now, we have been putting more power and more storage on the same size device.
+(*Công nghệ lưu trữ bóng bán dẫn silicon ngày càng thu nhỏ qua các năm và đang tiến gần đến cấp độ nguyên tử. Trong nhiều năm nay, chúng ta đã đưa nhiều sức mạnh và dung lượng lưu trữ hơn vào cùng một thiết bị.*)
+3. The price of the transistor is being reduced by more than 50% every year.
+(*Giá của bóng bán dẫn giảm hơn 50% mỗi năm.*)
+
+### 1.1.14. Applications of IoT
+(*Ứng dụng IoT*)
+
+Transport (*Vận tải*):
+- Reducing travel times by analyzing traffic
+(*Giảm thời gian di chuyển bằng cách phân tích giao thông*)
+- Ride-sharing apps-determining the price, supply chain prediction
+(*Ứng dụng chia sẻ xe - xác định giá, dự đoán chuỗi cung ứng*)
+- Autonomous vehicles
+(*Xe tự lái*)
+
+Workplace (*Nơi làm việc*):
+- Robotics in manufacturing (*Robot trong sản xuất*)
+- Automated safety checks in factories (*Kiểm tra an toàn tự động trong nhà máy*)
+- Autonomous haulage (*Vận tải tự động*)
+- Enriched recruitment (*Tuyển dụng phong phú*)
+- Automated timesheets(e.g., Blackbelt) (*Bảng chấm công tự động (ví dụ: Blackbelt)*)
+
+Education (*Giáo dục*):
+- Plagiarism checkers (*Kiểm tra đạo văn*)
+- Automated grading (*Chấm điểm tự động*)
+- Customized digital learning interfaces (*Giao diện học tập kỹ thuật số tùy chỉnh*)
+- Virtual teachers or lecturers (*Giáo viên hoặc giảng viên ảo*)
+
+Sport (*Thể thao*):
+- Wearable tech to analyze performance (*Công nghệ đeo để phân tích hiệu suất*)
+- Smart ticketing (*Bán vé thông minh*)
+- Automated video highlights (*Tự động hóa video nổi bật*)
+- Computer vision referee (*Trọng tài thị giác máy tính*)
+
+Healthcare (*Chăm sóc sức khỏe*):
+- Autonomous surgical robots (*Robot phẫu thuật tự động*)
+- Automatic disease identificationand diagnosis (*Nhận dạng và chẩn đoán bệnh tự động*)
+- Epidemic outbreak prediction (*Dự đoán bùng phát dịch bệnh*)
+
+Agriculture (*Nông nghiệp*):
+- Robot harvesters (*Thu hoạch robot*)
+- Computer vision to monitor crop and soil health
+(*Thị giác máy tính để theo dõi sức khỏe cây trồng và đất*)
+- Predictive analysis for environmental impacts on crops
+(*Phân tích dự đoán các tác động môi trường đến cây trồng*)
+
+Entertainment (*Giải trí*):
+- Music suggestions (Spotify, Apple Music, Google Play music)
+(*Gợi ý âm nhạc (Spotify, Apple Music, Google Play music)*)
+- Automatic music creation (*Tạo nhạc tự động*)
+- Film and TV suggestions (Netfix, Amazon Prime, Hulu)
+(*Gợi ý phim và TV (Netfix, Amazon Prime, Hulu)*)
+
+Smart homes (*Nhà thông minh*):
+- Personal assistants (*Trợ lý cá nhân*)
+- Automatic goods ordering (*Đặt hàng tự động*)
+- Home security (*Bảo mật gia đình*)
+- Temperature and light control (*Điều khiển nhiệt độ và ánh sáng*)
+
+Defence (*Quốc phòng*):
+- Unmanned Aerial Vehicles (UAVs) (*Phương tiện bay không người lái (UAV)*)
+- Civilian detection (*Phát hiện dân sự*)
+- Autonomous decision making (*Ra quyết định tự động*)
+- Target identification (*Nhận dạng mục tiêu*)
+- Diagnosis and maintenance of weapons systems (*Chẩn đoán và bảo trì hệ thống vũ khí*)
+
+### 1.1.15. Internet of Things for a Better Life (*Internet vạn vật cho cuộc sống tốt đẹp hơn*)
+
+**Automatic transportation** (*Vận tải tự động*): The goal is for all transportation to become automated in the future (*Mục tiêu là tất cả giao thông trở nên tự động trong tương lai*)
+
+**Cyborg technology** (*Công nghệ người máy*): AI and robotics will help us overcome our cognitive and physical limitations, including robotic limbs capable of communicating with our brains (*AI và robot sẽ giúp chúng ta vượt qua những hạn chế về nhận thức và thể chất, bao gồm cả chi giả có khả năng giao tiếp với bộ não của chúng ta*)
+
+**Solving climate change** (*Giải quyết biến đổi khí hậu*): Using big data, AI and IoT could one day identify trends and use that information to present solutions to the world’s biggest problems like climate change (*Sử dụng big data, AI và IoT có thể một ngày nào đó xác định xu hướng và sử dụng thông tin đó để trình bày giải pháp cho các vấn đề lớn nhất thế giới như biến đổi khí hậu*)
+
+**Predicting the future** (*Dự đoán tương lai*): Machine learning uses the past to make predictions about the future. It will be able to predict things as intimate as who will start dating or who will get divorced. (*Máy học sử dụng quá khứ để đưa ra dự đoán về tương lai. Nó sẽ có thể dự đoán những điều thân mật như ai sẽ bắt đầu hẹn hò hoặc ai sẽ ly hôn*)
+
+This system is capable of collecting, analyzing and presenting data on a Graphical User Interface (GUI), programmed with LabVIEW. It also allows the user to get the updated sensor information online based on Google Spreadsheets application, via Internet connectivity, or at any time through the SMS gateway service and sends alert message promptly enabling user interventions when needed. (*Hệ thống này có khả năng thu thập, phân tích và trình bày dữ liệu trên Giao diện người dùng đồ họa (GUI), được lập trình với LabVIEW. Nó cũng cho phép người dùng nhận thông tin cảm biến cập nhật trực tuyến dựa trên ứng dụng Google Spreadsheets, thông qua kết nối Internet, hoặc bất cứ lúc nào thông qua dịch vụ cổng SMS và gửi cảnh báo kịp thời cho phép can thiệp người dùng khi cần thiết.*)
+
+### 1.1.16. Examples of IoT deployment
+(*Ví dụ về triển khai IoT*)
+
+**ORing, NCU (National Central University), and Chunghwa Telecom Join Hands on 5G Smart Manufacturing** (*ORing, NCU (National Central University) và Chunghwa Telecom hợp tác sản xuất thông minh 5G*)
+- The Department of Mechanical Engineering has established a smart factory based on Industry 4.0 under the support of Jing-Yang Jou, President of NCU, to develop laser, discharge, and electrochemical machining technologies. The smart factory has integrated a variety of smart technologies including AI, big data analytics, and edge computing. (*Khoa Cơ khí đã thành lập nhà máy thông minh dựa trên Công nghiệp 4.0 dưới sự hỗ trợ của Chủ tịch NCU, Jing-Yang Jou, để phát triển các công nghệ gia công laser, phóng điện và điện hóa. Nhà máy thông minh đã tích hợp nhiều công nghệ thông minh bao gồm AI, phân tích dữ liệu lớn và điện toán biên.*)
+
+**Smart Transportation System with Floating Car Data** (*Hệ thống giao thông thông minh với dữ liệu xe nổi*)
+
+- The Smart Transportation System (STS) applies big data, cloud computing, and fog computing to traffic control. It collects real-time traffic information from traffic surveillance cameras, floating car data from GPS-equipped vehicles, and payment information from public transport to provide navigation, traffic control, and transport services. (*Hệ thống Giao thông Thông minh (STS) áp dụng big data, điện toán đám mây và điện toán sương mù để kiểm soát giao thông. Nó thu thập thông tin giao thông thời gian thực từ camera giám sát giao thông, dữ liệu xe nổi từ các xe được trang bị GPS và thông tin thanh toán từ giao thông công cộng để cung cấp dịch vụ điều hướng, kiểm soát giao thông và giao thông vận tải.*)
+
+## 1.2. Trends of applying IoT and related technologies to smart cities in Vietnam
+(*Xu thế ứng dụng IoTs và các công nghệ liên quan cho đô thị thông minh ở Việt Nam*)
+- Công nghệ IoTs/5G và kỹ thuật xử lý dữ liệu lớn (Big Data), trí tuệ nhân tạo (AI) đóng vai trò quan trọng trong việc tạo ra những đổi mới đột phá trong CNTT và truyền thông, và các lĩnh vực ứng dụng liên quan.
+- Thành phố thông minh là một trong những ứng dụng như vậy, đã thu hút được sự chú ý lớn từ các chính phủ, cộng đồng ngành học thuật và CNTT tại nhiều quốc gia. Đặc biệt, Big Data/AI và IoT/5G cung cấp các công cụ và công nghệ cho phép quan trọng để thúc đẩy sự chuyển đổi của các thành phố lớn trên toàn thế giới thành những nơi đáng sống, làm việc và tận hưởng.
+- Các công nghệ IoTs/5 mới, một khi được tích hợp đúng vào cơ sở hạ tầng thành phố thông minh (Smart Cities), có thể hỗ trợ số lượng lớn kết nối không dây từ các loại thiết bị không dây khác nhau (ví dụ: cảm biến, máy ảnh, thiết bị AR/VR, xe thông minh) thông qua môi trường mạng có tốc độ cao, truyền dữ liệu cực kỳ đáng tin cậy và độ trễ thấp.
+- Tại Việt Nam, mặc dù còn nhiều bất cập, song hiện nay, các đô thị ở Việt Nam đang phát triển theo hướng tiếp cận với nhiều mô hình tiên tiến theo xu thế hội nhập quốc tế, tạo ra nhiều tiền đề về ứng dụng và phát triển CNTT, truyền thông để phát triển đô thị thông minh và quản lý thông minh.
