@@ -379,3 +379,16 @@ Defence (*Quốc phòng*):
 - Autonomous decision making (*Ra quyết định tự động*)
 - Target identification (*Nhận dạng mục tiêu*)
 - Diagnosis and maintenance of weapons systems (*Chẩn đoán và bảo trì hệ thống vũ khí*)
+
+### 1.1.15. Internet of Things for a Better Life (*Internet vạn vật cho cuộc sống tốt đẹp hơn*)
+
+**Automatic transportation** (*Vận tải tự động*): The goal is for all transportation to become automated in the future (*Mục tiêu là tất cả giao thông trở nên tự động trong tương lai*)
+
+**Cyborg technology** (*Công nghệ người máy*): AI and robotics will help us overcome our cognitive and physical limitations, including robotic limbs capable of communicating with our brains (*AI và robot sẽ giúp chúng ta vượt qua những hạn chế về nhận thức và thể chất, bao gồm cả chi giả có khả năng giao tiếp với bộ não của chúng ta*)
+
+**Solving climate change** (*Giải quyết biến đổi khí hậu*): Using big data, AI and IoT could one day identify trends and use that information to present solutions to the world’s biggest problems like climate change (*Sử dụng big data, AI và IoT có thể một ngày nào đó xác định xu hướng và sử dụng thông tin đó để trình bày giải pháp cho các vấn đề lớn nhất thế giới như biến đổi khí hậu*)
+
+**Predicting the future** (*Dự đoán tương lai*): Machine learning uses the past to make predictions about the future. It will be able to predict things as intimate as who will start dating or who will get divorced. (*Máy học sử dụng quá khứ để đưa ra dự đoán về tương lai. Nó sẽ có thể dự đoán những điều thân mật như ai sẽ bắt đầu hẹn hò hoặc ai sẽ ly hôn*)
+
+This system is capable of collecting, analyzing and presenting data on a Graphical User Interface (GUI), programmed with LabVIEW. It also allows the user to get the updated sensor information online based on Google Spreadsheets application, via Internet connectivity, or at any time through the SMS gateway service and sends alert message promptly enabling user interventions when needed. (*Hệ thống này có khả năng thu thập, phân tích và trình bày dữ liệu trên Giao diện người dùng đồ họa (GUI), được lập trình với LabVIEW. Nó cũng cho phép người dùng nhận thông tin cảm biến cập nhật trực tuyến dựa trên ứng dụng Google Spreadsheets, thông qua kết nối Internet, hoặc bất cứ lúc nào thông qua dịch vụ cổng SMS và gửi cảnh báo kịp thời cho phép can thiệp người dùng khi cần thiết.*)
+
