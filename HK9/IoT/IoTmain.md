@@ -20,6 +20,27 @@
 - **Mục tiêu:** Giới thiệu kiến thức cơ bản về Internet vạn vật, các yêu cầu, tiêu chuẩn và ứng dụng IoT; từ đó giúp sinh viên thiết kế, đánh giá các hệ thống theo dõi và điều khiển qua Internet.
 - **Kỹ năng:** Thiết kế các hệ thống theo dõi và điều khiển qua Internet trên hệ thống thực.
 
+# Các ký hiệu viết tắt
+
+| Ký hiệu | Giải thích |
+| --- | --- |
+| 6LoWPAN | IPV6 over Low - Power Wireless Personal Area Networks |
+| AI | Artificial Intelligence |
+| CPS | Chip Package System |
+| CPU | Central Processing Unit |
+| GPU | Graphics Processing Unit |
+| HTTP | HyperText Transfer Protocol |
+| ICT | Information & Communication Technologies |
+| IoTs | Internet of Things |
+| MQTT | Message Queuing Telemetry Transport |
+| NFV | Network Function Virtualization |
+| OIC | Open InterConnect Consortium |
+| OTAP | Over The Air Programming |
+| REST | Representational state transfer |
+| SDN | Software Defined Network |
+| TPU | Tensor Processing Unit |
+| VM | Virtual Machine |
+
 # Chương 1: Giới thiệu
 
 ## Nội dung chương
@@ -407,4 +428,4 @@ This system is capable of collecting, analyzing and presenting data on a Graphic
 - Công nghệ IoTs/5G và kỹ thuật xử lý dữ liệu lớn (Big Data), trí tuệ nhân tạo (AI) đóng vai trò quan trọng trong việc tạo ra những đổi mới đột phá trong CNTT và truyền thông, và các lĩnh vực ứng dụng liên quan.
 - Thành phố thông minh là một trong những ứng dụng như vậy, đã thu hút được sự chú ý lớn từ các chính phủ, cộng đồng ngành học thuật và CNTT tại nhiều quốc gia. Đặc biệt, Big Data/AI và IoT/5G cung cấp các công cụ và công nghệ cho phép quan trọng để thúc đẩy sự chuyển đổi của các thành phố lớn trên toàn thế giới thành những nơi đáng sống, làm việc và tận hưởng.
 - Các công nghệ IoTs/5 mới, một khi được tích hợp đúng vào cơ sở hạ tầng thành phố thông minh (Smart Cities), có thể hỗ trợ số lượng lớn kết nối không dây từ các loại thiết bị không dây khác nhau (ví dụ: cảm biến, máy ảnh, thiết bị AR/VR, xe thông minh) thông qua môi trường mạng có tốc độ cao, truyền dữ liệu cực kỳ đáng tin cậy và độ trễ thấp.
-- Tại VN, mặc dù còn nhiều bất cập, song hiện nay, các đô thị ở VN đang phát triển theo hướng tiếp cận với nhiều mô hình tiên tiến theo xu thế hội nhập quốc tế, tạo ra nhiều tiền đề về ứng dụng và phát triển CNTT, truyền thông để phát triển đô thị thông minh và quản lý thông minh.
+- Tại Việt Nam, mặc dù còn nhiều bất cập, song hiện nay, các đô thị ở Việt Nam đang phát triển theo hướng tiếp cận với nhiều mô hình tiên tiến theo xu thế hội nhập quốc tế, tạo ra nhiều tiền đề về ứng dụng và phát triển CNTT, truyền thông để phát triển đô thị thông minh và quản lý thông minh.
