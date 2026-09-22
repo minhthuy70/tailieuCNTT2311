@@ -279,7 +279,29 @@ organize or bring together. Examples of unstructured data include images, X-rays
 social media data, and some machine outputs mixed with text.
 (*Dữ liệu có cấu trúc đề cập đến dữ liệu được tổ chức có thể nằm trong các hàng và cột. Ví dụ về dữ liệu như vậy bao gồm dữ liệu khách hàng, dữ liệu bán hàng và hồ sơ chứng khoán. Dữ liệu có cấu trúc thường có giá trị cao, được làm sạch và lập chỉ mục. Mặt khác, dữ liệu phi cấu trúc khó tổ chức hoặc tổng hợp lại. Ví dụ về dữ liệu phi cấu trúc bao gồm hình ảnh, X-quang, video, dữ liệu truyền thông xã hội và một số kết quả máy móc trộn lẫn với văn bản.*)
 
-Cloud computing, which was introduced in 2008, allows enterprises to outsource their computing infrastructure fully or partially to public cloud provides (e.g., Amazon AWS, Microsoft Azure, Google Compute Engine).
+Cloud Computing and Virtualization: Cloud computing, which was introduced in 2008, allows enterprises to outsource their computing infrastructure fully or partially to public cloud provides (e.g., Amazon AWS, Microsoft Azure, Google Compute Engine).
 (*Điện toán đám mây, được giới thiệu vào năm 2008, cho phép các doanh nghiệp thuê ngoài toàn bộ hoặc một phần cơ sở hạ tầng điện toán của họ cho các nhà cung cấp đám mây công cộng (ví dụ: Amazon AWS, Microsoft Azure, Google Compute Engine).*)
 
+Technology Explosion: IoT hardware (e.g., sensors, inexpensive computers such as Raspberry Pi, open - source microcontrollers such as Arduino) and software technologies are not only being developed faster than ever before but with much lower prices. Such devices are already transforming user behaviors and creating new business opportunities.
+(*Bùng nổ Công nghệ: Phần cứng IoT (ví dụ: cảm biến, máy tính giá rẻ như Raspberry Pi, vi điều khiển mã nguồn mở như Arduino) và các công nghệ phần mềm không chỉ được phát triển nhanh hơn bao giờ hết mà còn với giá rẻ hơn nhiều. Những thiết bị như vậy đã và đang thay đổi hành vi người dùng và tạo ra các cơ hội kinh doanh mới.*)
 
+Digital Convergence/Transformation: 
+(*Số hóa hội tụ/chuyển đổi số:*)
+- Digital convergence has initially started with a limited scope: move to “paperless” operation and save trees.
+(*Số hóa hội tụ ban đầu bắt đầu với phạm vi hạn chế: chuyển sang hoạt động “không giấy tờ” và tiết kiệm cây xanh.*)
+- Convergence is a concept that describes how previously separate technologies, processes, and data combine to create new products, services, end experiences that reshape industries.
+(*Hội tụ là một khái niệm mô tả cách các công nghệ, quy trình và dữ liệu riêng biệt trước đây kết hợp để tạo ra các sản phẩm, dịch vụ, trải nghiệm cuối cùng định hình lại các ngành.*)
+- The smartphone is a classic example of convergence. It’s a camera, address book, map, and media player.
+(*Điện thoại thông minh là một ví dụ điển hình về sự hội tụ. Nó là một máy ảnh, danh bạ, bản đồ và trình phát đa phương tiện.*)
+
+Enhanced User Interfaces (*Giao diện người dùng được cải tiến*):
+
+Fast Rate of IoT Technology Adoption (Five Times More than Electricity and
+Telephony) 
+(*Tỷ lệ áp dụng công nghệ IoT nhanh chóng (Năm lần so với Điện và Điện thoại)*)
+
+### 1.1.12. The Rise of Security Requirements
+(*Sự gia tăng yêu cầu bảo mật*)
+
+- Protection of business and personal data and systems has been an issue since the inception of data networks. With the commercialization of the Internet, security concerns expanded to cover personal privacy, financial transactions, and the threat of cyber robbery. Today, security of the network is being expanded to include safety or physical security.
+(*Bảo vệ dữ liệu và hệ thống kinh doanh và cá nhân đã là một vấn đề kể từ khi bắt đầu mạng dữ liệu. Với việc thương mại hóa Internet, các mối quan tâm về bảo mật mở rộng để bao gồm quyền riêng tư cá nhân, giao dịch tài chính và các mối đe dọa của tội phạm mạng. Ngày nay, bảo mật mạng đang được mở rộng để bao gồm sự an toàn hoặc an ninh vật chất.*)
