@@ -392,3 +392,13 @@ Defence (*Quốc phòng*):
 
 This system is capable of collecting, analyzing and presenting data on a Graphical User Interface (GUI), programmed with LabVIEW. It also allows the user to get the updated sensor information online based on Google Spreadsheets application, via Internet connectivity, or at any time through the SMS gateway service and sends alert message promptly enabling user interventions when needed. (*Hệ thống này có khả năng thu thập, phân tích và trình bày dữ liệu trên Giao diện người dùng đồ họa (GUI), được lập trình với LabVIEW. Nó cũng cho phép người dùng nhận thông tin cảm biến cập nhật trực tuyến dựa trên ứng dụng Google Spreadsheets, thông qua kết nối Internet, hoặc bất cứ lúc nào thông qua dịch vụ cổng SMS và gửi cảnh báo kịp thời cho phép can thiệp người dùng khi cần thiết.*)
 
+### 1.1.16. Examples of IoT deployment
+(*Ví dụ về triển khai IoT*)
+
+**ORing, NCU (National Central University), and Chunghwa Telecom Join Hands on 5G Smart Manufacturing** (*ORing, NCU (National Central University) và Chunghwa Telecom hợp tác sản xuất thông minh 5G*)
+- The Department of Mechanical Engineering has established a smart factory based on Industry 4.0 under the support of Jing-Yang Jou, President of NCU, to develop laser, discharge, and electrochemical machining technologies. The smart factory has integrated a variety of smart technologies including AI, big data analytics, and edge computing. (*Khoa Cơ khí đã thành lập nhà máy thông minh dựa trên Công nghiệp 4.0 dưới sự hỗ trợ của Chủ tịch NCU, Jing-Yang Jou, để phát triển các công nghệ gia công laser, phóng điện và điện hóa. Nhà máy thông minh đã tích hợp nhiều công nghệ thông minh bao gồm AI, phân tích dữ liệu lớn và điện toán biên.*)
+
+**Smart Transportation System with Floating Car Data** (*Hệ thống giao thông thông minh với dữ liệu xe nổi*)
+
+- The Smart Transportation System (STS) applies big data, cloud computing, and fog computing to traffic control. It collects real-time traffic information from traffic surveillance cameras, floating car data from GPS-equipped vehicles, and payment information from public transport to provide navigation, traffic control, and transport services. (*Hệ thống Giao thông Thông minh (STS) áp dụng big data, điện toán đám mây và điện toán sương mù để kiểm soát giao thông. Nó thu thập thông tin giao thông thời gian thực từ camera giám sát giao thông, dữ liệu xe nổi từ các xe được trang bị GPS và thông tin thanh toán từ giao thông công cộng để cung cấp dịch vụ điều hướng, kiểm soát giao thông và giao thông vận tải.*)
+
