@@ -731,26 +731,384 @@ Là lựa chọn tốt cho các ứng dung IoT khi mạng cảm biến không d�
 - Mechanical Linear Actuators: Mechanical actuators convert rotary motion to linear motion. Devices such as screws and chains are utilized in this conversion. The simplest example of mechanical liner actuators is referred to as the “screw” where leadscrew, screw jack, ball screw, and roller screw actuators all operate on the same principle by rotating the actuator’s nut, the screw shaft moves in a line. (*Actuator tuyến tính cơ khí: Actuator cơ khí chuyển đổi chuyển động quay thành chuyển động thẳng. Các thiết bị như vít và xích được sử dụng trong chuyển đổi này. Ví dụ đơn giản nhất của actuator tuyến tính cơ khí được gọi là “vít” trong đó các actuator vít dẫn hướng, kích vít, vít bi và vít con lăn đều hoạt động theo cùng một nguyên tắc bằng cách xoay đai ốc của actuator, trục vít di chuyển theo một đường thẳng.*)
 - Hydraulic Actuators: Hydraulic actuators are simple devices with mechanical parts that are used on linear or quarter-turn valves. They are designed based on Pascal’s Law: when there is an increase in pressure at any point in a confined incompressible fluid, then there is an equal increase at every point in the container. (*Actuator thủy lực: Actuator thủy lực là các thiết bị đơn giản với các bộ phận cơ khí được sử dụng trên các van tuyến tính hoặc van góc phần tư. Chúng được thiết kế dựa trên Định luật Pascal: khi có sự tăng áp suất tại bất kỳ điểm nào trong chất lỏng nén không thể nén được, thì có sự tăng áp suất tương ứng tại mọi điểm trong bình.*)
 - Pneumatic Actuators: Pneumatic actuators work on the same concept as hydraulic actuators except compressed gas is used instead of liquid. (*Actuator khí nén: Actuator khí nén hoạt động dựa trên cùng một khái niệm như actuator thủy lực ngoại trừ việc sử dụng khí nén thay vì chất lỏng.*)
-## 3.10: Video Tracking
 
-## 3.11: IoT Actuators
-## 3.10: Video Tracking
+CHƯƠNG 4: CÁC NỀN TẢNG PHẦN CỨNG VÀ PHẦN MỀM
+IOT THÔNG DỤNG
 
-## 3.11: IoT Actuators
+4.1: Wireless sensor networks
+Wireless sensor networks (WSN), as the name suggests, is a
+networking paradigm that makes use of spatially distributed sensors
+for gathering information concerning the immediate environment of
+the sensors and collecting the information centrally.
+vHere, the sensors are not standalone devices but a combination of
+sensors, processors, and radio units—referred to as sensor nodes—
+sensing the environment and communicating the sensed data
+wirelessly to a remote location, which may or may not be connected
+to a backbone network
+WSNs must have the following distinguishing features
+ü Fault Tolerance: The occurrence of faults in WSN nodes should not
+take down the whole WSN implementation, or hamper the
+transmission of data from non- faulty nodes to the central location.
+ü Scalability: WSN implementations must have the feature of
+scalability associated with their architectures and deployments. In the
+event of a future increase or decrease of sensor node units, the WSN
+must support the scaling of the infrastructure without changing the
+whole implementation.
+ Long lifetime: The lifetime or the energy replenishment cycle of WSNs must be
+long enough to make large-scale applications feasible. WSNs have been used for
+monitoring remote, harsh, and hard to access environments; in these
+environments, it is not feasible to regularly replenish the energy source of the
+WSN nodes, which necessitates the need for long node lifetimes.
+ü Security: The security of WSNs, if not considered, can easily compromise the
+security of the whole system, right back to the central server. As WSNs are used
+for a wide range of applications, some of which are crucial, security is one aspect
+that must be properly addressed to prevent intrusion and maintain the integrity of
+the data.
+Programmability: The programmability of WSNs is important as it ensures the
+robustness of these systems. WSNs deployed in one application area can be reused for
+other applications just as easily with a change in sensors and the backend programs
+associated with it. Programmability also helps in providing a means of adjusting the
+parameters of the system in the event of a scale-up or scale-down operation.
+ü Affordability: As WSNs generally require multiple units, typically in the range of tens
+or hundreds of WSN nodes, the cost of the nodes and its affordability is vastly
+responsible for the acceptability of the system. Except for some specialized domains
+such as the military and the industry, where the sensing requirements are quite high and
+that too in harsh and challenging conditions, the majority of WSN applications are
+regular. To some extent, the cost of WSN deployments in these regular domains decide
+the acceptability of a WSN-based solution for that domain.
+Heterogeneity: The WSNs must support a wide number and various
+types of sensors and solutions, thus enabling heterogeneity. In the
+absence of heterogeneity, the WSN will tend to become very
+application-specific, which in turn would require major customizations
+even in the event of minor changes to the network or architecture.
+ü Mobility: WSNs must support the notion of mobility of nodes such
+that the nodes may be easily relocatable or mobile. Mobility would
+ensure the rapid deployability of WSN-based solutions in all
+environments types.
+4.2: Class of wireless sensor networks
+Military Applications: WSNs are used for the detection of enemy soldiers,
+vehicles, intrusion, weapon systems, and armaments.
+v Health Applications: WSNs in healthcare are being used to monitor patients in
+hospitals, ambulances, and homes. Nowadays, a new class of healthcare
+devices—wearable appliances—enable a user to have a miniature health sensor
+on them without additional discomfort.
+v Environmental Applications: WSNs are used for environmental monitoring of
+pollution, tracking of wildlife, forests, and others.
+v Home Applications: WSNs in the home have given rise to home automation
+systems and smart home connectivity systems.
+Commercial Applications: WSNs are used for tracking of vehicles,
+packages in transport, logistics, and others.
+vIndustrial Monitoring: WSNs in industries keep track of various
+industrial processes, monitor factory floors, ensure worker safety, and
+perform stock management.
+WSNs can be organized broadly into the following domains of implementation:
+v Wireless Multimedia Sensor Networks (WMSN): This class of WSNs boasts of the
+ability to retrieve videos, audios, images, or all three in addition to regular scalar sensor
+readings. The sensing range and coverage area of a camera- based WMSN are defined by
+the field of view (FOV) of the constituent cameras. Because of their superlative
+capabilities, WMSNs are popularly sought after in critical domains such as surveillance
+and road traffic monitoring. However, due to the use of multimedia sensors, the power
+and processing requirements of this class of WSNs are very high as compared to the other
+classes of WSNs. Additionally, WMSNs typically demand high network bandwidths for
+convenient operation.
+ Underwater Sensor Networks (UWSN): This class of WSN is designed
+specifically to work in underwater environments. Compared to terrestrial or
+aerial environments, wireless underwater communications are severely restricted
+in terms of data rate, range, and bandwidth due to the high underwater
+attenuation of electromagnetic signals. The reliable use of light- based
+underwater communication is also limited in terms of range and noise.
+The most accepted global means of underwater communication is by acoustic
+waves. However, the long propagation delays and uneven data rate makes it
+necessary to develop newer topologies and architectures, which can work under the
+conditions of severe limitations of the physical layer.
+Wireless Underground Sensor Networks (WUSN): This class of WSNs is designed to be
+deployed entirely underground. The underground environment poses challenges of
+attenuation due to the rocks and minerals in the soil. Another significant problem
+associated with this class is the need for digging up of the nodes to replenish their energy
+sources. Typical usage scenarios of this class of WSNs are underground mines and
+monitoring of underground plumbing systems. WUSNs need denser deployment
+architectures owing to the limited range of wireless communication in underground
+environments.
+ Wireless Mobile Sensor Networks (MSN): This class of WSNs is characterized
+by its mobility and low power requirements. The sensor nodes are mobile, which
+requires them to rapidly connect to networks, disconnect from them, and then
+again connect to new networks until the nodes are mobile. Typical examples of
+MSNs include smartphone networks, wearables, vehicular networks, and others.
+4.3: The role of Open source in IoT
+The Open Source Movement
+Open source in the computer industry is the publishing of source code or hardware design,
+with associated licensing that permits the reuse, modification, improvement, and potential
+commercialization under favorable terms. Example of favorable distribution terms includes
+the following criteria:
+• Free Distribution: Any party may sell or give away the open-source component as part
+of a larger system without being obligated to pay a royalty or other fee for such sale.
+• Source Code/Design: The source code or design must be distributed and made publicly
+available.
+• Derived Works: Derivation and modification of the original open-source component are
+allowed under the original licensing terms.
+While any system can potentially be released under an open source license by its
+owner, successful open source projects have associated communities of interest
+that are integral to their success.
 
 
-## 3.4. Internet Protocol Suite
-
-## 3.5. Network Types
-
-## 3.6. Network Reachability
-
-## 3.7: Các bộ giao thức mạng không dây thường dùng trong IoT
-
-## 3.8: IoT Sensors
-
-## 3.9: RFID
-
-## 3.10: Video Tracking
-
-## 3.11: IoT Actuators
+4.4: Các nền tảng phần cứng
+Thiết bị nhúng Arduino
+q Board mạch Arduino đa dạng từ đơn giản tới những sản phẩm phục vụ thiết bị có
+thể mang theo tới các máy in 3D... Nhiều nhà nghiên cứu, sinh viên thực hiện các
+dự án với Arduino và cung cấp nhiều hướng dẫn, hỗ trợ online. Một số dòng thiết
+bị nổi tiếng như Arduino Yun, board Wi-Fi (IEEE 802.11 b/g/n) và Ethernet
+(IEEE 802.3 10/100Mb/s).
+Board này sử dụng ATmega32, xung clock 16MHz, board này có 1 khe micro-
+SD, 1 port USB, 7 chan PWM pin, 12 analog input và 1 cổng micro USB.
+IoT Devices- Hardware
+q GizmoSphere is an open source development platform for the embedded
+design community; the site includes code downloads and hardware schematics
+along with free user guides, specification sheets, and other documentation.
+Tinkerforge is a system of open source stackable microcontroller building blocks. It allows
+the control of motors and reading out sensors with the following programming languages:
+C, C++, C#, Object Pascal, Java, PHP, Python, and Ruby over a USB or Wi-Fi connection
+on Windows, Linux, and Mac OS X. All of the hardware is licensed under CERN OHL
+(CERN Open Hardware License).
+BeagleBoard offers credit-card sized computers that can run Android and Linux.
+Because they have very low-power requirements, they are a good option for IoT
+devices. Both the hardware designs and the software they run are open source, and
+BeagleBoard hardware (often sold under the name BeagleBone) is available through a
+wide variety of distributors.
+As of 2020, the Raspberry Pi is the most used edge device for building IoT solutions
+among the DIY and maker communities. The affordable price and accessibility made it
+extremely popular. The computing and storage capabilities of the Raspberry Pi enables
+people to use it as an edge device within the IoT projects they are building.
+ased on Figure, we notice that the
+sensors and actuators are placed at the
+bottom of the stack, as they are the ones
+communicating directly with the
+environment. Up the stack, we place the
+local processing and storage devices,
+also called edge devices.
+q These are computers such as a Raspberry Pi, which are capable of exchanging
+information with the peripherals and have minimal computing capabilities so they can
+preprocess the data received from the sensors.
+The Nvidia Jetson Nano was announced as a development system in mid-
+March of 2019. This product is intended for Internet of Things (IoT) makers.
+The board consists of a CPU with 1.43 GHz and a GPU with 128 cores of the
+ESP8266 is a wifi SoC (system on a chip) produced by Espressif Systems . It is
+an highly integrated chip designed to provide full internet connectivity in a small
+package. ESP8266 can be used as an external Wifi module, using the standard
+AT Command set Firmware by connecting it to any microcontroller using the
+serial UART, or directly serve as a Wifi-enabled microcontroller, by
+programming a new firmware using the provided SDK.
+ESP32 is a low-cost System on Chip (SoC) Microcontroller from Espressif
+Systems, the developers of the famous ESP8266 SoC. It is a successor to
+ESP8266 SoC and comes in both single-core and dual-core variations of the
+Tensilica’s 32-bit Xtensa LX6 Microprocessor with integrated Wi-Fi and
+Bluetooth.
+IoT Devices- (wearables + IoT)
+qThe Zerynth IoT Platform is a full set of hardware-software tools
+designed by IoT experts to enable an easy transition from the
+prototyping phase to mass production in a flexible, scalable, and
+efficient way.
+Zerynth OS is an operating system designed to simplify the
+development process. It features a Python/C Development
+environment and seamless integration with other hardware vendors.
+q The Zerynth Cloud makes it possible to manage IoT devices, store
+data, visualize data, and gain insights from a single interface.
+Alzheimer's is an extremely destructive disease that destroys the very essence of
+oneself by degrading memory and thinking abilities. Because 1 in 9 people aged 65
+and above suffer from it, Abdullah Sadiq decided to build an assistive
+smartwatch that displays basic reminders, shows the time, monitors the wearer's
+location, and can even alert caretakers in the event of an emergency. It works by
+using an Infineon Sensor Hub in conjunction with an Arduino MKR1000 board to
+read sensor information and send it to either a smartphone or to an IoT platform.
+IoT Devices - (Open source VR headset)
+Phát triển ứng dụng IoT
+Probably the most advanced project in this list, the Relativity device is an open
+source VR headset that supports SteamVR and even body-tracking through the use
+of a neural network that estimates 3D positions. The headset was made possible
+thanks to its dual 2K displays that can output images at 120 fps. All of the
+computational horsepower comes from an Microchip SAM3X8E Cortex-M3
+processor mounted to a custom PCB along with an MPU-6050 IMU for motion
+tracking.
+4.5: Các nền tảng phần mềm
+Giao thức MQTT
+v MQTT được thiết kế chủ yếu để kết nối các thiết bị bị hạn chết nguồn
+trên băng thông thấp. Mặc dù đã tồn tại trong hơn một thập kỷ nhưng
+chỉ khi có sự ra đời của M2M và IoT mới làm cho MQTT trở thành
+một giao thức phổ biến.
+MQTT (Message Queuing Telemetry Transport) là một giao thức
+truyền thông điệp (message) theo mô hình publish/subcribe (xuất bản
+– theo dõi), sử dụng băng thông thấp, độ tin cậy cao và có khả năng
+hoạt động trong điều kiện đường truyền không ổn định.
+v MQTT gồm có các thành phần sau:
+• Client
+• Broker
+• Topic
+• Message
+• Publish
+• Subcribe
+• Connection
+Giống như bất kỳ giao thức internet nào khác, MQTT dựa trên các
+client và một máy chủ. Tương tự như vậy, máy chủ (broker) là người
+chịu trách nhiệm xử lý các yêu cầu của client về việc nhận hoặc gửi
+dữ liệu giữa client và server với nhau.
+Giả sử có một thiết bị gắn cảm biến nhiệt độ. Nó sẽ gửi dữ liệu đọc
+được cho broker. Ở phía bên kia, ứng dụng của điện thoại hoặc PC
+nhận được giá trị của nhiệt độ này.
+v Thiết bị xác định chủ đề (topic) mà nó muốn xuất bản (publish), ví dụ
+“temp”. Sau đó, nó xuất bản thông báo “giá trị nhiệt độ”.
+v Ứng dụng điện thoại/máy tính PC đăng ký (subcribe) chủ đề “temp”.
+Sau đó, nó nhận được thông báo rằng thiết bị đã xuất bản, đó là giá
+trị nhiệt độ.
+Có nhiều broker triển khai giao thức MQTT. Một trong những broker
+phổ biến nhất và thường được sử dụng là Mosquitto broker.
+Mosquitto là một broker thông điệp nguồn mở thực hiện giao thức
+MQTT. Nó gọn nhẹ và phù hợp để sử dụng trên tất cả các thiết bị từ
+một bo mạch đơn giản như Arduino, ESP8266 và ESP32 đến máy
+tính và máy chủ đầy đủ.
+v Nhưng thay vì sử dụng Mosquitto trên máy tính cục bộ, chúng ta sẽ
+cần phải sử dụng một máy chủ dựa trên đám mây để triển khai broker
+Mosquitto. Điều đó là cần thiết để làm cho các dự án IoT có thể kiểm
+soát được trên Internet.
+v Có rất nhiều broker mosquitto dựa trên đám mây như: ThingMQ,
+ThingStudio, MQTT.io, Heroku, CloudMQTT.
+Blynk
+Blynk là một nền tảng với các ứng dụng iOS và Android để điều
+khiển Arduino, Raspberry Pi và các ứng dụng tương tự qua Internet.
+v Blynk là một bảng điều khiển kỹ thuật số nhờ đó bạn có thể xây dựng
+giao diện đồ họa cho dự án của mình bằng cách kéo và thả các
+widget.
+v Blynk không bị ràng buộc với một
+số board mạch hoặc shield cụ thể.
+Thay vào đó, nó hỗ trợ phần cứng
+mà bạn lựa chọn. Cho dù Arduino
+hoặc Raspberry Pi của bạn được liên
+kết với Internet qua Wi-Fi. Blynk sẽ
+giúp bạn online và sẵn sàng cho IoT.
+Blynk có thể làm được những gì?
+Triển khai một hệ thống nhà thông minh, điều khiển giám sát từ xa,
+v.v... Giới hạn duy nhất là khả năng cũng như sự sáng tạo của bạn.
+v Các Widget như: nút ấn, hiện thị giá trị, thanh kéo giá trị, vẽ sơ đồ,
+v.v... Cho phép điều khiển GPIO của thiết bị bo mạch, từ đó bật tắt
+relay, điều khiển các thiết bị trong nhà.
+v Điểm mạnh của Blynk là có thể kết nối ở bất kỳnơi nào có mạng.
+v Có thể chia sẻ bảng điều khiển cho nhiều người dùng để sử dụng
+chung 1 hệ thống.
+Thiết bị arduino chịu trách nhiệm điều khiển các thiết bị trong nhà thông qua
+relay lắp trực tiếp vào các GPIO của arduino, hoặc bất kì kiểu giao tiếp nào
+khác nếu bạn đủ khả năng (RF, Uart). Thiết bị này yêu cầu phải kết nối mạng
+(ESP8266, ESP32, …)
+v App Blynk từ điện thoại thông qua đám mây sẽ gửi tín hiệu đến board và ngược
+lại, các board arduino được đánh dấu bằng 1 token - chữ ký số, tạo ra trong quá
+trình setup ứng dụng.
+Chương 6: Arduino Programming
+Language
+A Tour of Open-Source Activities in IoT
+What is Physical Computing?
+Physical Computing uses electronics to prototype new materials for designers
+and artists.
+q It involves the design of interactive objects that can communicate with humans
+using sensors and actuators controlled by a behaviour implemented as
+software running inside a microcontroller (a small computer on a single chip).
+50
+ In the past, using electronics meant having to deal with engineers all the time,
+and building circuits one small component at the time; these issues kept
+creative people from playing around with the medium directly. Most of the tools
+were meant for engineers and required extensive knowledge. In recent years,
+microcontrollers have become cheaper and easier to use, allowing the creation
+of better tools.
+q The progress that we have made with Arduino is to bring these tools one step
+closer to the novice, allowing people to start building stuff after only two or
+three days of a workshop.
+q With Arduino, a designer or artist can get to know the basics of electronics and
+sensors very quickly and can start building prototypes with very little
+investment.
+The Arduino Way
+The Arduino philosophy is based on making designs rather than talking about
+them. It is a constant search for faster and more powerful ways to build better
+prototypes. We have explored many prototyping techniques and developed
+ways of thinking with our hands.
+q Classic engineering relies on a strict process for getting from A to B; the
+Arduino Way delights in the possibility of getting lost on the way and finding C
+instead.
+q This is the tinkering process that we are so fond of—playing with the medium
+in an open-ended way and finding the unexpected. In this search for ways to
+build better prototypes, we also selected a number of software packages that
+enable the process of constant manipulation of the software and hardware
+medium.
+Prototyping
+Prototyping is at the heart of the Arduino Way: we make things and build
+objects that interact with other objects, people, and networks. We strive to find
+a simpler and faster way to prototype in the cheapest possible way.
+q A lot of beginners approaching electronics for the first time think that they have
+to learn how to build everything from scratch. This is a waste of energy: what
+you want is to be able to confirm that something's working very quickly so that
+you can motivate yourself to take the next step or maybe even motivate
+somebody else to give you a lot of cash to do it.
+q This is why we developed "opportunistic prototyping": why spend time and
+energy building from scratch, a process that requires time and in-depth
+technical knowledge, when we can take ready-made devices and hack them in
+order to exploit the hard work done by large companies and good engineers?
+The Arduino Platform
+Arduino is composed of two major parts: the Arduino board, which is the
+piece of hardware you work on when you build your objects; and the
+Arduino IDE, the piece of software you run on your computer.
+q 14 Digital IO pins (pins 0–13) These can be inputs or outputs, which is
+specified by the sketch you create in the IDE.
+q 6 Analogue In pins (pins 0–5) These dedicated analogue input pins take
+analogue values (i.e., voltage readings from a sensor) and convert them
+into a number between 0 and 1023.
+q 6 Analogue Out pins (pins 3, 5, 6, 9, 10, and 11) These are actually six of
+the digital pins that can be reprogrammed for analogue output using the
+sketch you create in the IDE.
+The Software (IDE)
+The IDE (Integrated Development Environment) is a special program running
+on your computer that allows you to write sketches for the Arduino board in a
+simple language modeled after the Processing (www.processing.org)
+language.
+The programming cycle on Arduino is basically as follows:
+q Plug your board into a USB port on your computer.
+q Write a sketch that will bring the board to life.
+q Upload this sketch to the board through the USB connection and wait a
+couple of seconds for the board to restart.
+q The board executes the sketch that you wrote.
+Installing Arduino on Your Computer
+To program the Arduino board, you must first download the development
+environment (the IDE) from here: www.arduino.cc/en/Main/Software. Choose
+the right version for your operating system.
+Anatomy of an Interactive Device
+All of the objects we will build using Arduino follow a very simple pattern that
+we call the “Interactive Device”. The Interactive Device is an electronic circuit
+that is able to sense the environment using sensors (electronic components
+that convert real-world measurements into electrical signals).
+q The device processes the information it gets from the sensors with behaviour
+that’s implemented as software. The device will then be able to interact with
+the world using actuators, electronic components that can convert an electric
+signal into a physical action.
+Sensors and Actuators
+Sensors and actuators are electronic components that allow a piece of
+electronics to interact with the world.
+q As the microcontroller is a very simple computer, it can process only electric
+signals (a bit like the electric pulses that are sent between neurons in our
+brains). For it to sense light, temperature, or other physical quantities, it needs
+something that can convert them into electricity. In our body, for example, the
+eye converts light into signals that get sent to the brain using nerves. In
+electronics, we can use a simple device called a light-dependent resistor (an
+LDR or photoresistor) that can measure the amount of light that hits it and
+report it as a signal that can be understood by the microcontroller.
+STRUCTURE
+An Arduino sketch runs in two parts:
+void setup()
+This is where you place the initialisation code-the instructions that set
+up the board before the main loop of the sketch starts.
+void loop()
+This contains the main code of your sketch. It contains a set of instruc-
+tions that get repeated over and over until the board is switched off.
+SPECIAL SYMBOLS
+Arduino includes a number of symbols to delineate lines of code, com-
+ments, and blocks of code.
+; (semicolon)
+Every instruction (line of code) is terminated by a semicolon. This syntax
+lets you format the code freely. You could even put two instructions on
+the same line, as long as you separate them with a semicolon. (However,
+this would make the code harder to read.)
+Example:
+delay(100);
