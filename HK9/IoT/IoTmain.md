@@ -1804,11 +1804,11 @@ Here are the datatypes that are available:
 (*`float`: Lưu trữ số thực dấu phẩy động (số có phần thập phân). Kiểu float chiếm 4 byte RAM và các phép tính số thực tiêu tốn nhiều bộ nhớ chương trình cũng như thời gian xử lý, vì vậy chỉ nên sử dụng khi thật sự cần thiết.*)
 - **`double`**: Double-precision floating-point number. On basic 8-bit Arduino boards (like Uno), double has the same 4-byte size as float. On 32-bit boards (like Due, ESP32), it provides full 8-byte 64-bit precision up to $1.797 	imes 10^{308}$.
 (*`double`: Số thực dấu phẩy động độ chính xác kép. Trên các board Arduino 8-bit như Uno, double có cùng kích thước 4 byte như float. Trên các board vi điều khiển 32-bit như ESP32, nó hỗ trợ đầy đủ độ chính xác kép 8 byte.*)
-- **`string` (char array)**: A set of ASCII characters that are used to store textual information. For storage, they use one byte for each character in the string, plus a terminating null character (` `) to tell Arduino that it’s the end of the string.
-(*`string (mảng ký tự)`: Một tập hợp các ký tự ASCII dùng để lưu trữ thông tin dạng văn bản (để gửi qua cổng nối tiếp hoặc hiển thị trên màn hình LCD). Chiếm 1 byte cho mỗi ký tự cộng thêm 1 ký tự null (` `) ở cuối để báo hiệu kết thúc chuỗi.*)
+- **`string` (char array)**: A set of ASCII characters that are used to store textual information. For storage, they use one byte for each character in the string, plus a terminating null character (`\0`) to tell Arduino that it’s the end of the string.
+(*`string (mảng ký tự)`: Một tập hợp các ký tự ASCII dùng để lưu trữ thông tin dạng văn bản (để gửi qua cổng nối tiếp hoặc hiển thị trên màn hình LCD). Chiếm 1 byte cho mỗi ký tự cộng thêm 1 ký tự null (`\0`) ở cuối để báo hiệu kết thúc chuỗi.*)
 
 ```cpp
-char string1[] = "Arduino";    // 7 ký tự + 1 ký tự null ' '
+char string1[] = "Arduino";    // 7 ký tự + 1 ký tự null '\0'
 char string2[8] = "Arduino";   // Khai báo rõ kích thước mảng 8 phần tử
 ```
 
