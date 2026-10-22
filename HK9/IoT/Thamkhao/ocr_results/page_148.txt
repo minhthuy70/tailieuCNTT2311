@@ -1,0 +1,48 @@
+Đặc điểm của ngữ cảnh:
+
+1- Được thu thập từ nút cảm biến hay mạng cảm biến.
+
+2- Được thu thập từ những thiết bị nhỏ và tài nguyên
+hạn chế.
+
+3- Được thu thập từ nhiều nguồn.
+
+4- Thay đỗi liên tục.
+
+5- Được thu thập từ các đối tượng đứng yên hoặc di động.
+
+6- Có yếu tố thời gian.
+
+7- Có yếu tố không gian.
+
+8- Không hoàn hảo và không chắc chắn.
+
+6.1.2. Thích ứng ngữ cảnh
+
+Một hệ thống được gọi là thích ứng ngữ cảnh khi nó sử dụng
+những thông tin liên quan để cung cấp hoặc để xây dựng những
+dịch vụ thích hợp cho người dùng tùy thuộc vào hành vi của
+người dùng.
+
+Một hệ thống IoT được xem là thích ứng ngữ cảnh khi các
+thông tin liên quan đến con người, đồ vật, môi trường được sử
+dụng để thay đ01 hành vi của ứng dụng sạo cho ứng đụng hoạt
+đong theo ý muốn của con người nhưng không cân sự can thiệp
+đến nó. Ví dụ: ứng dụng Smart Lighting trong nhà E của Đại
+học Công nghệ Thông tin (VNU-UIT). Giả sử ứng dụng này
+được đặt tại phòng E8.8 như Hình 6.1 bên dưới.
+
+L i
+
+m - [ ¬]
+l ! . ! ¡
+
+Hình 6.1. Ứng dụng Smart Lighting
+
+Ị
+
+a) Khi có một người trong phòng; b) Khi có nhiều người
+trong phòng ở nhlJ'ng vị trí khác nhau; c) Khi không có ai
+trong phòng
+
+128

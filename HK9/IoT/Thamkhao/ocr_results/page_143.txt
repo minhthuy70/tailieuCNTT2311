@@ -1,0 +1,39 @@
+CHƯƠNG 6
+
+QUẦN LÝ NGỮ CÁNH THÔNG MINH
+VÀ TRÍ TUỆ NHÂN TẠO TRONG IOT
+
+Để tạo ra tính thông minh cho mỗi ứng dụng IoT đòi hỏi
+ứng dụng phải có “suy nghĩ' về những gì đang diễn ra, hay nói
+cách khác, ứng dụng sẽ xác định được từng ngữ cảnh cụ thể đề
+đưa ra những hành động thích hợp với ngữ cảnh đó. Đây là một
+thành phần không thể thiều trong mỗi ứng dụng IoT. Nó làm cho
+ứng dụng IoT có thể hoạt động một cách độc lập mà không cần
+hoặc cần rất ít sự can thiệp của con người.
+
+Sự phổ dụng của các thiết bị di động và sự phát triển của các
+mạng không dây sẽ cho phép người dùng truy cập thường xuyên
+vào Internet mọi lúc và mọi nơi. Việc tăng cường sức mạnh tính
+toán của các thiết bị di động này cho phép người dùng có thể tạo
+ra các ứng dụng riêng, trong khi kết nối không day hiện nay
+khong chỉ glơl hạn với các thiết bị di đong, mà gần như bất kỳ
+thiết bị đầu cuối nào đều có thể được kết nối và cộng tác. Hợn
+nữa, công nghệ cảm biến mới trong IoT và các mạng cảm blen
+không dây cung cấp thông tin thông mình hơn, hữu ích hơn về
+môi trường và khả năng dò tìm, suy diễn, cũng như khả năng
+thực thi tác vụ. Điều này dẫn đến việc hình thành một mạng kết
+nối của những thiết bị thông minh. Phần này sẽ trình bày một số
+khái niệm, sau đó, tóm tắt một số hướng nghiên cứu liên quan
+trong vấn đề quản lý ngữ cảnh thông minh (intelligent context
+management) trong các ứng dụng JoT.
+
+Nhận thức được ngữ cảnh và bối cảnh giao tiếp là một phần
+° quan trọng trong sự tương tác giữa con người với thế giới thực.
+Ngữ cảnh (context) là một khái niệm phong phú hơn nhiều và
+mạnh hơn đặc biệt cho người sử dụng tương tác với các thiết bị
+đầu cuối thông minh và các ứng dụng thông mình IoT. Xác định
+vị trí và SỰ hiện diện là những ví dụ về các dịch vụ dựa trên ngữ
+cảnh triển khai rộng rãi hiện nay. Việc thu thập thông tin ngữ
+cảnh để suy luận và tìm hiểu về hành vi của người sử dụng sẽ
+
+123

@@ -1,0 +1,39 @@
+CHƯƠNG 7
+TÁI CẤU HÌNH TRONG IOT
+
+Tái cấu hình trong 1oT là khả năng cho phep thay đổi tính
+năng, hành vi ứng dụng, hành vi của thiết bị IoT đề đáp ứng nhu
+câu ngày càng cao của người sử dụng. Hiện nay, cùng với sự
+phát ưlen vượt bậc của các giải pháp phần mềm, các giải pháp
+tái cấu hình, tái lập trình từ xa qua mạng cho các thiết bị IoT
+cũng thu hút sự quan tâm của các nhà nghiên cứu.
+
+Khả năng tái cấu hình, tái lập trình từ xa cho hệ thống IoT
+mang lại nh1e:u ý nghĩa quan trọng cho một giải pháp IoT tổng
+ữxe Tái cấu hình từ xa có thể đơn gián là làm thay đôi các tham
+số cấu hình hệ thống, các tham số điều chỉnh hành vi của ứng
+dụng đang chạy trên thiết bị IoT để phục vụ may đổi nhu cầu, tối
+ưu hiệu quả sử dụng thiết bị. Tái câu hình có thể thực hiện ở các
+dịch vụ đang chạy trên thiết bị cổng, thiết bị tính toán cận biên
+để thay đổi đường liên kết mạng, cân ủng tải, tăng mxơng khả
+năng quản lý, khả năng mở rộng cho hệ thống. Tái cấu hình, tái
+lập trình từ xa cũng có thể diễn ra ở mức hệ thống bằng cách
+thay, đổi toàn bộ ảnh của hệ điều hành đang chạy trên một thiết
+bị để thay the hoàn toàn một phiên bản mới phục vụ nhu cầu bảo
+trì, nâng cấp khi vận hành một hệ thống IoT.
+
+Nội dung chương này tập trung trình bày các giải pháp,
+hướng tiếp cận của tái cấu hình từ xa qua mạng trong IoT và các
+ứng dụng. Các kiến thức tổng quan về các hướng tlep cận trong
+tái câu hình được trình bày trong phzjxn đầu bao gồm: thay thế
+toàn bộ ảnh, thay đổi module phần mềm, dựa trên cơ sở dữ liệu,
+dựa trên máy áo và giải pháp hướng theo dịch vụ. Nội dung Uep
+theo trình bày giải pháp tái câu hình trên ba loại nền tảng thiết bị
+IoT phổ ủen, cụ thể là thiết bị TelosB, Arduino và Raspberry Pi.
+Nội dung cuôi cùng của chương là mình họa cách hiện thực một
+nền tảng phần mêm hỗ trợ quản lý tái cầu hình từ xa qua mạng
+cho nhiêu loại thiết bị IoT khác nhau. Qua đó, giới thiệu cho
+người đọc cách tích hợp các giải pháp tái câu hình IoT vào triển
+khai một giải pháp phần mềm cụ thể.
+
+159

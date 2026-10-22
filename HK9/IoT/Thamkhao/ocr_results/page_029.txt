@@ -1,0 +1,38 @@
+thường được triển khai ở các khu vực khó tiếp cận về mặt địa lý,
+hoặc ở xa. Mặc dù dữ liệu cảm biến fflương được Wan tích fiaong
+kê trong các m1g dụng giám sát, các ưuy vân trực Hep để yêu cầu
+dữ liệu cảm biến ngay lập tức và để điều chỉnh hành vi mxa các
+thiết bị cảm biến trong thời fflan thực, ủJơng được yêu cầu trong
+môi trường thay đổi động, tồn tại các yếu tố, sự kiện tác động
+không lường trước. Các công cụ wan trị mạng cảm biến, mạng
+IoTs/5G, cùng với các tiêu chuẩn đề xử lý và quản ly dữ liệu cảm
+biến, dữ liệu IoTs/SG có thể hỗ trợ xây dựng các ứng dụng và giải
+pháp trên hạ mng IoTs/5G mạnh hơn. Ngoài ra, các công nghệ
+mới đề phát triển và tích hƠ1ĩ) các thiết bị nhỏ sẽ cho phép đa dạng
+hóa các loại cảm biến, thiết bị IoTs/5G được triển khai. Số lượng
+thiết bị, ứng dụng và dự án JoTs/5G ngá1y dmg tăng, khối lượng
+dữ liệu lớn được thu thập bởi các cảm biến, thiết bị IoTs/5G ngày
+càng lớn, đòi hỏi các nỗ lực nghiên cứu thích hợp để xử lý và
+phân tích dữ liệu, sử dụng hiệu quả tài nguyên, khả năng mở rộng,
+khả dung và độ tin cậy của hệ thống. Tương tự, giám sát môi
+mrơng cần phza1 liên tục, tích hơp và không mất dữ liệu, đòi hỏi
+
+phải có đặc điểm kỹ thuật và triển khai cơ sở hạ tang đáng tin cậy
+- cho IoTs/5G. Ủ~ong các ứng dụng JoTs khong đồng nhất quy mô
+lớn, các cảm biến nhỏ và giá rẻ, và các thiết bị IơTs/5G có thể
+được triển khai độc lập hoặc kết hợp với các thiết bị tuy ủmh
+
+nhiều tài nguyen hơn và đắt tiền hơn. Do đó, để giải quyết vấn đề -
+
+này, hướng tiếp cận là tích hợp các thiết bị IoTs/5G””*“ khôn, ng
+đồng nhất, MỀng cách phát triển một nền ửmg phần mềm
+(mzc1,'dlezwc1re.s) mở và đa quy mô trên cơ sở hạ tằng điện toán đám
+mây đề triển l€l1ỉì1 các dịch vụ quản lý tích hợp nh1eu loại thiết bị
+IoTs/5G. Một nền tảng dịch vụ như vậy sẽ bao gồm các danh mục
+dịch vụ khác nhau có thể được triển khai trong hệ thống mạng thử
+nghiệm IoTs/5G hoặc các ứng dụng thục tế để đạt được các mục
+tiêu như phát hiện sự kiện, vị trí đối tượng, theo dõi hoặc giám
+
+3 https:/techbeacon. com/app-dev-testing/67-open-source-tools-resources-iot
+3 https://www.datamation.com/mobile-wireless/5 1-open-source-tools-for-
+the-internet-of-things-1.html

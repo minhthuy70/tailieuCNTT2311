@@ -1,0 +1,42 @@
+trạm gocz Các phương pháp định tuyến sử dụng các tuyến đường
+truy vân năng lượng hiệu quả trong mạng ử hoạt động được với
+các nốt IoTs có tài nguyên hạn chề, nhất là về nguồn cung cấp.
+
+TinyDB [20] là một giải pháp điển hình của thể loại này.
+Trong TinyDB, tương tự như hệ thống cơ sở dữ liệu truyền
+thống, người sử dụng tương tác với một bảng cảm biến đại diện
+cho dữ liệu thu thập từ tất cả các cảm biến xung ạanh mạng.
+Hình 7.3 dưới đây mình họa trực quan việc truy vân đến các cắm
+biến để đọc dữ liệu cần được thu thập từ mạng. Trong một ứng
+dụng môi trường nơi các cảm biến nhiệt độ đọc được triển khai
+xung quanh một tòa nhà, người sử dụng muốn biết phòng nào ở
+tầng sáu của tòa nhà có nhiệt độ lớn hơn 25°C. Đoạn mã dưới
+đây cho thấy một truy vấn TinyDB có thể thu thập các dữ liệu
+cần thiết. Hình bên dưới minh họa hoạt động.
+
+SELECT AVG(femperature), room FROM sensors
+WHERE7loor = ó
+
+GROUP BYroom
+
+JHAVING AVG(femperature) > 25
+
+SAMPLE PERIOD 30s
+
+Ị SELECT nodeld, Hght
+bh FROM SENSOFS
+
+~ năh
+ñ r
+Result ñ NGLL
+1 28 '
+2 55 š
+3 48
+Result
+2 55
+⁄ sọ
+
+Hình 7.3. Câu lệnh truy vấn và kết quả được truyền đi #rong mạng /20J
+
+164
+

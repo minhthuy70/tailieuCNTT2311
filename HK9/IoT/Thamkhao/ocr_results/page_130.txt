@@ -1,0 +1,40 @@
+nguyên phục vụ cho các nghiên cứu khác giúp tối ưu việc sử
+dụng tài nguyên. Bên cạnh đó, việc triển khai ảo hóa ởp thứ hai
+Vơl kỹ thuật Container cho phát tạo ra một số lượng rất lớn các
+
+nốt ảo với lượng tài nguyên yeu cầu thap giúp đáng ứng yêu cầu
+phục vụ các thử nghiệm có số lượng nốt lớn.
+
+Hình 5.7 mô tả mô hình triển khai ảo hóa lớp 1 với nền tảng
+OpenSta1<:k Trong đó, Server sẽ gửi các yêu câu thông qua APIs
+đến hệ thống OpenStack, đồng thời gửi kèm các tập lệnh tự thực
+thi (shell-scripts). Khi nhận được yêu cầu, hệ thống OpcenStack
+sẽ tạo ra các máy ảo, các máy ảo này sẽ kết nối với nhau qua
+một mạng ảo. Trong lần khởi chạy đầu tiên, shell-scripts sẽ tự
+động được thực thi trên từng máy. Shell-scripts chứa các lệnh tự
+cấu hình IP và cấu hình để các máy ảo kết nối với nhau tạo thành
+một cụm cluster với tên gọi Docker Swarm. Trong cụm Docker
+Swarm, một máy sẽ đóng vai trò Swarm manager điều khiển các
+Swarm worker còn lại. Cụm Docker Swarm sẽ làm nền tảng cơ
+sở hạ tằng để triển khai ảo hóa lớp thứ hai với Docker Container
+như trong Hình 5.8.
+
+3. Deploy VM(s)
+s Docker hosts
+
+A
+
+mode4\ mueủ
+
+A=¬ A=
+q’Lx- ỏ*7_ẹs,of'z› , mode(n`z) Mzdeln`†) None(m
+UIT OpenStack `c›.›,,,12lÌ “Je,-M“Ẩ ft“’ f'”f ụj i
+e ¬ —⁄
+
+Experimental Scenario
+with N nodes
+
+Hình 5.8. TỔng quan quá trình xây dựng và triển khai ảnh
+lên hệ thông mạng thử nghiệm WSN
+
+110

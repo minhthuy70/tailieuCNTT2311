@@ -1,0 +1,39 @@
+Hình 5.12 mô tả kiến trúc tong quan các thành phần cua hệ
+thống tính toán cận biên áp dụng trong IoT. Hệ thống bao gồm:
+G các thiết bị JoT như các cảm biến, thiết bị động cơ, mạch điều
+khiển.. -; GD các thiết bị tính toán cận biên, các thiết bị này có là
+các IoT gateways, các máy chủ cận biên, máy trạm cận bien và
+Giï) các máy chủ thực hiện các chức năng lưu trữ, cung cấp địch
+vụ web, dịch vụ điều khiển..
+
+Trong kiến trúc này, có thiết bị tính toán cận biên có thể
+được tận dụng tài nguyen tính toán, tài nguyên mạng và khả
+năng đáp ứng tưc thời ủn các thiết bị 1oT bên dưới để hiện thực
+các tác vụ yêu cầu cao về độ trễ, trải nghiệm người dùng. Hai
+g1ẽì.l pháp công nghệ thu hút sự quan tâm trong việc ứng dung hạ
+tầng tính toán cận biên trên IoT đó là giải pháp phân phối tải
+thông minh Gntelligent offloading) và lưu trữ đêm thông minh
+(caching). Phương pháp phân phối tải thông minh cho phép tận
+dụng tài nguyên tính toán của thiết bị cận biên để thực hiện các
+mc vụ đơn gan đáp ứng tức thời cho các thiết bị JoT và địch vụ
+cần thiết, đồng thời cho phép thiết bị cận biên này phân phối tải
+các tác vụ tính toán lớn, phức tạp tới hệ thong máy chủ ở trung
+tâm dữ liệu. Giải pháp lưu trữ đệm thông minh, cho phép thiết bị
+tính toán cận biên lưu trữ lại các dữ liệu thường xuyên được truy
+cập bởi người dùng và thiết bị JoT một cách thong minh, ủm
+bảo tối đa khả năng đáp ứng lập tức với xác suất cao. Một số vấn
+đề kỹ thuật và công nghệ liên quan khác được trình bày chỉ tiết
+trong phần tiếp theo.
+
+5.3.2. Các công nghệ, kỹ thuật nỗi bật cho tính toán cận biên
+trong IJoT
+
+Theo bài báo [16], tác giả chia các vấn đề công nghệ liên
+quan tới tính toán cận biên cho hệ thống IoT thành ba nhóm:
+nhóm liên quan đến quản lý tài nguyên, nhóm liên quan tới các
+hệ thống thông mình và nhóm quản lý hạ tầng linh động. Hình
+5.13 mô tả kiến trúc và các công nghệ tính toán cận biên cho hệ
+thống IoT phân tán.
+
+118
+

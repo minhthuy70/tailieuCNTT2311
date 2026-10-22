@@ -1,0 +1,41 @@
+Hướng tiếp cận Publish-Subscribe
+
+Các hệ †.hong trao đổi thông điệp public-subscribe thông
+thường bao gồm ba thành phần: ¡) “publisher” sản xuất và
+phát hành các sự kiện, ví dụ như nhiệt độ của phòng được
+đọc bởi mọt nốt cảm biến không dây; ;;) “subseriber”, ví dụ
+như các nốt ;goc-base stations, đại diện cho người sử dụng có
+quan tâm đến những sự kiện được công bố; và ¡¡¡) “event
+broker”, các quan hệ ràng buộc giữa publisher và subscriber.
+Do các publishers và các subscribers không cần phải biết
+thông tin về nhau, cũng như các cấu trúc mạng bên dưới, mô
+hình này có thể được sử dụng trong các hệ thống phân bố
+không có nhiều ràng buộc (loosely-coupled).
+
+Hầu hết các hệ thống nhúng mạng Internet không dây có
+cấu hình mạng động do nhiều yêu tố, ví dụ như sự di động của
+các mJt đầu cuối, hoặc do nguồn cung cấp hạn chế, dẫn đến
+các nốt L mạng sẽ có thể tham gia hoặc rời khỏi mạng bất cứ lúc
+nào. Cấu hình mạng động và phức tạp này dẫn đến tình huong
+trong đó các nguôn thông tin không thể truy cập mọi lúc. Điều
+này có thể ảnh hưởng đến việc thu thập dữ liệu trong mô hình
+mquest/reply Do các thành phần tham gia vào hệ thong trao
+đ01 thông điệp public-subscribe không được lập trình để trực
+tiếp giao tiếp với nhau, hay nói cách khác, không có nhiều
+ràng buộc (loosely-coupled), hệ thống trao đổi thông điệp
+public-subscribe là một hướng tiếp cận thích hợp để sử dụng
+trong mạng IoT có câu hình động.
+
+Sử dụng hướng tiếp cận publish-subscribe, framework j21]
+được thiết kế để phục vụ việc quản lý sự kiện trong các ứng dụng
+IoT. Trong đó, mỗi sự kiện được đặc tả bang một điều kiện xác
+định, ví dụ: nhiệt độ cao hơn 50°C, chỉ số ánh sáng †.l1a1p hơn 20
+lux... Kiến trúc tong quát của framework này bao gôm 3 thành
+phần chính: các nốt cảm biến (đóng vai trò publisher), client
+(đóng vai trò subscriber) và gateway (đóng vai trò event broker).
+
+Hình 7.4 mô tả kiến trúc tổng quan của hệ thong Trong đó,
+các nốt cảm biến sẽ thu thập dữ liệu từ cảm biến và gửi về
+gateway. Client đại diện cho người dùng cuối đăng ký theo dõi
+
+165

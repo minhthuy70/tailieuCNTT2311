@@ -1,0 +1,48 @@
+thiết bị trạm (base station). Điều này gây ra khó khăn trong việc
+quản lý, meu khiển một lượng lớn thiết bị từ xa. Ngày nay, với
+sự phát triển mạnh mẽ của các thiết bị IoT, đặc biệt là các the hệ
+máy tính nhúng nhỏ gọn, khả năng xử lý và kết nối tốt như
+Raspberry Pi, việc cài đặt môi trường TlnyOS vào các máy tính
+này để hoạt động như một thiết bị trạm, kết hợp với các giao
+thức IoT như MQTT, HTTP mang lại khả năng truy cập, điều
+
+khiển quá trình tái lập trình các mạng cảm biến không dây ở mọi
+nơi một cách dễ dàng, tiện lợi.
+
+7.3.2. Cơ chế tái lập trình từ xa trên ESP8266
+
+Để có thể thực hiện cập nhật OTA trên ESP8266 đã xây
+dựng quy trình thay thế image đang chạy bằng một phiên bản
+mới cụ thễ qua các bước như sau [23]:
+
+s Một sketch mới nhận được và lưu trong trong không gian
+giữa sketch cũ và vùng nhớ spiffs.
+
+s Sau khi nhận đầy đủ sketch mới, ESP8266 tiền hành khởi
+động lại (reboot) với sử hỗ trợ của một bootloader “eboot”.
+
+s Sau khi khởi động lại, sketch mới được ghi đè lên
+sketch cũ.
+
+s Lúc này chương trình đã cập nhật thành công và thực thi
+phiên bản mới.
+
+Quá trình này được biểu diễn cụ thể như hình bên dưới:
+
+start:
+
+current sketch Spiffs
+
+EEESSOEEESI
+
+update:
+
+new sketch spiffs
+
+reboot:
+
+new sketch spiffs
+
+Hình 7.10. Quá trình thay thế một sketch trên vùng nhớ của E.SP8266 /23J
+172
+

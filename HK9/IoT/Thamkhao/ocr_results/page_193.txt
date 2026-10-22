@@ -1,0 +1,48 @@
+Hiện tại, đi kèm trong hệ thống phần mềm, kho thư viện lập
+trình của ESP8266 trên nên tảng Arduino đã có 3 phương pháp
+tái cấu hình, cập nhật từ xa qua mạng như sau:
+
+s .4rduino IDE: với cách làm này, &ương trình mới được
+nạp từ xa lên thiết bị thông qua phần mềm Arduino IDE.
+Cụ thể, ở đây thz;1y tùy chọn port nạp là port USB kết nối
+trực tiếp với thiết bị nạp thì xuất hiện thêm thùy tùy chọn
+đối tượng nạp chương trình là địa chỉ IP của mạch điều
+kh1c:n trong cùng mạng local để nạp chương trình qua kết
+n01 Wiñ. Cách hlm này không phù hợp khi sử dụng thực
+tế, khi có nhiều nốt đặt ở nhiều vùng mạng khác nhau.
+
+s Web Browser (frình duyệt web): thiết bị hoạt động như
+một máy chủ ứng dụng web, việc tái lập trình từ xa được
+thực hiện thông qua thao tác truy cập trình duyệt vào địa
+chỉ IP của thiết bị và thực hiện nạp chương trình mới.
+Cách làm này có cải tiền so với cách 1, tuy nhiên, không
+thuận tiện cho việc lập trình, cập nhật phẩ^tn mềm một
+cách tập trung, khó áp dụng để tích hợp vào các hệ thống
+thực tế.
+
+s HTTP Server (hông qua máy chủ web khác): thiết bị sẽ
+hoạt động như một máy khách (clien9), truy cập vào máy
+chủ từ xa và nhận phlen ủm mới để cập nhật. _ Đây là giải
+pháp phù hợp nhất để triển khai trong thực tế. Một đoạn
+chương trình hiện thực thao tác này trên Arduino như sau:
+
+t_htrpUpdate_return ret = ESPhttpUpdate.update("^192.168.0.2”, 80,
+
+`/esp/update/arduino.php”, Yoptional current version string
+here”);
+
+switch(ret) {
+Case HTTP UPDATE FAILED:
+Serial.println(*[update] Update failed.”);
+break;
+case HTTP_UPDATE NO UPDATES:
+Serial.println(*[update] Update no Update.”);
+break;
+case ETTP UPDATE OK:
+Serial.println(*[update] Update ok.”); // may not be
+called since we reboot the ESP
+break;
+
+}
+
+173

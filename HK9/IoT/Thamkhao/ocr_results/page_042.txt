@@ -1,0 +1,35 @@
+Ví dụ trong ứng dụng Smart parking có hai nhóm người dùng ì
+cơ bản: người dân, người quản lý. Hai nhóm người dùng này
+cùng sử dụng dữ liệu về bãi đỗ xe nhưng với những mục đích
+khác nhau. Đối với người dân, họ cân tìm vị trí đỗ xe thích hợp
+nhất wă vị trí và chỉ phí. đỗ xe tương ứng. Đối với người quản lý,
+họ cần xác định vấn đề đỗ xe tại mỗi khu vực hoặc trong toàn
+thành phố tại bất cứ thời điểm nào để có thể đưa ra các chính sách
+
+hợp lý.
+
+2.2.2. Giao thông thông mỉnh
+
+Giao thông là một trong những khía cạnh _"quan trọng nhất
+của một thành phố. Cư dân cần di chuyển từ điểm này đến điểm
+khác một cách nhanh chóng, thuận lợi và tồn ít chi phí nhất. Hầu
+hết các thành phố thông minh tập trung vào giao thông nội bộ.
+Ví dụ, New York có một hệ tl1t›ng tàu điện ngằm thực sự lớn đề
+mọi người đi lại. Seoul có hệ tl1ốnzg tàu điện ngằm trong đó hành
+khách cũng có thể tận hưởng Internet khi đang di chuyển trên
+tàu. Barcelona nhắm đến một lựa chọn thân thiện với môi trường
+hơn ủmg cách sử dụng xe điện và xe đạp. Phương pháp vận
+chuyển hiệu quả hơn và xanh hơn vốn đã được coi là thông minh
+hơn. Ngoài ra, thẻ thông minh hoặc truy cập thông tin theo thời
+gian thực cho các hệ thống giao thông là xu hướng lớn trong
+nhiều thiết bị thông minh các thành phố. Hình 2.10 liệt kê một sô
+
+ứng dụng trong Giao thông thông minh có thể triển khai ở các
+thành phô.
+
+Đường sắt CCảnh sát giao thông. Hàng không
+
+Vận tải biến iao thông công cộng 'Vận tài nặng
+
+.Hình 2.10. Các ứng dụng trong giao thông thông minh
+22

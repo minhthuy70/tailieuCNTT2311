@@ -1,0 +1,40 @@
+platforms) và có sẵn ở Việt Nam với giá thành hợp lý, từ đó sinh
+viên có thể dễ dàng phát triển sản phẩm và làm chủ công nghệ.
+Chương 5: Trình bày về các công nghệ nền, bao gồm điện
+toán đám mây (cloud computing), và tính toán cận biên (cdge
+computing). Đây là các công nghệ nền phát triển hiện nay để
+hiện thực hoàn chỉnh giải pháp phần backend hoặc edge của giải
+pháp IoTs trên kiến trúc N-Tiers. Chúng tôi cũng trình bày một
+
+hệ thống mạng thử ngh1em IJoTs đ(oTs mtwork testbed) do
+chúng tôi tự phát triển để minh họa.
+
+Chương 6: Trình bày về các hướng tiếp cận quản lý ngữ
+cảnh thông minh hiện nay trong việc phát triển ứng dụng và giải
+pháp IoTs thông minh. Các hướng nghiên cứu và phát triển mới
+nhất hiện nay trong lĩnh vực đô thị thông minh (Smart City)
+cũng đã được giới thiệu đến người đọc.
+
+Chương 7: Trình bày về các giải pháp tái cấu hình
+(Reconfiguration) và lập trình qua các bộ giao thức mạng không
+dây (Over The Air Programming-OTAP). Kiến trúc hệ thống tái
+lập trình do chúng tôi phát triển cũng được giới thiệu.
+
+Ngoài những nội dung đã được trình bày tại các chương của
+giáo trình bày, IoT vẫn còn đang được nghiên cứu và phát triển.
+Các vấn đề tính riêng tư, tính bảo mật, tối ưu năng lượng, tối ưu
+hoạt động của mạng là những vấn đề nỗi trội được nhắc đến bên
+cạnh những lợi ích mà IoT mạng lại.
+
+- Tính riêng tư là đặc điểm thường được nhắc đến nhiều nhất
+trong mỗi ứng dụng IoT. Các cảm biến đặt khắp nơi, hồ sơ
+của mỗi người dùng được thu thập lưu trữ bởi các ứng
+dụng IoT. Việc thông tin người dùng bị rò rỉ hoặc bị đánh
+cắp hoặc bị mua bán bởi bên thứ ba có thể xảy ra. Đây
+không phải là vấn đề chỉ nằm trong IoT mà là vấn đề của
+cả quá trình chuyển đồi số. Và các nhà khoa học vẫn đang
+không ngừng nghiên cứu, đưa ra kỹ thuật mới nhằm hạn
+chế thấp nhất nguy cơ rò rỉ thông tin, đảm bảo tính riêng tư
+cho mỗi người dùng.
+
+186

@@ -1,0 +1,46 @@
+Thêm vào đó, ủgBee cung cấp việc broadcast tin cay
+
+ZigBee cũng cung cấp multicasting có thể gửi một message đến
+một nhóm các nút trong mạng.
+
+Cuổi cùng, ZigBee cung mp tự động ACK end-to-end. Ứng
+dụng có thể blet một gói cụ thể được nhận bởi node khác hay
+không. Với tất cả các gói tin nhận được, ZigBee lọc ra các gói
+trùng, nên ứng dụng không cần bận tâm.
+
+ZigBee có chỉ phí thấp
+
+Nhiều nhà cung cấp stack và chip, các module ZigBee và
+nhiều tài nguyên phân phối với chỉ phí phát triển thấp cho các
+thiết bị ZigBee như Texas Instrument, Microchip, Atmel, ST..
+
+ZigBee sử dụng năng lượng map
+
+Các thiết bị trong một mạng ZigBee có thể chạy trong nhiều
+năm chỉ với một cặp pin AA, phụ thuộc ứng dụng.
+ZigBee bảo mật cao
+
+Cho việc bảo mật mạng, ZigBee dùng National Institute of
+Standards and Technology (NIST) Advanced Encryption
+Standard (AES). Chuẩn AES — 128 là một mã hóa khối (block
+cipher) mà mã hóa và giải mã các packets trong một phương
+thức khó có thể để bẻ khóa. Đây là một trong những chuẩn nổi
+tiếng. Lý do mà nó được dùng bởi ZigBee là:
+
+s Chuẩn được xác thực ựoc tế.
+
+s Miễn phí.
+
+s Có thể hiện thực trên một vi điều khiển 8-bit.
+ZigBee là một chuẩn mở toàn bộ
+
+Nhiều nhà cung cấp ủgBee stack, chip và các giải pháp ứng
+dụng. Đặc tả ZigBee có thể được tải miễn phí từ vwebsite
+http://www.zigbee.org.
+
+ZigBee có tốc độ dữ liệu thấp
+
+Để có được chỉ phí thấp và năng lượng tiêu hao thấp và việc
+xem xét không gian và thị trường ứng dụng mà ZigBee nhắm
+
+52

@@ -1,0 +1,44 @@
+như một thư viện chia sẻ. Dịch vụ có thể thay đổi linh hoạt lúc
+chạy ữun—tune) và, vì vậy, có thể hen kết động. Thong thường,
+dịch vụ bao gồm bộ giao thức giao tiếp, các driver thiết bị cảm
+biến và các chức năng lớp cao như quản lý dữ liệu cảm biến..
+
+Dịch vụ được quản lý bởi một sez»ice Jayer ngay phía trên
+kernel. Server layer theo dõi các dịch vụ chay và quản lý cách
+cài đặt dịch vụ. Một dịch vụ được xác định bởi một chuỗi text
+mô tả dịch vụ đó.
+
+Một dịch vụ bao gồm nhiều service inferface và một tiến -
+
+trình để hiện thực interface đó. Service interface bao gồm một
+
+version number và bảng chức năng với các con trỏ trỏ tới các
+hàm hiện thực interface.
+
+Một chương trình ứng dụng sử dụng dịch vụ là thư viện sơ
+khai (stub library) để giao tiếp với các địch vụ khác. Stu library
+được liên kết với ứng dụng và sử dụng service layer ủ tìm tiền
+trình dịch vụ. Khi một dịch vụ được định vị, dịch vụ gốc sẽ ghi
+nhớ process ID của tiền trình dịch vụ và sử dụng ID đó cho tất
+cả tiền trình trong tương lai.
+
+Chương trình gọi dịch vụ thông qua service mterface gốc.
+Lần đầu tiên dịch vụ được gọi, server interface gốc thực hiện
+việc tìm kiếm dịch vụ trong Service layer. Nếu dịch vụ chỉ ra đã
+tồn tại trong hệ thống, thì sẽ trả về con trỏ tới service interfacc
+đó. Chỉ số version number trong service interface được kiểm tra
+với version trong interface gốc. Thêm vào đó, service interface
+chứa các con trỏ tƠl tất cả các hàm dịch vụ. Các hàm hiện thực
+này chứa trong tiền trình dịch vụ. Nếu version của dịch vụ gốc
+
+khớp với sô trong Service interface, thì interface gốc gọi hiện
+thực của hàm được yêu cầu.
+
+Cơ chế giao tiếp
+
+Giao tlep là khái niệm cơ bản trong mạng cảm biến. Trong
+Contiki, giao tiếp được hiện thực như một dịch vụ để có thể thay
+thế trong lúc chạy. Dịch vụ này có thể load đồng thời nhiều bộ
+giao tiếp khác nhau, việc này có ý nghĩa trong thử nghiệm khi
+
+87

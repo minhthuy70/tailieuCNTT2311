@@ -1,0 +1,43 @@
+“Ngữ cảnh là thông tin bất kỳ được sử dụng đề mô tả một
+thực thể. Thực thể có thể là con người, địa điểm hoặc đổi tượng
+
+có hen quan đến sự tương tác giữa người dung và ứng dụng,
+bao gồm cả người dùng và ứng dụng ”.
+
+Từ định @h1a nay, ngữ cảnh được phân hm 4 loại chính,
+tùy thuộc vào nguồn gốc tạo ra ngữ cảnh đó, bao gồm:
+
+- Ser:sed-context: (ngữ cảnh được thu thập) còn được gọi
+physical context. Ngữ cảnh loại này được thu thập trực tiếp từ
+môi trường, VD: nhiệt độ, độ ẩm, ánh sáng.... Các giá trị này
+được thu thập ở dạng thô (raw data) và không qua bất kỳ giai
+đoạn xử lý nào. Sensed-context là nguồn gốc để tạo ra các loại
+ngữ cảnh khác.
+
+Cluster1->Node1->TemperatureSensor->ValueQ = 24
+
+Giải thích cho ví dụ trên: Giá trị của cảm biến nhiệt độ của
+Node 1 đặt tại Cluster 1 có giá trị là 24°C
+
+- Cornbined-context (ngữ cảnh được tính toán): được tạo ra
+từ sensed-context thông qua giai đoạn tính toán toán học. Ví dụ:
+Giá trị nhiệt độ được thu thập bằng đơn vị °C. Tuy nhiên, mô
+hình ngữ cảnh lại chỉ xử lý được giá trị nhiệt độ bằng đơn vị ®E.
+Do đó, giá trị này phải được chuyển từ °C sang ®F thông qua
+công thức bên dưới:
+
+F=9/5*C+32
+
+- Inferred-context (ngữ cảnh được suy luận): cũng được tạo
+ra từ sensed-context. Tuy nhiên, khác với combined-context,
+inferred-context được tạo ra bằng cách áp dụng một số luật lên
+sensed-context. Do đó, inferred-context được xem là context ở
+mức cao hơn so với sensed-context và inferred-context.
+
+Cluster1->Node1->TemperatureSensor->Level() = “Medium”?
+
+Giải thích cho ví dụ trên: Mức nhiệt độ của Node 1 đặt tại
+Cluster 1 là trung bình nhờ vào bảng bên dưới
+
+126
+

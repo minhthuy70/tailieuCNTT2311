@@ -1,0 +1,43 @@
+Băng 6.1. Quy đỗi giá trị và múức nhiệt độ
+
+STT | Giá trị nhiệt độ C) | Mức nhiệt độ
+1 0-15 Very low
+2 . 116-20 Low
+3 .121-30 Medium
+4 |31-35 High
+5 136-45 Very high
+
+- Learned-context (ngữ cảnh được học): loại ngữ cảnh này
+được tạo ra từ các giải thuật trong data mining như Decision
+Tree, Neural Network. Thông qua việc “học” của các giải thuật
+này, các loại ngữ cảnh như sensed-context, combined-context
+mà learned-context được tạo ra.
+
+.Bảng 6.2. Sensed-context và Learned-context
+STT Ngữ cảnh
+
+1 Cluster1->Node1->TemperatureSensor->LevelQ = “Medium”
+2 Clusterl->Node2->Fan->Level() =““Medium”
+
+Ví dụ trên được giải thích như sau: Ứng dụng Smart Home
+có 2 Node là Nodel và Node2 đặt tại Cluster1. Nodel thu thập
+dữ liệu nhiệt độ, Node2 chịu trách nhiệm điều khiển quạt. Quạt
+có 5 tình trạng: OFF, Low, Medium, High và Very High. Đầu
+tiên, giá trị của ngữ cảnh (2) chưa có, phải thông qua một thuật
+toán trí tuệ nhân tạo hoặc data mining mà từ các dữ liệu đã có, ví
+dụ ngữ cảnh (1) và một số luật ở bảng 6.3 mà ứng dụng “học” và
+tạo ra ngữ cảnh (2).
+
+.Bảng 6.3. Luật suy luận Learned-contfext
+STT Mứcnhiệtđộ Mức quạt
+1 Very Low OFF
+
+2 Low Low
+
+3 Medium Medium
+
+4‹ Hiph High
+
+5 _ VeryHigh Very High
+
+127

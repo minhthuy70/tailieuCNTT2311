@@ -1,0 +1,42 @@
+- Bên cạnh tính riêng tư, tính bảo mật cho ứng dụng IoT
+cũng là một wm đề đang được nghiên cứu. Các kỹ thuật
+bảo mật truyền thống khó có thể được triển khai trên các
+thiết bị JoT bởi vì như đã trình bày trong chương 4, các
+thiết bị IJoT hầu như là các thiết bị nhúng có năng lực tính
+toán, bộ nhớ và năng lượng tiêu thụ thấp. Một số rủi ro bảo
+mật có thể gặp phải trong các ứng dụng IoT như: đánh wp
+dữ liệu đánh cắp thiết bị phan cứng, sửa đối phần
+mem/f1rrnWa1xfc~. trên 1;ì11et bị phần cứng, nghe lén trên đường
+truyền không dây, tắấn công vào các lỗ hồng ở middleware
+và ứng dụng người dùng.
+
+- Tối ưu năng lượng hay tối ưu thời gian sống của thiết bị
+cũng là một vấn đề cần phải cân nhắc trong IoT. Hầu như
+:các cảm biến trong IoT đều sử dụng năng lượng từ pin, do
+đó việc kéo dài thời gian hoạt động của các mlet bị cảm
+biến là một bài toán bắt buộc khi thiết kế, triển khai Uzng
+dụng. Một trong số các nghiên cứu để kéo dài thời gian
+hoạt động của IoT node là chỉ cho JoT node active khi lay
+
+dữ liệu từ cảm biến và truyền đi, sau đó chuyển sang chế
+độ sleep.
+
+Các nghiên cứu về các vấn đề này bạn đọc có the tham khảo
+từ các bài báo sau: [311I32][33].
+
+Ngoài các vấn đề trên, một xu hướng hiện nay đang rất được
+quan tâm, đó .là ứng dụng Trí tuệ nhân tạo, Máy học và Học sâu
+vào trong IoT để làm tăng tính tự động, cũng như tính thông
+mình của các ứng dụng IJoT. Như ủ đề cập trong chương 6, các
+kỹ thuật này có xu hướng chuyển về các thiết bị cận biên (edge)
+hoặc trên IoT node nhằm giảm độ ưe và băng thông của việc
+truyền/nhận khi dữ liệu thô không cần chuyển tiếp về Cloud.
+Bạn đọc có thể tham khảo các kỹ thuật ứng dụng Trí tuệ nhân
+tạo, Máy học và Học sâu trên nút cận biên tại các công trình [34]
+[35]I36]và [37].
+
+Trong [38], các tác giả ứng dụng kỹ thuật Deep learning trên
+các thiết bị JoT. Việc ứng dụng các kỹ thuật Deep Learning trên
+các thiết bị I6T thực sự là một bài toán khó, vì các đặc tính của
+
+187

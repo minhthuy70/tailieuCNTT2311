@@ -1,0 +1,46 @@
+Bảng 6.5. Bảng biểu diễn thang input nhiệt độ
+
+Khoảng giá trị Trạng thái tương ứng
+0212 Cold (lạnh)
+11215 Cool (hơi lạnh)
+14219 Normai (bình thường)
+18222 MWarm (ấm)
+21> 100 Hot (nóng)
+
+Đảng 6.6. Bảng biểu diễn thang giá trị input trade (hướng đi của dữ liệu)
+
+Giá trị
+
+Trạng thái tương ứng
+
+-1
+0
+1
+
+Down
+None
+UÚp
+
+ĐBảng 6.7. Bảng biểu diễn output cho điều khiển nhiệt độ
+
+Khoảng giá trị Kết quả tương ứng
+0220 HeatHI
+15>>40 HeatLo
+35260 Nothing
+552 80 VenLo
+75> 100 VenHi
++ Luật suy diễn
+
+IE temperature is (Cold, Cool, Normal, Warm, Hot) AND trade is (Down,
+None, Up) THEN Action is (HeatHi, HeatLo, Nothing, VenLo, VenHi).
+
++ Bảng suy luận
+Rule IF Temperature Relation Trade Then Action
+Heating
+1 IW Cold AND AlTHEN (High)
+Heating
+2 T Cool AND Down THEN (High)
+3 IF Cool AND None THEN Heating
+
+140
+

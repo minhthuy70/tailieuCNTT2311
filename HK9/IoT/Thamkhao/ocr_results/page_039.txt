@@ -1,0 +1,72 @@
+Hệ thống quan trắc này gồm các nút cảm biến về các loại
+khí CO, NO,, Nhiệt độ, Độ ẩm, Lượng mưa, Tốc độ gió, Cường
+độ ánh sáng. Dữ liệu này được thu thập và @uyển đến UIT
+Cloud. Tại đây, dữ liệu cảm biến được phân tích và hiển thị cho
+người dùng thông qua giao điện bên trên.
+
+2.2.1. Kiến trúc tông quát
+
+Hạ tầng IoT cho một smart city là kiến trúc 4 lớp được mô
+tả trong Hình 2.8 bên dưới. Dữ liệu được thu thập và truyền đi từ
+Street Layer đến Data center thông qua City network Layer. Sau
+đó, dữ liệu được lưu trữ, tổng hợp, chuẩn hóa và mô hình hóa.
+Data center layer cung cấp dữ liệu sau khi xử lý cho Service
+layer - bao gồm các ứng dụng cung cấp cho các bên liên quan
+trong smart city.
+
+) governaice modelimplementation.
+KoƯN . s : :
+
+- N Clouds 7 —
+ƯN \ 2 Issng nnononapaomuin
+r —Z XO |ROIln 10 vgên (deponding on ueo,
+
+Partner À. |case deploymenttralfie, parking, liphtng)
+Ñ\ Clouds „
+
+⁄ ỹloE enabler for 3'“parly sensor
+
+x [Implementaton
+
+nuện
+Sreol Truii
+
+* Smart-Connected. WiFi Transformational
+Playbook SKU
+
+*UCS.WLO
+
+* MSE, Prime
+
+* Core Routing'Switching
+
+* loT Industrial SwitchingfRoutng/Gatev,ays
+
+- Vireloss Puggodized APs
+
+* Gisco Consuliing Servieos loE tor Cises
+* POC/Pllo Installation ang DeploymentL
+
++ * Soluion Support +
+
+ustomized Deslgn and Implementalion
+* Managed Sorvices Model
+
+* Network Operalion
+
+* Services SLA Support
+
+Hình 2.8. Kiến trúc tổng quát của Smart củy
+(Nguồn: Cisco Press)
+Trong thành phố thông minh, nhiều dịch vụ, ứng dụng có thể
+sử dụng hạ tầng IoT với nhiều mục đích khác nhau. Do đó, để
+cung cấp một hạ tằng IoT cho nhiều giải pháp thì quá trình
+chuyển fiếp đữ liệu cần sử dụng các cơ chế mở hoặc các API mở.
+
+Kiến trúc chỉ tiết từng thành phần trong smart city sẽ được
+trình bày ở phần tiếp theo.
+
+'Street layer: bao gồm các thiết bị và cảm biến thu thập đữ
+liệu và thực hiện các hành động dựa vào điều khiển của con
+
+19

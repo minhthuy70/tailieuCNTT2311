@@ -1,0 +1,38 @@
+mang lại kết quả như mong muốn ban đầu. Trong trường hợp
+này, việc phải đối mặt với các rủi ro tài chính và lãng phí nhân
+lực là điều khó tránh khỏi. Ngoài ra, thành phố thông minh là
+thành phố dùng công nghệ điện toán đám mây (Cloud
+computing) và CNTT thế hệ mới đềể quy hoạch đô thị, sử dụng
+các công cụ của CNTT và ưuyen thông để thu nhận, phân tlch
+và tích hợp thông tin để vận hành thành phố, hỗ trợ cuộc sống
+của người dân, bảo vệ môi trường, giữ an toàn cộng đồng, phát
+triển các dịch vụ đô thị và đáp ứng các nhu cầu khác một cách
+
+thông minh, giúp ửo nền kinh tế đô thị tăng trưởng, duy trì tiền
+bộ xã hội và phát triển bền vững.
+
+Theo đánh giá của chúng tôi, xây dựng đô thị thông minh
+gắn liền với việc sử dụng công nghệ Internet of Things-IoTs và
+điện toán đám mây (cloud computlng) hiện đại. Trong khi công
+nghệ IoTs với mt nhiều chuẩn giao tiếp hỗ trợ đa dạng, đa sô các
+thiết bị đầu cuối hiện nay phục vụ thu thập dữ liệu, giám sát,
+công nghệ điện toán đám mây (cloud computing) và tính toán
+cận biên (edge computing) là các nền tảng hoàn hảo phục vụ tính
+toán, tích hợp dịch vụ và mạng Internet, và công nghệ trí tuệ
+nhân tạo (Artificial Intelligence_AT) cùng kỹ thuật xử lý dữ liệu
+lớn (Big Data) mang lại tính thông minh và tiện K]gh1 hơn cho
+ứng dụng. Ngoài ra, nhằm làm chủ công nghệ, các nên tảng mã
+nguồn mở nên được ưu tiên lựa chọn triển khai.
+
+BÀI TẬP CHƯƠNG 1
+
+1. Hãy liệt kê những thiết bị có thể kết nối vào Internet.
+
+2. Hãy liệt kê những đặc điểm kỹ thuật của thiết bị được sử dụng
+trong loT.
+
+3. Hãy liệt kê những xu thế của loT trên thế giới và ở Việt Nam.
+Hãy liệt kê những ưu điểm mà loT có thể mang lại cho cuộc sống.
+5. . Hãy liệt kê những thách thức mà loT đang gặp phải.
+
+11

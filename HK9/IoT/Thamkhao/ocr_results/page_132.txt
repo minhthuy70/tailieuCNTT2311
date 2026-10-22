@@ -1,0 +1,36 @@
+giữa máy host và các container, các biến môi trường, các lệnh sẽ
+được thực thi khi khởi chạy containers. Ngoài ra, tập tin này còn
+đặc tả thông tin về các mạng ảo và kết nối giữa các containers
+thông qua các mạng ảo này.
+
+OpenStack —
+
+Cluster - Docker Swarm
+
+docKer-
+compose.yml |
+
+Hình 5.9. Minh họa triển khai kiến trúc mạng 1Mesh
+với nên tổng Docker Container
+
+Hình 5.9 minh họa việc triển khai thử nghiệm với kiến trúc
+mạng Mesh bằng nền tảng ảo hóa Docker Container. Đầu tiên,
+Swarm manager nhận được kịch bản triển khai trong tập tin
+docker-compose.yml. Sau đó nó sẽ tạo ra các máy ảo containers
+trên các máy Swarm worker. Trong kiến trúc mạng Mesh, tất cả
+các nốt sẽ được kết nối với nhau qua một mạng chung. Do đó,
+các container sẽ được kết nối tới một mảng ảo chung. Kỹ thuật
+có tên gọi là overlay network cho phép các container trên các
+máy ảo khác nhau có thể giao tiếp với nhau như trong cùng một
+mạng. Sau khi được triển khai xong, mỗi container sẽ chạy công
+cụ giả lập và hoạt động như một nốt trong mạng.
+
+5.2.6.2. Thiết kế kiến trúc, giải pháp xây dựng kiến trúc mạng
+luận lbý TREE của WSNs trên OpenStack
+
+Hình 5.10 minh họa việc triển khai kịch bản thử nghiệm
+theo kiến trúc mạng Tree bằng nền tảng ảo hóa Docker
+Container. Tương tự như kiến trúc mạng Mesh, Swarm manager
+sẽ đọc kịch bản từ tập tin docker-compose.yml, sau đó tạo ra các
+
+112

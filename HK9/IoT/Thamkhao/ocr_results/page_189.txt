@@ -1,0 +1,49 @@
+Different sensor data
+Gonsumers use the
+Sensor data for different
+purposes
+
+loT middleware
+solutions
+
++ + + + +lr`slezIleatícJr\ low
+level
+P computation
+devices collect
+4 data from
+different types
+
+... of sensors on
+
+.. demand
+(Worker Nodes)
+
+Hình 7.8. Mô hình tổng quan MOSDEN
+
+7.3. Một so giải pháp h1en thực tái cấu hình trên các loại
+thiết bị phố biến
+
+Phần này trình bày chỉ tiết giải pháp tái cầu hình từ xa cho 3
+loại thiết bị IoT đặc trưng đã giới thiệu ở Chương 4. Cụ thể bao
+gồm, giải pháp tái cấu hình Deluge trên thiết bị TelosB, giải
+IỊ)haIZD cập nhật ñrmware từ xa qua mạng cho ESP8266 và các
+giải pháp tái cấu hình trên máy tính nhúng Raspberry Pi.
+
+73.1. Cơ chế hỗ trợ tái lập trình từ xa trên TinyOS
+
+- Giải pháp tái lập trình toàn Image bằng .Deluge
+Khái niệm
+Deluge giao thức rỷz cậy (reliable) cho việc phan phối một
+lượng lớn data object (VD: lớn hơn khả năng chứa của RAM) từ
+
+một hay nhiều node nguôn tới các node khác thông qua mzjtibop
+wireless network [18].
+
+Quảng bá phiên bản mới nhất của object nó có tới những
+node có thể nghe trong vùng broadcast. Nếu node S nhận được
+quảng bá từ node R, S sẽ phản hồi lại profile của nó. Từ thông
+tin đó, R xác định xem phân dữ liệu nào cân được cập nhật mới
+và sẽ yêu cầu từ những người láng gleng, kể cả S. Những láng
+giềng này sẽ quảng bá dữ liệu cần thiết hiện có.
+
+169

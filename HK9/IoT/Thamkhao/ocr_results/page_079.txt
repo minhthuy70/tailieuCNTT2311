@@ -1,0 +1,47 @@
+802.11g
+
+Vào năm 2002 và 2003, các sản phẩm WLAN hỗ trợ một
+chuẩn mới hơn đó là 802.11 g, được đánh giá cao trên thị trường.
+802.11g thực hiện sự kết hợp tốt nhất giữa 802. 11a và 802.11b.
+Nó hỗ trợ băng thông lên đến 54Mbps và sử dụng tần số 2.4Ghz
+để có phạm vi rộng. 802.11g có khả năng tương thích với các
+chuẩn 802.11b, điều đó có nghĩa là các điểm truy cập 802.11g sẽ
+làm việc với các adapter mạng không dây 802.11b và ngược lại.
+
+Ưu điểm của 802. 11g - tốc độ cao; phạm vi tín hiệu tốt và ít
+bị che khuất.
+
+Nhược điểm của 802.11g - giá thành đắt hơn 802.11b; các
+
+thiết bị có thể bị xuyên nhiễu từ nhiều thiết bị khác sử dụng cùng
+băng tần.
+
+802.11n
+
+802.11n hay còn được gọi là Wifi 4, được chuẩn hóa vào
+năm 2009. Đây là chuẩn được thiết kế để cải thiện cho 802.11 E
+trong tổng số băng thông được hỗ trợ bằng cách tận dụng nhiều
+
+tín hiệu không dây và các anten (công nghệ Multi Input Multi
+Output - MIMO).
+
+Khi chuẩn này được đưa ra, các kết nối 802. lin sẽ hỗ trợ
+tốc độ dữ liệu lên đến 100Mbps. 802.11n cũng cung cấp phạm vi
+bao phủ tốt hơn so với các chuẩn Wi-Fi trước nó nhờ cường độ
+
+tín hiệu mạnh của nó. Thiết bị 802.11n sẽ tương thích với các
+thiết bị 802.1 lg
+
+Ưu điểm của 802.11n - tốc độ nhanh và phạm vi tín hiệu tốt
+nhất; khả năng chịu đựng tôt hơn từ việc xuyên nhiều từ các
+nguôn bên ngoài.
+
+Nhược điểm của 802.11n - giá thành đắt hơn 802.11 lg; sử
+dụng tín hiệu có thể gây nhiễu với các mạng 802.11b/g ở gần.
+
+802.11ac
+
+802.1 1ac được liên minh Wifi ủuẩp hóa vào năm 2013, còn
+được gọi là Wiñ 5. 802.11lac được kê thừa từ chuân 802.11n -
+
+59

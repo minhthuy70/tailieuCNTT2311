@@ -1,0 +1,22 @@
+CÁC KÝ HIỆU VIẾT TẮT
+
+HHH ="==5n5:
+
+6LoWPAN _ IPv6 over Low - Power Wireless Personal Area Networks
+AI Artficial Intelligence I
+CPS Chip Package System
+cPU Central Processing Unit
+GPU Graphics Processing Unit
+HTTP HyperText Transfer Protocol
+ICT Information & Communication Technologies
+JoTs Internet of Things
+MQTT Message Queuing Telemetry Transport
+NFV Network Function Virtualization
+OIC Open InterConnect Consortium
+OTAP Over The Air Programming
+REST Representational state transfer
+SDN Software Defined Network
+TPU Tensor Processing Unit
+VM Virtual Machine
+xvii
+

@@ -1,0 +1,41 @@
+- Trường hợp I: nếu chỉ có 1 người ngồi tại phòng này
+(THnh a) thì chỉ cần bật đèn tại vị trí này.
+
+- Trường hợp 2: nếu có nhiều người ngồi tại những vị trí
+khác nhau như hình b thì tất cả các bóng đèn trong phòng
+E8.8 sẽ được bật.
+
+- Trường hợp 3: nếu không có người nào trong phòng thì tất
+cả các bóng đèn đều tắt.
+
+Việc bật tắt này không phụ thuộc vào con người mà các
+sensor sẽ đảm nhận việc phát hiện có/không có người ở mỗi vị
+trí và thực hiện việc bật tắt các bóng đèn ở vị trí tương ứng.
+
+Có 3 hướng tìếp cận cho một hệ thống thích ứng ngữ cảnh,
+đó là:
+
+- No application level context model: ứng dụng thực hiện cả
+
+4 chức năng:
+s Thu thập thông tin ngữ cảnh (Context acquisition).
+s Tiền xử lý thông tin ngữ cảnh (Pre-processing).
+s Lưu thông tin ngữ cảnh (Storing).
+s Suy luận ngữ cảnh từ thông tin đã có (Reasoning).
+
+-qmpliclt context model: ứng dụng sử dụng thư viện,
+framework và toolkit để thực thi 4 chức năng trên.
+
+-Explicf context ?model: ứng dụng sử dụng context
+management infrastructure/middleware để thực thi 4 chức
+năng, ứng dụng không trực tiếp thực thi. Hướng tiếp cận
+này gần đây được ưu tiên sử dụng hơn hai hướng tiếp cận
+trước, bằng cách phát triển các middleware.
+
+6.2. Quản lý ngữ cảnh trong IoT
+
+Một hệ thống quản lý ngữ cảnh giúp cho ứng dụng sử dụng
+ngữ cảnh để thực hiện các hành vi tương ứng (context-aware).
+Hệ thống quản lý ngữ cảnh bao gồm 4 thành phần sau đây:
+
+129

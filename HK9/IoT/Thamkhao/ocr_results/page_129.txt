@@ -1,0 +1,34 @@
+trụ, mô ỵ›hontcg hóa sinh; các ứng dụng cho chính phu như
+hệ thống y tế quốc gia, hệ thống giao tt1ong vận tải..
+
+° Cong thông tin (web portal): cung cấp các dịch vụ tìm
+kiếm thông tin chuẩn, ngoài ra cũng có các dịch vụ khác
+như e-mail, tin tức, giá chứng khoán. Cổng thông tin
+cung cấp cách để các doanh nghiệp lớn có thể truy cập
+vào trang quản lý đồng bộ, theo quy trình nhiều tác vụ,
+nhiều ứng dụng, cơ sở dữ liệu khác nhau.
+
+Đặc điểm nổi bật được cung cap bởi mô hình dịch vụ này đó
+là khả năng truy cập (accessibility) và tính di động linh hoạt
+(portability).
+
+52.6. Ưng dụng công nghệ điện toán đám mây trong xây dựng
+hệ thống giả lập WSN với số lượng nổi lớn
+
+OpenStack
+
+Cluster - Docker Swarm N
+
+Hình 5.7. Mô hình triển khai ảo hóa lớp 1 với OpenStack
+
+Giải pháp được giới thiệu sử dụng hướng tiếp cận ảo hóa hai
+lớp nhằm đáp ứng mục tiêu triển khai kịch bản thử nghiệm
+nhanh chóng, hiệu quả, tiết kiệm chi phí, nhưng fflẫng thời wẵn
+đáp ứng được khả năng thực thl các thử ngh1em có số lượng nốt
+rất lớn, lên đến hàng nghìn nốt. Cụ thể, hai nền tảng áo hóa mới
+nhất h1ẹn nay là OpenStack và Container sẽ được sử dụng trong
+hệ thong của chúng tôi. Việc sử dụng OpenSta1ck giúp tận dụng
+ưu thế của điện toán đám mây cho phép triển khai hệ thống máy
+ảo một cách nhanh chóng, tiện lợi và đễ dàng thu hồi lại tài
+
+109

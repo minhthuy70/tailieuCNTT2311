@@ -1,0 +1,36 @@
+muốn so sánh nhiều bộ gao thức giao Uep khác nhau. Ngoài ra,
+
+các bộ giao tiếp này có thể chia thành nhiều dịch vụ khác nhau
+như trong Hình 4.11:
+
+- Communicafion
+Applicaton - ¬*#† siack
+ỉ
+Routing protocol 1 Roufing protocol 2
+Ị
+
+Device driver 1 Device driver 2
+
+ỷ U
+Ì Hardware
+
+ðHình 4.11. Sơ đồ các cơ chế giao tiếp trên Contiki
+
+4.2.4. Hệ điều hành Raspbian OS
+
+Hệ điều hành Rf1spb1zxn là hệ điều hành miễn phí dựa trên
+nền tảng [Debian được tối ưu hóa để chạy trên thiết bị Raspberry
+Pi. Hệ điều hành này ban đầu được phát triển bởi Mike
+Thompson và Peter Green', nhưng sau đó được cộng đồng nhiệt
+tình hỗ trợ để ngày càng hoàn thiện như hiện nay. Theo thông tin
+từ trang cộng đồng phát triển, bên trong hệ điều hành Raspbian
+này gồm hơn 35.000 gói thư viện (packages), nhiều ứng dụng đã
+biên dịch từ trước (pre-compiled software) được sắp xếp tổ chức
+một cách hợp lý để cài đặt trên thiết bị Raspberry bi.
+
+Kiến trúc hệ điều hành Raspbian được thể hiện như
+Hình 4.12.
+
+! https://www.raspbian.org/RaspbianAbout
+
+88

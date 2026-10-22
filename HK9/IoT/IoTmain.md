@@ -749,20 +749,31 @@ Là lựa chọn tốt cho các ứng dung IoT khi mạng cảm biến không d�
 *(Mạng cảm biến không dây)*
 
 - **Wireless sensor networks (WSN)**, as the name suggests, is a networking paradigm that makes use of spatially distributed sensors for gathering information concerning the immediate environment of the sensors and collecting the information centrally.
+(*Mạng cảm biến không dây (WSN), đúng như tên gọi của nó, là một mô hình mạng sử dụng các cảm biến phân bố rải rác trong không gian để thu thập thông tin liên quan đến môi trường xung quanh trực tiếp của các cảm biến và tập hợp thông tin về một vị trí trung tâm.*)
 - Here, the sensors are not standalone devices but a combination of sensors, processors, and radio units—referred to as **sensor nodes**—sensing the environment and communicating the sensed data wirelessly to a remote location, which may or may not be connected to a backbone network.
+(*Ở đây, các cảm biến không phải là các thiết bị độc lập mà là sự kết hợp của cảm biến, bộ xử lý và khối thu phát vô tuyến—được gọi là các **nút cảm biến (sensor nodes)**—làm nhiệm vụ cảm nhận môi trường và truyền dữ liệu cảm biến được qua đường truyền không dây đến một vị trí từ xa, nơi có thể có hoặc không kết nối với mạng xương sống (backbone network).* )
 
 ### Các đặc tính nổi bật của WSN (WSNs Distinguishing Features)
 
 WSNs must have the following distinguishing features:
+(*WSN phải có các đặc tính nổi bật sau:*)
 
 - **Fault Tolerance:** The occurrence of faults in WSN nodes should not take down the whole WSN implementation, or hamper the transmission of data from non-faulty nodes to the central location.
+(*Khả năng chịu lỗi: Sự xuất hiện sự cố/lỗi tại các nút WSN không được làm sập toàn bộ hệ thống triển khai WSN, hoặc cản trở việc truyền dữ liệu từ các nút không bị lỗi về vị trí trung tâm.*)
 - **Scalability:** WSN implementations must have the feature of scalability associated with their architectures and deployments. In the event of a future increase or decrease of sensor node units, the WSN must support the scaling of the infrastructure without changing the whole implementation.
+(*Khả năng mở rộng: Việc triển khai WSN phải có tính năng mở rộng gắn liền với kiến trúc và cách bố trí triển khai của chúng. Trong trường hợp số lượng đơn vị nút cảm biến tăng hoặc giảm trong tương lai, WSN phải hỗ trợ việc co giãn quy mô hạ tầng mà không cần phải thay đổi toàn bộ hệ thống.*)
 - **Long Lifetime:** The lifetime or the energy replenishment cycle of WSNs must be long enough to make large-scale applications feasible. WSNs have been used for monitoring remote, harsh, and hard to access environments; in these environments, it is not feasible to regularly replenish the energy source of the WSN nodes, which necessitates the need for long node lifetimes.
+(*Tuổi thọ hoạt động lâu dài: Vòng đời hoạt động hoặc chu kỳ tái nạp năng lượng của WSN phải đủ dài để các ứng dụng quy mô lớn có tính khả thi. WSN từng được sử dụng để giám sát các môi trường xa xôi, khắc nghiệt và khó tiếp cận; trong các môi trường này, việc thường xuyên thay thế hay nạp lại nguồn năng lượng cho các nút WSN là không khả thi, do đó đòi hỏi các nút phải có tuổi thọ cao.*)
 - **Security:** The security of WSNs, if not considered, can easily compromise the security of the whole system, right back to the central server. As WSNs are used for a wide range of applications, some of which are crucial, security is one aspect that must be properly addressed to prevent intrusion and maintain the integrity of the data.
+(*Tính bảo mật: Bảo mật của WSN nếu không được chú trọng có thể dễ dàng làm tổn hại đến tính bảo mật của toàn bộ hệ thống, ảnh hưởng trực tiếp đến tận máy chủ trung tâm. Vì WSN được sử dụng cho nhiều ứng dụng đa dạng, trong đó có một số ứng dụng đặc biệt quan trọng, nên bảo mật là một khía cạnh cần được giải quyết thỏa đáng để ngăn chặn sự xâm nhập và duy trì tính toàn vẹn của dữ liệu.*)
 - **Programmability:** The programmability of WSNs is important as it ensures the robustness of these systems. WSNs deployed in one application area can be reused for other applications just as easily with a change in sensors and the backend programs associated with it. Programmability also helps in providing a means of adjusting the parameters of the system in the event of a scale-up or scale-down operation.
+(*Khả năng lập trình: Khả năng lập trình của WSN rất quan trọng vì nó đảm bảo tính linh hoạt và độ tin cậy của các hệ thống này. WSN được triển khai trong một lĩnh vực ứng dụng có thể được tái sử dụng cho các ứng dụng khác một cách dễ dàng chỉ bằng cách thay đổi cảm biến và các chương trình phần mềm liên quan ở phía backend. Khả năng lập trình cũng giúp cung cấp phương tiện để điều chỉnh các tham số của hệ thống khi mở rộng hoặc thu hẹp quy mô hoạt động.*)
 - **Affordability:** As WSNs generally require multiple units, typically in the range of tens or hundreds of WSN nodes, the cost of the nodes and its affordability is vastly responsible for the acceptability of the system. Except for some specialized domains such as the military and the industry, where the sensing requirements are quite high and that too in harsh and challenging conditions, the majority of WSN applications are regular. To some extent, the cost of WSN deployments in these regular domains decide the acceptability of a WSN-based solution for that domain.
+(*Giá cả phải chăng / Khả năng chi trả: Vì WSN thường yêu cầu nhiều đơn vị, điển hình từ vài chục đến hàng trăm nút WSN, nên chi phí của các nút và khả năng chi trả quyết định phần lớn đến mức độ được chấp nhận của hệ thống. Ngoại trừ một số lĩnh vực chuyên biệt như quân sự và công nghiệp, nơi các yêu cầu cảm biến rất cao và phải hoạt động trong điều kiện khắc nghiệt, phần lớn các ứng dụng WSN thuộc dạng thông thường. Ở một mức độ nhất định, chi phí triển khai WSN trong các lĩnh vực thông thường này sẽ quyết định việc giải pháp dựa trên WSN có được đón nhận hay không.*)
 - **Heterogeneity:** The WSNs must support a wide number and various types of sensors and solutions, thus enabling heterogeneity. In the absence of heterogeneity, the WSN will tend to become very application-specific, which in turn would require major customizations even in the event of minor changes to the network or architecture.
+(*Tính không đồng nhất / Đa dạng chủng loại: WSN phải hỗ trợ số lượng lớn và nhiều loại cảm biến cùng các giải pháp khác nhau, nhờ đó mang lại tính không đồng nhất. Nếu thiếu tính không đồng nhất, WSN sẽ có xu hướng trở nên quá chuyên biệt cho một ứng dụng cụ thể, điều này đòi hỏi phải tùy biến chỉnh sửa lớn ngay cả khi có những thay đổi nhỏ trong mạng hoặc kiến trúc.*)
 - **Mobility:** WSNs must support the notion of mobility of nodes such that the nodes may be easily relocatable or mobile. Mobility would ensure the rapid deployability of WSN-based solutions in all environments types.
+(*Tính di động: WSN phải hỗ trợ khái niệm về tính di động của các nút để các nút có thể dễ dàng di chuyển hoặc đổi vị trí. Tính di động sẽ đảm bảo khả năng triển khai nhanh chóng các giải pháp dựa trên WSN trong mọi loại môi trường.*)
 
 ---
 
@@ -772,20 +783,31 @@ WSNs must have the following distinguishing features:
 ### Lĩnh vực ứng dụng (Applications of WSN)
 
 - **Military Applications:** WSNs are used for the detection of enemy soldiers, vehicles, intrusion, weapon systems, and armaments.
+(*Ứng dụng quân sự: WSN được sử dụng để phát hiện binh lính đối phương, phương tiện, sự xâm nhập, các hệ thống vũ khí và khí tài.*)
 - **Health Applications:** WSNs in healthcare are being used to monitor patients in hospitals, ambulances, and homes. Nowadays, a new class of healthcare devices—wearable appliances—enable a user to have a miniature health sensor on them without additional discomfort.
+(*Ứng dụng y tế: WSN trong chăm sóc sức khỏe đang được sử dụng để theo dõi bệnh nhân trong bệnh viện, xe cứu thương và tại nhà. Ngày nay, một nhóm thiết bị y tế mới—các thiết bị đeo—cho phép người dùng mang theo cảm biến sức khỏe thu nhỏ trên người mà không cảm thấy khó chịu.*)
 - **Environmental Applications:** WSNs are used for environmental monitoring of pollution, tracking of wildlife, forests, and others.
+(*Ứng dụng môi trường: WSN được sử dụng để giám sát môi trường về ô nhiễm, theo dõi động vật hoang dã, rừng cây và các yếu tố khác.*)
 - **Home Applications:** WSNs in the home have given rise to home automation systems and smart home connectivity systems.
+(*Ứng dụng gia đình: WSN trong gia đình đã thúc đẩy sự ra đời của các hệ thống tự động hóa nhà ở và hệ thống kết nối nhà thông minh.*)
 - **Commercial Applications:** WSNs are used for tracking of vehicles, packages in transport, logistics, and others.
+(*Ứng dụng thương mại: WSN được sử dụng để theo dõi phương tiện, các kiện hàng trong quá trình vận chuyển, hậu cần (logistics) và các lĩnh vực khác.*)
 - **Industrial Monitoring:** WSNs in industries keep track of various industrial processes, monitor factory floors, ensure worker safety, and perform stock management.
+(*Giám sát công nghiệp: WSN trong các ngành công nghiệp theo dõi các quy trình công nghiệp khác nhau, giám sát sàn nhà máy, đảm bảo an toàn cho công nhân và thực hiện quản lý kho bãi.*)
 
 ### Các miền triển khai WSN (Domains of Implementation)
 
 WSNs can be organized broadly into the following domains of implementation:
+(*WSN có thể được phân loại khái quát thành các miền triển khai sau:*)
 
 - **Wireless Multimedia Sensor Networks (WMSN):** This class of WSNs boasts of the ability to retrieve videos, audios, images, or all three in addition to regular scalar sensor readings. The sensing range and coverage area of a camera-based WMSN are defined by the field of view (FOV) of the constituent cameras. Because of their superlative capabilities, WMSNs are popularly sought after in critical domains such as surveillance and road traffic monitoring. However, due to the use of multimedia sensors, the power and processing requirements of this class of WSNs are very high as compared to the other classes of WSNs. Additionally, WMSNs typically demand high network bandwidths for convenient operation.
+(*Mạng cảm biến đa phương tiện không dây (WMSN): Nhóm WSN này nổi bật với khả năng thu thập video, âm thanh, hình ảnh hoặc cả ba bên cạnh các giá trị đo cảm biến vô hướng thông thường. Phạm vi cảm nhận và vùng phủ sóng của WMSN dựa trên camera được xác định bởi trường nhìn (FOV) của các camera cấu thành. Do có khả năng vượt trội, WMSN rất được ưa chuộng trong các lĩnh vực quan trọng như giám sát an ninh và theo dõi giao thông đường bộ. Tuy nhiên, do sử dụng các cảm biến đa phương tiện, nhu cầu về năng lượng và xử lý của nhóm WSN này rất cao so với các nhóm WSN khác. Ngoài ra, WMSN thường đòi hỏi băng thông mạng cao để hoạt động thuận tiện.*)
 - **Underwater Sensor Networks (UWSN):** This class of WSN is designed specifically to work in underwater environments. Compared to terrestrial or aerial environments, wireless underwater communications are severely restricted in terms of data rate, range, and bandwidth due to the high underwater attenuation of electromagnetic signals. The reliable use of light-based underwater communication is also limited in terms of range and noise. The most accepted global means of underwater communication is by acoustic waves. However, the long propagation delays and uneven data rate makes it necessary to develop newer topologies and architectures, which can work under the conditions of severe limitations of the physical layer.
+(*Mạng cảm biến dưới nước (UWSN): Nhóm WSN này được thiết kế chuyên biệt để hoạt động trong môi trường dưới nước. So với môi trường trên cạn hoặc trên không, truyền thông không dây dưới nước bị hạn chế nghiêm ngặt về tốc độ dữ liệu, cự ly và băng thông do sự suy hao cao của tín hiệu điện từ dưới nước. Việc sử dụng đáng tin cậy truyền thông quang học dưới nước cũng bị giới hạn về cự ly và nhiễu. Phương tiện truyền thông dưới nước được chấp nhận rộng rãi nhất trên toàn cầu là sóng âm (acoustic waves). Tuy nhiên, độ trễ lan truyền lớn và tốc độ dữ liệu không đồng đều đòi hỏi phải phát triển các cấu trúc mạng (topologies) và kiến trúc mới hơn, có khả năng hoạt động trong điều kiện hạn chế nghiêm ngặt của tầng vật lý.*)
 - **Wireless Underground Sensor Networks (WUSN):** This class of WSNs is designed to be deployed entirely underground. The underground environment poses challenges of attenuation due to the rocks and minerals in the soil. Another significant problem associated with this class is the need for digging up of the nodes to replenish their energy sources. Typical usage scenarios of this class of WSNs are underground mines and monitoring of underground plumbing systems. WUSNs need denser deployment architectures owing to the limited range of wireless communication in underground environments.
+(*Mạng cảm biến ngầm không dây (WUSN): Nhóm WSN này được thiết kế để triển khai hoàn toàn dưới lòng đất. Môi trường ngầm đặt ra các thách thức về suy hao tín hiệu do đất đá và khoáng chất trong đất. Một vấn đề đáng kể khác liên quan đến nhóm này là nhu cầu phải đào các nút lên để nạp lại nguồn năng lượng. Các kịch bản sử dụng điển hình của nhóm WSN này là hầm mỏ ngầm và giám sát hệ thống đường ống dẫn nước dưới lòng đất. WUSN cần các kiến trúc triển khai dày đặc hơn do phạm vi truyền thông không dây bị giới hạn trong môi trường ngầm.*)
 - **Wireless Mobile Sensor Networks (MSN):** This class of WSNs is characterized by its mobility and low power requirements. The sensor nodes are mobile, which requires them to rapidly connect to networks, disconnect from them, and then again connect to new networks until the nodes are mobile. Typical examples of MSNs include smartphone networks, wearables, vehicular networks, and others.
+(*Mạng cảm biến di động không dây (MSN): Nhóm WSN này có đặc trưng là tính di động và yêu cầu tiêu thụ năng lượng thấp. Các nút cảm biến có tính di động, đòi hỏi chúng phải kết nối nhanh chóng vào mạng, ngắt kết nối và sau đó lại kết nối vào mạng mới khi các nút di chuyển. Các ví dụ điển hình của MSN bao gồm mạng điện thoại thông minh, thiết bị đeo, mạng phương tiện giao thông (vehicular networks) và các hệ thống khác.*)
 
 ---
 
@@ -795,14 +817,20 @@ WSNs can be organized broadly into the following domains of implementation:
 ### Phong trào mã nguồn mở (The Open Source Movement)
 
 Open source in the computer industry is the publishing of source code or hardware design, with associated licensing that permits the reuse, modification, improvement, and potential commercialization under favorable terms.
+(*Mã nguồn mở trong ngành công nghiệp máy tính là việc công bố mã nguồn hoặc thiết kế phần cứng, đi kèm với giấy phép liên quan cho phép tái sử dụng, sửa đổi, cải tiến và có tiềm năng thương mại hóa theo các điều khoản thuận lợi.*)
 
 Example of favorable distribution terms includes the following criteria:
+(*Ví dụ về các điều khoản phân phối thuận lợi bao gồm các tiêu chí sau:*)
 
 - **Free Distribution:** Any party may sell or give away the open-source component as part of a larger system without being obligated to pay a royalty or other fee for such sale.
+(*Phân phối miễn phí: Bất kỳ bên nào cũng có thể bán hoặc tặng thành phần mã nguồn mở như một phần của hệ thống lớn hơn mà không có nghĩa vụ phải trả tiền bản quyền hoặc phí khác cho việc bán đó.*)
 - **Source Code/Design:** The source code or design must be distributed and made publicly available.
+(*Mã nguồn/Thiết kế: Mã nguồn hoặc bản thiết kế phải được phân phối và cung cấp công khai.*)
 - **Derived Works:** Derivation and modification of the original open-source component are allowed under the original licensing terms.
+(*Tác phẩm phái sinh: Việc phát triển tác phẩm phái sinh và sửa đổi thành phần nguồn mở ban đầu được cho phép theo các điều khoản cấp phép gốc.*)
 
 > While any system can potentially be released under an open source license by its owner, successful open source projects have associated communities of interest that are integral to their success.
+> (*Mặc dù bất kỳ hệ thống nào cũng có khả năng được chủ sở hữu phát hành theo giấy phép mã nguồn mở, nhưng các dự án mã nguồn mở thành công đều gắn liền với các cộng đồng có cùng mối quan tâm—yếu tố không thể thiếu đối với sự thành công của chúng.*)
 
 ---
 
@@ -817,59 +845,85 @@ Example of favorable distribution terms includes the following criteria:
 ### GizmoSphere
 
 - **GizmoSphere** is an open source development platform for the embedded design community; the site includes code downloads and hardware schematics along with free user guides, specification sheets, and other documentation.
+(*GizmoSphere là một nền tảng phát triển mã nguồn mở dành cho cộng đồng thiết kế nhúng; trang web bao gồm việc tải xuống mã nguồn và sơ đồ phần cứng cùng với sách hướng dẫn sử dụng miễn phí, bảng thông số kỹ thuật và các tài liệu khác.*)
 
 ### Tinkerforge
 
 - **Tinkerforge** is a system of open source stackable microcontroller building blocks. It allows the control of motors and reading out sensors with the following programming languages: C, C++, C#, Object Pascal, Java, PHP, Python, and Ruby over a USB or Wi-Fi connection on Windows, Linux, and Mac OS X.
+(*Tinkerforge là một hệ thống các khối vi điều khiển mã nguồn mở có thể xếp chồng lên nhau dạng mô-đun. Nó cho phép điều khiển động cơ và đọc giá trị cảm biến bằng các ngôn ngữ lập trình sau: C, C++, C#, Object Pascal, Java, PHP, Python và Ruby qua kết nối USB hoặc Wi-Fi trên Windows, Linux và Mac OS X.*)
 - All of the hardware is licensed under **CERN OHL** (CERN Open Hardware License).
+(*Tất cả phần cứng đều được cấp phép theo CERN OHL (Giấy phép Phần cứng Mở CERN).* )
 
 ### BeagleBoard / BeagleBone
 
 - **BeagleBoard** offers credit-card sized computers that can run Android and Linux.
+(*BeagleBoard cung cấp các máy tính nhỏ gọn có kích thước bằng thẻ tín dụng có thể chạy hệ điều hành Android và Linux.*)
 - Because they have very low-power requirements, they are a good option for IoT devices.
+(*Vì chúng có yêu cầu tiêu thụ năng lượng rất thấp, chúng là một lựa chọn tốt cho các thiết bị IoT.*)
 - Both the hardware designs and the software they run are open source, and BeagleBoard hardware (often sold under the name **BeagleBone**) is available through a wide variety of distributors.
+(*Cả thiết kế phần cứng và phần mềm chúng chạy đều là mã nguồn mở, và phần cứng BeagleBoard (thường được bán dưới tên BeagleBone) có sẵn thông qua nhiều nhà phân phối khác nhau.*)
 
 ### Raspberry Pi
 
 - As of 2020, the **Raspberry Pi** is the most used edge device for building IoT solutions among the DIY and maker communities.
+(*Tính đến năm 2020, Raspberry Pi là thiết bị biên được sử dụng phổ biến nhất để xây dựng các giải pháp IoT trong cộng đồng DIY và các nhà sáng chế (maker).* )
 - The affordable price and accessibility made it extremely popular.
+(*Giá cả phải chăng và khả năng tiếp cận dễ dàng đã khiến nó trở nên cực kỳ phổ biến.*)
 - The computing and storage capabilities of the Raspberry Pi enables people to use it as an edge device within the IoT projects they are building *(ví dụ: Raspberry Pi B+, Raspberry Pi Zero...)*.
+(*Khả năng tính toán và lưu trữ của Raspberry Pi cho phép mọi người sử dụng nó như một thiết bị biên trong các dự án IoT mà họ đang xây dựng (ví dụ: Raspberry Pi B+, Raspberry Pi Zero...).*)
 
 ### Kiến trúc ngăn xếp IoT và thiết bị biên (The Internet of Things Stack & Edge Devices)
 
 - Based on Figure, we notice that the sensors and actuators are placed at the bottom of the stack, as they are the ones communicating directly with the environment.
+(*Dựa trên hình vẽ, chúng ta nhận thấy rằng các cảm biến và cơ cấu chấp hành được đặt ở dưới cùng của ngăn xếp, vì chúng là những thành phần giao tiếp trực tiếp với môi trường.*)
 - Up the stack, we place the local processing and storage devices, also called **edge devices**.
+(*Phía trên ngăn xếp, chúng ta đặt các thiết bị lưu trữ và xử lý cục bộ, còn được gọi là các **thiết bị biên (edge devices)**.*)
 - These are computers such as a Raspberry Pi, which are capable of exchanging information with the peripherals and have minimal computing capabilities so they can preprocess the data received from the sensors.
+(*Đây là các máy tính chẳng hạn như Raspberry Pi, có khả năng trao đổi thông tin với các thiết bị ngoại vi và có khả năng tính toán tối thiểu để chúng có thể tiền xử lý dữ liệu nhận được từ các cảm biến.*)
 
 ### NVIDIA Jetson Nano
 
 - The **Nvidia Jetson Nano** was announced as a development system in mid-March of 2019. This product is intended for Internet of Things (IoT) makers.
+(*Nvidia Jetson Nano được công bố như một hệ thống phát triển vào giữa tháng 3 năm 2019. Sản phẩm này hướng tới các nhà sáng chế Internet vạn vật (IoT).* )
 - The board consists of a CPU with 1.43 GHz and a GPU with 128 cores of the Maxwell generation *(phiên bản: NVIDIA Jetson Nano A02, B01)*.
+(*Bo mạch bao gồm CPU xung nhịp 1.43 GHz và GPU với 128 lõi thuộc thế hệ kiến trúc Maxwell (phiên bản: NVIDIA Jetson Nano A02, B01).* )
 
 ### ESP8266
 
 - **ESP8266** is a Wi-Fi SoC (system on a chip) produced by Espressif Systems. It is a highly integrated chip designed to provide full Internet connectivity in a small package *(ví dụ: ESP8266-01, ESP8266-03, Olimex ESP8266)*.
+(*ESP8266 là một SoC (hệ thống trên một vi mạch) Wi-Fi do Espressif Systems sản xuất. Đây là một con chip tích hợp cao được thiết kế để cung cấp khả năng kết nối Internet toàn diện trong một kích thước nhỏ gọn (ví dụ: ESP8266-01, ESP8266-03, Olimex ESP8266).* )
 - ESP8266 can be used as an external Wi-Fi module, using the standard AT Command set Firmware by connecting it to any microcontroller using the serial UART, or directly serve as a Wi-Fi-enabled microcontroller, by programming a new firmware using the provided SDK.
+(*ESP8266 có thể được sử dụng như một mô-đun Wi-Fi gắn ngoài sử dụng Firmware tập lệnh AT tiêu chuẩn bằng cách kết nối với bất kỳ vi điều khiển nào qua cổng nối tiếp UART, hoặc trực tiếp đóng vai trò như một vi điều khiển hỗ trợ Wi-Fi bằng cách nạp firmware mới sử dụng bộ SDK được cung cấp.*)
 
 ### ESP32
 
 - **ESP32** is a low-cost System on Chip (SoC) Microcontroller from Espressif Systems, the developers of the famous ESP8266 SoC *(ví dụ: ESP32 DevKit board)*.
+(*ESP32 là vi điều khiển Hệ thống trên vi mạch (SoC) chi phí thấp từ Espressif Systems, nhà phát triển dòng SoC ESP8266 nổi tiếng (ví dụ: board ESP32 DevKit).* )
 - It is a successor to ESP8266 SoC and comes in both single-core and dual-core variations of the Tensilica’s 32-bit Xtensa LX6 Microprocessor with integrated Wi-Fi and Bluetooth.
+(*Đây là sản phẩm kế thừa của SoC ESP8266 và có cả hai phiên bản đơn nhân và đa nhân của bộ vi xử lý 32-bit Tensilica Xtensa LX6 tích hợp sẵn Wi-Fi và Bluetooth.*)
 
 ### Nền tảng Zerynth & Thiết bị đeo (Wearables + IoT)
 
 - **The Zerynth IoT Platform:** A full set of hardware-software tools designed by IoT experts to enable an easy transition from the prototyping phase to mass production in a flexible, scalable, and efficient way.
+(*Nền tảng Zerynth IoT: Một bộ công cụ phần cứng - phần mềm hoàn chỉnh được thiết kế bởi các chuyên gia IoT nhằm cho phép chuyển đổi dễ dàng từ giai đoạn tạo mẫu thử nghiệm sang sản xuất hàng loạt một cách linh hoạt, có thể mở rộng và hiệu quả.*)
 - **Zerynth OS:** An operating system designed to simplify the development process. It features a Python/C Development environment and seamless integration with other hardware vendors.
+(*Hệ điều hành Zerynth: Một hệ điều hành được thiết kế để đơn giản hóa quá trình phát triển. Nó cung cấp môi trường phát triển Python/C và tích hợp liền mạch với các nhà cung cấp phần cứng khác.*)
 - **Zerynth Cloud:** Makes it possible to manage IoT devices, store data, visualize data, and gain insights from a single interface.
+(*Zerynth Cloud: Giúp quản lý các thiết bị IoT, lưu trữ dữ liệu, trực quan hóa dữ liệu và thu nhận thông tin chi tiết chuyên sâu từ một giao diện duy nhất.*)
 - **Dự án thực tế - Smartwatch hỗ trợ bệnh nhân Alzheimer:**
   - Alzheimer's is an extremely destructive disease that destroys the very essence of oneself by degrading memory and thinking abilities. Because 1 in 9 people aged 65 and above suffer from it, Abdullah Sadiq decided to build an assistive smartwatch that displays basic reminders, shows the time, monitors the wearer's location, and can even alert caretakers in the event of an emergency.
+  (*Bệnh Alzheimer là một căn bệnh tàn phá cực kỳ nghiêm trọng làm suy giảm bản chất con người do làm suy giảm trí nhớ và khả năng tư duy. Do cứ 9 người từ 65 tuổi trở lên thì có 1 người mắc bệnh, Abdullah Sadiq đã quyết định chế tạo một chiếc smartwatch hỗ trợ hiển thị các lời nhắc cơ bản, xem giờ, theo dõi vị trí người đeo và thậm chí có thể cảnh báo người chăm sóc trong trường hợp khẩn cấp.*)
   - It works by using an Infineon Sensor Hub in conjunction with an Arduino MKR1000 board to read sensor information and send it to either a smartphone or to an IoT platform.
+  (*Nó hoạt động bằng cách sử dụng bộ tập trung cảm biến Infineon Sensor Hub kết hợp với bo mạch Arduino MKR1000 để đọc thông tin cảm biến và gửi đến điện thoại thông minh hoặc nền tảng IoT.*)
 
 ### Thiết bị thực tế ảo mã nguồn mở (Open Source VR Headset)
 
 - Probably the most advanced project in this list, the **Relativity device** is an open source VR headset that supports SteamVR and even body-tracking through the use of a neural network that estimates 3D positions.
+(*Có lẽ là dự án tiên tiến nhất trong danh sách này, thiết bị Relativity là một kính thực tế ảo (VR) mã nguồn mở hỗ trợ SteamVR và thậm chí hỗ trợ theo dõi chuyển động cơ thể thông qua việc sử dụng mạng nơ-ron để ước tính vị trí không gian 3D.*)
 - The headset was made possible thanks to its dual 2K displays that can output images at 120 fps.
+(*Kính đeo này khả thi nhờ màn hình 2K kép có thể xuất hình ảnh ở tốc độ 120 khung hình/giây.*)
 - All of the computational horsepower comes from an Microchip SAM3X8E Cortex-M3 processor mounted to a custom PCB along with an MPU-6050 IMU for motion tracking.
+(*Toàn bộ sức mạnh tính toán đến từ bộ xử lý Microchip SAM3X8E Cortex-M3 được gắn trên một bo mạch PCB tùy chỉnh cùng với cảm biến quán tính IMU MPU-6050 để theo dõi chuyển động.*)
 
 ---
 
@@ -924,69 +978,100 @@ Example of favorable distribution terms includes the following criteria:
 ## 4.6. Ngôn ngữ lập trình Arduino (Arduino Programming Language)
 
 > *Chương 6: Arduino Programming Language – A Tour of Open-Source Activities in IoT*
+> (*Chương 6: Ngôn ngữ lập trình Arduino – Khám phá các hoạt động mã nguồn mở trong IoT*)
 
 ### Điện toán vật lý (What is Physical Computing?)
 
 - Physical Computing uses electronics to prototype new materials for designers and artists.
+(*Điện toán vật lý (Physical Computing) sử dụng các linh kiện điện tử để tạo mẫu các chất liệu mới dành cho các nhà thiết kế và nghệ sĩ.*)
 - It involves the design of interactive objects that can communicate with humans using sensors and actuators controlled by a behaviour implemented as software running inside a microcontroller (a small computer on a single chip).
+(*Nó liên quan đến việc thiết kế các đối tượng tương tác có thể giao tiếp với con người bằng các cảm biến và cơ cấu chấp hành được điều khiển bởi hành vi triển khai dưới dạng phần mềm chạy bên trong vi điều khiển (một máy tính nhỏ tích hợp trên một vi mạch đơn).* )
 - In the past, using electronics meant having to deal with engineers all the time, and building circuits one small component at the time; these issues kept creative people from playing around with the medium directly. Most of the tools were meant for engineers and required extensive knowledge. In recent years, microcontrollers have become cheaper and easier to use, allowing the creation of better tools.
+(*Trong quá khứ, việc sử dụng đồ điện tử đồng nghĩa với việc lúc nào cũng phải làm việc với các kỹ sư và xây dựng mạch điện với từng linh kiện nhỏ một; những rào cản này đã ngăn những người sáng tạo tiếp cận trực tiếp với phương tiện này. Hầu hết các công cụ đều dành cho kỹ sư và đòi hỏi kiến thức chuyên sâu. Trong những năm gần đây, vi điều khiển đã trở nên rẻ hơn và dễ sử dụng hơn, cho phép tạo ra các công cụ tốt hơn.*)
 - The progress that we have made with Arduino is to bring these tools one step closer to the novice, allowing people to start building stuff after only two or three days of a workshop.
+(*Tiến bộ mà chúng tôi đạt được với Arduino là mang các công cụ này đến gần hơn một bước với người mới bắt đầu, cho phép mọi người bắt đầu chế tạo các sản phẩm chỉ sau hai hoặc ba ngày tham gia buổi thảo luận thực hành (workshop).* )
 - With Arduino, a designer or artist can get to know the basics of electronics and sensors very quickly and can start building prototypes with very little investment.
+(*Với Arduino, một nhà thiết kế hoặc nghệ sĩ có thể nhanh chóng nắm bắt các kiến thức cơ bản về điện tử và cảm biến, đồng thời có thể bắt đầu xây dựng các nguyên mẫu thử nghiệm với chi phí đầu tư rất ít.*)
 
 ### Triết lý Arduino (The Arduino Way)
 
 - The Arduino philosophy is based on making designs rather than talking about them. It is a constant search for faster and more powerful ways to build better prototypes. We have explored many prototyping techniques and developed ways of thinking with our hands.
+(*Triết lý của Arduino dựa trên việc tạo ra các thiết kế thay vì chỉ nói về chúng. Đó là một cuộc tìm kiếm liên tục các phương pháp nhanh hơn và mạnh mẽ hơn để xây dựng các nguyên mẫu tốt hơn. Chúng tôi đã khám phá nhiều kỹ thuật tạo mẫu và phát triển các cách tư duy bằng chính đôi tay của mình.*)
 - Classic engineering relies on a strict process for getting from A to B; the Arduino Way delights in the possibility of getting lost on the way and finding C instead.
+(*Kỹ thuật truyền thống dựa trên một quy trình nghiêm ngặt để đi từ A đến B; trong khi Triết lý Arduino tìm thấy sự thú vị ở khả năng có thể đi lạc trên đường đi và thay vào đó lại tìm ra điểm C.*)
 - This is the tinkering process that we are so fond of—playing with the medium in an open-ended way and finding the unexpected. In this search for ways to build better prototypes, we also selected a number of software packages that enable the process of constant manipulation of the software and hardware medium.
+(*Đây chính là quá trình mày mò, thử nghiệm mà chúng tôi rất yêu thích—khám phá môi trường theo hướng mở và tìm thấy những điều bất ngờ ngoài mong đợi. Trong quá trình tìm kiếm các phương thức xây dựng nguyên mẫu tốt hơn, chúng tôi cũng lựa chọn một số gói phần mềm cho phép liên tục tương tác và điều khiển giữa môi trường phần mềm và phần cứng.*)
 
 ### Kỹ thuật tạo mẫu nhanh (Prototyping)
 
 - Prototyping is at the heart of the Arduino Way: we make things and build objects that interact with other objects, people, and networks. We strive to find a simpler and faster way to prototype in the cheapest possible way.
+(*Tạo mẫu nhanh là trọng tâm của Triết lý Arduino: chúng tôi chế tạo các đồ vật và xây dựng các đối tượng có thể tương tác với các đối tượng khác, con người và mạng lưới. Chúng tôi nỗ lực tìm kiếm một phương pháp đơn giản hơn và nhanh hơn để tạo mẫu với chi phí tiết kiệm nhất có thể.*)
 - A lot of beginners approaching electronics for the first time think that they have to learn how to build everything from scratch. This is a waste of energy: what you want is to be able to confirm that something's working very quickly so that you can motivate yourself to take the next step or maybe even motivate somebody else to give you a lot of cash to do it.
+(*Nhiều người mới bắt đầu tiếp cận lĩnh vực điện tử lần đầu thường nghĩ rằng họ phải học cách xây dựng mọi thứ từ con số không. Điều này rất lãng phí năng lượng: điều bạn mong muốn là có thể xác nhận một thứ gì đó đang hoạt động thật nhanh chóng để có động lực bước tiếp hoặc thậm chí thuyết phục người khác đầu tư nhiều tiền cho dự án của bạn.*)
 - This is why we developed **"opportunistic prototyping"**: why spend time and energy building from scratch, a process that requires time and in-depth technical knowledge, when we can take ready-made devices and hack them in order to exploit the hard work done by large companies and good engineers?
+(*Đó là lý do tại sao chúng tôi phát triển phương pháp **"tạo mẫu cơ hội" (opportunistic prototyping)**: tại sao phải tốn thời gian và công sức xây dựng từ đầu—một quá trình đòi hỏi thời gian và kiến thức kỹ thuật chuyên sâu—trong khi chúng ta có thể tận dụng các thiết bị làm sẵn và cải biến (hack) chúng để khai thác thành quả công sức của các công ty lớn và những kỹ sư giỏi?*)
 
 ### Nền tảng Arduino (The Arduino Platform)
 
 Arduino is composed of two major parts: the **Arduino board**, which is the piece of hardware you work on when you build your objects; and the **Arduino IDE**, the piece of software you run on your computer.
+(*Arduino bao gồm hai phần chính: **board Arduino**, là phần cứng bạn làm việc trực tiếp khi xây dựng các đối tượng; và **Arduino IDE**, là phần mềm bạn chạy trên máy tính của mình.*)
 
 Cấu hình các chân I/O tiêu chuẩn (ví dụ trên Arduino Uno, Duemilanove):
 
 - **14 Digital IO pins (pins 0–13):** These can be inputs or outputs, which is specified by the sketch you create in the IDE.
+(*14 chân I/O số (chân 0–13): Các chân này có thể là ngõ vào (input) hoặc ngõ ra (output), được chỉ định bởi bản phác thảo (sketch) bạn tạo trong IDE.*)
 - **6 Analogue In pins (pins 0–5):** These dedicated analogue input pins take analogue values (i.e., voltage readings from a sensor) and convert them into a number between 0 and 1023.
+(*6 chân ngõ vào Analog (chân 0–5): Các chân ngõ vào analog chuyên dụng này nhận các giá trị analog (tức là số đọc điện áp từ cảm biến) và chuyển đổi chúng thành một số trong khoảng từ 0 đến 1023.*)
 - **6 Analogue Out pins (pins 3, 5, 6, 9, 10, and 11):** These are actually six of the digital pins that can be reprogrammed for analogue output using the sketch you create in the IDE.
+(*6 chân ngõ ra Analog (chân 3, 5, 6, 9, 10 và 11): Đây thực chất là 6 trong số các chân digital có thể được tái lập trình cho ngõ ra analog (PWM) thông qua bản phác thảo sketch bạn tạo trong IDE.*)
 
 ### Phần mềm Arduino (The Software - IDE)
 
 The IDE (Integrated Development Environment) is a special program running on your computer that allows you to write sketches for the Arduino board in a simple language modeled after the [Processing](https://www.processing.org) language.
+(*IDE (Môi trường phát triển tích hợp) là một chương trình đặc biệt chạy trên máy tính, cho phép bạn viết các bản phác thảo (sketch) cho board Arduino bằng một ngôn ngữ đơn giản được xây dựng dựa trên ngôn ngữ [Processing](https://www.processing.org).* )
 
 **The programming cycle on Arduino is basically as follows:**
+(*Quy trình chu trình lập trình trên Arduino về cơ bản như sau:*)
 
 1. Plug your board into a USB port on your computer.
+(*Cắm board của bạn vào cổng USB trên máy tính.*)
 2. Write a sketch that will bring the board to life.
+(*Viết một đoạn chương trình (sketch) để làm cho board hoạt động.*)
 3. Upload this sketch to the board through the USB connection and wait a couple of seconds for the board to restart.
+(*Nạp (upload) chương trình sketch này lên board qua kết nối USB và đợi vài giây để board khởi động lại.*)
 4. The board executes the sketch that you wrote.
+(*Board thực thi chương trình sketch mà bạn đã viết.*)
 
 #### Cài đặt Arduino trên máy tính (Installing Arduino on Your Computer)
 
 - To program the Arduino board, you must first download the development environment (the IDE) from here: [www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software). Choose the right version for your operating system.
+(*Để lập trình board Arduino, trước tiên bạn phải tải xuống môi trường phát triển (IDE) từ địa chỉ: [www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software). Chọn phiên bản phù hợp với hệ điều hành của bạn.*)
 
 ### Cấu trúc thiết bị tương tác (Anatomy of an Interactive Device)
 
 - All of the objects we will build using Arduino follow a very simple pattern that we call the **“Interactive Device”**. The Interactive Device is an electronic circuit that is able to sense the environment using sensors (electronic components that convert real-world measurements into electrical signals).
+(*Tất cả các đối tượng mà chúng ta xây dựng bằng Arduino đều tuân theo một mô hình rất đơn giản mà chúng tôi gọi là **“Thiết bị tương tác” (Interactive Device)**. Thiết bị tương tác là một mạch điện tử có khả năng cảm nhận môi trường xung quanh bằng các cảm biến (các linh kiện điện tử chuyển đổi các đại lượng đo lường trong thế giới thực thành tín hiệu điện).* )
 - The device processes the information it gets from the sensors with behaviour that’s implemented as software. The device will then be able to interact with the world using actuators, electronic components that can convert an electric signal into a physical action.
+(*Thiết bị xử lý thông tin nhận được từ các cảm biến bằng hành vi được hiện thực hóa dưới dạng phần mềm. Sau đó, thiết bị sẽ có thể tương tác với thế giới xung quanh bằng các cơ cấu chấp hành (actuators), các linh kiện điện tử có thể chuyển đổi tín hiệu điện thành một hành động vật lý.*)
 
 ### Cảm biến và Cơ cấu chấp hành (Sensors and Actuators)
 
 - Sensors and actuators are electronic components that allow a piece of electronics to interact with the world.
+(*Cảm biến và cơ cấu chấp hành là các linh kiện điện tử cho phép một thiết bị điện tử tương tác với thế giới bên ngoài.*)
 - As the microcontroller is a very simple computer, it can process only electric signals (a bit like the electric pulses that are sent between neurons in our brains). For it to sense light, temperature, or other physical quantities, it needs something that can convert them into electricity.
+(*Vì vi điều khiển là một máy tính rất đơn giản, nó chỉ có thể xử lý các tín hiệu điện (tương tự như các xung điện được truyền giữa các tế bào thần kinh trong não chúng ta). Để nó có thể cảm nhận ánh sáng, nhiệt độ hoặc các đại lượng vật lý khác, nó cần một linh kiện có thể chuyển đổi chúng thành điện năng.*)
 - In our body, for example, the eye converts light into signals that get sent to the brain using nerves. In electronics, we can use a simple device called a **light-dependent resistor (an LDR or photoresistor)** that can measure the amount of light that hits it and report it as a signal that can be understood by the microcontroller.
+(*Trong cơ thể chúng ta, ví dụ, mắt chuyển đổi ánh sáng thành các tín hiệu được truyền đến não thông qua dây thần kinh. Trong điện tử, chúng ta có thể sử dụng một linh kiện đơn giản gọi là **quang điện trở (LDR hoặc photoresistor)** có khả năng đo lượng ánh sáng chiếu vào nó và báo cáo dưới dạng một tín hiệu mà vi điều khiển có thể hiểu được.*)
 
 ### Cấu trúc một bản phác thảo (Structure of an Arduino Sketch)
 
 An Arduino sketch runs in two parts:
+(*Một bản phác thảo chương trình Arduino (sketch) hoạt động theo hai phần:*)
 
 - `void setup()`: This is where you place the initialisation code—the instructions that set up the board before the main loop of the sketch starts.
+(*`void setup()`: Đây là nơi bạn đặt mã khởi tạo—các chỉ lệnh thiết lập cấu hình board trước khi vòng lặp chính của sketch bắt đầu.*)
 - `void loop()`: This contains the main code of your sketch. It contains a set of instructions that get repeated over and over until the board is switched off.
+(*`void loop()`: Phần này chứa mã chính của sketch. Nó bao gồm một tập hợp các chỉ lệnh được lặp đi lặp lại liên tục cho đến khi tắt nguồn board mạch.*)
 
 ```cpp
 void setup() {
@@ -1001,10 +1086,13 @@ void loop() {
 ### Các ký hiệu đặc biệt (Special Symbols)
 
 Arduino includes a number of symbols to delineate lines of code, comments, and blocks of code.
+(*Arduino bao gồm một số ký hiệu để phân định các dòng mã lệnh, chú thích và các khối mã.*)
 
 - **`;` (semicolon):** Every instruction (line of code) is terminated by a semicolon. This syntax lets you format the code freely. You could even put two instructions on the same line, as long as you separate them with a semicolon. (However, this would make the code harder to read.)
+(*`;` (dấu chấm phẩy): Mỗi chỉ lệnh (dòng mã) đều được kết thúc bằng một dấu chấm phẩy. Cú pháp này cho phép bạn định dạng code một cách tự do. Bạn thậm chí có thể đặt hai lệnh trên cùng một dòng, miễn là phân tách chúng bằng dấu chấm phẩy. (Tuy nhiên, điều này sẽ khiến mã khó đọc hơn).*)
 
 *Example:*
+(*Ví dụ:*)
 
 ```cpp
 delay(100);

@@ -1,0 +1,46 @@
+CC2420 Radio Stack
+
+CC2420 sofiware stack chứa ựìiều lớp (layer) khác nhau
+nằm giữa ứng dụng và phần cứng. Tầng cao nhất của radio stack
+điều chỉnh dữ liệu và header trong mỗi packet, trong khi tằng
+thấp nhất xác định các hành vi gửi và nhận.
+
+Kiến trúc Layer
+
+Trong CC2420 Radio stack mỗi layer là một thành phần
+phân biệt, nó có thể cung cấp và sử dụng 3 bộ interface sau:
+Send, Receive và SplitControl. Nếu một layer cung cấp một
+trong các interface đó thì nó cũng có thể sử dụng từ các layer
+bên dưới nó trong stack. Ví dụ như:
+
+provides interface Send;
+
+uses interface Send as SubSend;
+
+provides interface Receive;
+
+uses interface Receive as SubReceive;
+
+provides interface SplitControl;
+
+uses interface SplitControl as subControl;
+
+.Mô tả Layer
+
+Các Layer trong hệ thống CC2420 radio stack được xếp từ
+trên xuông như hình sau:
+
+htipte Acoono (OSMA)
+
+m 1ReeeiveP 1Ị TranenPI, 4nnnnnnnnen ree nnnn4 4hnn n Ê
+
+SPI bus, GPIO, Interrupts. Tumer Capture
+
+Hình 4.10. Kiến trúc lớp trong CC2420 Radio Sfack
+
+° Ac`tiveịl4e.vsageP: đây là úìng cao nhất, chịu mâcỊ1 nhiệm
+điện đây đủ thông tin và packet header và cung câp thông
+tin về gói tin tới lớp ứng dụng.
+
+82
+

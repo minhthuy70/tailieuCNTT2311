@@ -1,0 +1,26 @@
+bóng đèn, quạt, rèm cửa,... thông qua một chiếc điện thoại
+thông minh. Hình 2.3 là ví dụ về giao diện điều khiển các thiết bị
+trong nhà thông minh, bao gồm các hệ thống điều khiển cửa ra
+vào và hệ thống chiếu sáng trong mỗi phòng. Ngoài ra, các ứng
+dụng smart home hay smart building còn tập trung vào việc điều
+khiển hệ fflống sưởi, hệ thống lọc. gió. Ứng dụng tự điều chỉnh
+nhiệt độ của điều hòa nhiệt độ theo tình trạng sức khỏe của gia
+chủ, môi trường bên trong nhà, môi trường bên ngoài có thể
+được xem là ứng dụng tiềm năng của các giải pháp smart home
+trong tương lai.
+
+.Hình 2.3. Ví dụ về Giao diện của Hệ thông điều khiển
+#rong Nhà thông minh
+
+- Quản lý các thiết bị nhà bếp: tủ lạnh, máy pha cà phê, máy
+rửa chén,... đang được cải tiền để trở nên thông mình hơn trong
+môi trường gia đình. Một chiếc tủ lạnh thông minh khi nó có thể
+biết được số lượng trứng còn trong tủ là bao nhiêu, và theo nhu
+cầu của gia chủ thì lượng trứng my có thể hết trong bao lâu nữa
+đềể đưa ra cảnh báo cho ga chủ về việc mua thêm trứng. Chiếc
+máy pÌ`l8. cà phê có thể biết được tình trạng sức khỏe và khẩu vị
+của mỗi thành viên trong gia đình để xác định loại cà phê, lượng
+cà phê và thơ1 điểm sử dụng cà phcẹ của họ để có thể tự pha sẵn
+mà không cần sự can thiệp của mỗi thành viên trong gia đình.
+
+15

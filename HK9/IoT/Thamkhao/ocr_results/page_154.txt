@@ -1,0 +1,48 @@
+©bjzet property assertions
+me.isMemberOf E1
+xe.isManagedBy E1.1.1
+
+Data property assertions
+mahasUsedEnergy_Percent 25
+mœhasUsedMemory_KB 4
+mmhasThreshold_Level "High”^^xsd:string
+mœhasRemainingMemory_KB 6
+mhasRemainingEnergy_mA 150
+gưœahasUsedEnergy.mA 50
+mœmhasTotalMemory_KB 10
+mehasRemainingEnergy_Percent 75
+ma=hasUsedMemory_ Percent 40
+mmhasRemainingMemory_Percent 60
+mmhasTotalEnergy_mA 200
+
+Negative obieet property aszeHiens
+
+Hegatiee data pioperty assertions ˆ
+
+Hình 6.3. Thông tỉn liên quan dến IoT Node được xây dựng từ Onfology
+Bảng sau so sánh các mô hình ngữ cảnh đã trình bày trên đây:
+
+Bảng 6.4. Šo sánh các hướng tiệp cận trong mô hình hóa ngữ cảnh
+
+Mônhình Ưu điểm Nhược điểm Khả năng áp dụng
+Khóa-Giá s Đơn giản s Thiếtkếriêng s Có thể dụng để cho
+trị s Linh hoạt cho từng ứng các mô hình dữ liệu
+
+—_n dụng giới hạn như sở
+° Dê quản lý s Không thể thích người dùng và
+mở rộng cầu hình ứng dụng.
+s Không có cấu ử1c ửna.nh Eyhan ˆ
+trúc hay lược thông tin động Ềip
+đồ và không liên kệt
+— với nhau. Dữ liệu
+s Khóthuthập  truyền đi hạn chế và
+thông tin
+
+s Không thể
+hiện được các
+quan hệ
+
+134
+
+mô hình ít phức tạp.
+

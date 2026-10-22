@@ -1,0 +1,30 @@
+Một dòng ESP module mới là ESP32, nâng cấp khả năng
+Wl-Fl hỗ trợ HT40 speed (150Mb/s), Bluetooth năng lượng
+thấp, dual-core processor 2x Tensilica L108 xung clock
+160MHz và ADC, digital-to-analog converters (DAC), ID2C,
+UART, SPI...
+
+4.1.4. Thiết bị máy tính nhúng Raspberry Pi
+
+Raspberry Pi 2 là một máy tính đơn với một quad-core
+ARM7 fflOMHz 1 Videocore IV 250MHZz, 1 GB RAM, 40
+GPIO pin, 4 cổng USB 2.0, một cổng Ethernet, 1 cống HDMIT,
+và một khe micro-SD. Hình minh họa như sau:
+
+Hình 4.5. Thiết bị Raspberry PI 2
+
+- Hiện nay, trên thị trường đã có Raspberry Pi 3 nhanh hơn,
+và tích hợp thêm tính năng WiFi 802.11n, Bluetooth 4.1
+
+Raspberry Pi 3 Model B+ là sản phẩm mới nhất trong gia
+đình Raspberry Pi, nổi bật với chip 4 nhân 64-bit có tốc độ
+1.4GHz Phiên bản này hỗ trợ Wifñi Dual-band 2.4GHz và 5GHz,
+Bluetooth 4.2/Bluetooth Low Energy, cồng Ethernet tốc độ cao
+GOOMbpS) và Power over Ethernet (PoE) thông qua PoE HAT.
+Chỉ tiết thông số kỹ thuật như sau:
+
+s V¡ xử l Broadcom BCM2837B0, quad-core A53
+(ARMV8) 64-bit SoC @1.4GHz
+
+s A4M: 15BLPDDR2 SDRAM
+68

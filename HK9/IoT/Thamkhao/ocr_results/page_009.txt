@@ -1,0 +1,39 @@
+4.2. Các nền tăng phẩm mềm dhùng tromg JØÏ...........„eeneesesssss 71
+42.1. Những đặc trưng và phân loại hệ điều hành đùng
+
+cho thiết bị loT..........................GGGGHnnnnnnnnnnn n n 71
+42.2. Hệ điều hành TinyOS....................GGG(G GG 73
+
+4.2.2.1. Cấu trúc một ứng dụng trên TinyOS..........
+4.2.2.2. Các thành phần, dịch vụ cơ bản của TinyOS
+4.2.3. Hệ điều hành Contiki
+4.2.3.1. Cấu trúc một ứng dụng trên Contiki....
+4.2.3.2. Các thành phần, dịch vụ cơ bản trên hệ điều
+hành Contiki...................................................n”.
+4.2.4. Hệ điều hành Raspbian OS
+
+4.2.5. Tổng hợp một số nền tảng phần mềm JoT
+l e m
+
+BÀI TẬP CHƯƠNG 4
+CHƯƠNG 5. ĐIỆN TOÁN ĐÁM MÂẦY, ĐIỆN TOÁN
+
+5.1. Kiền trúc tông quan hệ thống 1oT tích hợp điện toán
+đám mậây và điện toán cận biên...................................... 97
+
+97
+
+5.1.1. Kiến trúc tông quan
+
+5.1.2. Các yêu cầu và đặc trưng cơ bản của các hệ
+thống tính toán cho JoT........................................... 99
+
+5.2. Nền tổng điện toán đám mây và ứng dụng trong IoT'.... 100
+
+52.7. Đặc trưng cơ bản của điện toán đám mậy............. 101
+5.2.2.. Lợi ích của điện toán đám mây............................. 102
+%2.3. Mô hình laa&....................................................... 104
+52.4.. Mô hình PaaS...................................................GG 106
+52.5. Mô hình Saa&.........................................Gnesnsenv. . 107
+
+5.2.6. Ếfng dụng công nghệ điện toán đám mây trong

@@ -1,0 +1,40 @@
+trong chiến lược Thành phố thông minh của Amsterdam. Trong
+
+chiến lược này, người dân và các doanh nghiệp được tham gia
+vào quá trình nghiên cứu và phát triển các giải pháp. Đây được
+xem là hướng tiếp cận từ dưới lên trong ba hướng ũếp cận được
+trình bày bên trên. Sau đây là một số cơ sở hạ tầng và đdự án
+công nghệ được triển khai ở Amsterdam:
+
+- Cơ sở hạ tằng và công nghệ: Amsterdam đã đầu tư hạ tằng
+cơ bản để hỗ trợ các dự án Thành phố thông minh từ rất sớm,
+các hạ tằng hiện có như hạ tằng Internet, Phòng thí nghiệm IoT
+thực tế trao đổi thông tin, đèn chiếu sáng thông minh.
+Amsterdam là điểm trao đổi Internet lớn thứ hai trên thế giới, 11
+trong số 15 tuyến cáp dữ liệu đi xuyen Đại ủ1y Dương được kết
+nối với Amsterdam. Thành phố cũng đã đầu tư phòng thí
+nghiệm rộng 3.700mw nhằm giúp các công ty khởi nghiệp thử
+nghiệm các giải pháp IoT trong môi trường thực tế. Trong phòng
+thí nghiệm này, các đèn tín hiệu hỗ trợ IoT được triển khai.
+Chúng được kết nối thông qua LoRaWan để truyền dữ liệu tốc
+độ thap và khoảng cách xa fflang km). Ngươl dùng có thể truy
+cập dữ liệu từ các đèn tín hiệu để phát triển các ứng dụng Thành
+pho thông minh. Các địch vụ trao đổi thông tin giữa cảnh sát,
+cứu hỏi và xe cứu thương cũng được xây dựng. Hệ thống này sử
+dụng hệ thống cảnh báo được mã hóa theo màu để các đơn vị
+ứng cứu trong các trường hợp khẩn cấp cũng như hướng dẫn vận
+hành theo thời gian thực cho nhân viên cứu hộ. Cảng
+Amsterdam được trang bị hệ thống đèn LED mờ có thể chiếu
+sáng đường đi xe đạp sử dụng năng lượng mặt trời và năng
+lượng gió. Người đi xe đạp có thể sử dụng ứng dụng để tặng độ
+sáng và tự động mờ dần khi họ đi qua.
+
+- Năng lượng thông minh. Amsterdam đang tăng cường sử
+dụng các nguồn năng lượng bền vững. Thành phố đang cung cấp
+các loại năng lượng bền vững và chúng được quản lý tập trung,
+đồng thời cho phép người dân sản xuất và trao đổi năng lượng.
+Một số dự án năng lượng như: GridFriends - một mạng lưới
+thông mình được sử dụng để chia sẻ năng hxơng, giúp lưu trữ và
+phân phối năng lượng từ các nguồn theo nhu cầu; Zonstation 1:
+
+25

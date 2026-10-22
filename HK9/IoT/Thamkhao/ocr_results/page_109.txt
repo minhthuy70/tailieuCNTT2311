@@ -1,0 +1,36 @@
+3D Application 2D Application
+
+[ OpenMAX ì OpenG! ES l OpenvG
+
+ạ;odla Application
+
+ARM
+
+1 iKernel Driver (VCHIG)}
+
+:
+
+Videocore IV GPU
+
+Hình 4.12. Kiến trúc hệ điều hành Raspbian OS
+
+Kiến trúc và mô hình nhân Raspbian OS dựa theo kiến trúc
+monolithic. Raspbian hỗ trợ nhiều ngôn ngữ lập trình khác nhau
+như Python, C, C++, Java, Scratch và Ruby cũng như các ngôn
+ngữ khác như HTML5, Javascripts, JQuery. fflìspblan sử dụng
+định thời theo cơ chế real-time preemptive. Về phương diện gao
+tiếp mạng và giao thức mạng, Raspbian hỗ trợ khả mng kết nối
+đa dạng thông qua SPI, UART, 12C, và USB, giao tiếp mạng
+thông qua bộ giao thức TCP/IP, Bluetooth cũng như hỗ trợ các
+thư viện mở để sử dung các giao thức mạng không dây khác như
+LTE. Raspbian có thể được mô ph<›ng khi sử dụng công cụ mô
+phỏng QEMU ARM để mô phỏng kiến trúc ARM trên thiết bị
+&1spbeny Pi. Về phương diện bảo mật, Raspbian OS hỗ trợ
+nhiều công cụ mã hóa, &ưng thực, phan quyền phù hợp cho các
+ứng dụng IoT. Cộng đồng mã nguồn mở hỗ trợ phát triển các
+công cụ mã hóa mạnh mẽ trên Raspbian như AES 128, AES
+256, DES, Blowfish. Về phương diện tiêu thụ mmg lượng, một
+đặt điểm tuyệt vời của các máy tính sử dụng kiến trúc ARM là
+tiêu thụ năng lượng map, mỗi thiết bị Raspberry Pi chạy hệ điều
+
+89

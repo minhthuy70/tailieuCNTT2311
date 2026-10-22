@@ -1,0 +1,26 @@
+Kiến trúc dựa theo làn Sóng (Sweep)
+
+Hình 3.10. Kiến trúc dựa theo làn sóng [2]
+
+Đây là kiến trúc thu thập dữ liệu dựa trên l ý tưởng hoạt động
+của làn sóng mà ở đó dữ liệu đi ngang qua mỗi thiết bị đúng một
+lần và thực hiện các hành động theo ý muôn [2]. Kiến trúc mạng
+sweep được hiện thực bởi một nhóm nhỏ các nốt hoạt động, các
+nốt này di ủuyen qua mạng bằng cách hành một thông điệp lời
+mời tới các. nốt mới để tham gia vào nhóm và loại bỏ các nốt đã
+thực hiện rồi nhưng không đóng vai trò quan trọng gì khác. Đặc
+trưng quan trọng của kiến trúc này là tính chất bền vững bởi mặc
+dù một kiến trúc cây được sử dụng cho một phần tác vụ tổng
+hợp dữ liệu trong một nhóm hoạt động thì những cậy này là cục
+bộ và được dùng hầu hết ngay khi chúng được xây dựng. Đ1Ic›'ng
+tong hợp dữ liệu được phân chia trên đường quét và không cần
+thiết phải có một cấu trúc cây có định cho việc tính toán. Vì vậy,
+cách nep cận này có tính vững vàng ngay cả với các liên kết có
+sự biến động và nhiều not bị hỏng. 0 mô tả kiến trúc mạng theo
+làn sóng, trong đó, các nốt trong vùng màu đỏ đang hoạt động,
+
+các nốt trong vùng màu xanh đã hoạt động và các nốt màu trang
+chưa tham gia vào mạng.
+
+38
+

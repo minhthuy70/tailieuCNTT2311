@@ -1,0 +1,41 @@
+Điều đầu tiên là dựa vào một kỹ thuật không dây rất tin cậy,
+khoảng cách thấp và dùng sự đặc tả IEEE 802.15.4. Đặc tả này
+là một kỹ thuật radio mạnh, rất hiện đại được xây dựng trên 40
+năm kinh nghiệm của IEEE. Nó dùng Offset-Quadrature Phase-
+Shift Keying (O- -QPSK) và Direct Sequence Spread Spec;trum
+(DSSS), một sự kết hợp của các kỹ thuật mà cung cấp hiệu suất
+tuyệt vời trong các môi trường có tỷ lệ tín hiệu trên nhiễu thấp.
+
+Thứ hai ZigBee đùng kỹ thuật “Carrier Sense Miultiple
+Access Collision Avc›1dz1nce:" (CSMA-CA) đề tăng khả năng tin
+cậy. Trước khi truyền, ZigBee ủng nghe kênh truyền. Khi kênh
+truyền trống, ZigBee bắt đầu truyền. Điều này hạn chế việc gây
+ra xung đột trên đường truyền. CSMA-CA tương tự những gì
+con người làm trong các hội thoại. Chúng ta chờ người khác nói
+xong mới nói.
+
+Thứ ba, ZigBee dùng 16-bit CRC trên mỗi gói (packet),
+được gọi là một Frame Checksum (FCS). Điều này đảm bảo các
+bit dữ liệu chính xác.
+
+Thứ tư, mỗi packet được thử lại 3 lần (trong toàn bộ 4 lần
+truyền). Nếu packet không thể truyền qua sau lần truyền thứ tư,
+thì ZigBee thông báo với node gửi về việc truyền thất bại này.
+
+T năm, ZigBee sử cìunlg kết nối mạng theo kiến trúc mesh.
+Kiến trúc mạng này cung cấp ba khả năng tăng cường cho một
+mạng wireless: mở rộng khoảng cách ủng multi-hop, tạo mạng
+ad-hoc và quan trọng nhất là tìm đường đi tự động và tự phục
+hồi. Với mạng mesh, dữ liệu từ node đầu tiên có thể đến bất cứ
+node nào khác trong mạng ZigBee.
+
+Xét trường hợp node 1 muốn giao tiếp với node 3, nhưng nó
+ra khỏi vùng phủ sóng của node 3. ZigBee tự động tìm ra đường
+tốt nhất và node 1 sẽ gửi thông tin cho node 2 (node trung gian
+giữa node 1 và node 3)» rồi truyền tiếp đến node 3. fflxy giờ giả
+sử rằng, có vài vấn đề xảy ra trên fflxơng đi này. Có thể node 2
+hoàn toàn bị loại bỏ hoặc chết hay tồn tại một số vật cản như
+một bức tường bê-tông hoặc gặp một thùng nước lớn. ZigBee sẽ
+tự động phát hiện sự thất bại của đường đi và đi vòng.
+
+51

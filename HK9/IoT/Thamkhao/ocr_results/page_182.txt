@@ -1,0 +1,54 @@
+tắc nghẽn, các yêu f:ầu có một đặc tính là rút lui ngẫu nhiên
+(random backoff) nêu có bất kỳ yêu câu hay gói dữ liệu quá tải
+trong giai đoạn backoff.
+
+Sau khi một node thực hiện request, nó sẽ chờ response và
+tiếp tục request nếu dĩ liệu bị mắt trong quá trình truyền. Trước
+khi request tiếp tục node sẽ chờ một khoảng cho đến khi nó nhận
+biết một khoảng im lặng tương đương với thời gian truyền tải œ
+gói tin để đảm bảo hoàn thành việc truyền tải trước khi thực hiện
+request mới.
+
+7Transmit (TX)
+
+Một node ở chế độ Transmit chịu trách nhiệm broadcast tất
+cả các gói được yêu cầu cho một page cho đến khi tất cả các gói
+được yêu cầu đã quảng bá hết và chuyển về trạng thái
+MAINTENANGE. Các gói tin được gửi theo kiểu round-robin
+để cung cấp công bằng cho các bên yêu cầu.
+
+Sơ đồ máy trạng thái của Deluge Middleware:
+
+<S.identicaladvs heard/ Timer Req received/
+
+Send ad: expires ĩ end code
+Code
+x meoD C X Agiior
+
+Code transfer complete/
+
+Adv timer.
+fires!
+
+laintenance
+
+Timer expires/ /Receive code
+
+Send re:
+= s 'ẳ'Ềl ẵrẹẵẵe
+
+Code transfer complete/
+Hình 7.1. Sơ đồ trạng thái của Deluge [18J
+
+7.2.2. Hướng tiếp cận dựa trên module
+
+Một số hệ điều hành như ContikiOS, SOS hỗ trợ các
+1oadable modules và cơ chế dynamic linking để tái lập trình các
+ứng dụng đã triển khai. Trong cơ chế Dynamic Linking, các
+object fñle không chỉ chứa code và data mà còn chứa tên
+modules, nhưng thành phần mà các biến của hệ thống lõi có thể
+tham chiếu tới được. Khi một module được liên kết và tái định
+vị, program loader sẽ load module đó vào hệ thống bằng cách
+
+162
+

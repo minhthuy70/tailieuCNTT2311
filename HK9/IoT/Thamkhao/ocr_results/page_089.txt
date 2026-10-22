@@ -1,0 +1,51 @@
+Kết nối 24GHz and 5GHz IEEE 80211 b/g/n/ac
+Wwireless LAN, Bluetooth 4.2, BLE, Gigabit Ethernet over
+USB 2.0 (Tối đa ỞOMbps)
+
+Hỗ trợ: 40-pin GPIO, 4 cồng USB2. 0
+
+Video và âm ủanh 1 cống full-sized HD]\/I1 Cổng MIPI
+
+DSI Display, cồng MIPI CSI Camera, cổng stereo output
+Vvà composite video 4 chân.
+
+À4uitimedia: H.264, MPEG-4 decode (1080p30), H.264
+encode (1080p30); OpenGL ES 1.1, 2.0 graphics
+
+Lưu trữ: MicroSD.
+Điện áp hoạt động: 5V/2.5A DC cổng microUSB, 5V DC
+
+trên chân GPIO, Power over Ethernet (PoE) (yêu cầu
+thêm PoE HAT).
+
+RznsI›bel~r~y Pi 4 Model B ra mắt tháng 6/2019 với nhiều
+
+nâng cấp rất đáng kể giúp tăng hiệu năng của máy tính mini này
+lên tới 3 lần.
+
+Thông số kỹ thuật của Raspberry Pi4:
+
+Broadcom BCM2711, Quad core Cortex-A72 (ARM v8)
+64-bit SoC @ 1.5GHz
+
+Có 3 lựa chọn RAM: 1GB, 2GB hoặc 4GB LPDDR4-
+2400 SDRAM
+
+Wiñ chuẩn 24GHZz và 50GHz IEEE S802.1lac.
+Bluetooth 5.0, BLE
+
+Cổng mạng Gigabit Ethernet
+
+2 cổng USB 3.0 và 2 cồổng USB 2.0
+
+Chuẩn 40 chân GPIO, tương thích với các phiên bản trước
+Hỗ trợ 2 cổng ra màn hình chuẩn Micro HDMI với độ
+phân giải lên tới 4K
+
+Cổng MIPI DSI
+
+Công MIPI CSI
+
+Công AV 4 chân
+
+69

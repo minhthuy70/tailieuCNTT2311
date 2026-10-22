@@ -1,0 +1,38 @@
+3.2.3.5. Nên tảng hiện thực bộ giao thức mạng Wifi
+
+Bộ giao thức mạng Wifi là một chuẩn giao thức được sử
+dụng phố biến trong nh1eu giải pháp IoT, đặc biệt cho đễ dàng
+sử ủng cho người mới bắt đầu. Giao thức Wifi là một kiểu kết
+
+dụng bộ giao thức Wif.
+
+Bảng 3.6. Một số nền tăng phần cứng hỗ trợ chuẩn W y
+
+NH
+
+STT Tên giải pháp Nhà sản xuất Thông tin chỉ tiết
+——”ợÐvmmrmrmt‹t‹‹—‹—"""tn t rre-—“é———
+1 ESP8266,ESP32 Pspressif htfps://wWW.eSpressif.com/
+Systems
+
+Microchip's Wi- - - : - .
+
+2 Fi® devices Microchip https://www.microchip.com
+MWiFi Modules |
+
+3 (802.11) Mouser https://www.mouser.com
+
+4 WE935B00 WI2WISEM . http://www.wi2wi.com
+
+Đảng 3.7. Một số nền tăng phần mềm hỗ trợ bộ giao thức WVfĩ
+
+›
+H
+»
+
+STT Tên giải pháp Thông tin chỉ tiệt
+1 Arduino-based https://www.arduino.cc
+2 Linux-based https://git.kernel.org
+3 WLAN drivers Ezy thuộc loại phần cứng
+
+61

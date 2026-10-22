@@ -1,0 +1,47 @@
+-Độ rộng: là 8-bit; 16-bit hay 32-bit. Trong telosb, giá trị
+này là 16-bit.
+
+-Sự đúng đắn phản ánh sự phù hợp của một bộ phận với độ
+chính xác mà nó cung cấp. Độ chính xác bị ảnh hưởng bởi các
+vân đê như trôi đồng hồ hay hạn chế về phân cứng.
+
+JneSssage í
+
+Trong TinyOS2.x, chuẩn message buffer là message t. Cấu
+
+trúc của message t được định nghĩa trong tos/types/message.h
+như sau:
+
+typedefnx struct message t {
+nx uint8 t header[sizeoftVmessage_header t)];
+nx_uint8_tdataTOSH_DATA_LENGTHỊ;
+nx_ui›r1t8_t footer[sizeofimessage_footer Đ)];
+nx uintê t metadata[sizeof0message_metadata t)];
+} message t;
+
+Các trường header, footer và metadata được định dạng để
+không thê truy cập trực tiếp, mà thay vào đó tằng data-link cung
+câp truy cập tới các trường này thông qua các interface nesC [12].
+
+Trường header là một mảng các bytes mà kích cỡ của nó là
+kích cỡ của tập hợp các data-link header. Ví dụ trường hợp của
+Telos, thì cấu trúc của một gói tin như hình bên dưới, ở đó,
+
+- rường header có độ dài là 11 bytes
+
+11 bytes TOSH DATA LENGTH 7 bytes
++- +m==—-————-—CCC————-———-C. +- +
+message t | header | data 1 meta |
++-=—-==—-—--- +-===-——————————-————C. +- +
++----- + +--—--------- +
+Serial 1 hdr | l data U
++- + +-——-=-—----— +
+
+"Hình 4.9, Cầu trúc của một gói tỉn message_ï
+
+Trường data của message_t lưu trữ packet payload của một
+hop đơn. Nó có độ dài là TOSH DATA_LENGTH byte với
+kích cỡ mặc định là 28 bytes. Một ứng dụng TinyOS có thể định
+nghĩa là giá trị TOSH_DATA_LENGTH trong thời gian biên
+
+77

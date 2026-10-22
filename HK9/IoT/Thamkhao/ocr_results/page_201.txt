@@ -1,0 +1,41 @@
+Phần này trình bày chỉ tiết íframework tổng thể đề xuất cho
+giải pháp xây dựng nên tảng hỗ trợ quản lý tập ứung, điều l(Ỉ11(ìl'1
+hệ thống IoT có thể lập trình lại. Khung kiến trúc này bao gồm 3
+lớp theo chiều dọc cụ thể như sau: lớp hệ thống, lớp middleware
+và lớp ứng dụng. Lớp hệ thống bao gồm các dịch vụ chạy trên
+các thiết bị đầu cuối trong các mạng JoT khac nhau. Để hỗ trợ
+khả năng tái lập trình từ xa, các dịch vụ tái cấu hình IoT được cài
+đặt và kích hoạt trước trên mỗi loại nền tảng hệ thống nhỏ khác
+nhau của lớp này. Tầng middleware là tầng chứa các dịch vụ
+quản lý tập trung, chứa nhiều loại dịch vụ khác nhau như các
+dịch vụ liên quan đến dữ liệu, ngữ cảnh, suy luận, đặc biệt là các
+dịch vụ quản lý quá trình tái lập trình từ xa. Tầng middleware
+này được hiện thực tương tự như tính năng của SDN Controller
+trong kiến trúc mạng SDN, bao gồôm các API cận trên
+(northbound APIS) và cận dưới (southbound APIs). Các
+southbound APIs cung cấp khả năng kết nối của trung tâm quản
+lý với nhiều loại nhóm các thiết bị IoT bên dưới và các
+northbound APIs hỗ trợ lớp ứng dụng bên trên trong việc triển
+khai, phát triển ứng dụng một cách nhanh chóng. Tầng ú ứng dụng
+Ở trên cùng trong frAmework cho phép người dùng quản lý, điều
+khiển và triển khai các ứng dụng JoT một cách tiện lợi thông qua
+giao diện tương tác dựa trên nên tảng web.
+
+Một số khối chức năng chính của frAmework này là:
+
+s Tầng hệ thống các thiết bị JoT: đây là nền tảng hạ tang
+cho các ứng dụng JoT khác nhau. Hạ tằng này có lhe bao
+gom nh1e:u loại nên tảng phan cứng chạy nhiều nền tảng
+phần mềm khác nhau. Để hỗ trợ tính năng tái lập trình từ
+xa qua mạng, các thiết bị JoT được cài đặt và kích hoạt
+trước các dịch vụ tái cầu hình tương ứng. Cụ thể, với nền
+tảng Telosb chạy TinyOS, dịch vụ Deluge T2 đã được sử
+dụng. Trên môi trường Arduino, các thư viên hỗ trợ OTA
+Upgrade FirỖmware trên ESP8266 đã được khai thác. Với
+nền tảng thiết bị máy tính nhúng Raspberry Pi, công nghệ
+ảo hóa Docker được dùng để triển khai các dịch vụ, các
+ứng dụng khác nhau cũng được cài đặt và kích hoạt trước
+trên các thiết bị này. Các dịch vụ này sẽ cung ửp các
+
+181
+

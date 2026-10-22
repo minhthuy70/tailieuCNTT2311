@@ -1,0 +1,42 @@
+182
+
+APIs để các dịch vụ khác ở tầng middleware phía trên có
+
+thể sử dụng để kích hoạt quá trình tái cấu hình thông qua
+các lệnh đã được định nghĩa.
+
+76 arng mzcz'dle'wzzrza là đơn vị xử lý trung tâm của toàn hệ
+t11or1g, cung cấp các địch vụ kết nối tới thiết bị bên đưới
+và hỗ trợ tương tác với tang ứng dụng phía trên. Trong
+framework tổng thể này, mng middleware bao gồôm 5
+thành phần con: các APIs hỗ trợ tằng ứng dụng bên trên
+(IoT applications support APIS), các module liên quan tới
+quản lý dữ liệu (data modules), thành phần quản lý ngữ
+cảnh và suy luận (context management and reasoning),
+các dịch vụ quản lý tái câu hình (reconfiguration
+Services), và hệ thong APIs hỗ trợ fglao tlep southbound
+(reconfiguration support APIs). Cụ thể, trong APIs hỗ trợ
+ứng dụng bên trên được hiện thực dựa trên HTTP REST
+APIs, cho phép người phát triển ứng dụng có thể gọi đến
+để truy vấn dữ liệu, truyền các thông điệp điều khiển, các
+yêu cầu thực thi tác vụ... Thành phần liên quan tới dữ
+liệu được hiện thực thông qua các mô hình dữ liệu, bảng
+dữ liệu quan hệ lưu trữ các thông tin cần thiết cho việc
+quản lý và điều khiển hệ thong Thành phần quan trọng
+nhất trong hệ thong đã phát triển đó chính là các dịch vụ
+quản lý tái cấu hình. Tùy thuộc vào từng loại nền tảng
+khác nhau mà các dịch vụ hỗ trợ tái lập trình như: tạo
+phiên bản mới, biên dịch phiên bản mới, kích hoạt cập
+nhật, kích hoạt, quản lý quá trình tái cấu hình từ xa..
+được hiện thực lên máy chủ. Cụ thể, để tái lập trình cho
+nền tảng thiết bị TelosB, một môi trường biên dịch ứng
+dụng TinyOS được cài đặt trước, cùng với dịch vụ tạo mã
+nguồn mẫu đã được hiện thực trên máy chủ dịch vụ.
+Tương tự, với môi trường Arduino, phần mềm Arduino
+IDE cùng với các gói phần mềm cần thiết đã được cài đặt
+và sẵn sàng thực thi khi được gọi đến.
+
+Tầng ứng dụng: là tầng cao nhất trong framework đề xuất
+tổng thể. Tầng này giao tiếp với các dịch vụ ở tằng
+middleware thông qua hệ thống các APIs northbound,
+

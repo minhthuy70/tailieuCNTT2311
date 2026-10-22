@@ -1,0 +1,54 @@
+Multimedia
+content m
+“Patienthealth`ˆ
+
+e—m ~ í -
+Smart Ñ real-time
+
+» survelllance 2 >>.„monhoring _..
+l . R ⁄ Assisted -
+„ Monttoring œ S, N drving 2
+/ critical \ N u
+environment
+>>„.parameters ⁄
+System 2 Inventory = Ñ — Person
+oriented ( management ⁄ Smart s T 9riented
+/ ZAutomatic >..
+
+update of
+information in
+social
+s .Retworks „
+
+energy ì
+
+>*~«.consumption 2
+1079777777 U Scalar
+
+content
+
+Hình 2.1. Phân loại ứng dụng Internet oƒ Things J28J
+
+Các ứng dụng IoT vừa nêu trên sẽ được giới thiệu một cách
+tổng quát trong Chương 2. Phần kiến trúc cụ thể của một ứng
+dụng JoT sẽ được trình bày trong ChlJfc›T1g 3 của giáo trình này;
+các phần m<a111 phần cứng, phân loại phần cứng được sử dụng
+trong JoT sẽ nằm trong Chương 4.
+
+2.1. Nhà thông minh (Smart home)
+
+Smart home là ứng dụng phổ biến nhất trong IoT. Mục tiêu
+cốt lõi của Smart home là tạo ra ngôi nhà tiện nghĩ, thích ứng với
+nhu cầu của gia chủ. Trong Smart home, các cảm biến được đặt
+tại nhiều vị trí trong nhà để thu thập dữ liệu như nhiệt độ, độ ẩm,
+ánh sáng... bên trong nhà và ngoài trời để các ứng dụng có thể
+điều khiển các thiết bị trong nhà cho phù hợp với từng ngữ cảnh.
+Hình 2.4 mô tả một số thiết bị trong gia đình có thể được điều
+khiển qua các ứng dụng IoT.
+
+Nhiều giải pháp được tích hợp để đưa ra một ứng dụng
+smart home. Tùy vào quy mô, mức độ của smart home mà các
+giải pháp được tích hợp nhiều hay ít. Sau đây là một số giải pháp
+trong ứng dụng smart home:
+
+13

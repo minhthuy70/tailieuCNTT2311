@@ -1,0 +1,31 @@
+ấ xergosg:
+
+Hình 2.11. Kiến trúc của một hệ thống Dự báo chất lượng không khí
+
+2.2.4. Cuộc sống thông minh
+
+Cư dân là thành phần cốt lõi của một thành phố. Xây dựng
+cuộc sống thông mình thực chất là làm tăng chất lượng cuộc
+sống của cư dân lên, bao gổm các vấn đề về sức khỏe, giáo dục,
+an ninh - an toàn
+
+2.2.5. Một số dự án thành phố thông mình
+
+Một số dự án thành phố thông minh đã được triển khai như:
+Amsterdam, Barcelona, Copenhagen, Singapore, Thượng Hải.
+
+Tại Amsterdam, từ năm 2009 đến nay, đã có khoảng 17 dự
+án hợp tác phát triển giữa chính phủ, người dân và doanh
+nghiệp. Mục đích chung của các dự án này là giảm lưu lượng
+giao thông, tiết kiệm năng lượng và nâng cao các dịch vụ công
+cộng. Ngoài ra, hàng năm thành phố này thường xuyên tổ chức
+các cuộc thi nhằm tìm ra các giải pháp tích hợp vào thành phố
+thông minh. Ứng dụng nỗổi bậc nhất của Amsterdam là bãi đỗ xe
+thông minh có tên là Mobypark. Các chủ sở hữu của các bãi đỗ
+xe cho thuê chỗ đỗ xe với mức phí tùy thuộc vào thời gian gỉỗ
+của từng chiếc xe. Dữ liệu này sau đó được thành phố sử dụng
+để xác định nhu cầu đỗ xe cũng như lưu lượng giao thông để có
+các cơ chế điều tiết thích hợp. Hình 2.12 mô tả một số đặc điểm
+
+24
+

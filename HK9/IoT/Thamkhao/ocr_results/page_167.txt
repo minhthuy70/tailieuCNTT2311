@@ -1,0 +1,36 @@
+Tháng 3/2016 AlphzJ.Go của Google De<a1sM1nd đã chlen
+thắng kỳ thủ cờ vây số một thế giới là Lee Sedol với tổng tỉ số 4-
+1. Vào năm 2017, Google DeepMind đã công bố AlphaGo Zero
+đã được huấn luyện và chiến thắng tuyệt đối phiên bản AlphaGo
+trước đó.
+
+Thuật ngữ trí tuệ nhân tạo được khởi xướng bởi 4 nhà khoa
+học John McCarthy, Marvin L. Minsky, Nathaniel Rochester, và
+Claude E. Shannon vào mùa hè năng 1956, tại Hội nghị khoa
+học tại trường Dartmouth, Mỹ. Bốn nhà khoa học này đều trở
+thành những nhà khoa học hàng đầu về lĩnh vực trí tuệ nhân tạo
+sau đó.
+
+Trí tuệ nhân tạo hay còn gọi là thông minh nhân tạo
+(Aruficial Intelligence - AI) là một ngành trong khoa học máy
+tính nhằm làm cho máy tính có khả năng suy luận, tính toán, và
+học cách thích nghi như con người.
+
+DEEP
+LEAENING
+
+19505 19605 1970 1980 19905 20005 20105
+
+Hình 6.8. Quan hệ giữa Trí tuệ nhân tạo, Học máy và Học sâu
+
+(Nguồn Nvidia)
+
+Xu thế học máy và học sâu được chú ý và phát triển trong
+khoảng 10 năm trở lại đây bởi nhiêu nguyên nhân:
+
+- Thứ nhất: phần cứng phát triển.
+
+- Thứ hai: dữ liệu bùng nỗ.
+
+147
+

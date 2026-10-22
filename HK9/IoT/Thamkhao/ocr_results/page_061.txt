@@ -1,0 +1,54 @@
+Bang cách giao tiếp với IP truyền thống, mạng 6LoWPAN
+kết nối với các mạng khác thông qua router IP. Như hình trên
+thì, mạng 6LoWPAN hoạt động trên một góc như một stub
+network. Điều đó có mgh1a là dữ liệu đi vào mạng để dành riêng
+cho một th1c*,t bị cụ thể ở trong mạng 6LoWPAÌ\1 Bên ngoài,
+mạng IP truyền thống có thể được cung cấp bởi các loại liên kết
+khác nhau như: ethernet, Wi-fi hay 3G/4G. Bởi vì, 6LoWPAN
+chỉ chuyên hoạt động với IPv6 thông qua chuẩn IEEE 802.15.4,
+nên các cdge router cũng phải có cơ chế hỗ trợ chuyển đổi IPv6
+thành IPv4 để có thể đi ra bên ngoài ví dụ như cơ chế NAT64
+định nghĩa trong RFC 6146.
+
+Có hai loại thiết bị ph<Ầ> biến bên trong mạng 6LoWPAN
+là: router và host; trong đó router dùng để định tuyến đường
+đi tới các node trong mạng 6LoWPAN, host chính là các
+thiết bị cuối, không có khả năng định tuyến, host có thể hoạt
+động ở chế độ “ngủ” và được đánh thức định kỳ để tiết kiệm
+năng lượng tiêu thụ.
+
+3.2.1.2. Mô hình phân lớp các tằng giao thức trong 6LoWPAN
+
+Siìmplified OSI model Wi-Fi* stack example 8LoWPAN stack example
+
+J
+l
+
+| 5. Application layer
+
+4. Transport Layer
+
+Ả /
+
+| 3. Network Layer
+
+2. Data Link Layer
+1. Physical Layer
+
+mHình 3.12. Mô hình phân lớp 6LoWPAN . Stack |3J
+
+Œ
+Internet Protocoi (IP)
+` WEFI
+
+1EEE802484.
+
+Đề có thể hỗ trợ các loại ứng dụng khác nhau và các chuẩn
+giao tiếp khác nhau như Zlgbee Bluetooth _và Internet hệ thống
+6LoWPAN cung cap một lớp hỗ trợ giữa mng JP và tàng mạng
+để có thể chuyển tlep các gói IPv6 với chuẩn IEEE 802.15. 4
+Tầng Physical chuyển đổi dữ liệu bit thành tín hiệu có thể truyền
+nhận qua các môi trường truyền (liên kết không dây, có dây).
+Trong 6LoWPAN, chuẩn IEEE 802.15.4 được sử dụng. Đặc
+
+41

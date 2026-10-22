@@ -1,0 +1,45 @@
+.. Rule Viewer: Tye'_mperặturé ¡
+
+Edit View Options
+
+input = 16.8 trade = 092
+
+action = 50
+
+1
+2
+3
+4
+5 / ] 7 X
+l
+7
+8
+9
+
+Hình 6.5. Mô phóng điều khiển nhiệt độ Trường hợp 1
+
++ Trường hợp 2: Ta có dữ liệu đầu vào là 16/75, chiều
+hướng nhiệt độ là không đổi thì kết quả đầều ra thuộc phần
+Ventilation Low (với giá trị cụ thể là 70). Kịch bản này được thể
+hiện trong 0 bên dưới:
+
+lIỆn Rule Viewer:Temperature ¬I
+1U Fle Edit ỳneg« Options i : I
+ingute 64 Iadeson9 _
+_ ] ] IN ]
+2 ] 1 ] [ ]
+3 ] ;T ] l ] h
+Ù4 ] Ễ
+B ] ] h
+ũ V : ] ' ¡
+; V] TỊ ] ; v
+: l —] Z1
+° J /
+7 > 3 u ễL_A4!i |
+Hikss 11915669
+
+Í ]] Opened sysiem Temperature, 9 rues
+
+Hình 6.6. Mô phóng điền khiển nhiệt độ Trường hợp 2
+142
+

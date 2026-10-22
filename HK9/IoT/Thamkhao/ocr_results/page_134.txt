@@ -1,0 +1,28 @@
+Bảng 5.1. Tóm lược một số APIs OpenStack
+EeoEEEENEEENENEEEEEEEEENEEEEIEGNNS HSGNNESSSEGNGNGG G NH G6900909906996,/9669996900000070070900000000229990202029092222272022222222222HN
+
+Nhóm API RootURL API Chức năng TInput Output
+-r-r-r-rT--E.r---E-ZE"Rr””ERE-=rr-r--—----E---HRCTE-E--—-T-T-E-RE-E-ƠE~----r--SƒSr-r-SrSSrr--r-r-rfƒƒÏ†sororTềỉÐ{ểtr””rr†x;”;7”"]-—
+Identity . „ ¬ tenantName (tên
+1denttyeungcấpAPIhỗ lHPS/2mieke pgạr Chứng thực người dùng,  OpenStzck projecÚ)
+hứng th - .uit.edu.vn: A2.0toke trả vê token đề thực thi các tisername, password
+trợchứngthựcngười - sogg/v2 -039RenS c Apls khác P
+dùng.
+Networking
+Networking API được
+cùng cập Ớ l euron ử…….…………ụ fflã…… GET Liệt kê thông tin tắt cả các
+SerVice, dùng CC tẠO, XÓ s H H 20/networks  nefwork
+sửa các network cũng 96
+như subnet với IP xác
+định
+POST Name (tên network),
+Tạo mới một network admin state up (trạng
+v2.0/networks thái khi khỏi tạo).
+network id ip version,
+MO ủ…………Ểm ˆ Tạo mới một subnet IPAddress,
+: enable_dhcp (true/false)
+Compute https:/Amitaka Liệt kê thông tin về các
+Compute API được cung .uitedu.vn:87 GET /images images hiện có trong
+cấp bởi Nova service. 74/v2.1 OpenStack
+
+114

@@ -1,0 +1,43 @@
+sao chép các native code được liên kết vào một nơi trong bộ nhớ
+mà ở đó chương trình có thể thực thi. Hình 7.2 mô tả kiến trúc
+bộ nhớ trong ContikiOS [19], giải thích vì sao có thể hỗ trợ cơ
+chế này. Không gian phần “Loaded program” chính là nơi các
+chương trình được load vào đề thực thi.
+
+RAM
+
+l N Nđ HN HN 1onguage run-time
+1,oaded program, Symbol table
+
+N S
+\ Ñ Dynamic lĩnker
+
+Contiki kernel i
+
+Core
+
+Hình 7.2. TỔ chức vùng nhớ ROM/RAM trên Contiki |19J
+
+7.2.3. Hướng tiếp cận cơ sở dữ liệu (database)
+
+Các giải pháp trong thể loại này sử dụng những kỹ thuật đã
+được sử dụng nhiều trong các hệ thong cơ sở dữ liệu n'uyen
+thống. Những giải pháp này cung cấp một giao diện truy vấn và
+câu lệnh SQL cho phép người dùng theo dõi và kiểm soát mạng.
+Các tiêu ủuan _"SQL đã được mở rộng để hỗ trợ các khái niệm
+đặc thù cần thiết cho các thiết bị và mạng JoTs, ví dụ như thêm
+vào thông số thời gian truy vấn và tốc độ lấy mẫu
+
+Các giải pháp phần mềm tái cau hình trong thể loại này cung
+cấp cho người dùng thông tin tổng thể của toàn bộ mạng IoTs
+dưới dạng một cơ sở dữ liệu toàn cục, loại bỏ sự phức tạp cho
+người sử dụng khi phải tương tác với các nốt riêng lẻ. Trong
+hướng Uep cận này, thông tin được đọc từ các nốt trong mạng,
+và các tuyến đường đi đe gửi thông tin đọc được đến các trạm
+gốc (basestation), được â ẩn đi Ựransparent) đối với người đùng để
+giảm thiểu sự phức tạp. Các giải pháp này thường được tích hợp
+giao thức định tuyen multihop, và được thiết kế để ml ưu việc
+gửi các truy vân trên các mạng IoTs, cũng như để tối ưu việc
+chuyển tiếp các kết quả truy vấn từ các nốt nguồn IoTs đến các
+
+163

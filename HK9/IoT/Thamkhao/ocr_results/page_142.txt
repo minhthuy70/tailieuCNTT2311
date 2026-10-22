@@ -1,0 +1,51 @@
+`
+
+pháp mã hóa, bảo mật đã được nghiên cứu và triển khai thành
+công trên thiêt bị IoT có tài nguyên hạn chê.
+
+BÀI
+
+1
+
+m
+
+Ầ
+
+2.
+
+3.
+
+122
+
+TẬP CHƯƠNG 5
+
+Hãy phân tích các yêu cầu và đặc trưng cơ bản của các hệ
+thống tính toán cho loT.
+
+Hãy so sánh ưu và nhược điểm của các mô hình điện toán
+đám mây.
+
+Hãy so sánh ưu và nhược điểm của các công nghệ điện toán
+đám mây và điện toán cận biên. Liệt kê những ứng dụng loT phù
+hợp cho môi công nghệ điện toán này.
+
+Hãy so sánh các công nghệ ảo hóa được sử dụng trong loT.
+
+Hãy xây dựng một kịch bản ứng dụng tính toán cận biên
+trong loT.
+
+Từ nền tảng Arduino và Raspberry PI 3, hãy xây dựng ứng
+dụng y tế thông minh áp dụng điện toán đám mây và điện
+toán cận biên.
+
+Hãy xây dựng ứng dụng Nông nghiệp thông miỉnh áp dụng kỹ
+thuật điện toán đám mây và điện toán cận biên. Sau đó so sánh
+ưu và nhược điểm của hai hướng tiếp cận này.
+
+Trong ứng dụng giám sát giao thông thông miỉnh, các camera
+được đặt trên đường và truyền tín hiệu video về các
+gateway. Dữ liệu từ các gateway sau đó được truyền về
+Cloud. Hãy xây dựng ứng dụng giám sát giao thông thông
+minh để đếm số phương tiện qua lại trong một khoảng thời
+gian. Xây dựng hai kịch bản đếm số phương tiện tại gateway
+và tại cloud. Sau đó so sánh hai kịch bản này.

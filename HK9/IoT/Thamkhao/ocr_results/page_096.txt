@@ -1,0 +1,46 @@
+DEFAULT TIMER =10240, // 10 seconds
+
+MAX_SENSORS =5, / Number of sensors
+(Vref, Temp, Hum, Light, TSR)
+
+Test\CM5000 _ AM_ID =0x01, // Test(CM5000 AM ID
+›
+
+typedefnx_struct THL, msg {
+nx uintló tVvref,
+nx uintló ttemperature;
+nx uintló thumidity;
+nx uimtló tphoto;
+nx uintl ố_t radiation;
+}THL msg t;
+#endif
+
+Trong ứng dụng khi ta sử dụng các file Header này ta phải
+thêm vào đầu chương trình một dòng như sau: #include ““Tên
+Header”
+
+V dụ: #include “TestCM5000.h”
+
+4.2.2.2. Các thành ffluẵn, dịch vụ cơ bản của TinyOS
+
+.Bộ định thời (Timer)
+
+Bộ định thời trong Telosb với bộ điều khiển MSP430 là bộ
+định thời 16 bit. Thực hiện hai nhiệm vụ thong dụng và quan
+trọng của hầu hết các loại timer đó là: đếm thời gan và kích
+
+hoạt sự kiện (thường lặp đi lặp lại) tại một thời điểm được chỉ
+định [11].
+
+Những thuộc tính cơ bản của một bộ ủrgh thời là: độ chính
+xác (precision), độ rộng (width) và sự đúng đăn (accurracy).
+
+-Độ chính xác (ví dụ độ chính xác mi li giây) được định .
+
+nghĩa trong thư viện Timer.h như sau:
+
+typedef struct { int notUsed; } TMIIIi; // 1024 ticks per second
+typedef struct { int notUsed; } T32khz; // 32768 ticks per second
+typedef struct { intnotUsed; } TMicro; // 1048576 ticks per second
+
+76

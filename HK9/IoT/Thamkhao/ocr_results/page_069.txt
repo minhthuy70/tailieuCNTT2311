@@ -1,0 +1,44 @@
+[Oetets2] 1 4or10 2 Variable ] Variable Variable 211
+
+Beacon Pendint Frame
+| Fram® |sequenee Soureo Superramel GTS Mdresẵ Đ8eacon Payload ¡ Check
+
+`ẫc«›nmn Number Address Spec Fields dgorobs Soquencei
+
+Hình 3.19. Data Frame trong chuẩn 802.15.4
+
+IEEE 802.14.5 cũng định nghĩa 4 dạng frame cơ bản: beacon
+frame, frame dữ liệu, frame xác nhận ACK và MAC frame.
+
+s Ö8eacon ƒ?ame: được bộ điều phối mạng phát theo chu kỳ
+để xác nhận mạng và cấu trúc mạng, đánh thức các thiết
+bị từ trạng thái ngủ và Ổng bộ hoạt động mạng. Beacon
+frame rất quan trọng trong cấu hình mô mạng Mesh và
+Tree. Chúng tự cho tất cả các nốt mạng đồng bộ mà
+không cần các nốt phải hoạt dộng ở chế độ tích cực trong
+thời gian dài.
+
+s Data ƒ†ame: Có thể dài hơn 104 octets (1 octet = 1byte).
+Mỗi frame dữ liệu mang một chuỗi xác nhận. Chuối số
+đảm bảo tất cả các khung được đếm và nhận hợp lệ.
+Trường FCS (checksum) dung để phát hiện lỗi frame.
+
+s ACK Frame. Thiết bị nhận gửi fame ACK tương ứng
+cho phía phát để thông báo frame dữ liệu nhận được là
+hợp lệ và không có lỗi.
+
+* 1AC Frame: được dùng để thông báo và thông tin. Phục
+vụ mục đích quản lý mạng tập trung để điều khiển và cấu
+hình thiết bị từ xa. Nhóm lệnh bao gồm phối hợp thiết bị,
+yêu cầu dữ liệu, thông báo PAN ID, yêu cầu beacon,
+GTS, tổ chức lại coordinator.
+
+Thiết kế lớp giao thức MAC rất quan trọng trong mạng
+WSNSs, nó đảm bảo hiệu quả sử dụng năng lượng để kéo dài thời
+gian sống của mạng, tạo nên khả năng mở rộng phù hợp kích
+thước mạng, mật độ node và cấu hình mạng. Các thuộc tính
+quan trong khác cần lưu ý của thiết kế giao thức MAC là sự
+công bằng giữa các node, giảm độ trễ, hạn chế lưu lượng cao của
+băng thông.
+
+49

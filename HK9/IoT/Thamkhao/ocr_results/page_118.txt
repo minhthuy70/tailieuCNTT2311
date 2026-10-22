@@ -1,0 +1,40 @@
+Sự phát triển bùng nổ của công nghệ IoT dẫn đến kiến trúc
+hệ thống mạng ngày càng phức tạp và phân chia thành nhiều lớp
+để đáp ứng nhu cầu ngày càng cao của con người. Trong xu
+hướng đó, các hệ thống, ứng dụng JoT hiện đại ngày này thường
+được tổ chức thành các lớp bao gồm: lớp thiết bị IoT, lớp thiết bị
+cận biên, lớp trung tâm dữ liệu trên hạ tằng điện toán đám mây.
+Hình 5.1 trình bày tong quan mối liên hệ giữa các thành phần
+trong kiến trúc hệ thống IoT dựa trên nền tảng điện toán đám
+mây (cloud computing) và tính toán cận biên (cdge computing)
+
+Các thiết bị JoT: là các thiết bị đầu cuối, bao gồm thiết bị
+cảm biến, động cơ điều khiển phục vụ cho nhiều ú ứng dụng khác
+nhau trong nhiều lĩnh vực đời sống xã hội. Các thiết bị IoT này
+có chức năng thu thập dữ liệu từ môi trường xung quanh gửi đến
+các thành phan phía sau của hệ thống. Tùy theo từng loại giải
+pháp ket nối khác nhau mà thiết bị IJoT này có thể gửi dữ liệu
+trực Uep đến trung tâm dữ liệu hoặc gửi trung gian 'đến các thiết
+bị cổng (gateway), các thiết bị mạng cận biên (cdgc devices). Xu
+hướng hiện nay, dữ liệu thu thập được từ các thiết bị IoT thường
+được gửi đến lưu trữ và xử lý trực Uep tại các thiết bị cận biên đề
+tận dung khả năng tính toán, phản hồi thời gian thực, đáp ứng
+nhu câu ngày càng cao của người dùng.
+
+Thiết bị tính toán cận biên: là các thiết bị fflẫm ở rìa hệ
+thống, ngay phía sau thiết bị IoT đóng vai trò kết nối trung gian
+giữa thiết bị IoT với các hệ thong phía sau trung tâm dữ liệu.
+Ngày nay, với sự phát triển tiên tiền của công nghệ phần cứng,
+các thiết bị mạng cận biên này ngày càng mạnh mẽ, có khả năng
+tính toán và xử lý lớn, được tận dụng để tối ưu hóa trải nghiệm
+người dùng, đáp ứng thời gian thực với các ứng dụng yêu cầu độ
+trễ thấp. Với xu hướng đó, rất nhiều giải pháp kỹ thuật liên quan
+đến tlnh toán cận biên được các nhà ghlen cứu quan tâm và
+phát triển. Một số vấn đề nghiên cứu có thể kể đến như giải pháp
+lưu trữ đệm tại th1et bị cận biên (cdge caching) để đáp ứng ngay
+lập tức dữ liệu cần thiết khi ứng dụng JoT có yêu câu truy vân.
+Ngoài ra các giải pháp liên quan đến phân tải tính toán thông
+minh Gintelligent offloading) gưa thiết bị cận biên và hệ thong
+điện toán đám mây góp phân tối ưu tài nguyên tính toán, nâng
+
+98

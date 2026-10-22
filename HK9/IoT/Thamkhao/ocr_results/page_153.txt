@@ -1,0 +1,40 @@
+trên việc phân cấp và quan hệ giữa các lớp. Mô hình này cho
+phép việc đóng gói (encapsulation) và tái sử dụng. Hầu hết các
+ngôn ngữ lập trình cấp cao hỗ trợ các khái niệm hướng đối
+tượng, mô hình hóa có thể được tích hợp vào hệ thống nhận biết
+ngữ cảnh một cách dễ dàng. Do đó, mô hình dựa trên đối tượng
+phù hợp để sử dụng bên trong, không chia sẻ, dựa trên mã (code-
+based), mô hình hóa ngữ cảnh theo cơ chế run-time, thao tác và
+cơ chế lưu trữ. Tuy nhiên, nó không hỗ trợ suy luận bên trong.
+Việc đánh giá một mô hình loại này khó khăn khi không có tiêu
+chuẩn và thông số kỹ thuật cụ thể.
+
+6.3.5. Mô hình dựa trên logic
+
+Mô hình này biểu diễn thông qua các sự kiện, biểu thức và
+luật. Luật được sử dụng bởi những mô hình khác, chẳng hạn như
+ontology (mô tả trong phần tiếp theo). Các luật được sử dụng chủ
+yếu để thể hiện các chính sách, ràng buộc, và độ ưu tiên. Mô hình
+này linh hoạt hơn so với các mô hình ngữ cảnh trước đây. Các cấu
+trúc và ngôn ngữ khác nhau có những luật khác nhau để mô hình
+hóa ngữ cảnh. Tuy nhiên, do thiếu tiêu chuẩn nên khả năng sử
+
+: dụng lại và khả năng áp dụng của mô hình này bị giới hạn.
+
+6.3.6. 3Ô hình dựa trên onfology
+
+Mô hình ngữ cảnh được tổ chức thành bản thể luận
+(ontology) dựa trên các công nghệ ngữ nghĩa. Một số chuẩn ngữ
+nghĩa đang được sử dụng hiện nay là RDF, RDFS và OWL.
+Ontology-based là hướng tiếp cận rất triển vọng trong quản lý
+ngữ cảnh và quản lý dữ liệu cảm biến trong Internet of Things
+nhờ việc sử dụng ngữ nghĩa trong ngữ cảnh. Tuy nhiên, việc thu
+thập ngữ cảnh có thể mất nhiều tài nguyên và thời gian khi
+lượng dữ liệu tăng lên. Trong những năm gần đây, các mô hình
+ngữ cảnh dựa trên bản thể luận được chú ý trong cả học thuật lẫn
+công nghiệp.
+
+Hình sau mô tả thông tin liên quan đến một JoT Node được
+mô tả trong một ontology.
+
+133

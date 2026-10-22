@@ -1,0 +1,43 @@
+Cơ chế bỏ phiếu chọn (polling mechanism), cơ chế này
+được xem như các sự kiện ưu tiên cao (high Ppriority) sẽ được
+định thời trong khoảng giữa m01 sự kiện bất đồng bộ. Việc bỏ
+phiếu được sử dụng bởi các tiến trình mà hoạt động gần phần
+cứng để kiểm tra trạng thái cập nhật của mlet bị phần cứng. Khi
+một lần bỏ }Jh1eu được định thời, tất cả tiền trình thực hiện việc
+quản lý bỏ phiếu sẽ được gọi theo thứ tự ưu tiên của chúng.
+
+Contiki sử dụng 1 stack chung chia sẻ cho tất cả các tiền
+trình thực thi.
+
+ILoadable programs
+
+Các chương trình có thể load được sử dụng hàm thay đổi vị
+trí trong thời gian chạy (run-time) và định dạng nhị phân chứa
+thông tin địa chỉ. Khi một chương trình được load vào hệ thống,
+đầu tiên ỏader sẽ định vị không gian bộ nhớ dựa trên thông tin
+được cung cấp trong định dạng nhị phân. Nếu địa chỉ định vị
+không thành công, chương trình sẽ bị hủy bỏ. Nếu chương trình
+được load vào bộ nhớ thành công, loader gọi hàm khởi tạo, hàm
+khởi tạo sẽ bắt đầu và thay thế một hay nhiều tiền trình để chạy
+chương trình được load vào.
+
+Chế độ tiết kiệm năng lượng
+
+Trong mạng cảm biến, để tiết kiệm năng lượng node cảm
+biến có thể hoạt động ở che độ inactive. Contiki kernel không có
+định nghĩa rõ ràng cho tiết kiệm năng lượng nhưng cho phép
+ứng dụng chỉ định hệ thong hoạt động các cơ chế tương tự đề
+tiết kiệm năng lượng. Để ứng dụng quyết định điều hành, hệ
+thống định thời bày ra kích thước của event queue. Thông tin
+này được sử dụng để giảm năng lượng tiêu thụ của bộ xử lý
+xuông khi không có sự kiện nào có lịch. Bộ xử lý sẽ đánh thức
+
+lúc phản hồi 1nterrupt, trình bầu chọn sẽ chạy để quản lý sự kiện
+bên ngoài.
+
+Các dịch vụ
+
+Trong Contiki, dịch vụ là một tiến trình thực chức năng có
+thể được dùng bởi các tiền trình khác. Một dịch vụ có thể có dạng
+
+86

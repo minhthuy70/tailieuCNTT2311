@@ -1,0 +1,45 @@
+Thông qua những nội dung được trình bày trong ủương
+này, người đọc có cái nhìn tổng quan về các loại th1et bị phần
+cứng dùng trong IoT cũng như các giải pháp phần mềm tương
+ứng. Từ đó, trước nhu cầu triển khai một giải pháp IoT trong
+một ngữ cảnh cụ thể, với các yêu cầu cụ thể, nhà phát men có
+thể chọn lựa một loại thiết bị, một môi trường phát triển ứng
+dụng phù hợp để hiện thực hệ thống của mình.
+
+4.1. Các nền tảng phần cứng
+
+4.1.1. Những đặc trưng và phân loại các nền tông phần cứng
+dùng cho IoT
+
+Ngày nay, có rất nh1e:u nen tảng thiết bị JoTs khác nhau đã
+và fflmg được phát triển. Một số nền tảng phần cứng nỗi tiếng có
+thể kể đến như: Arduino, ffl:onotag, Zolerta Z1, IJoT-LAB M3
+nodes, Open Motes, TelosB..
+
+Các thiết bị IoT thường hạn che về tài nguyên bao g›m năng
+lượng, CPU, bộ nhớ. Hiện nay, tổ chức IETF đã có một số phân
+loại dựa trên khả năng bộ nhớ như sau [5]:
+
+Class 0: thiết bị có tài nguyên ít nhất (<< 10kB RAM và
+<<100kB Flash) chuyên dùng cho WSN > không cần OS, phần
+mềm chạy trực tiếp, hardware-specific
+
+Class 1: thiết bị có bộ nhớ trung bình (~10kB RAM và
+~100kB Flash), cho phép nh1c:u ứng dụng và tính năng hơn như:
+định tuyến, giao thức truyền thông.
+
+Class 2: thiết bị có nhiều tài nguyên hơn nhưng vẫn hạn chế
+
+so với các hxgh-end IoT devices hay các host trong mạng
+Internet truyền thống.
+
+Theo bài báo “C7eate your own Imternet oƒ Things” [6],
+
+có một số nhận định và phân loại các nền tảng phần cứng IoT
+như sau:
+
+Về khái niệm “Smart Objects”, theo ông Paul Jacobs, _“nguyên
+giám đốc điều hành Qua1lcomm thì đó là những vật thể, đối tượng
+mà có trách nhiệm cung cấp thông tin trong sự tương tác trên một
+
+64

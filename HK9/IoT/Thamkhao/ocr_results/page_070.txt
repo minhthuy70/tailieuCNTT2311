@@ -1,0 +1,49 @@
+3.2.2.4. Một gỗ đặc điểm của chuẩn Zigbee trong ứng dụng
+rmạng cảm biên không dây
+
+Đặc điểm của công nghệ này là tốc độ truyền tin thấp,
+nhưng tiêu hao ít năng lượng và là giao thức mạng không dây
+hướng tới các ứng dụng điều khiển từ xa và tự động hóa trong
+công nghệ IOT (Internet Of Things) trong tương lai. Zigbee có
+thể dùng trong các mạng lưới rộng hơn là sử dụng Bluetooth.
+Các thiết bị không dây sử dung công nghe Zigbee có thể truyền
+tin trong khoảng cách từ vài mét đến vài chục mét tùy thuộc vào
+môi trường truyền tin và mức công suất được _yêu câu ở mỗi ứng
+dụng. Tốc độ dữ liệu là 250kbps ở dải băng tần 2. 4GHz được sử
+rộng rãi. Các dữ liệu được truyền theo gói, gói tối đa là 128
+bytes cho phép tải xuống tối đa 104 bytes.
+
+ZigBee có độ tỉn cậy cao
+
+Thực tế, sự truyen thông không dây là không tin cậy. Chứng
+mình điều này bằng việc đi lòng vòng với một chiếc điện thoại
+di động, sau đó bước vào thang máy. Bất cứ ai sử _“dụng điện
+
+thoại đều gặp sự cổ cuộc gọi bị ngắt hoặc đường truyền yếu. Tắt -
+
+cả bởi vì sóng radio cũng chỉ là các sóng. Chúng chạy qua các
+
+vật cản, có thể bị chặn bơl klm loại, nước hoặc khối bê tông và _
+
+phụ thuộc vào nhiều yếu tố phức tạp gom thiết kế ăng-ten, sự
+khuếch đại năng lượng và fflam chí các điều kiện thời tiết.
+
+Tuy nhiên, điều Hnen không dây thường không có cùng vấn
+đề như trong một cuộc điện thoại, di chuyển để tìm điểm nhận
+sóng tốt hơn hay đợi để thử lại sau. Hiệp hội ZigBee hiểu điều
+này, giao thức ZigBee được thiết kế với độ tin cậy cao. Điều này
+được thể hiện các đặc tả ZigBee:
+
+s IEEE 802.15.4 với O-QPSK và DSSS.
+
+s CSMA-CA.
+
+s 16-bitCRCs.
+
+s ACK tại mỗi hop (chặng).
+
+s` Việc nối mạng lưới (mesh) để tìm ra đường đi tin cậy.
+
+s End-to-end ACK để kiểm tra dữ liệu đến đích.
+
+50

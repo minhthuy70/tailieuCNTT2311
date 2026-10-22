@@ -1,0 +1,41 @@
+cho phép các dịch vụ được tạo và tái lập trình theo ngữ cảnh sử
+dụng. Khái niệm n:ận thức ngữ cảnh (context awareness) được
+định ngh1a như sau: “MVận thức ngữ cảnh (context awareress)
+đề cập đến khả năng của một ứng dụng, dịch vụ hoặc thậm chí
+là một thiết bị đầu cuối nhận thức được môi trường vật chất, hay
+
+tình huồng, và đáp ứng một cách chủ động và thông minh trên
+cơ Sở nhận thức đó”.
+
+Mục tiêu chính của một ứng dụng nhận thức ngữ cảnh là có
+thể thay đổi hành vi để đáp ứng với một sự thay đổi ngữ cảnh.
+Do đó, khả năng thích ứng @.daptatlon) và kha năng tái lập trình
+(re- conÍ`1,4gureìtxon) là nhưng yếu tố thiết Wu của một ứng dụng
+nhận biết ngữ cảnh. Điều _ quan trọng là cần lưu ý rằng sự thích
+ứng có thể được mô tả bằng các thuộc tính tương ứng. Một hệ
+tl1onl<g thích ứng sẽ thích nghi với những thay đổi trong các tình
+huống liên quan đến người sử dụng, môi trường, hoặc hoàn
+cảnh, với mục tiêu rõ ràng trong việc trợ giúp người sử dụng một
+cách tự động, và giảm sự can th1ep của con m;uờ1 Nhiều ứng
+dung nhận biết ngữ cảnh có thể cung cấp hỗ trợ tự động này
+bằng cách sử dụng ngữ cảnh hợp lý được lưu giữ trong profile,
+cơ sở dữ liệu, hoặc các trang web xã hội. Tuy nhiên, với sự gia
+tăng của các mạng cảm biến khong dây, các hệ thống nhúng
+mạng Internet không dây IoT, dẫn đến v1ẹc có sự quan tâm ngày
+càng tăng trong các ứng dụng nhận biết ngữ cảnh trong việc sử
+dung các nhân tố ngữ cảnh bên ngoài (vật lý), ví dụ như mong
+tin về vị trí, nhiệt độ, ánh sáng, và tương tác với môi trường, để
+xây dựng các ứng dụng thông minh hơn, tốt hơn phục vụ đời
+sống con người (§7zarf c~nd dqmbientassisied Giving
+applications).
+
+Chương 6 này đề cập đến ngữ cảnh và tính chất thích ứng
+ngữ cảnh của ứng dụng IoT. Bên cạnh đó, quản lý ngữ cảnh -
+một thành phần trong IoT middleware _cũng được trình bày trong
+chương này. Quản lý ngữ cảnh bao gồm các bước thu thap, mô
+hình hóa, suy luận và phân phối ngữ cảnh đến các đối tượng
+trong ứng dụng IoT. Các kỹ thuật mô hình hóa và suy luận cũng
+được phân tích, so sánh trong chương này.
+
+124
+

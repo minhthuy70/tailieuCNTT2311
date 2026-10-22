@@ -1,0 +1,24 @@
+containers các máy Swarm Workers. Điểm khác ủet so với kiến
+trúc mạng Mesh là trong kiến trúc mạng Tree, mỗi containers sẽ
+kết nối đến các containers khác thông qua những mạng khác
+nhau Do đo trong kiến trúc mạng Tree, tùy thuộc vào só hrơng
+nốt, một số lượng lớn các mạng ảo tương ứng sẽ được tạo ra đễ
+kết nối các containers lại với nhau.
+
+OpenStack
+
+Clustar - Docker Swarm
+
+.Hình 5.10. Minh họa triển khai kiến trúc mạng Tree
+với nền tông Doclker Container
+
+5.2.663. Giải pháp tích hợp, triển khai kiến trúc mạng WSNs
+(MELS'H/TREE) và giao thức định tuyển WSNs (olsr), mô hình
+giả lập thiết bị WSNs trên OpenStack
+
+Như đã đề cập ở trên, việc triển khai cụm Docker Swarm
+được thực hiện thông qua các APIs do Openstack cung cấp. Tóm
+lược các thông tin về các APIs được sử dụng trong hệ thống
+được trình bày trong Bảng 5.1
+
+113

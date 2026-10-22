@@ -1,0 +1,10 @@
+Từ nền tảng CC2530, hãy thiết kế ứng dụng Nông nghiệp
+thông minh.
+
+Hãy xác định loại phần cứng, phàn mềm, cảm biến để xây dựng
+hệ thống cảnh báo cháy rừng có các nút cảm biến được cáp
+nguồn bằng pin với yêu cầu tối ưu năng lượng sử dụng đ thời
+gian hoạt động của ứng dụng là lớn nhất.
+
+95
+

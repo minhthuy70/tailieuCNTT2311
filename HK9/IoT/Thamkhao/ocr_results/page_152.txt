@@ -1,0 +1,42 @@
+<?xml version=“1.0? encoding=“UTF-8”2>
+<E-Building>
+<node>
+<name>E1.1.1</name>
+<temperature>25</temperature>
+<humidity>85</humidity>
+</node>
+<node>
+<name>E1.1.2</name>
+<temperature227</temperature>
+<humidity>72</humidity>
+</node>
+<E-Building>
+</xml>
+
+6.3.3. Mô hình đồ họa
+
+(Unied Modelling Language) và ORM (Object Role
+Modelling). Trong thực tế, mô hình này tốt hơn hay mô hình
+trước là Khozì-G1z1 trị và Mô hình sơ đồ. Mô hình này cho phép
+thiết lập các mồối quan hệ trong mô hình ngữ cảnh. Việc lưu trữ ở
+mức thấp cho mô hình này cũng được hỗ trợ bởi nhiều công cụ
+khác nhau như Cơ sở dữ liệu SQL, Cơ sở dữ liệu NoSQL hay
+XML. Hơn nữa, cơ sở dữ liệu được sử dụng quen thuộc và rộng
+rãi nên việc tiếp cận với mô hình _này cũng khá nhanh. Nhược
+điểm của mô hình này là khi yêu cầu truy vấn ngữ cảnh phức tạp
+có the tạo ra các câu truy vấn SQL phức tạp. Điều này gây ra
+việc tồn tài nguyên cũng như thời gian xử lý. Bên cạnh đó, việc
+thêm các thông tin ngữ cảnh và thay đổi cấu trúc dữ liệu cũng sẽ
+gặp khó khăn. Do đó, xu hướng gân đây là sử dụng NoSQL để
+giúp việc thay đổi cầu trúc được khắc phục.
+
+6.3.4. Mô hình dựa trên đối tượng
+
+Mô hình dựa trên đối tượng (Object-based Modelling) hay
+còn được gọi là mô hình hướng đối tượng (Object oriented) dựa
+
+132
+
+Mô Mnh đồ họa (Graphic Modelling) dựa trên các mối quan.
+hệ. Một số kỹ thuật được sử dụng trong mô hình này là UMIL,
+

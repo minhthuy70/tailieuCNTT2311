@@ -1,0 +1,31 @@
+mạng kết nối. Những đối tượng này có thể triển khai trên một
+mạng thông qua Bluetooth (IEEE 802.154) Wi-Fi (IEEE
+802.11), Ethernet (IEEE 802.3) hay các chuân giao tiếp khác.
+
+Khả năng phát triển phần cứng và phần mềm cho IoT là vô
+tận. Phần cứng IoT có thể phân chia thành hai nhóm chính: G
+thiết bị mang theo (wearable devices) và các công cụ phụ trợ
+(gadgets); (2) là các hệ thống nhúng, board mạch được minh họa
+chỉ tiết như trong Hình 4.1:
+
+Hình 41. Phân loại một số thiết bị phần cứng JoT phỗ biển /6J
+
+Trong đó, thiết bị mang theo có thể có các ứng dụng có sẵn
+được phát triển với các phần cứng chuẩn dành cho Smart Shoes
+(giày thông minh) cho tới kính thông minh (Smart Glasses).
+Phạm vi của phát triển phần mềm IoT trong nhóm này hạn chế
+vì chỉ hỗ trợ cho các phần cứng cụ thể.
+
+Trong khi đó, với nhóm hệ thống nhúng và các board mạch
+thì có thể phát triển đa dạng hơn. Các dịch vụ được cung cấp bởi
+hệ thống này đa dạng, có thể phân thành 3 nhóm nhỏ là: G)điều
+
+khiển thiết bị; (2) thu thập dữ liệu; (3) phát triển ứng dụng. Điều -
+
+khiển thiết bị bao gồm giám sát thiết bị, an ninh và cập nhật
+firmware. Thu thập dữ liệu bao gồm nhiều việc liên quan tới
+quản lý và truyền tải ở nhiều lớp trong IoT. Phát triển dữ liệu
+bao gồỒm việc phân tích, suy diễn logic theo sự kiện, biểu diễn,
+và lập trình ứng dụng.
+
+65

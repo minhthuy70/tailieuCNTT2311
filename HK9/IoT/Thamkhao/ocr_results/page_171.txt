@@ -1,0 +1,71 @@
+Thực thi mô hình: Đây là bước cuối cùng trong thuật toán
+máy học. Kết quả cuối cùng của mỗi thuật toán máy học là dự
+đoán hoặc nhận ra. Mô hình lúc này được sử dụng để dự đoán
+kết quả mong muốn với độ chính xác cao nhất.
+
+Ví dụ: trong phân loại ảnh, nếu bài toán là dự đoán khuôn
+mặt của một người, thì mô hình có thê dự đoán hoặc phát hiện
+khuôn mặt của người đó một cách hiệu quả với độ chính xác cao.
+
+6.5.1.2. Phân loại các kỹ thuật học máy
+
+Như đã đề cập trong phần trước, học máy được chia làm 3
+loại: Học không giám sát, Học có giám sát, và Học tăng cường.
+Các kỹ thuật này được sử dụng với những mục đích khác nhau,
+được mô tả trong Hình 6.10.
+
+Macbine Learsing Algevritbins
+
+I Fte…fu……… 1earning w
+
+Ý HTeare, 9Ý theu EÊA Ai9n)
+48đ - eyperience w ›n
+3ccordingly inieract wifb the
+
+———mĩ
+
+dhườugh che 2lgsrhbm, Ne
+preiousdy deired culput x
+proided.
+
+inleractive entironernt.
+
+qupurvised Loarniig ( Unsugervhed Leareing
+- Eg Markev Dedbien Preres
+
+* B61h inpbt aađ dưsired ompot
+Ar8 proviáed t the machine
+before traìn the dataset.
+
+Ấz,>.u'..a«i\›lz \ F<e;.Ỉxs.Jx. \ F _ \\ 6"*"^ aS
+
+ˆ Output i having defind
+
++ Oupwt l havieg
+
+ÿ + Grouping s đât pointe * Reduced the ngduadant
+9r điycrelx Values coptinuous values based on thiìn simllarities n and maks i uba
+
+* Biex3 2nd anhidee || ° Ea Línrar regiiides, nd dusiallarite ảng - ciEsnt - y
+dianlEexion are sf tho dãn9 Ô rgrsioe || . ÿø K-Msom Cledtrinp NH N
+cawegories øf casificalion rindlpa Composent Hierbiel Cleuerins, Ý đều c Dìnyasionalin
+aleortbm Ảegresien - Panbl Probabilishe Clowtering 18đuctiop process (PCA)
+
+! ự Togie retiehion, Leai Square ⁄
+
+Naïve D2ye, K- Bexret
+ngighbowr Desision tree
+Random foreb, SVM,
+eutal nrorks
+
+Rrgrevlow, Support
+Aeetor Regresiob c
+
+Hình 6.10. Các kỹ thuật trong học máy
+
+Học có giám sát: cả đầu vào và đầu ra của mô hình được
+định nghĩa trước khi huấn luyện dữ liệu, sau đó giảm dần sai so
+bằng cach so sánh đầu ra được dự đoán và đầu ra mong muốn.
+Một số kỹ thuật học có giám sát như: Hồi quy logic, Hồi quy
+
+151

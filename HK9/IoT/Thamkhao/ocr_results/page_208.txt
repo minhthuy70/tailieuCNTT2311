@@ -1,0 +1,48 @@
+thiết bị IJoT đã được nhắc đến trên đây. Về mặt phần mềm, đề
+giảm kích thước sử dụng bộ nhớ, các hệ điều hành thường fflrơc
+tối giản các chức năng và sử dụng thư viện bên thứ _ba ở mức tối
+thiểu. trong khi đó, các ứng dung Học sâu lại yêu cầu tài nguyên
+cao và sử dụng năng lượng nhiều. Hơn nữa, các kỹ thuật học sâu
+thường sử dụng thư viện của bên thứ ba, và khó có thể tích hợp
+vào các thiết bị IoT.
+
+Sensing noú6 Perpeplion nodb Action noón
+
+AC, TemsorRT A§G
+
+[ ]
+
+L đf | - MI© . afe -. Tesnriw pmưag - < TZ |
+s ì ạ đ ths ` —
+
+Iw | !
+
+I5 | |
+
+¬ Ị | ‹m
+
+0amma Ề | I ì Aam C."1= Ì
+Ỉ Ỉ
+
+| | |
+
+| | Lưn] '
+
+| | |
+
+l Ị
+
+Unlork u
+
+1ghtweight meeage-passing peotooot
+
+Hình 8.1. Kiến trúc phần cứng IoT ứng dụng Học sâu |38J
+
+Hình 8 1 mô tả kiến trúc phztn cứng IoT được các tác ggla
+[38] đề xuất. &x khác biệt của kiến trúc này so với k1en trúc phần
+cứng IoT truyen thống là thành phzJ.n biên dịch và tối ưu các mô
+hình học sâu đề thực thi trên thiết bị IoT và hệ điều hành nhỏ,
+nhẹ (lightweight), có thể thực thi đa tác vụ (multtasking), giao
+tiếp giữa các tác vụ.
+
+188

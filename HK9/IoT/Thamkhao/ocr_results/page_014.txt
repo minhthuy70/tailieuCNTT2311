@@ -1,0 +1,68 @@
+IHình 2.14.
+
+Hình 2.15.
+
+Hình 2.16.
+
+Hình 3.1.
+Hình 3.2.
+Hình 3.3.
+Hình 3.4.
+Hình 3.5.
+Hình 3.6.
+Hình3.7.
+Hình 3.8.
+Hình 3.9.
+Hình 3.10.
+Hình3.11.
+Hình 3.12.
+Hình 3.13.
+
+Hình 3.14.
+
+Hình 3.15.
+Hình 3.16.
+
+Hình 3.17.
+Hình 3.18.
+Hình 3.19.
+
+xIi
+
+Kiến trúc của Chính quyền thành phố trong dự
+
+án Thành phố thông minh của Barcelona............. 28
+Chiến lược thành phố thông mỉnh của
+Copenhagen.....................................-.nnGnGGnnennnnnens n 29
+Kiến trúc của một ứng dụng nông nghiệp
+thông minh.........................ỗ.ồ.ồ.ồ.ồ.ồcồ.ồ.ồ..GGssseeeeeceeeee n 30
+Kiến trúc full mesh..........................................---G.-. 33
+Kiến trúc Partial Mesh......................................... 33
+Kiến trúc Tree
+
+Kiến trúc Ring
+
+Kiến trúc chuỗi............................................ 35
+Star Topology....................................ồồồồồồ.ồ.cceeensnsne. 35
+Kiến trúc lưới.............................-------G-G-G-KG-M-G-Knnn---rn. 36
+Kiến trúc dựa theo cụm (cluster-based)................ 37
+Kiến trúc tributary - delta ..................................... 37
+Kiến trúc dựa theo làn sóng..... 38
+Kiến trúc mạng 6LoWPAN [3]......................... 40
+Mô hình phân lớp 6LoWPAN Stack.................... 41
+Minh họa cấu trúc phần đầu gói tin IPv6 trong
+6LoWPAN........................GnG.nnnnennnnnnneneneneneneeenne re 43
+
+Cách bố trí các header để truyền dữ liệu trong
+mạng 6LoWPAN...................................................
+
+Mô hình truyền dẫn mạng Zigbee.
+
+Các chồng giao thức tham chiếu giữa 802.15.4
+và Zigbee...................................................ồ.ồ.nsesee..
+
+Cầấu trúc frame của chuẩn 802.15.4..
+
+Cấu trúc superframe của 802.15.4......................... 48
+Data Frame trong chuẩn 802.15.4........................ 49
+

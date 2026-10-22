@@ -1,0 +1,65 @@
+5.2.3. Mô hình laaS
+
+Các dịch vụ trên hạ ưỀng điện toán đám mây được phát triển
+
+theo 3 loại mô hình dịch vụ đó là:
+
+s Infrastructure as a Service (IaaS).
+s Platform as a Service (PaaS).
+s Software as a Service (SaaS).
+
+S S * Mobile device; VVeb-based applications
+aa * General application; Business services
+pp
+I
+¡* Development toois; Control Interface; Runtime
+
+P a aS Environments
+
+* Resouroe management; Fault Tolerance; Load
+„ Balancing; Dynamic Provisioning
+
+FResource Management Interface; System
+Monitoring Interface
+
+Virtualization; Network; Computing; Storage; IO
+
+HHình 5.2. Các mô hình dịch vụ điện toán đám mây
+và các thành phần cầu tạo
+
+Mô hình IaaS có khả  năng cung cấp cho người dùng các tài
+
+nguyên cơ bản của hệ thống tính toán như bộ xử lý, bộ lưu trữ,
+
+kha
+
+năng kết nối mạng, hạ tằng mà qua đó người dùng có thể
+
+triển khai và chạy bất kỳ ứng dung nào nền tảng một hệ điều
+hành được chọn. Hình 5.3 mô tả kiến trúc của mô hình IaaS:
+
+104
+
+R**s……M…ẹsatrmam` Inlefaee. -
+
+VIRTUALIZATION LAYER
+
+mmwungS stem Ị Ne1\ơ\rn›fIcsysẢ\eưn
+
+n
+
+Hình 5.3. Kiến trúc mô hình JaaS
+
+w
+
+œ
+
+4
+rSài
+55I
+œi
+b
+]
+4
+E4
+

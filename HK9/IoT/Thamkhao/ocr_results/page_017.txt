@@ -1,0 +1,72 @@
+Hình 6.10.
+Hình 6.11.
+
+Hình 6.12.
+Hình 6.13.
+
+Hình 7.1.
+Hình 7.2.
+
+Hình 7.3.
+
+Hình 7.4.
+Hình 7.5.
+Hình 7.6.
+Hình 7.7.
+
+Hình 7.8.
+Hình 7.9.
+
+Hình 7.10.
+
+Hình 7.11.
+
+Hình 7.12.
+
+Hình 7.13.
+Hình 7.14.
+
+Hình 7.15.
+
+Hình 8.1.
+
+Các kỹ thuật trong học máy
+
+Minh họa kết quả của quá trình phân lớp bằng
+kỹ thuật SVM................................................G.G. 152
+
+Ví dụ về Học không giám sát ... .153
+Hoạt động của học tăng cường............................ 153
+Sơ đồ trạng thái của Deluge.............................. 162
+Tổ chức vùng nhớ ROM/RAM trên
+Contiki.................................ồGCnnsneeeeeeeee ee ee 163
+Câu lệnh truy vấn và kết quả được truyền đi
+
+trong mạng .164
+Kiến trúc tổng quan cơ chế pub/sub.................... 166
+Kiến trúc mạng pub/sub..................................... 166
+Kiến trúc nốt MATE........................................ 167
+Kích thước mã nguồn các thành phần trong
+
+nôt MATE.................................GnnGGnnnnnnnnnennnnennenn. 167
+Mô hình tổng quan MOSDEN........................ 169
+Biểu diễn gói dữ liệu trên Deluge.................... 170
+Quá trình thay thế một sketch trên vùng nhớ
+
+của ESP8266...................................................... 172
+Giải pháp cải tiền tái lập trình từ xa qua mạng
+
+trên ESP8266.................................................. 174
+Mô hình tái `cấu hình OTA cho thiết bị
+
+Raspbcrry Pi băng Mender............................... 176
+So sánh kiến trúc Docker và VM...................... 177
+
+Công nghệ SDN dùng trong kiến trúc hệ
+thông IJoT......................................GGnGnnnnnnnnneG--GGne -.
+
+Kiến trúc nền tảng SD-IoTR đề xuất
+
+Kiến trúc phần cứng IoT ứng dụng Học sâu. 188
+
+xV

@@ -1,0 +1,48 @@
+Một số đặc điểm của giao thức JDeluge
+
+Đầu tiên khả năng nhận biết mật độ dày đặt (density-
+
+aware), những nơi quảng bá các thông điệp yêu câu không cân
+thiết sẽ được giảm xuống tối đa.
+
+Thứ hai, yêu cầu WSN phải đảm bảo liên kết bất đồng bộ,
+một liên kết trong một hướng có thể có những 1loss rate khác
+nhau với hướng khác. Sử dụng cơ chế bắt tay 3 bước. Thêm vào
+đó, nếu không thể nhận đầy đủ dữ liệu sau khi thực hiện k lần
+request, nó sẽ tìm một neighbor để request data thay vì phải
+trông chờ vào liên kết kém.
+
+Thứ ba, Deluge điều chỉnh linh hoạt tốc độ quảng cáo để
+cho phép lan truyền nhanh khi cân thiêt trong khi có thễ làm tăng
+việc tiêu thụ tài nguyên.
+
+Thứ tư,y Deluge cố gắng làm giảm tối thiểu việc nhiều node
+broadcast cùng lúc.
+
+Cơ chế biểu diễn dữ liệu trên JDeluge
+
+Để quản lý lượng lớn data object, Deluge chia nó mjhành
+các fñxed-size pages. Page là đơn vị cơ bản của việc truyền gửi
+và có 3 ưu điểm:
+
+s Hạn chế số lượng trạng thái mà bên nhận phải duy trì
+
+trong lúc nhận dữ liệu.
+
+s Nâng cấp hiệu quả từ một phiên bản trước.
+
+s Cho phép spatial] multiplexing (ghép kênh) giúp hoạt
+động song song.
+
+Object l
+
+]
+
+Page
+
+Packet
+
+Hình 7.9. Biểu diễn gói dữ liệu trên Deluge /18J
+
+170
+

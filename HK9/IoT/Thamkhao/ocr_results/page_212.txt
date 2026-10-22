@@ -1,0 +1,22 @@
+36.
+
+37.
+
+38.
+
+192
+
+Abu Sufian, Anirudha Ghosh, Ali Safaa Sadiq, Florentin Smarandache,
+A Survey on Deep Transfer Learning to Edge Computing for Mitigating
+the COVID-19 Pandemic, Journal of Systems Architecture, Volume
+108,2020, 101830, JSSN 1383-7621,
+https://doi.org/10.1016/j.sysarc.2020.101830.
+
+W. Y. B. Lim et al., “Federated Learning in Mobile Edge Networks: A
+Comprehensive Survey” in IEEE Communications Surveys ' &
+Tutorials, vol 22, no. 3, pp.2031-2063, third quarter 2020, doi:
+10.1109/COMST.2020.2986024.
+
+Tang, Jie & Sun, Dawei & Liu, Shaoshan & Gaudiot, Jean-Luc. (2017).
+Enabling Deep Learning on IoT Devices. Computer. 50. 92-96.
+10.1109/MC.2017.3641648.

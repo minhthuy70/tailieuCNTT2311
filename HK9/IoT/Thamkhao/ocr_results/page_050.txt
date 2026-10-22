@@ -1,0 +1,37 @@
+Cloud Computing, Big Data, Data Analytc, AL... là một giải
+pháp hoàn chỉnh cho Nông nghiệp hiện đại. Ngoz11 ra, nông
+nghlep hiện đại đang tìm cách tk1z1y đổi nông nghiệp truyền
+thống thành chất lượng cao, năng suất cao, tiết kiệm chỉ phí và
+
+tài nguyên. 0 mô tả kiến trúc của một hệ thống nông nghiệp
+thông minh.
+
+Cũng giống như các ứng dụng thong mình khác, một giải
+pháp Nông nghiệp thông minh bao gôm 4 lớp: WSN, Edge,
+Cloud Comput1n1cg và Service. Các thông tin về môi trường như
+nhxet độ, độ âm, ánh sáng.... được thu thập qua cảm biến và gửi
+về Cloud thông quá các nút biên (Edge), các dịch vụ lưu trữ,
+phân tích được thực hiện ngay tại Cloud và đưa Ia các quyết
+định và U'uyen các tín hiệu điều khiển này ngược về các nút tại
+WSN để điều khiển các thiết bị như máy bơm nước, đèn,...
+
+,' Người Ứng Phân | Truyền Thiết
+dùng dụng tích thông bị
+=
+⁄;1ị1..<#.
+x L
+s ILlrg r-›(Ầ))*Ễ“J\ ®
+ffl `-- "~\ư
+| =
+[9\ )
+
+Hình ZÌ 6. Kiến trúc của một ứng dụng nông nghiệp thông mìinh
+
+Hình 2.16 mô tả kiến trúc của một ứng dụng Nông nghiệp
+thong minh. Lớp đầu tiên của k1e'n trúc này là Lớp thiêt bị. Các
+đối tượng trong lớp này bao g›m máy móc trong 'nông nghiệp,
+vật nuôi, cây trÔng.... được găn các thiết bị cảm biến đề thu thap
+dữ liệu từ môi trường thực tế. Sau đó, dữ liệu này được truyền
+
+30 >
+

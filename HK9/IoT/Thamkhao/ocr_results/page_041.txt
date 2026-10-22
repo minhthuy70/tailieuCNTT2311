@@ -1,0 +1,48 @@
+City Layer
+
+Blocked Ahernative
+` 4 - Porl tor Video VOAN:
+>„. REP Sogment100. ;° 7 ° G
+. ^ Aggregahori
+Ẻ == 76 Switch
+m x
+l ¡
+Street Lay©f i duatriai l Industrial
+Đwtten l I Đwliych
+| ø .
+. Switch
+- Ront AP. ửf~ -
+
+Aggreualion
+Swich E,
+
+10bp5
+
+Hình 2.9. Kiến trúc mạng phổ biến trong city layer
+(Nguồn: Cisco Press)
+
+JData center layer: Dữ liệu thu thập từ Street layer sẽ được
+chuyển fiẻp đến Data center ủyer Lớp này chịu trách nhiệm lưu
+trữ, xử lý để đưa ra các quyết định. Dựa vào quá trình xử lý, các
+quyết định hay các thông tin tiềm ẩn sẽ được rút trích. Ví dụ,
+trong ứng dụng giao thông thông minh, dữ liệu từ các camera
+toàn thành phố sẽ được đưa về Data center. Nơi đây sẽ xử lý,
+phân tích để đưa ra các thống kê về tình trạng giao thông thành
+phố. Từ đó, các quyết định sẽ được đưa ra để điều khiển hệ
+thống đèn giao thông tại các giao lộ sao cho giảm thiểu tình
+trạng ùn tắt giao thông.
+
+Thông thường, Data center layer được xây dựng trên kiến
+trúc Cloud Computing. Kiến trúc Cloud Computing sẽ được
+trình bày chi tiết trong Chương 5 của giáo trình này.
+
+Service layer: Cuối cùng, dữ liệu sau khi xử lý, phân tích có
+thế cung cấp cho những người dùng khác nhau trong thành phó.
+Các ứng dụng trong thành phố thông minh cung cấp những dữ
+liệu khác nhau về mức độ chỉ tiết cho từng loại người dùng, bao
+gồm: các cơ quan điều hành của thành phố, người dân trong
+thành phố và các cơ quan/doanh nghiệp liên quan.
+
+21
+
+`

@@ -1,0 +1,45 @@
+rộng hệ thong bằng việc cho phép chia sẻ tài nguyên dựa trên
+nhu cầu khi trong lúc chạy (runtime needs).
+
+5.4. Các vấn đề tồn tại và hướng nghiên cứu trong tương lai
+
+Việc ứng dụng hạ mng điện toán đám mây cũng như tính
+toán cận biên trong hệ thong IoT hiện tại ở giai đoạn ban đầu và
+vẫn còn nh1eu thách thức, vấn đề tồn tại thu hút các nhà nghiên
+cứu. Một số vấn đề lớn có thể kể đến như sau:
+
+Tĩnh chất đa chủng loại của hệ thống JoT: như đã trình
+bày trong Chương 3, các thiết bị IoT thường rất đa dạng, mỗi
+loại lại có những đặc tính khác nhau và chạy các nền tảng phần
+mềm khác nhau. Sự khác biệt này gây khó khăn _trong việc xây
+dựng các tiêu chuẩn, kiến trúc chung khi phát triển và triển khai
+giải pháp IoT.
+
+Vắn đề quản lý tài nguyên: quản lý tài nguyên tính toán, tối
+
+ưu hiệu quả sử dụng tài nguyên, giảm thiểu lưu trữ dữ liệu
+
+không cần thiết luôn là nhu câu đặt ra trong cả điện toán đám
+mây và tính toán cận biên trong JoT. Rất nhiều nghiên cứu đang
+được thực hiện để giải quyết vấn đề này, bao gồm các giải pháp
+° liên quan tới content caching, offloading nhằm nâng cao hiệu
+quả sử dụng tài nguyên cũng như tăng cường trải nghiệm người
+dùng, đáp ứng tốt nhu cầu ngày càng cao của người sử dụng.
+
+Triển khai thử nghiệm thực tế: việc triển khai thử nghiệm
+các giải pháp IoT đặc biệt với quy mô lớn, sử dụng nhiều thiết bị
+thường tốn kém rất nhiều chỉ phí, thời gian và công sức. Chính
+sự khó khăn đã thúc đầẩy nhiều nhóm nghiên cứu thử hiện các
+
+giải pháp giả lập, mô phỏng với số lượng nốt lớn, tận dụng
+nguồn tài nguyên tính toán của hạ tằng điện toán đám mây.
+
+Vắn đề bảo mật, an toàn thông tin: an toàn thông tin và bảo
+mật luôn là vấn đề phải xem xét với bất kỳ hệ thong công nghệ
+thông tin nào. Đặc biệt, trong ngữ cảnh JoT, hệ thống thường
+bao gồm rất nhiều thành phần, rất nhiều thiết bị với tài nguyên
+và khả năng tính toán khác nhau, chính vì thế việc nghiên cứu
+các cơ chế, giải pháp an toàn thông tin trên thiết bị IoT, cung
+như toàn hệ thống luôn là thách thức lớn. Hiện nay, nhiều giải
+
+121

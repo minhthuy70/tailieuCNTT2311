@@ -1,0 +1,36 @@
+học máy lấy tập dữ liệu huần luyện và học các thuộc tính cụ thể
+trong đó để giảm thiểu lỗi trong quá trình đánh giá mô hình. Sau
+khi huấn luyện, mô hình được kiểm tra trên tập dữ liệu thử
+nghiệm để đánh giá hiệu quả của mô hình được chọn và dự đoán
+độ chính xác của mô hình khi sử dụng trong thực tế. Một mô
+hình có thể cho kết quả khác nhau nếu huần luyện và thử nghiệm
+trên những bộ dữ liệu khác nhau cho cùng một bài toán. Một số
+độ đo mô hình thường được sử dụng như: F1 Score, Mean
+Absolute Error (MAE), Mean Squared Error (MSE) để đánh giá
+tập dữ liệu thử nghiệm.
+
+ĐĐánh giá hiệu suất: Trong bước này, hiệu suất của mô hình
+được đánh giá để cải thiện trên cả tập dữ liệu huấn luyện và thử
+nghiệm. Một số phương pháp đánh giá khác nhau như: đánh giá
+chéo (Crossvalidation), điều chỉnh siêu tham số (Hyper-
+parameter tuning) hay sử dụng các thuật toán máy học khác
+nhau đề chọn thuật toán tối nhất.
+
+Data Collection
+Data Pre-processing
+
+Model bullding Le.
+Choosing the Appropriate
+MEL Algorithm
+
+AMiodel Training aud 1esting
+Performauce Evaluatioun
+
+AModel Execution or
+Pre0iction of Desired ,
+Results
+
+Hình 6.9. Quá trình xử jý trong học nưấy
+
+150
+

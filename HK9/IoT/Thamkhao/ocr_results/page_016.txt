@@ -1,0 +1,74 @@
+HổHình 5.3.
+Hình 5.4.
+
+Hình 5.5.
+Hình 5.6.
+Hình 5.7.
+
+Hình 5.8.
+
+Hình 5.9.
+
+Hình 5.10.
+
+Hình 5.11.
+
+Hình 5.12.
+
+Hình 5.13.
+
+Hình 6.1.
+Hình 6.2.
+Hình 6.3.
+
+Hình 6.4.
+Hình 6.5.
+Hình 6.6.
+Hình 6.7.
+Hình 6.8.
+
+Hình 6.9.
+
+XIV
+
+Kiến trúc mô hình IaaS.............................eeneeeee 104
+
+Minh họa kỹ thuật ảo hóa dựa trên máy
+
+áo (VM).......-nnnnnnneennnneeeeeeeenyssbssbebesee ee ee e ee 105
+Kiến trúc mô hình dịch vụ PaaS........................ 106
+Kiến trúc mô hình dịch vụ SaaS........................ 108
+Mô hình triển khai ảo hóa lớp 1 với
+OpenStack............................ồồ..cseeneesnenensneneneeenenenenr 109
+Tổng quan quá trình xây dụng và triển khai
+
+ảnh lên hệ thông mạng thử nghiệm WSN............ 110
+Minh họa triển khai kiến trúc mạng Mesh với
+
+nên tảng Docker Container................................. 112
+
+Minh họa triển khai kiến trúc mạng Tree với
+
+nên tảng Docker Container.................................. 113
+Minh họa triển khai kiến trúc mạng Tree với
+
+nên tảng Docker Container.................................. 116
+Kiếm trúc triển khai tính toán cận biên
+
+trong IoT
+
+Các công nghệ tính toán cận biên cho hệ
+
+thống IoT phân tán.......... .. 119
+Ứng dụng SmartLighting.................................. 128
+Vòng đời ngữ cảnh ...............................nsneeseeseenene. 130
+Thông tin liên quan đến IoT Node được xây
+
+dựng từ ontology.....................ồ.ồcceeeeeeenenensnennennnee. 134
+Sơ đồ fuzzy logic điều khiển nhiệt độ................ 139
+Mô phỏng điều khiển nhiệt độ Trường hợp 1.....142
+Mô phỏng điều khiển nhiệt độ Trường hợp 2.....142
+Mô phỏng điều khiển nhiệt độ Trường hợp 3.....143
+
+Quan hệ giữa Trí tuệ nhân tạo, Học máy và
+

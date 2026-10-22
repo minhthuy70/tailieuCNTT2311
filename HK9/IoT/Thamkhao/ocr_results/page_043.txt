@@ -1,0 +1,35 @@
+Tại Việt Nam, các dự án đường sắt đô thị cũng đang được
+xây dựng và đưa vào thử nghiệm tại Hà Nội và Thành phó Hồ
+Chí Minh. Mục tiêu của hai thành phố này là đưa ra giải pháp di
+chuyển tối ưu cho hành khách và hạn chế tối đa xe cá nhân, đặc
+biệt là xe máy trong thành phó. Bên cạnh đó, vấn đề khí thải từ
+các phưcyn,cg tiện giao thong cũng như mật độ phương tiện cung
+là một vấn đề lớn khi mỗi thành pho của Việt Nam đang có tốc
+độ đô thị hóa nhanh nhưng hạ ưmg giao thông chưa phát triển
+tương xứng. Do đó, giải pháp giao thông thông mình và phương
+tiện giao thông công cộng cũng được từng bước phát triển.
+
+2.2.3. Môi trường thông mình
+
+ÀMôi trường mong mìỉnh hay Môi trường xanh là một trong
+những chủ đề pho biến trong các thành phố thông minh. Các
+thành phố muốn giảm lượng khí thải carbon của họ. Một số nỗ
+lực đã được thực hiện theo những cách khác nhau như nâng ắp
+lên phương tiện xanh hơn (xe điện) và quản lý chất thải hiệu quả
+hơn. Ngoài ra, các tòa nhà thông minh có thể cải thiện môi
+trường và gam thiểu tiêu thụ năng mợng Môi trường thông
+mình bao gồm các yếu tố sau: cơ sở hạ tầng đô thị, lượng khí
+thải carbon, sử dụng nước và năng lượng, bảo vệ môi trường,
+quản lý tài nguyên bền vững....
+
+Hình 2.11 mô tả kiến trúc của một hệ thống Dự báo mức độ
+ô nhiễm không khí dựa trên bụi PM2.5. Các nút cảm biến thu
+thập dữ liệu về bụi PM2.5 và truyền về Gateway thông qua giao
+thức Zigbee. Dữ liệu từ Gateway sẽ được mlyền về và lưu trữ tại
+Cloud. Sau đó, dữ liệu này được xử lý, phân tích và đưa ra dự
+báo ủẵng các thuật toán Trí tuệ nhân tạo (các thuật toán này
+được trình bày trong Chương 6). Cuối cùng, dữ liệu và các mức
+cảnh báo, dự đoán được hiển thị trên thiết bị đầu cuối của người
+dùng (Mobile app hoặc Web app).
+
+23

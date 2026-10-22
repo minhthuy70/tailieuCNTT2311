@@ -1,0 +1,42 @@
+Công nghệ xử lý thông mình tại thiết bị cận biên
+
+Lượng dữ liệu không lồ từ các thiết bị IoT thu thập đóng vai
+
+trò quan trọng trong việc xây dựng các tập dữ liệu (dataset) dùng
+cho việc huấn luyện và phát triển các giải pháp máy học, các
+ứng dụng thông mình. Với kiến trúc tính toán cận biên, một số
+vấn đề kỹ thuật liên quan tới xử lý thông minh tại thiết bị cận
+biên có thể kể đến như ghi dữ liệu vào thiết bị cận biên như bộ
+nhớ đệm (content caching), triển khai các mô hình ML/DL tại
+th1et bị cận biên, phân tích dữ liệu lớn @1g data analysis). Những
+tiền bộ hiện nay trong mạng mạng viên thông di động cho › phép
+các thành phần mạng thực hiện các cuộc khao sát đay đủ ve điều
+kiện và tài nguyên mạng. thông qua các số liệu thống kê về mức
+độ phố biến của nội ủng, việc lưu dữ liệu vào bộ nhớ đệm
+(cache) tại các thiết bị cận biên chính xác góp phần sử dụng hiệu
+quả bộ nhớ cũng như cải thiện trải nghiệm người dùng. Bên
+cạnh đó, xu hướng hiện thực giải pháp ML/DL trên các hệ thc›ng
+IoT phân tán cho phép các thiết bị IoT có khả năng tự tổ chức
+(self-organizing), tự câu hình (self-configuring) mang đến hiệu
+
+quả cao trong các vấn đề liên quan đến cân bằng tải, phân phối
+tài nguyên thích ứng.
+
+Công nghệ quần lý kiến trúc hạ tầng linh hoạt
+
+Bởi vì trong hệ thống IoT có rất nhiều loại thiết bị khác
+nhau, mật độ dày đặt cho nên vấn đề quản lý hạ tằng mạng
+cũng là một thách thức thu hút sự quan tâm. Trước thực  trạng
+đó, nhiều công nghệ được nghiên cứu và hiện thực để đảm
+bảo khả năng quản lý linh hoạt, khả năng tái cấu hình, khả
+năng mở rộng. Công nghệ nổi bật gẫn đây là mạng định nghĩa
+qua phần mềm (software-defined network - SDN) và ảo hóa
+chức năng mạng (network function virtualization - NFV).
+Trong hệ thống IoT, SDN có thể được sử dụng điều khiển,
+ủuyển tiểp các tín hiệu điều khiển mồng dữ liệu dựa các thiết
+bị cận biên. quản lý sự di động... Công nghệ NFV thực hiện
+ảo hóa nhiều chức năng mạng trên thiết bị phần cứng được
+chia sẻ. NFV không chỉ giúp giảm độ phức tạp cho hệ thống
+mạng và công việc quản lý mà còn cải thiện khả năng mở
+
+120

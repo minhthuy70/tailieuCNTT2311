@@ -1,0 +1,34 @@
+standardization được chú ý nghiêm ngặt làm cho OS trở nên
+không linh hoạt và khó khăn khi port qua thiết bị khác. Các dạng
+OS kiểu này như: FreeRTOS, eCos, RTEMs, ThreadX. Trong đó
+FreeRTOS là một đại diện được dùng phố biến trong dạng này.
+
+„ Nội dung tiếp theo trong chương này giới thiệu một số hệ
+điều hành cụ thể được sử dụng trong các thiết bị IoT đã trưng đã
+trình bày trong chương 3.
+
+4.2.2. Hệ điều hành TinyOS
+
+TinyOS là OS phố biến nhất cho các ứng dụng WSN, mục
+tiêu hướng tới các thiết bị rất hạn chế, chỉ 8 bit tới 16 bit MCUs.
+Sử dụng ngôn ngữ NesC, hướng sự kiện (event-driven). Mã
+nguồn có sẵn trên Github dưới quyền BSD. TinyOS hỗ trợ giao
+tiếp mạng qua BLIP network stack để hiện thực mạng
+6LoWPAN.
+
+TinyOS là hệ điều hành nhỏ gọn, 'Tmã nguồn mở, tiết kiệm
+năng lượng khi hoạt động được phát triển tại UC Berkeley [7].
+
+Các ứng dụng TinyOS được tạo nên bằng ngôn ngữ NesC,
+một mở rộng của ngôn ngữ C dùng trong TinyOS [8].
+
+4.2.2.1. Cấu trúc một ứng dụng trên TìnyOS
+
+Một ứng dụng TinyOS thường gồm nhiều thành phần
+(component) chứa các interface được cấu hình liên kết lại với
+nhau để tạo nên các hoạt động của ứng dụng [9]. Hình 4.7 mô tả
+tổng quát các thành phần của một ứng dụng TinyOS.
+
+Hình 4.7. Các thành phần chính của một hệ điều hành cho thiết bị loT /5J
+
+73

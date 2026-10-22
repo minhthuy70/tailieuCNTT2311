@@ -1,0 +1,66 @@
+Hình 3.20.
+Hình 3.21.
+Hình 3.22.
+
+Hình 3.23.
+
+Hình 3.24.
+Hình 4.1.
+
+Hình 42.
+"Hình 4.3.
+Hình 4.4.
+Hình 4.5.
+
+- Hình 4.6.
+Hình 4.7.
+
+Hình 4.8.
+
+Hình 4.9.
+
+Hình 4.10.
+Hình 4.11.
+Hình 4.12.
+
+Hình 5.1.
+
+Hình 5.2.
+
+Minh họa mạng 802.11 theo kiến trúc hạ tầng.......54
+Minh họa mạng 802.11 theo kiến trúc ad-hoc....... 54
+Ánh xạ 802.11 trong mô hình OSI 7 tầng............ 55
+Các giao thức sử dụng trong hệ tl1ong mạng
+
+cục bộ không dây dựa trên chuẩn IEEE
+802.11 của mng vật lý (PHY layer) và tang
+
+con điều khiển truy cập môi trường truyền
+(MAC 1ayet)........................G.GGGGnnnnnnnnnnnnnnnnn rn 2Ồ.. 56
+Cấu trúc Media Access Control (MAC) ffame
+trong chuẩn không dây 802.11............................ 56
+Phân loại một số thiết bị phần cứng IoTs phổ
+biến...........................--HHHHnnnnnnnnnnn HHH nnnnnnnnnn n nn/... 65
+Thiết bị TelosB............................MM((nnnnn(((n 66
+Thiêt bị Arduino UNO.................................... 67
+Mạch WIFI ESP8266........................................
+Thiết bị Raspberry PI2......................................
+
+Thiết bị Raspberry Pi 4 Model B
+Các thành phần chính của một hệ điều hành
+
+cho thiết bị JoT...................................................-... 73
+Các thành phần trong một ứng dụng trên
+
+TinyOS.................................GGGGGGGnGHGnnnnnnnnnnnnn-ne-nn 74
+Cấu trúc của một gói tin message t................... 77
+Kiến trúc lớp trong CC2420 Radio Stack............. 82
+
+Sơ đồ các cơ chế giao tiếp trên Contiki
+Kiến trúc hệ điều hành Raspbian OS
+
+Kiến trúc tổng quan phân lớp Edge, Fog và
+Cloud trong JoT........................................G..GG..G-G..G.G.G.G. 97
+
+Các mô hình dlch vụ điện toán đám mây và
+các thành phần cầu tạo.................................... 104

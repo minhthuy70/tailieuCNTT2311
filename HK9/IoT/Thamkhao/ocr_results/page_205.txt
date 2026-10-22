@@ -1,0 +1,40 @@
+KẾT LUẬN
+
+Trong cuốn sách này, chúng tôi đã tập trung vào những nội
+dung sau:
+
+Clrương 1: Trình bày tổng quan về công nghệ Internet vạn
+vật (IoTs), các xu thế ứng dụng JoTs và các công nghệ liền quan
+cho đô thị thong mình ở V1et Nam. Trong Cìo chúng tôi đặc biệt
+chú trọng đến quy ủuan về JoTs của các tổ chức hoặc liên minh
+quốc te nhằm cung ơap đến người đọc, đặc biệt là sinh viên kiến
+thức về các tleu chuẩn IJoTs. Mục tiêu là để định hướng khi thiết
+kế và phát triển các u:ng dụng và giải pháp IoTs có tính tương
+thích (compatibility) và sẵn sàng cao (portibility).
+
+Chương 2: Trình bày các lĩnh vực và ứng dụng IoTs cụ thể
+nhằm giới thiệu đến sinh viên các ứng dụng JoTs thực tế. Để
+tăng tính thực tiễn, ủung tôi cũng đã giới thiệu các ứng dụng
+IoTs đã và đang triển khai ở Trường Đại học Công nghệ Thong
+tin — Đại học Quốc gia Tp.HCM, ví dụ như trạm quan trắc môi
+: trường SmartCity đặt trong khuôn viên Trường Đại học CNTT.
+
+Chương 3: Trình ủzy các kiến trúc mạng khác nhau được sử
+dung trong việc kiến thiết mạng IoTs như kiến trúc cây (Tree),
+kxen trúc vòng (Ring), kiến trúc chuỗi (Chain), kiến trúc không
+cần hạ tằng (Mesh). Các bộ gao thức mạng IoTs phổ dụng cũng
+đã được giới thiệu chỉ tiết về kiến trúc và cách vận hành. Trong
+khi bộ giao thức ZigBee đại diện cho xu hướng giao thức JoTs
+chạy độc lập, và do đó muốn kết nối đến thiết bị đầu cuối từ
+mạng Internet cằn thông qua một Internet gateway, bộ giao thức
+6LoWPAN đại diện cho xu mxơng mở rộng mạng IP (Spanning
+
+IP), tức là có thể truy cập và điều khiển trực tiếp mxet bị JoTs từ
+Internet.
+
+CIzu'on_g 4: Trình bày w: các nền tảng phần cứng và phần
+mềm phổ dụng để phát triển các ứng dụng và giải phap IoTs
+hiện nay. Chúng tôi giới thiệu chủ yêu các nen tảng phần cứng
+dễ dàng làm việc với các nền tảng mã nguồn mở (open-source
+
+185

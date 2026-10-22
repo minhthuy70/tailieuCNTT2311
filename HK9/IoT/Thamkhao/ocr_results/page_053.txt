@@ -1,0 +1,34 @@
+3.1. Các kiến trúc mạng dùng trong JoT
+3.1.1. Một số kiến trúc mạng đơn giản
+
+XKiền trúc mắt lưới (nesh)
+
+Trong mô hình mạng Mesh, gói tin từ một nút có thể có nhiều
+đường đi đến đích. Đây là một trong những ưu điểm của mô hình
+mạng mesh ựrong mô hình dạng vòng mặc dù có hai đường đi, tin
+nhắn chỉ có thể đl theo một hướng). Trong Hình 3.1, các nút có
+thể kết nối đến tất cả các nút còn lại trong mạng được gọi là một
+mạng mesh ủy đủ (full m<zsh) 1“rong Hình 3.2, Mô hình mạng
+mesh có một số nút có kết nối gián tlep đến các nút khác trong
+mạng được gọi là mạng mesh một phần (partial mesh).
+
+Hình 3.1. Kiến trúc full mesh Hình 3.2. Kiến trúc Partial Mesh
+
+Xiền trúc cây (tree)
+
+Mạng sử dụng một hub trung tâm được gọi là một nút gốc,
+xem như là một bộ định myến thông tin liên ảc chính. Hình 3.3
+mô tả một hệ thống phân cấp, cấp dưới nút gốc là các hub trung
+tâm, mức thấp này tạo thành một mạng sao. Các mạng dạng cây
+có thể được coi là sự lai tạo của mạng hình sao và mạng Peer to
+Peer. Trong đường dẫn mạng cảm biến có thể là single hop hoặc
+mulu ủ›p, các nút cảm biến nhận dữ liệu của môi ưương TÔi gửi
+chúng đến bộ phận thu nhận (Sink), sau đó, chuyển tiếp chung
+đến các nút cha mẹ. Điều quan trọng kì để tìm fflrơng đl ngăn
+
+. nhất sao cho tối ưu với thời gian sống tối đa và độ trễ ngắn hơn
+mặc dù độ phức tạp thời gian hơi cao nhưng phù hợp hơn cho
+việc thực hiện phân phối. Mạng dạng cây có vấn đề trong
+
+33
+

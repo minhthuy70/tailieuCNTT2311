@@ -1,0 +1,40 @@
+3.2. Các bộ giao thức mạng không dây thường dùng
+trong JoT
+
+Đề triển khai đưc>'c các kiến trúc ưuyen tải dữ liệu như trình
+bày ở phần trên, các nền tảng phan mêm, hệ điều hành chạy trên
+thiết bị JoT phax hỗ trợ các chuan kết nối khong ủy mà ở đó
+những cơ chế, giải thuật định tuyen điều khiển kết nối giữa các
+thiết bị hoạt động đúng như thiết kế. Tập myp tất cả cơ chế, giải
+thuật, quy trình đó được định nghĩa và thiết kế theo một tiêu
+chuan mạng, tạo nên các bộ giao thức mạng đảm bảo chức năng
+truyền gửi dữ liệu và tín hiệu điều khiển trong mạng cảm biến
+không dây cũng như mạng Internet bên ngoài.
+
+Trong kiến trúc mạng IoT, có hai cách tiếp cận để các thiết
+bị IoT có thể truyền dữ liệu ra bên ngoài mang Internet đó là (i)
+th1et bị IoT có một địa chỉ mạng riêng biệt fflla chỉ IPv6) để gao
+tiếp trực tiếp với mạng bên ngoài; (ïi) các thiết bị IoT giao tiếp
+nội bộ trong mạng IoT của mình, sau đó gửi dữ liệu ra ngoài
+thông qua thiết bị cổng (IoT Gateway) hoặc các thiết bị trạm
+(base ửatlon) Hai bộ giao thức mạng đặc trưng cho hai cơ che
+kết n01 này đó là bộ giao thức 6LoWPAN (thiết bị IoT kết nối
+trực tiếp với mạng bên ngoài qua IPv6) và bộ giao thức Zlgbee
+Ben cạnh hai bộ giao thức đặc trưng đó, ngay này giải pháp kết
+nối thiết bị IoT qua mạng WLAN truyền thống cũng được sử
+dụng phổ biến trong các ngữ cảnh đơn giản. Đặc biệt, với sự ra
+đời của các nền tảng phần cứng hỗ trợ kết nối Wiñi như
+ESP8266, ESP32 cho phep người mới bắt đầu với cong nghệ
+IoT có thể hiện th11'z giải pháp IoT đơn giản với kết nốổi Wif
+quen thuộc. Phần nep theo của phan này, trình bày chỉ tiết đặc
+trưng kỹ thuật của các bộ giao thức không dây vừa kể trên.
+
+7.2.1. Độ giao thức 6LowPAN
+
+6Lowpan là viết tắt của “IPv6 over Low-Power Wireless
+Personal Area Network”, là công nghệ mạng cho phép gói tin
+IPv6 được sử dụng trong những link layer nhỏ như định nghĩa
+trong IEEE 802.15.4. Là lựa chọn tốt cho các ứng dụng IoT khi
+mạng cảm biến \ không dây có kích thước lớn [3].
+
+39

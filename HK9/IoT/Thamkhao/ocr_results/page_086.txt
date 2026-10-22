@@ -1,0 +1,36 @@
+4.1.2. Thiết bị cắm biến không dây TelosB
+
+'TelosB là loại thiết bị cảm biến không dây tiết kiệm năng
+lượng, được xếp vào loại thiết bị IJoT thuộc lớp 0 như đã trình
+
+bày ở phần trên. 0 là hình ảnh bề ngoài của thiết bị TelosB.
+TelosB có đặc điểm như sau:
+
+s Tương thích chuẩn IEEE 802.15.4.
+
+s Tốc độ truyền dữ liệu 250kbps.
+
+s Vi điều khiển TI MSP430, 10kB RAM.
+
+s 1 MBexternal flash để thu thập dữ liệu.
+
+s Ăn-teng tích hợp trên mạch:
+
+s Thu thập dữ liệu và lập trình qua công USB.
+
+s Hỗ trợ hệ điều hành mã nguồn mở: TinyOS, Contiki.
+
+s Tích hợp sẵn 3 loại cảm biến: nhiệt độ, độ ẩm, ánh sáng.
+
+Hình 4.2. Thiết bị TelosB
+
+4.1.3. Thiết bị nhúng Arduino
+
+Board mạch Arduino đa dạng, từ đơn giản 8-b MCU tới
+những sản phấm phục vụ thiết bị có thể mang theo tới các máy
+in 3-D... Nhiều nhà nghiên cứu, sinh viên thực hiện các dự án
+với Arđuino và cung cập nhiều hướng dẫn, hỗ trợ online. Một số
+đòng thiết bị nổi tiếng như Arduino Vun, với board Wi-Fi (IEEE
+802.11 b/g/n) và Ethernet (IEEE 802.3 10/100Mb/s). Board này
+
+66

@@ -1,0 +1,36 @@
+PHẦN MỞ ĐẦU
+
+Trong bối cảnh cuộc cách mạng công nghiệp 4.0 và xã hội
+đang ngày càng phát triển, công nghệ Internet vạn vật IoTs/5G
+và kỹ thuật xử lý dữ liệu lớn (Big Data), trí tuệ nhân tạo (Al)
+đóng vai trò quan trọng trong việc tạo ra những đổi mới đột phá
+trong công nghệ thông tin (CNTT) và truyền thông, và các lĩnh
+vực ứng dụng liên quan. Thành phố thông minh (Smart Cities) là
+một trong những ứng dụng như vậy, đã thu hút được sự chú ý
+lớn từ các chính phủ, cộng đồng ngành học thuật và CNTT tại
+nhiều quốc gia. Đặc biệt, Big Data/AI và IoTs/5G cung cấp các
+công cụ và công nghệ cho phép quan trọng để thúc đẩy sự
+chuyển đổi số (Digital Transformation) của các thành phố lớn
+trên toàn thế giới thành những nơi đáng sống, làm việc và tận
+hưởng. Các công nghệ IJoTs/5G mới, một khi được tích hợp
+đúng vào cơ sở hạ tằng thành phố thông minh (Smart Cities), có
+thế hỗ trợ số lượng lớn kết nối không dây từ các loại thiết bị
+không dây khác nhau (ví dụ: cảm biến, máy ảnh, thiết bị thực tế
+ảo VR/AR, xe thông minh) thông qua môi trường mạng tốc độ
+cao, ưuyền dữ liệu cực kỳ đáng tin cậy và độ trễ thấp. Ngoài ra,
+các công nghệ JoTs/5G cho phép truyền thông, lưu trữ và xử lý
+dữ liệu hiệu quá, rất cần thiết để xử lý và phân tích lượng dữ liệu
+thành phố thông mình khổng lồ và chuyển dữ liệu thu thập được
+thành các quy trình giám sát, ra quyết định và ứng dụng kịp thời
+cũng như cung cấp các địch vụ kỹ thuật số đa phương tiện phong
+phú đến di động cho người dân thành thị.
+
+Giéao trình này được viết với mục tiêu mang lại những kiến
+thức nền tảng về công nghệ Internet vạn w1t lĩnh vục ứng dụng
+và các công nghệ liên quan nhằm cung cấp đến sinh viên các
+khái niệm mới, trị thức và tiêu chuẩn mới trong lĩnh vực IoTs và
+các công nghệ liên quan như điện toán đám mây (cloud
+computing), tính toán cận biên (edge computing), để sinh viên
+có thể phát triển ứng dụng và giải pháp IoTs hoàn chính. Các
+
+l

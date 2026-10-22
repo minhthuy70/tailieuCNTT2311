@@ -1,0 +1,24 @@
+tuyến tính, K láng giềng gần nhất, Máy hỗ trợ véc tơ, Naïve
+Bayes, Mạng Nơ-ron. Các thuật toán này được chia làm 2 nhóm:
+phân loại và hồi quy. Đối với phân loại, đầu ra là các giá trị xác
+định hoặc các ga trị rời rạc, trong khi hồi quy cho ra các giá trị
+
+liên tục trong đầu ra. 0 mô tả kết quả của quá trình phân lớp dựa
+trên kỹ thuật Máy hỗ trợ véc tơ.
+
+.Hình 6.11. Minh họa hthua của quá trình phân lớp
+Mng kỹ thuật SƯM
+
+FIọc không giám sát: Chỉ dư liệu đầu vào được xác định, dữ Ầ
+
+liệu đầu ra không được wng cấp sẵn. Các mô hình được sử dụng
+để huấn luyện tập dữ liệu để sau đó cho ra kết quả không đoán
+trước được. Kỹ thuật này được chia làm hai nhóm: phân cụm và
+nén dữ liệu. Trong phân cụm, dữ liệu được gom nhóm dựa trên
+các điểm tương đồng và khác biệt giữa các mẫu, trong khi đó,
+quá trình nén dữ liệu làm sao giảm kích thước dữ liệu đến mức
+tối thiểu đến mức cần thiết, ví dụ như giảm số chiều của dữ liệu
+có nhiều chiều. Hình 6.12 mô tả kết quả phân chia 3 cụm trong
+kỹ thuật phân cụm dữ liệu.
+
+152

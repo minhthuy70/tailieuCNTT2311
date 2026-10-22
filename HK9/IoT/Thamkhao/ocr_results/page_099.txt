@@ -1,0 +1,45 @@
+payload, nếu tham so jen lớn hơn giá trị /zaxPayloadLength, thì
+getPayload sẽ trả về NULL.
+
+'Sending interfaces
+
+Có nhiều loại interface để gửi gói tin đi, tương thích với
+nhiều kiểu đánh địa chỉ khác nhau. Chẳng hạn với các giao thức
+địa chỉ tự do, như collection routing, cung cấp interface cơ bản là
+Send. Việc giao tiếp Act1ve message có một địa chỉ đích của một
+AM adress, nên nó cung cấp AMSend interface. Sau đây là Send
+
+interface đơn giản
+1nterface Send {
+command error_tsend(message_t* msg, uint8 t len);
+command error_t cancel(message_t* msg);
+event void sendDone(message_t* msg, error_t error);
+
+command uint8_t maxPayloadLength0;
+
+command void* getPayload(message_t* msg, uint8 t len);
+}
+trong khi AMSend được định nghĩa như sau:
+interface AMSend {
+
+command error t send(am addr t addr, message t* msg, uint§ t
+len);
+
+command error_tcancel(message_t* msg);
+event void sendDone(message_t* msg, error_t error);
+
+command uint8_t maxPayloadLength0;
+command void* getPayload(message_t* msg, uint8_t len);
+
+}
+
+Các interface đề gửi phải bao fgồm 4 câu lệnh và 1 sự kiện
+tương tự như trên. Câu lệnh send cho phép gửi gói tin đi, trong
+khi lệnh cancel cho phép bên gửi hủy lượt gửi hiện tại. Nếu có
+một sự kiện sendDone chưa giải quyểt và lệnh caricel trả về là
+SUCCESS thì việc gửi đi phải bị hủy và phải có báo hiệu
+sendDone là ECANCEL như một mã lỗi. Nếu có sự kiện
+sendDone chưa giải quyết mà lệnh cancel trả về lè FAHL, thì
+sendDone được diễn ra như là lệnh cancel không được gọi
+
+79

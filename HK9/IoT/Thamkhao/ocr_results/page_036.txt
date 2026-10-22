@@ -1,0 +1,31 @@
+lỪ Tou Senen
+
+i Emergoney bưten
+Renoto Contoil m
+
+Hình 2.4. Các thiết bị trong smart home [29J
+
+2.2. Thành phố thông minh (Smart city)
+
+Smart cities - Thành phố thông minh là một bước tiến mới
+cho sự phát triển đô thị. Trong đó, cơ sở hạ tằng công nghệ
+thông tin và truyền thông (Information and Communication
+Technology - ICT), bao gồm các lĩnh vực trọng tâm như trí tuệ
+nhân tạo, điện toán đám mây phân tán và mạng cảm biến - được
+tích hợp vào cơ sở hạ tầng của thành phố, nhằm tăng chất lượng
+cuộc sống của người dân và góp phần vào phát triển bền vững.
+Mục tiêu cuối cùng của Thành phố thông minh là cải thiện chất
+lượng cuộc sống người dân, quản lý giao thông, quản lý môi
+trường, và tương tác giữa người dân và chính quyền. Hình 2.5
+mô tả kiến hệ sinh thái của thành phố thông minh, bao gồm con
+người, các tổ chức và doanh nghiệp, các chính sách và tích hợp
+các quy trình. Bên cạnh đó, Hình 2.6 liệt kê một số thành phần
+trong kiến trúc Thành phố thông mình như: Tòa nhà thông minh,
+Giao thông thông mình, Môi trường thông minh, Sức khỏe thông
+minh, Năng lượng thông minh, Quản trị hệ thống thông minh....
+
+Với tốc độ đô thị hóa như hiện tại, dự kiến sẽ có khoảng
+60% dân sô trên thê giới sẽ sông ở các thành phô vào năm 2025.
+
+16
+

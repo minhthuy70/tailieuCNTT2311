@@ -1,0 +1,30 @@
+Jemeinl
+
+881:2258:1008
+
+7
+
+E:SSd0S8.00S9 S:SG22YBIOOS - 12€S-ð0%8:/00% - 18he:0208100S
+
+\t\VIEVNO.Vò owgt SÀ nồUA LV\.& ÀwX\
+
+6LoWPAN là chuẩn mở được định nghĩa trong REC 6282
+bởi IETE. Tính năng nổi bật của 6LoWPAN là ban đầu chỉ hỗ trợ
+cho IEEE 802.15.4 trong mạng cảm biến không dây tiết kiệm
+năng lượng trong băng tằn 2.4GHz nhưng giờ đây đã mở rộng ra
+nhiều loại mạng khác bao gồm Sub-l GHz low-power RF,
+Bluetooth, Smart Power Line Control (PLC) và low-per Wi-fi [3].
+
+3.2.1.1. Kiến trúc mạng 6LoWPAN
+
+Hình 3.11 trình bày kiến trúc mạng mesh 6LoWPAN.
+Hướng uplink ra Internet được quản lý bởi Access Point (AP)
+hoạt động như một IPv6 Router. Một số thiết bị khác kết nối vào
+Router như: PC, server... Mạng 6LoWPAN được kết nối với
+mạng IPv6 thông qua cdgc router. Các edge router quản lý 3
+việc là: 1) trao đổi dữ liệu giữa thiết bị chạy 6LoWPAN và
+Internet (hay mạng IPv6 khác); 2) trao đổi dữ liệu nội bộ giữa
+các thiết bị bên trong mạng 6LoWPAN; và 3) là tạo và duy trì
+radio subnet (mạng 6LoWPAN).
+
+40

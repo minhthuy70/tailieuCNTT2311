@@ -1,0 +1,42 @@
+điện toán đám mây (cloud computing) và tính toán cận biên
+(edge computing). Hình 1.3 mình họa ý †rương triển khai các ứng
+dụng và giải pháp IoTs trên cloud, bao gôm hạ Hìng kiến trúc
+mạng của một ứng dụng IoTs thực tế dự định được triển khai.
+
+ioTs Gal LOCAL STORAGE TC 1ocal Data Bas
+c ¡ ĩ…v —=m© t
+- HN
+
+IỊ ;
+À w @D`1f
+¬_
+duud mauorms
+
+1oTsEnd Devices
+
+⁄
+
+27 M2M Paa u…… SA
+
+¬
+
+.I._
+Hình 1.3. Kiến trúc mạng tông quan của một ứng dụng cloud-based JoTs
+(Nguồn: 1BM)
+
+12. Xu thế ứng dụng IoTs và các Ổng nghệ liên quan cho đô
+thị thông minh ở Việt Nam
+
+Công nghệ IoTs/5G và kỹ thuật xử lý dữ liệu lớn (Bxg
+Data), trí tuệ nhân tạo (AI)Š2 đóng vai trò quan trọng trong việc
+tạo ra những đổi mới đột phá trong CNTT và truyền thông, và
+các lĩnh vực ứng dụng liên quan. Thành phố thông minh là một
+trong những ứng dụng như vậy, đã thu hút được sự chú ý lớn từ
+các chính phủ, cộng đồng ngành học thuật và CNTT tại nhiều
+quoc gia. Đặc biệt, Big Data/AI và IoTs/5G cung wp các cong
+cụ và công nghệ cho "phép quan trọng để thúc đẩy sự chuyển
+đổi của các thành phố lớn trên toàn thế giới thành những nơi
+đáng sống, làm việc và tận hưởng. Các công nghệ IoTs/5G
+
+32_GSMA.com/IC, 1ntelligent Connectivity - How the combination oƒ 5G,
+-A4L, and ÏoT is set ío change the Americas.

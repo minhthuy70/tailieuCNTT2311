@@ -1,0 +1,41 @@
+Đây là hai nút thắt cổ chai lớn nhzẩt của Học máy và Học sâu
+Ở giai đoạn trước đây. Những năm gần ử1y, các hệ thống tính
+toán hỗ trợ Học máy và Học sâu phát triển mạnh mẽ và giá
+thành ngz1y cang thấp. Những phần cứng hỗ trợ Học máy và Học
+sâu có thể kể đến như CPU, GPU, TPU. Bên cạnh đó, lượng dữ
+liệu khổng lồ được tạo ra Mng ngày cũng là một động lực cho
+Học may và Học sâu phát triển. Bởi vì một trong những mục
+tiêu cuox cùng của Khoa học máy tính là có thể tlm ra những tri
+thức ẩn có trong dữ liệu có sẵn, hoặc từ dữ liệu có sẵn, máy móc
+có thễ xử lý và đưa ra các dự đoán trong tương lai.
+
+Hình 6.8 mô tả quan hệ giữa Trí tuệ nhân tạo, Học máy và
+Học sâu. Học máy là một tập con trong Trí tuệ nhân tạo và Học
+sâu là một tập con trong học máy.
+
+6.5.1. Học máy
+
+.Học máy là thuật ngữ mo tả quá trình xử ly dữ liệu như phân
+tích, dự đoán và đưa ra quyết định trong mỗi tổ chức. Đây là một
+nhành cua Trí me rxhan tạo, giúp máy tính có thể “học” mà
+khong cần hoặc cần rắt ít sự can th1ep của con người. Máy móc
+có thể tự đong điều chỉnh mà khong cân lập trình trước và đưa ra
+các quyet định tùy thuộc vào mỗi ngữ cảnh cụ thể. Hệ th0ng
+khuyến nghị trên các sàn thương mại điện tử là một ví dụ điển
+hình của ứng dụng học máy.
+
+6.5.1.1. Quá trình xử lý trong học máy
+
+Hình 6.9 mô tả quá trình xử lý trong học may Quá trình này
+bat đầu từ việc xác định được tập dữ liệu ban đầu, thong qua các
+yếu tố biến động, không chắc chắn, phức tạp và mơ hồ của dư
+liệu mà loại thuật toán học máy được sử dụng. Kết quả cuối
+cùng của thuật toán là đưa ra kết quả tương ứng với tập dữ liệu
+ban đầu và thuật toán được sử dụng.
+
+Thu thập dữ liệu: Đây là bước đầu tiên và quan trọng nhất
+trong quá trình thực thi học máy. Tại bước này, dữ liệu được thu
+thập liên quan đến việc phát biểu bài toán. Dữ liệu được thu thập
+
+148
+

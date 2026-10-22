@@ -1,0 +1,52 @@
+Emerging Technologies for Edge-loT Systems
+
+Resource Management
+
+đoïnt Conmmunication and
+
+Communication Resourees Computing Resonrees Computing Resonrens
+
+*Dynamic resource ailoeation +Dana ñlralion and malysis 1
+_ . x Takk ofloading.
+*AlI-to-one transmission ~Cloud-edge paradigme m cuáp pgriEHon
+“Cellular-assisted D2D *1oT đevice clustering Paritioning
++Vehieule log comppting
+L
+Intelligent Edge-loT Systems
+Context-nware Selorganizing
+
+Bịp data analytics Deep loaming In-network caching
+
+compwtinp capabiliics
+
+Flexible Infrastructure Management
+
+Reconfigurable Interoperability Self-organbring
+FPGA systeis and compatiblity fedtures
+
+SDN NFEV
+
+Hình 5.13. Các công rtghe fính toán cận biên
+cho hệ thống IoT phân tán /16]
+
+Công nghệ quản lý tài nguyên
+
+Đề hỗ trợ vấn đề quản lý tài nguyên cho hệ thống tính toán
+cận biên trong IoT các công nghệ liên quan tới tài nguyên truyền
+thông, tài nguyên tính toán được hiện thực. Liên quan tới tài
+nguyên truyền thông, để cải thiện tiết kiệm năng lượng, giảm
+quá tải khi trao đồi thông tin qua các nốt mạng, một số kiến trúc
+mạng, công nghệ mạng hiện đại được nghiên cứu và hiện thực
+như C-RAN, kiến trúc dựa trên SDN, 5G, LTE, WiFi, CoMP,
+millimeter wave (mmWave), massive-MIMO, Non-Orthogonal
+Multiple Access (NOMA). Hơn thế, truyền thông Device-to-
+Device (D2D) có thể làm giảm gánh nặng cho cả mạng di động
+và hạ tằng viễn mong bằng các cho phép các thiết bị IoT di động
+sử dụng các tần số ngoài băng và tận dụng lợi thế tính toán có
+sẵn từ các thiết bị xung quanh. Liên quan tới quản lý tài nguyên
+tính toán, kiến trúc phân lớp từ cloud tới edge và edge tới cloud
+cho phép tận dụng khả năng tính toán, xử lý thông minh tại thiết
+bị cận biên hay tại trung tâm dữ liệu thông qua các cơ chế phân
+phối tải thông minh.
+
+119

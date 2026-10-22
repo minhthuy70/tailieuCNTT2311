@@ -1,0 +1,32 @@
+mỗi nút trong mạng chaïn có đúng hai ngưti*1 hang xóm cho mục
+đích truyền thông. Nếu một nút trong chuỗi gặp vấn đề thì có thể
+ảnh hưởng đến việc gửi nhận thông tin của cả mạng.
+
+Hình 3.5. Kiến trúc chuôi
+
+Kiến trúc sao (Sfar)
+
+Mang hình sao được kết nối với một hub đóng vai trò là bộ
+phận ư'uyen thong trung tâm (Sink) và các nút (các nút này
+không thể giao tiếp trực tiếp với nhau). Hình 3.6 là một ví dụ về
+mô hình mạng sao có một nút trung tâm và năm nút đầu cuối.
+Toàn bộ thong tin liên lạc phải được định tuyến thông qua hub
+nung tâm. Mỗi nút là một “clent”, trong khi hub trung tâm là
+
+“server hoặc sink”. Nhưng mô hình này có nhược điểm là chỉ có
+một đường giao tiếp duy nhất.
+
+mHình 3.6. Star Topology
+
+Kiến trúc lưới (rid)
+
+Các trường cảm biến mạng được chia thành các fflxơng kẻô.
+Các vùng mạng được chia thành lưới ô vuông không chồng lên
+nhau với cùng một kích thước. Hình 3.7 mô tả một ứng dụng
+dựa trên kiến trúc lưới. Nên có ít nhất một và chỉ một nút trong
+trạng thái làm việc trong m01 lưới tại bất cứ khoảng thời gian
+nào. Để kéo dài thời gian sống mạng, các nút trong một mạng
+lưới nên hoạt đong lần lượt. Bên trong mỗi lưới, một nút được
+chọn như là lưới đầu tiên có trách nhiệm chuyển tlep thông tin
+
+35

@@ -1,0 +1,65 @@
+phù hợp với môi trường có nhiều ràng buộc về tài nguyên, năng
+lượng như trong mạng cảm biến không dây. [14]
+
+4.2.3.1. Cấu trúc THỘí Ứng dụng trên Contiki
+
+Các ứng dụng trên Contiki viết bằng ngôn ngữ C, và có cấu
+trúc như sau:
+
+//MỘt sẽ chú thích ve c.
+#inelude Acontiki.h”
+//xhởi tạc một process
+PROCESS(example, "Mô ta ứng dụng”);
+//example là tên của úng dụng
+
+//Nội dung trong "* là mô tả ngắn gọn
+AUTOSTART_PROCESSES(§example); //bắt đểi
+PROCESS_THREAD(example, ev, data) // định
+{
+
+PROCESS_BEGIN () ;
+
+//Nội dung chương trình, thông thường chứa câu lệnh:
+while(1)
+
+{
+
+//Chờ một sự kiện bên ngoài (external event) nào đó
+//Hay chờ bộ đếm thời gian
+
+//Chờ một sụ kiện nội bộ (internal event)
+
+//Sau đó làm một việc gì đó
+
+}
+
+PROCESS_END();//Kết thúc tiến trình.
+
+)
+
+của ứng dụng co
+
+n trình
+
+Biên dịch chương trình
+Đề biên dịch một ứng dụng Contiki, ta cần 3 file sau:
+
+- File ứng dung contiki chứa các hiện thực, định nghĩa ứng
+dụng (mã nguồn).
+
+- À4ake/ìje: cho phép chúng ta biên dịch và chỉ ra các file cần
+thiết cho ứng dụng, phải được lưu trong thư mục project,
+cùng chung với fñile nguồn ứng dụng ở trên. Một mẫu
+Makefile có dạng như sau:
+
+CONTIKI = ../..
+
+all: app-name
+inclade $ (ZONTIKI) /Vakefile.include
+
+D<›ng đầu tiên chỉ ra nguồn của thư mục Contiki (thông
+thường /home/user/Contiki); dòng thứ hai là ứng dụng để biên
+dịch và dòng cuôi cùng chứa định nghĩa của Contiki core system
+và trỏ ra tới Makefile riêng biệt của từng loại platform mà ta sử
+
+84

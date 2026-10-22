@@ -1,0 +1,41 @@
+phải phù hợp theo yêu cầu của vấn đề để độ chính xác của mô
+hình là cao nhất. Nếu dữ liệu được thu thập không liên quan
+hoặc rất ít liên quan đến vấn đề cần xử lý thì quá trình xử lý sau
+đó được xem là vô nghĩa. Bộ dữ liệu được thu thập trong quá
+trình này được gọi là dữ liệu huần luyện (training set).
+
+Ví dụ: nếu bài manlla xác định khuôn mặt một người thì dữ
+liệu ảnh thu thập phải bặt buộc có mặt người đó.
+
+Tiền xử iý dữ liệu: Trong bước này, kỹ thuật trích xuất các
+thuộc tính được sử dụng để dữ liệu thu thập được không đầy đủ,
+không nhất quán hoặc có sai sót hay nhiễu thành dữ liệu khả thi
+để thích ủrp với mô hình học máy. Sau khi loại bỏ các lỗi như
+không nhất quán, dư thừa và thiếu dữ liệu thì các thuộc tính
+được trích xuất và, sau đó, các thuộc tính này được sử dụng cho
+việc huấn luyện mô hình.
+
+Xây cỉu'›fzzg mô hình: _Đây là bước lựa chọn kỹ thuật học máy
+phù hợp đe đánh giá kết quả của bài toán được đưa ra lúc ban
+đầu. Một số kỹ thuật học máy khác nhau như: Học có giám sát
+(Supervised learning), Học không giám sát (Unsupervised
+learning) và Học tăng cường (Reinforced learning) được sử
+dụng. Một số thuật toán thường được sử dụng của các kỹ thuật
+này như Hồi quy logic (Logistic regression), Máy hỗ trợ véc tơ
+(Support Vector Machine - SVM), Naïve Bayes, Hồi quy tuyến
+tính (Linear regression), K-Trung bình (K-means).... Một số kỹ
+thuật trên đây phù hợp cho xử lý hình ảnh, một số khác được sử
+dụng trong xử lý tín hiệu như giọng nói, âm thanh, văn bản.
+
+Huần luyện và thử nghiệm mô hình: Sau khi chọn xong mô
+hình, dữ liệu từ kết quả của bước tiền xử lý được chia làm hai
+phần: Dữ liệu huấn _luyện (Training se9) và dữ liệu thử nghiệm
+(Test set). Tỷ lệ phần trăm của hai tập dữ liệu này trên tập dữ
+liệu ban đầu thường là 70/30, nghĩa là 70% dữ liệu ban đầu được
+sử dụng cho quá trình huấn luyện và 30% dữ liệu còn lại được
+sử dụng cho quá trình thử nghiệm. Tuy nhiên, tỷ lệ này không có
+định mà tùy thuộc vào tính chất của dữ liệu, mô hình được sử
+dụng và bài toán đặt ra. Trong quá trình huấn luyện, thuật toán
+
+149
+

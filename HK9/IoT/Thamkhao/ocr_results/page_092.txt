@@ -1,0 +1,35 @@
+Hình 4.6. Thiết bị Raspberry Pï 4 Model B
+
+Phân loại hệ điều hành cho thiết bịJoT
+
+Tương tự như sự đa dạng nen tảng ph'c1n cứng, các nền tảng
+phần mêm, hệ điều hành phát triển cho thiết bị IoT _cũng đa ủng
+và bao ggom nh1e:u loại khác nhau nhằm phục vụ tốt các nhu cầu
+cần thiết khi triển khai một giải pháp IoT cụ thể. Một số k1en
+
+trúc thiết kế và hiện thực hệ điều hành dùng trong IoT được tổng
+hợp như sau:
+
+vert-driven OS: đây là hướng tiếp cận phố biến nhất trong
+phát triển OS cho WSN như: Contiki, TinyOS. Ý tưởng chính
+cho mô hình dạng này là tất cả các xử lý trên hệ thống được kích
+hoạt bởi một sự kiện (bên ngoài), thường bởi một interrupt. Do
+đó, kernel thường được thiết lập chạy một vòng lặp liên tục để
+quản lý các sự kiện xảy ra trong cùng ngữ cảnh. Cách t1ep cận
+
+này giúp sử dụng bộ nhớ hiệu quả, ít phức tạp. Các OS nỗi tiếng
+kiểu này là Contiki, TinyOS, OpenWSN.
+
+Multi- ữưeadmg OS: đây là cách tiếp cận truyền thống của
+Linux, khi mỗi luong chạy trong ngữ cảnh của nó và quản lý
+stack của riêng mình. Với cách này, một vài bộ lập lịch được
+thiết lập để chuyển đổi giữa các thread. OS kiểu này có thể bị
+tràn bộ nhớ (memory _overhead), run-time overhead do chuyển
+đổi ngữ cảnh. Một số OS thuộc dạng này như RIOT; nuttX,
+eCos, ChibiOS. Trong đó, RIOT là đại diện tốt cho dạng này.
+
+Pure RTOSs: một RTOS chủ yếu tập trung vào việc đảm bảo
+'thời gian thực trong một ngữ cảnh công nghiệp hay thương mại.
+Ở đó, các đặc điểm như: formal verifcation, certufication,
+
+72

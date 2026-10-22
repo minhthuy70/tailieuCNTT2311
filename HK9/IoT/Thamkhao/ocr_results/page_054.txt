@@ -1,0 +1,25 @@
+chương trình cân bằng tải tại mỗi mức của cây và có thông tin
+liên lạc giữa hai nút. Nếu có một liên kết có vấn đề trong truyền
+dẫn trên myến đường hoạt động thì việc truyền thông cũng bị
+phá vỡ.
+
+Hình 3.3. Kiến trúc Tree
+
+Kiến trúc vòng (ring)
+
+Hình 3.4 mô tả một mô hình mạng có kiến trúc vòng, mỗi
+nút có đúng hai người hàng xóm cho mục đích truyền thông. Tất
+cả các tin nhắn đi qua một vòng trong cùng một hướng (hoặc là
+“chiều kim đồng hỗ” hay “ngược”). Nếu một nút trong vòng gặp
+vấn đề thì có thể phá vỡ các vòng lặp và cũng có thể làm sụp đổ
+toàn bộ mạng. Tin nhắn trong mô hình này có hai đường đi
+nhưng chỉ có thể đi theo một hướng.
+
+Hình 3.4. Kiến trúc Ring
+
+Kiến trúc chuối (chain)
+
+Trong một mạng dạng chain, các nút kết nối với nhau thành
+dạng chuỗi như Hình 3.1 bên dưới. Ngoài nút đầu và nút cuối,
+
+34

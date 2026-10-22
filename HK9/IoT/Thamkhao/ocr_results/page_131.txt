@@ -1,0 +1,42 @@
+Quá trình triển khai ảnh sẽ gồm 5 bước được thực hiện ở 3
+ví trị luận lý khác nhau:
+
+1. Người dùng tạo ra tập tin đặc tả kịch bản thử nghiệm
+trên giao diện front-end của UiTiOt Testbed tại máy
+người dùng.
+
+2. UiTIOI Testbed backend sẽ sinh ra ảnh hệ điều hành cho
+từng nốt thử nghiệm và tải lên hệ thống Container
+Registry-DockerHub.
+
+3. UiTIOt Tesibed backend sẽ tạo ra các máy ảo để làm
+Docker host, nhằm cung cấp tài nguyên tính toán cho các
+container/nốt thử nghiệm WSN.
+
+4. Các máy ảo Docker Host tải về ảnh từ Docker Hub.
+
+5. h1en khai các nốt thử nghiệm WSI~1(s) dưa trên ảnh cụ
+thể của từng nốt, thông tin ảnh, kiến trúc, cấu hình mạng
+được đặc tả trong tập tin “docker-compose.yml”.
+
+5.2.6.1. Thiết kế kiến trúc, giải pháp xây dựng kiến trúc mạng
+luận lý MESH của WSNs trên OpenStack
+
+Khi triển khai thử nghiệm, lớp m hóa thứ hai sử ủng nền
+tảng Docker Container sẽ được triển khai trên hạ ửmg cụm
+Docker Swzj1r-rn Container là một kỹ thuật ảo hóa lightweight
+hoạt động ở tằng hệ meu hành (OS). Sử dụng tính năng kernel
+namespace của Linux, nền tảng ảo hóa này tạo ra các thực thể
+hoạt động độc lập với nhau gọi là các user-space instance. Ở gốc
+độ người dùng, các user-space instance này hoạt động độc lập
+với nhau như một máy ảo và được gọi là các wntamer Về bản
+<:hz1t nền tảng này hoạt động như một phần mềm hoạt động ở
+cấp độ hệ đ1eu hành, nó tạo ra các môi trường làm việc độc lập
+với nhau glong như những máy tính stand-alone mặc dù cùng sử
+dụng chung phần kernel của hệ điều hành. Việc triển khai ảo hóa
+với Docker Container được thực hiện thông qua một tập tin kịch
+bản docker-compose.yml. Tập tin này khai báo số lượng
+container được tạo ra, thông tin ảnh hệ điều hành sẽ được dùng
+để nạp cho các containers, thông tin map (chia sẻ) các thư mục
+
+111

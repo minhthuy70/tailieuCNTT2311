@@ -1,0 +1,49 @@
+928MHz và 2,4GHz. Dựa trên các dải tần đó, tiêu chuẩn IEEE
+802.15.4 định nghĩa 3 dạng lớp vật lý sau:
+
+s Trải phố chuỗi trực tiếp dung BPSK hoạt động ở dải tần
+số 868MHz, tốc độ dữ liệu xâp xỉ 20kbps.
+
+° Tral phố chuỗi trực tiếp ủng BPKS hoạt động ở dải tằn
+số 915MHZ, tốc độ dữ liệu xấp xỉ 40kbps.
+
+s Trải pho chuỗi trực tiếp dùng Q-QPKS hoạt động ở dải
+tần số 2.4GHz, tốc độ dữ liệu xấp xỉ 140kbps.
+
+s Cấu trúc khung dữ liệu của lớp vật lý IEEE 802.15.4
+được mô tả ở hình sau:
+
+4 Bytes 1 Byte 18yte
+
+PHY Service
+Data Unit (PSDU) |
+
+x Ktr-r"“f,D2s27e*e{stCW~-rrrrnerey—
+
+Ỗ 1
+n 88ytes ——›Ì4————— <1278vesr———-T
+
+(0.2 ms @ 250 kbps) (S4.1 ms @ 250 kbps}
+(1.2ms @ 40 kbps) (<50.8 ms @ 40 kbps)
+
+Hình 3.17. Cầấu trúc ƒrame của chuẩn 802.15.4
+
+Trong Hình 3.17, trường đầu tiên của frame gồm 32 bit
+preamble dùng cho đồng bộ ký tự. Trường tiếp theo có độ dài 1
+byte bắt đầu của phân giải gói. Trường 8 bits kế tiếp xác định
+chiều dài của đơn vị dữ liệu trong lớp PYH (PSDU). Trường
+PSDU mang tối đa 127 bytes dữ liệu.
+
+Lớp MAC
+
+Các thông số lớp MAC theo tiêu chuẩn IEEE 802.14.5 được
+thiết kế cho các ứng <lụng yêu cầu tốc độ dữ liệu l;t1a'.p và độ trễ
+vừa phải. Các thong số MAC - layer 802.14.5 có nhiều fflem đáp
+ứng cho yeu câu về khả năng phan bố mạng một cách mềm đẻo
+và công suất map Một số đặc điểm như sau:
+
+* Cung cấp thiết bị mạng và cầu hình mạng đa dạng.
+» Cấu thúc siêu khung thay đổi được phù hợp cho điều
+khiển chu kỳ nhiệm vụ các thiết bị mạng.
+
+47

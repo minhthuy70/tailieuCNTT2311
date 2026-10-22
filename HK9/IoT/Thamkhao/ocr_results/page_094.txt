@@ -1,0 +1,53 @@
+Một ứng dụng TinyOS viết bằng ngôn ngữ NesC gồm các
+file thành phân [10] như sau:
+
+[— ApPplication
+
+Component
+l5]
+
+Component
+ˆ
+
+Component
+B
+
+Component
+F
+
+Component
+E
+
+- ` o:›nlìgnjration ì
+Hình 4.8. Các thành phần trong một ứng dụng trên TìnyOS
+
+File Module: (thường có tên: <TênProjectC.nc>) file này
+khai báo các interface mà ứng dụng sử dụng (uses) hay cung cấp
+(prov1des) Các phần trong vùng hiện thực Ọmplementatmn)
+gồm nhiều đoạn mã nesC tương tự như mã C, kha.1 báo các biến,
+định nghĩa các hàm, gọi các hàm xây dựng sẵn... để thực hiện
+chức năng của ứng dụng.
+
+V dụ:
+module TestC
+{
+
+uses 1nterface Boot;
+
+ì
+
+implementation
+
+{
+
+event void Boot.booted()
+{
+
+}
+}
+
+File Configuration: ffl1ương có tên: <TênProjectAppC.nc>):
+
+file này khai báo và găn kết (wiring) các components lại với nhau.
+
+74

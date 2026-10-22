@@ -1,0 +1,58 @@
+R=Ĩstbed Deployment
+
+_% Testbed Deployment
+
+Number ofinstanees
+
+l
+
+Neork Aderess
+GET 121006
+
+m 190769066/24
+
+| maves e
+Posr . l. . ~
+/v2.0okens _ mì1sge .
+
+Outgoing Neteerk
+x r loosi a .
+
+—¬
+Visualze
+
+Posr
+V2.0/networks
+
+l
+
+Posr
+v2.0/subnets
+
+PoOST
+Iservers
+
+Hình 5.11. Mzrah họa triển khai kiến trúc mạng Tree
+với nên tảng Docker Container
+
+Để triển khai cụm Docker SW21I`l'n trên he thong các máy ảo
+OpenStack, người dùng cần cung cấp một số thông số sau:
+
+* Nzmber oƒ insfances: số lượng máy ảo OpcenStack sẽ
+hoạt động trong cụm Docker Swarm.
+
+° A’etwork -Address/nefmasl: địa chỉ m.'alng sẽ được dùng
+để kết nối các máy ảo.
+
+Ì s Jmage: ñle ảnh chứa OS sẽ được dùng để nạp cho các
+| máy ảo.
+| s ƑlJavor: chỉ định cấu hình phần cứng của máy ảo.
+
+lì s Xeypair: chỉ định keypair (một cặp public-private key)hỗ
+; trợ chứng thực trên máy ảo.
+
+| ° Outgoing Network: các máy ảo có thể kết nối ra ngoài
+khỏi môi trường testbed theo network này.
+
+116
+

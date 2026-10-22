@@ -1,0 +1,43 @@
+Kỹ thuật được sử dụng đề hiện thực mô hình này đó là thiết
+kế môi trường chạy ứng dụng (runtime environment design).
+Môi trường chạy ứng dụng liên quan tới việc thu thập các dịch
+vụ phần mềm có săn, cần thiết đề ứng dụng thực thi như các thư
+viện, gói phần mềm, gói công cụ cần thiết.
+
+Các đặc điểm của môi trường chạy ứng dụng cần có như:
+s Có khả năng quản lý và tương tác.
+
+s Có hiệu năng cao và tối ưu.
+
+s Có khả năng sẵn sàng đáp ứng và tin cậy.
+
+s Có khả năng mở rộng và co giãn.
+
+Dịch vụ mà mô hình PaaS này cung cấp bao gồm:
+
+s Programrming IDE: cho phép người dùng sử dụng các
+IDE có sẵn để phát triển dịch vụ của họ thông qua PaaS.
+Các IDE này được tích hợp đầy đủ chức năng hỗ trợ bởi
+môi trường runtime bên dưới. Các IDE này cần cung cấp
+một số công cụ cần thiết để phát triển ứng dụng như
+profiler, dubgger, compiler... Ngoài ra, các IDE cũng
+cung cấp các APIs thông dụng bởi môi trường runtime để
+dùng được trong trường hợp có nhiều nhà cung cấp dịch
+vụ khác nhau.
+
+s Giao diện điều khiển hệ thống (system control interface):
+cung cấp dịch vụ điều khiển dựa trên policy thông qua
+các luật và các yêu cầu cần thiết; quản lý hệ thống theo
+luồng hoạt động (workflow control) thông qua mô tả quy
+trình cài đặt, cầu hình tài nguyên.
+
+5.2.5. 34ô hình SaaS
+
+Mô hình SaaS (Sofiware as a Service) là khả năng cung cấp
+cho người dùng sử dụng các ứng dụng của nhà cung cấp dịch vụ
+chạy trên hạ tằng điện toán đám mây. Các ứng dụng này có thể
+truy cập từ nhiều loại thiết bị khách khác nhau thông qua một
+giao diện đơn giản, nhỏ gọn như trình duyệt web hoặc ứng dụng
+mobile. Người dùng không có khả năng quản lý và điều khiển
+
+107

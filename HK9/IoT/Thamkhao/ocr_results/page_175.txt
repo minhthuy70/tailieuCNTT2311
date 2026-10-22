@@ -1,0 +1,42 @@
+Kiểm soát hành vi: các cơ chế giám sát thường đi kèm với
+điều khiển, kiểm soát hành vi. Khi một sự kiện, hiện tượng đạt
+đến một ngưỡng nhất định nào đó (được định nghĩa trước) thì
+các chức năng cảnh báo sẽ được đưa ra. Ví dụ: khi mật độ giao
+thông trên một khu vực hay con đường quá cao thì hệ tl1ong điều
+khiển sẽ đưa ra cảnh báo với nhà chức trách để họ có thể đưa ra
+các quyết định điều tiết giao thông hợp lý, hay nếu ở mức độ cao
+hơn, các cảnh báo sẽ được đưa đến người điều khiển giao thong
+thông qua điện thoại thông minh và hệ thong đèn tín hiệu giao
+
+thông sẽ được điều chỉnh để phân luồng giao thông tốt hơn, hạn
+chế tình trạng kẹt xe diễn ra.
+
+Tối ưu hóa hoạt động: Các hành động kiểm soát hành vi
+thường được sử dụng để đưa ra các hành động dưa trên các
+ngưỡng. Tuy nhiên, phân tích dữ liệu cũng có thể đưa ra những
+quyet định nhằm thay đổi các quyết định. Ví dụ một hệ thong
+kiểm soát và điều khiển cho nông nghiệp thông minh ơm thu
+thập, phân tích, đánh giá về đặc điểm của mỗi loại cây trồng. Từ
+đó, dựa vào các thông tin như vòng đời, giai đoạn sinh trưởng
+của cây, thổ nhưỡng, khí hậu, tình trạng sâu bệnh của cây được
+sử dụng để phân tích, đánh giá và đưa ra quyết định về việc sử
+dụng nước, phân bón. muoc trừ sâu để đảm bảo cho việc phát
+triển của cây là tốt nhất và tiết kiệm chỉ phí nhất.
+
+Tự phục bồi, tự tối ưu: sự phát triển nhanh chóng của học
+sâu là vòng lặp khép kín. Các hệ thống giám sát dựa trên học
+máy có thể tự thay đổi hành vi và hoạt động một cách tối ưu
+nhất. Ví dụ trong một hệ thống giám sát, việc tối ưu vòng đời
+của một thiết bị cảm biến có thể dựa vào mức năng lượng còn lại
+của mỗi ứng dụng và sự biến thiên của các giá trị cảm biến. Từ
+đó, các kỹ thuật học máy có thể dự đoán và đưa ra các quyết
+định giảm tần suất thu thập dữ liệu và gửi đi của mỗi nút cảm
+biến để có thể kéo dài tối đa vòng đời hoạt động của mỗi nút
+cảm biến. Ví dụ này sẽ được mô tả rõ hơn trong chương 7 - Tái
+cấu hình/tái lập trình trong loT.
+
+Trong thành phố thông minh (Smart Ciles), một lượng
+không lồ dữ liệu cảm biến được thu thập từ nhiều loại cảm biến,
+camera và thiết bị thông minh khác nhau và những dữ liệu này
+
+155

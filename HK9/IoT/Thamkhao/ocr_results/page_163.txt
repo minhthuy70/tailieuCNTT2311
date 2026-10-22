@@ -1,0 +1,33 @@
+¬ Trường hợp 3: Ta có dữ liệu đầu vào là 14.2, chiều
+hướng nhiệt độ là đang giám thì kết quả đầu ra thuộc rJhz1n
+Heating High (với giá trị cụ thể là 20.1). Thông tin chi tiết của
+l1~ương hợp 3 được mô tả trong Hình 6.7 bên dưới:
+
+ˆ File ủlt Vlew Ùmons
+
+hVẸIII 142 trade =-0.98 'action = 20.1 Ờ`
+s [7 T1 ụ
+- ¡
+.:[7 Ï ] ử
+| nẻ L ⁄ \ `
+t l l' ]
+ñ / Ĩ 1 H
+
+Hình 6.7. Mô phóng điều khiển nhiệt độ Trường hợp 3
+
+6.4.5. Dựa trên ontology
+
+JDựa trên ontology (ontology-based): K thuật này dựa trên
+logic mô tả, Suy luận dựa trên ontology chủ yếu được hỗ trợ bởi
+hai ngôn ngữ của web ngữ nghĩa là RDF (S) và OWL (2). Kỹ
+thuật này thường được sử dụng rộng rãi trong nhận dạng hoạt
+động, suy luận lai hay phát hiện sự kiện. Lợi thế của suy luận
+dựa trên ontology là nó tích hợp tốt với các mô hình ontology.
+Nhưng ngược lại, kỹ thuật này không có khả năng suy luận các
+dữ heu còn thiếu hoặc không chắc chắn. Điều này được giải
+quyet bằng cách thêm vào các luật cho phép các giá trị bị thiếu
+có thể thay thế bằng các giá trị phù hợp đã được xác định trước.
+SWRL là một trong những luật được sử dụng phố biến trong
+ontology hiện nay.
+
+143

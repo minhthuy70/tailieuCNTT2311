@@ -1,0 +1,35 @@
+các hạ tằng bên dưới bao gồm mạng, máy chủ, hệ điều hành, bộ
+nhớ hay thậm ch1 là các khả năng riêng lẻ của các ứng dụng |
+trong khuôn khổ cầu hình giới hạn cho từng người dùng riêng lẻ.
+
+Một số dịch vụ cung cấp theo mô hình SaaS phố biến như:
+các ứng dụng của Google (Gmail Google Docs, Google
+Sites...), SalesForce.come, EyeOS...
+
+Kiến trúc mô hình SaaS thể hiện như hình sau:
+
+u APPHOATON _
+
+Hình 5.6. Kiến trúc mô hình dịch vụ SaaS
+
+Công nghệ hiện thực mô hình SaaS này bao gồm:
+
+s Dịch vụ web (web service): công nghệ web 2.0 là một xu
+hướng sử dụng được đầy đủ các tiềm năng của công nghệ
+Wweb. Công nghệ Web cho phép xem hệ thống Internet
+như một nên tảng tính toán, chạy các ứng dụng tương tác
+thông qua trình duyệt web, kế thừa khả năng liên kết nối
+và khả năng di động của thiết bị; nâng cao hiệu quả tương |
+tác với người sử dụng.
+
+s Các ứng dụng trên nên web (web-based applications):
+các ứng dung tiện lợi, có gao diện truy cập, tương tác
+dựa trên nền tảng web. Có rất nhiều loại ứng dụng cho
+wc lĩnh vực khác nhau như: các ứng dụng phốổ thông bao
+gồm, bộ công cụ văn phong, ứng dụng đa phương tiện,
+ứng dụng nhắn tin, giao tiếp; các ứng dụng trong doanh
+nghiệp như ERP, CRM, hệ thong thương mại điện tử; các
+ứng dụng chuyên nghiệp được thiết kế cho các ngành
+khoa học như mô phỏng trong lĩnh vực hàng không vũ
+
+108

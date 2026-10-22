@@ -1,0 +1,39 @@
+CHƯƠNG 4
+
+_CÁC NỀN TẢNG PHẦN CỨNG
+VÀ PHẦN MỀM IOT THÔNG DỤNG
+
+Công nghệ IJOT được phát triển để phục vụ cho nhiều lĩnh vực
+khác nhau và là một trụ cột quan trọng trong cuộc cách mạng
+công nghiệp lần thứ 4. Như đã trình bày ở Chương 2, các giải
+pháp JoT có thể áp dụng cho nông nghiệp thông minh, y tế thông
+minh, giao thông thông minh... Để hiện thực được các ứng dụng
+trong các lĩnh vực đa dạng đó, cộng đong m;hlen cứu cũng như
+các nhà sản xuất đã tập trung phát triển rất nhiều nền tảng 1oT cả
+phan cứng lẫn phần mềm. Nội dung chương mly trình bay chỉ tiết
+VỀ các đặc điểm ky thuật liên quan tới các nền tảng phần cứng,
+nền tảng phần mềm phổ biến, thường được sử dụng trong nghiên
+cứu và triển khai các giải pháp IoT trong thực tế.
+
+Phần đầu của chương giới thiệu các nền tảng phần cứng, bao
+gồm những đặc trưng cơ bản và một số cách tiếp cận trong phân
+_“loại thiết bị JoT dựa trên các tiêu chí liên quan tới tài nguyên tính
+toán, tài nguyên lưu trữ của thiết bị. Dựa trên cơ sở  phân loại đó,
+nội dung tiếp theo của phần này giới thiệu một số thiết bị IoT
+điển hình cho từng nhóm loại đó, bao gồm thiết bị cảm biến
+không dây TelosB, thiết bị nhúng Arduino và máy tính nhúng
+Raspberry Pi. Đây là các thiết bị JoT rất điển hình, rất phổ biến
+với người mới bắt đầu cũng như giới nghiên cứu học thuật.
+
+Phz`an còn lại của chương tập trung trình bày các nền tảng
+phần mem dùng cho các thiết bị JoT phổ biến. Các nền tảng này
+bao gồm các hệ điều hành chuyên biệt cho thiết bị cảm b1en
+không dây, tài nguyên hạn chế, tiết kiệm năng lượng. Các nền
+tảng phần mềm này tương ứng, phu hợp với các thiết bị phần
+cứng đã được giới thiệu, cụ thế hệ meu hành TinyOS, Contiki có
+thể sử dụng cho thiết bị TelosB, nền tảng lập trình Arduino IDE
+được giới thiệu để hiện thực các ứng dụng IoT trên nhóm thiết bị
+Arduino cũng như hệ điều hành Raspbian sẽ dùng cho thiết bị
+máy tính nhúng Raspberry Pi.
+
+63

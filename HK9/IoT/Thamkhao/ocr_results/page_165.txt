@@ -1,0 +1,144 @@
+Học không
+giám sát
+(Phân cụm,
+XKiáng
+giêng gần
+nhất)
+
+Dựa trên
+luật
+
+Logic mờ
+
+Dựa trên
+ontology
+
+s Không f:ần dữ
+liệu huân luyện
+
+s Không cần dự
+đoán kêt quả
+
+s Định nghĩa đơn
+giản
+
+s Dễ mở rộng
+
+s Ít tốn tài nguyên
+Gử lý, lưu trữ)
+
+s Cho phép biểu
+diễn linh hoạt
+(tự nhiên)
+
+s Định nghĩa đơn
+giản
+
+s Dễmở rộng
+
+* Íttốn tài nguyên
+
+s Cóthểxửlý -
+việc không chắc
+chăn
+
+s Cho phép biểu
+diễn và suy luận
+ngữ cảnh phức
+tạp
+
+s Kết quả có ý
+nghĩa ở mức cao
+
+s Có thể kiểm tra
+và đánh giá chất
+lượng
+
+s Có thể xử lý dữ
+
+s Mô hình phức tạp
+
+s Ngữ nghĩa cấp
+thấp hơn có ít ý
+nghĩa hơn
+
+s Khó đánh giá
+
+s Không thể dự đoán
+giá trị đâu ra
+
+s Tốn nhiều tài
+nguyên (lưu trữ, xử
+lý và thời gian)
+
+s Định nghĩa bằng
+tay
+
+s Có thể bị lỗi trong
+quá trình định
+nghĩa
+
+s Không thể đánh
+giá hoặc kiểm tra
+chất lượng
+
+s Định nghĩa bằng
+tay
+
+s Có thể bị lỗi trong
+quá trình định
+nghĩa
+
+s Không thể đánh
+giá hoặc kiểm tra
+chất lượng
+
+s Độ chính xác cló
+thể bị giảm xuống
+do mô tả tự nhiên
+
+s Dữ liệu phải được
+định nghĩa theo
+định dạng tương
+thích (OWL/RDPF)
+
+s Suy luận số học bị
+hạn chế
+
+s Hiệu suất thấp (xử
+lý và thời gian)
+
+s Phát hiện
+hành vi bất
+thường
+
+s Xác định vị
+trí thích hợp
+đề trồng một
+loại cây trồng
+trên cánh
+đồng nông
+nghiệp.
+
+e Xác định sự
+kiện
+
+s Chuyển đổi
+ngữ cảnh
+mức thấp
+thành ngữ
+cảnh cấp cao
+
+s VD: Hệ thống
+tưới nước tự
+động trong
+nông nghiệp
+thông minh
+
+s Lưu trữ và xử
+lý ngữ cảnh
+để cho ra trị
+thức khi có
+yêu cầu
+
+145

@@ -1,0 +1,47 @@
+người hoặc ứng dụng. Thiết bị cảm biến (sensor) và actuator sẽ
+được trình bày chi tiết trong Chương 4 của giáo trình này.
+
+Tùy vào mục đích của ứng dụng mà các loại cảm biến khác
+nhau có thể sử dụng. Sau đây là một số loại cảm biến được sử
+dụng trong những ứng dụng cụ thể:
+
+- Cảm biến gần: được dùng để phát hiện sự kiện đỗ xe bằng
+cách phân tích những thay đổi trong pham vi xung quanh nó khi
+một vật thể (ví dụ như ôtô hay xe tải) đến gần hoặc đứng bên
+
+trên nó.
+
+- Cảm biến ánh sáng: có thể bật/tắt đèn đường dựa vào sự
+kết hợp giữa điều kiện môi trường và thời gian.
+
+- Phân tích, nhận dạng Irong video giao thông để phát hiện
+phương tiện fgxao thông hay tình trạng gglao thông dùng trong
+mục đích điều phối giao thông hoặc vấn đề an ninh.
+
+- Cảm biển đo chất lượng %ong khí dùng trong các ứng
+
+dụng đo độ ô nhiễm không khí để đưa ra mức độ ô nhiễm cho ˆ
+
+từng vùng khác nhau hoặc cho cả thành phố:
+
+- Các kỹ thuật trí tuệ nhaJJz tạo (sẽ được trình ủxy trong
+Chương 6) dùng để đếm số lượng phương tiện di chuyển hoặc
+đứng yen (trong video giám sát gao thông) để đưa ra mức cảnh
+báo về tình trạng kẹt xe tại một sô vị trí (ví dụ như trên đường
+hay giao lộ) trong thành phố.
+
+Cipy Jayer: đây là lớp trung gan giữa Street ủyer và Data
+center, chịu trách nhiệm chuyển tiếp dữ liệu và tín hiệu điều
+khiến giữa hai lớp này.
+
+Đặc điểm cơ bản của city layer là lớp này ủuyen tiếp nhiều
+loại gao thức cho nh1<=.u loại ứng dụng JoT. Một số ứng dụng
+yêu cầu nghiêm ngặt về băng thông và độ trễ, ví dụ như giám sát
+giao thông. Do đó, lớp này phải được xây dung sao cho có khả
+năng phục hồi, để đảm bảo dữ liệu được n'uyen thành công trong
+
+mọi tình huong 0 mô tả kiến trúc mạng pho biến trong City
+layer.
+
+20
+

@@ -1,0 +1,46 @@
+3.2.1.3. Cầu trúc gói tỉn của chuẩn mạng 6LoWPAN
+
+IPv8 header
+Tf | NegI 'Soureaddrgss, .. 1Desinalonaddnsss
+vr]oee| neeàa | |iose| m | sunpmepboripe -6-Blpgix6totip huui
+
+1. Compressed header, FE80:CAFE:00FF:FE00:0100 zzeri). FE80::CAFE:00FF:FE00:0200
+
+0apaeh | pin | 2hư0,
+
+2. Compressed header, 2001:DEC4:E3A1:FE24:9600. ;;
+
+v 200154465:84C6:29BB:A2DD
+
+sed
+
+3. Oompressed hóader, 2001:DEC4:E3A1:FE24:9600. œz2ssr), 2001::4465:84C6:39B8B:A2DD
+
+64-bfpelg,eA-btHD ..-| 20byes
+
+Hình 3.13. Minh họa cầu trúc phần đầu gói tin IPv trong 6Lo WPAN([4]
+
+Hình 3.13 minh họa cấu trúc phần đầu (header) của gói tin
+JPv6 trong mạng 6LoWPAN. Theo đó, có 3 ngữ cảnh truyền
+thông được giới thiệu gồm:
+
+1. Truyền thông giữa hai thiết bị bên trong mạng
+6LoWPAN, sử dụng các địa chỉ link-local và IPv6 header
+có thể được nén lại chỉ 2 bytes.
+
+2. Truyền thông yêu cầu một thiết bị bên ngoài mạng
+6LoWPAN và tiền tố (prefix) của mạng bên ngoài đó
+được biết trước, khi đó IPv6 header có thể được nén lại
+đến 12 bytes.
+
+3. Truyền thông giữa 2 thiết bl kho1'1g biết tiền tố mạng bên
+ngoài, khi đó, IPv6 header cần đến 20 bytes.
+
+Hình 3.14, trình bày một chong Ị›he1n đầu @tacked headers)
+của các gói tin và cách thức gắn các headers để truyền dữ liệu
+trong mạng 6LoWPAN. Theo đó, tùy vào ngữ cảnh mà dữ liệu
+gửi đi (IPv6 payload) được gắn thêm các header cần thiết như
+IPv6ó header compression, Fragment header, Mesh Addressing
+headers và cuôi cùng là IEEE 802.15:4 header.
+
+43

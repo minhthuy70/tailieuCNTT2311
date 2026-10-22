@@ -1,0 +1,38 @@
+3.2.3.2. Mô hình phân lớp tầng giao thức trong chuẩn không
+dây 802.11
+
+} Application ỉ
+..
+
+Session
+
+Network
+
+Operaling Ị Transport
+
+System ;] TœP
+Nelwork IP
+“ Đaa- | Logical Link Control (LLC) -8022
+
+gypye ¡ Media Access Control
+80211 _ =- 1 (Cung cấp tính năng bảo mật, kiểm soát năng lượng)
+
+Physical
+
+Hình 3.22. Ánh xạ 802.11 trong mô hình OSI 7tầng
+
+Chuẩn IEEE 802.11 được xây dựng cho mạng cục bộ không
+dây bao gồm hai tầng con là tằng PHY và tằng MAC trong mô
+hình OSIL Tầng LLC (Logic Link Control) được mô tả trong
+chuẩn 802.2. Với các tầng ở mức cao hơn, kiến trúc phân tằng
+cung cấp một giao điện trong suốt (nghĩa là không có sự thay đổi
+đối với các tằng cao hơn). Vì vậy, với các tằng từ LLC trở lên có
+thể hoán chuyển các trạm đang hoạt động ở mạng WLAN với
+các mạng cục bộ khác. Hình 3.22 mô tả kiến trúc của WLAN
+trong mô hình OSI. Điều này cho phép giao thức TCP/IP hiện tại
+có thể hoạt động dựa trên mạng IEEE 802.11 WLAN giống như
+hoạt động triển khai trên một mạng có dây Ethernet. Hình 3.23
+chỉ ra sự khác biệt về các chuẩn hoạt động dựa trên chuẩn
+802.11 WLAN ở tằng PHY và tằng MAC.
+
+55

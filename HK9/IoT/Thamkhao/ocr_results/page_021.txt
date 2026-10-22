@@ -1,0 +1,30 @@
+CHƯƠNG 1
+GIỚI THIỆU
+
+1,1. 'ỉ`tÃ›1zìg quam về công nghệ Internet vạn vật
+
+Thế giới hiện có khoảng 20 tỷ mlẻt bị kết nối Internet và
+đang tăng trung bình 80 thiết bị mới mỗi giây. Tốc độ tăng này
+sẽ đạt 50 tỷ thiết bị vào năm 2020'. Đây là một trong những
+thống kê của Cisco về viễn cảnh “Internet của vạn vật” (Internet
+of Things - 1oTs),,4 Cong nghệ mạng Internet of Things đoTs)
+hiện đang được 1Ị)l'lả1ÍỊ triển để mọi thiết bị, đồ vật... đều có thể kết
+l'l01 và tương tác với nhau, giúp chúng ta có thể tra cứu thông tin
+ve thực pha1m ngay trên tủ lạnh, điều khiển ôtô từ xa mà không
+cần trực tiếp lái xe, hoặc 4-5 triệu xe máy ở Hà Nội, hoặc
+Tp.HCM được tích hợp cảm biến để nhà quản lý đễ dàng kiểm
+soát lưu lượng giao thông. Hình 1.1 dưới đây cung cấp các số
+liệu mình họa.
+
+Hình 1.1. Số liệu mỉnh họa số lượng thiết bị IoTs cho đến năm 2020
+Nguồn: Cisco IBSG)
+
+Một thế giới kết nối, hay “Internet của vạn vật? (Internet of :
+
+Things - JoTs), sẽ mang lại giá trị kinh tế lớn. Tuy nhiên, hiện
+mới chỉ có khoảng 1% thiết bị được kết nối trên toàn cầu. Báo
+cáo của Cisco trình bày “Internet của vạn vật” đã mang lại 613
+tỷ USD lợi nhuận trong năm 2013 và những công ty tối ưu hóa
+
+l
+

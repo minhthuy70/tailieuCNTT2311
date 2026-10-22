@@ -1,0 +1,43 @@
+message_ t Receive.receive(message_t* msg, void* payload, uint8 t
+len) {
+
+message_t* tmp = ptr;
+ptr = msg;
+
+post processTask0;
+Teturn tmp;
+
+ì
+
+TinyOS 802.15.4 ƒTame
+
+802.15.4 là một định dạng gói tin ở tầng data-link và
+physical cho mạng không dây tiết kiệm năng lượng được dùng
+trong nhiều TinyOS platform khác nhau [13].
+
+TinyOS có hai định dạng frame cho 802.15.4. Dạng thứ nhất
+là T-Frame (TinyOS Frame) cho mạng TinyOS, không chia sẻ
+kênh truyền cho các kiến trúc mạng không dây khác.
+
+Định dạng TinyOS 802.15.4 T-Frame có dạng sau:
+
+Trong đó, AM type là một trường một byte đơn, chỉ ra kiểu
+active message chứa payload.
+
+Dạng thứ hai của 802.15.4 là I-Frame, cho phép mạng
+TinyOS chia sẻ kênh của nó với mạng 6lowpan. Ở dạng này có
+thêm trương 6lowpan trước trường AM type để có thể hoạt động
+kết hợp với mạng 6 lowpan.
+
+Định dạng TinyOS 802.15.4 I-Frame có dạng như sau:
+
+Trong đó, trường AM type giống như ở T-Frame.
+
+Phần hiện thực của T-Frame và I-Frame có thể được tìm
+thấy ũ*ong tinyos-2. x/ch1ps/<:<:2420/ Mặc định, TinyOS 802.15.4
+stack sử dụng I-Frame, và khi muôn sử dụng dạng T-Frame thì
+ta có thể thêm nxy chọn “trame? khi biên dịch. Khi sử dụng tùy
+chọn này thì giá trị TTRAMES_ENABLED (được định nghĩa
+trong CC2420.h)
+
+s

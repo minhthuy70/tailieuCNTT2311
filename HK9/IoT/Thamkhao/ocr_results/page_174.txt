@@ -1,0 +1,44 @@
+6.5.2. Ứng dụng của học máy trong IoT và các định hướng
+nghiên cứu
+
+Với sự phát triển của cuộc cách mạng công nghiệp 4.0, sự
+đóng góp của các thành tựu CNTT và truyền thông mới nhât vào
+thành phố thông minh đóng vai trò nòng cốt. Sự kết nối trong cả
+ba lĩnh vực Văn hóa (C„jtzre), Trao đổi Hữu cơ (34etabolisizs)
+và Quản trị (Governance) sẽ được vận hành và tối ưu trên các hệ
+thống IoT. Khi vận hành, các hệ thống IoTs này sẽ sinh ra một
+lượng dữ liệu rất lớn, được lưu trữ và xử lý trên các hệ thống dữ
+liệu lớn. Các kỹ thuật AI, đặc biệt là Học máy (3⁄achine
+1Learning) sẽ giúp các đữ liệu này được phân tích để vận hành
+các các hoạt động Văn hóa, Trao đổi chất và Quản trị một cách
+tự động và thông minh. Với dữ liệu sinh ra từ các hệ thong JoTs
+khi vận hành trong thực tế là rất lớn, các kỹ thuật tính toán cận
+biên ứog/edge computing) thường được đề xuất để xử lý dữ liệu
+phân tán trên hệ thống các thiết bị cạnh (edge devices). Do vậy,
+sự áp dụng của AI vào thành phố thông minh là một kịch bản
+của việc áp dụng AI vào các hệ tl1ống điện toán cận biên. Làm
+việc với các hệ thống dữ liệu và thường xuyên được cập nhật
+
+thời gian thực như vậy, các hệ thống AI thường được xem là các
+hệ thống AI tiên tiền (Advanced AI - AAT).
+
+Học máy được sử dụng trong IoT vơ1Inhi`êu mục đích khác
+nhau như phân ỏạị, dự đoán, phát hiện bât thường, nhận dạng,.
+và được chia làm bôn nhóm chính sau:
+
+Giám sát qua hình ảnh: Các thiết bị thông minh được triễn
+khai để giám sát môi trường xung quanh, ví dụ như cảm biến,
+camera an ninh,... Dữ liệu sau khi thu thập từ các th1et bị này sẽ
+được xử lý để phan tích, đánh giá và hiểu rõ hơn về môi _ trường
+xung quanh. Các thông tin này có thể đề cập đến các yếu tố tự
+nhiên như nhiệt độ, độ ẩm, ánh sáng, hàm lượng CO/CO; trong
+không khí.... và cũng có the là các thông tin bên trong các hệ
+mong như w suất đường ống nước, nhiệt độ của dầu trong ống
+dẫn dầu,... Các kỹ thuật máy học có thể được sử dụng trong
+trường hơỵ:u này để phát hiện sớm các điều kiện hư hỏng, bất
+
+thương hay để đánh giá chất lượng không khí hay điều kiện của
+môi trường.
+
+154
+

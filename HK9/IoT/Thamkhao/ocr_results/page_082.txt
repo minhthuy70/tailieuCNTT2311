@@ -1,0 +1,30 @@
+BÀI TẬP CHƯƠNG 3
+
+1.
+
+2.
+
+62
+
+Hãy liệt kê những kiến trúc mạng trong loT và đưa ra ưu, nhược
+điểm của mỗi kiến trúc.
+
+Hãy so sánh các bộ giao thức không dây được sử dụng trong
+loT và liệt kê các ứng dụng cho từng bộ giao thức.
+
+Hãy sử dụng kiến trúc Zigbee để xây dựng ứng dụng Giám sát
+chất lượng không khí.
+
+Hãy sử dụng kiến trúc VVLLAN 802.11 để xây dựng ứng dụng
+Nhà thông minh.
+
+Hãy thiết kế kiến trúc mạng cho ứng dụng Nông nghiệp thông
+mình áp dụng tại Việt Nam. Sau đó hãy chọn bộ giao thức mạng
+phù hợp với ứng dụng này và giải thích vì sao.
+
+Hãy thiết kế kiến trúc mạng cho ứng dụng giám sát chất lượng
+không khí tại Thành phố Hồ Chí Minh. Sau đó hãy chọn bộ giao
+thức mạng phù hợp với ứng dụng này và giải thích vì sao.
+
+Hãy trình bày ý tưởng cho ứng dụng giám sát giao thông thông
+mình sử dụng công nghệ 5G.

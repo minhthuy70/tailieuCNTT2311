@@ -1,0 +1,36 @@
+- European Sensor Network Architecture (ESNA)?Š
+- IETF 6LoWPAN”, uIP*°/uIPv6”!
+
+Hình 1.2. Lược đồ quy chuẩn kỹ thuật của OIC
+(Nguồn: OIC)
+
+Tốc độ tăng trưởng nhanh chóng của Internet of Things hiện
+nay cũng đem đến nhiều thách thức lớn. Số lượng các thiết bị
+được tạo ra nhiều bao nhiêu thì sự mong đợi của khách hàng cho
+các kết nối, hiệu suất năng lượng, tính tin cậy, dễ sử dụng và kết
+cấu sẽ càng tăng cao. Các thiết bị điện tử không chỉ phải được
+cải tiềến để đem lại hiệu năng cao mà còn phải có tính hấp dẫn.
+Và tất nhiên, tất cả các tính năng vượt trội và hình thức bắt mắt
+đó phải đi cùng với giá cả hợp lý. Dưới đây là một số đặc điểm
+kỹ thuật cần xem xét:
+
+Phần mềm: Trong quy trình phức tạp của việc thiết kế và
+đóng gói một hệ thống IoTs, phần mềm thực sự đóng vai trò
+quan trọng qua việc hỗ trợ đầy đủ cho toàn bộ vòng đời phát
+
+http://www.opengeospatial.org/standards/citygml
+
+'ðEuropean Sensor Network Architecture (ESNA): http:/Jwww.sics.se/esna
+IETE. JPvố over Low power WPAN (6lowpan):
+http://www.ietf.org/dyn/wg/charter/history/6lowpan-charter.2008-10-
+08.20.html
+
+SJCS. The open-source uÏP TCP/IP stack: htp://wWW.sics.se/~adam/uip
+SICS. „JPvố in Contiki: http://WWW.Sics.se/contiki/current-events/uipv6-
+contiki-is-ipv6-ready.html
+
+28
+29
+
+30
+31

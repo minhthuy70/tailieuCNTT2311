@@ -1,0 +1,40 @@
+cao trải nghiệm người dùng cũng là chủ đề mở và đang thu hút
+giới nghiên cứu.
+
+Trung tâm dữ liệu: là nơi hiện thực hạ tằng điện toán đám
+mây, với khả năng tính toán và lưu trữ lớn. Trung tâm dữ liệu
+thực hiện quản lý, điều khiển, phân phối nguồn tài nguyên tính
+toán và tài nguyên lưu trữ của một tổ chức, một cơ quan. Các
+yêu cầu của ứng dụng, dịch vụ đòi hỏi khả năng tính toán lớn
+được chuyển đến xử lý tại trung tâm dữ liệu này. Tuy nhiên, các
+tác vụ thực thi tại trung tâm dữ liệu thường cách xa thiết bị IoT
+đầu cuối, dẫn đến thời gian phản hồi chậm hơn rất nhiều so với
+các thiết bị tính toán cận biên. Chính vì thế, các giải pháp kỹ
+thuật về phân tải tính toán thông minh giữa thiết bị cận biên và
+trung tâm dữ liệu đang là chủ đề mới và thu hút sự quan tâm.
+
+5.1.2. Các yêu cầu và đặc trưng cơ bắn của các hệ thống tính
+toán cho IloT
+
+Như đã trình bày ở phần trên, một giải pháp IoT triển khai
+thực tế sẽ liên quan tới rất nhiều thành phần ở phía sau, từ thiết
+bị cận biên tới kết nối mạng và cuối cùng là hạ tằng điện toán
+đám mây để thực thi các tác vụ cần thiết. Trong đó, tính toán cận
+biên có thể xem như việc mang giải pháp điện toán đám mây
+truyền thống triển khai ở vị trí gần với thiết bị đầu cuối hơn để
+đáp ứng nhu cầu thời gian thực, cải thiện trải nghiệm người
+dùng. Để triển khai một giải pháp hoàn chỉnh trong thực tế, hệ
+thống IoT dựa trên kiến trúc tính toán cận biện, hạ tằng điện toán
+đám mây cần đáp ứng nhiều yêu cầu khác nhau, một số yêu cầu
+có thể kể đến như sau:
+
+Khả năng có thể mở rộng (scalabilip): Đảm bảo rằng hệ
+thống có khả năng mở rộng khi lượng dữ liệu tăng lên cũng như
+khi có nhu cầu phát triển nhiều thiết bị mới mà không ảnh hướng
+đến độ trễ hay thời gian phản hồi.
+
+Khả năng chịu lỗi và tính tin cậy cao (fault tolerance,
+reliabili): Đảm bảo cho hệ thống hoạt động bình thường dưới
+tác động của các tác nhân bên ngoài như tình trạng tải lượng cao.
+
+99

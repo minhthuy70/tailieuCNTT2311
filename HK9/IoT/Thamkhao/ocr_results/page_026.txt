@@ -1,0 +1,42 @@
+triển của sản phẩm. Cụ thể, phần mềm có thể hỗ trợ một cách
+mjan thiện cho chu trình thiết kế các. thiết bị công nghệ cao, bao
+ggom nnach tích hƠ1Ị> GCs) và ]ỵJhan mềm nhúng. Những giải pháp
+phan mềm góp phần giải quyết các thách thức lớn cho các nhà
+thiết kế công nghệ cao: cải thiện tốc độ và băng thông, tối ưu
+công suất và hiệu năng, tối ưu đặc tính ăng-ten, và kết hợp các
+vật liệu tiên tiến. Ngoài ra, để hoàn toàn làm chủ công nghệ và
+gia tăng tính bảo mật của hệ thong, chúng tôi mrơng tới lựa chọn
+các thiết bị JoTs được phát triển và hỗ trợ bởi các nền tảng phan
+
+mềm mã nguon mở thông dung, và được chứng nhận hoặc kiểm
+định bởi các tổ chức IoTs quốc tế có uytín.
+
+Tăng tốc độ và mở rộng băng thông: Do số lượng các thiết
+bị di động, thiết bị JoTs ngày một tăng nhanh nên ngày càng
+nhiều dữ liệu được truyền và nhận, việc truyền tải chúng cần
+nhanh hơn trên cả mạng truyền thông có dây và không dây.
+Luồng video, tương tác chơi game và dịch vụ web tốc độ cao
+đang đẩy đến giới hạn không chỉ trên các th1et bị di động, thiết bị
+IoTs, mà còn trên các máy chủ, bộ định tuyến và cồng chia.
+
+Tối ưu năng lượng và hiệu suất: Một vấn đề không kém
+phần quan trọng trong công nghiệp công nghe cao là quản lý
+năng lượng một cách hiệu quả. Đề giúp giải quyết vấn đề này,
+các thiết bị IoTs được lựa chọn phục vụ nghiên cứu Bảo mật
+IoTs có hỗ trợ thiết kế cho các thiết bị điện tử thông minh, hiệu
+suất năng lượng cao, khả năng tiêu thụ nguồn thấp. Trước đây,
+các kỹ thuật phân tích các vân đề tiêu thụ và phân phối năng
+lượng thông qua một cách tiếp cận kín, xem xét riêng ở chip, bản
+mạch và package (nhóm linh kiện). Nh1.1'ng hiện nay, các ga1
+pháp tiết kiệm năng lượng mới thực sự hỗ trợ phương pháp thiết
+kế tích hợp chip pz1c;kẽ1gtge-system (CPS) cho phép tối ưu thành
+phần cũng như phan tích và tối ưu đong thời xuyên suốt toàn bộ
+hệ ủ:›ng Cách tiếp cận này cân bằng điện thế hoạt động thấp
+cần thiết để tiết kiệm năng lượng với tính nhất quán và tin cậy
+đáp ứng được yêu cầu đề loại bỏ lỗi.
+
+Cloud/edge-based Internet oƒ Things: HỖ trợ khả năng phát
+triển và tích hợp các ứng dụng và giải pháp IoT vào nền tảng
+
+6
+

@@ -1,0 +1,44 @@
+cho phép các ủương trình phức tạp có thể hiện thực với mã
+nguồn kích thước rất nhỏ (ít hơn 100 bytes). Điều này cho phép
+các nhà lập trình ứng dụng có thể tái cấu hình một mạng lưới
+rộng lớn các nốt một cách hiệu quả, giảm chi phí truyền tải một
+chương trình mới đến các nốt. Error! Reference source not
+found. và 0 trình bày lần lượt kiến trúc nốt MATE, và klch
+
+thước mã nguồn (code) của các thành phần trong kiến trúc nốt
+MATE.
+
+7.2.5. Hướng tiếp cận hướng tới dịch vụ (service-orienfed)
+
+Phần mềm tái cấu hình có kiến trúc hướng dịch vụ (Service-
+Oriented Al~ch1tE:cture—SOA) là một cách tlep cận đã nhận được
+sự chú ý đáng kể gần đây trong IoT. Kiến trúc hướng dịch vụ
+SOA cho phép xây dựng thế hệ các ứng dụng IoT mới có đặc
+tính mở, tương thích, khả năng mở rộng. Các khái niệm về dịch
+vụ đã được sử dụng trong việc xây dựng ứng dụng IoT thông
+qua các mô hình này.
+
+MOSDEN [22] là một đại diện điển hình cho hướng tiếp cận
+kiến trúc mrơng dịch vụ. Mô hình này cung cấp dữ liệu cảm biến
+
+theo yêu cầu của người sử dụng (users/consumer). Mô hình
+MOSDEN được trình bày trong Hình 7.8.
+
+Trong mô hình MOSDEN, các nốt cảm biến hoạt động như
+một dịch vụ cung cấp dữ liệu. Dịch vụ này không thu thập dữ
+liệu một cách liên tục từ tat cả các cảm biến trong hệ thống mà
+chỉ thực hiện khi có yêu cầu từ IoT Middleware. IoT middleware
+hoạt động như một dịch vụ hỗ trợ việc quản lý/theo dõi hoat
+động của các cảm biến, lưu trữ thông tin đăng ký (registry) ve
+tính sẵn sàng (availability) và khả năng @apabtht1es) từng nốt
+cảm biến. JoT middleware lắng nghe wu cầu từ rlgu’Ơl sư dụng
+fflsers/consumer) sau đó xác định các nết cảm biến cần được
+truy vân và chuyen đổi yêu cầu thành các truy vấn cụ thể gửi cho
+dịch vụ cung cập dữ liệu (các cảm biến). Các dữ liệu thu thập
+được từ cảm biến sẽ được JoT middleware tong hơp và gửi lại
+
+cho người sử dụng phuc vụ các ứng dụng trong nhiều lĩnh vực
+khác nhau của cuộc sống.
+
+168
+

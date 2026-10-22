@@ -1,0 +1,43 @@
+các sự kiện cụ thể của hệ thống. Mỗi client được phân biệt bằng
+một số điện thoại (phone number). Gateway _đóng vai trò event-
+broker trong mô hình 1aubl1sh-subs<:r1be Mỗi gateway sẽ nhận
+thông tin từ nhiều nốt cảm biến (publisher). Các thông tin này sẽ
+được phân loại vào những kênh được quy định trước (predefined
+channels). Sau đó, tương ứng với mỗi kênh, gateway sẽ thông
+báo đến tất cả subscribers của kênh đó khi các giá trị thỏa mãn
+các điều k1e>n xác định trước.
+
+{EÑ senror node - seneornose Sensor nodê \
+
+System
+
+Gateway -
+
+„ |
+
+Client/ ri5er Client/Subseribber
+
+Hình 7.4. Kiền trúc tông quan cơ chế Hình 7.5. Kiến trúc mạng
+pub/sub pub/sub
+
+Hình 7.5 mô tả kiến trúc mạng của hệ thong “Trong đo các
+gateways là các access points giữ vai trò kết nối đến các nốt cảm
+ủen thông qua chuẩn kết nội Wif. Các gateway cũng có thể kết
+nối đến các router để kết nối đến client thông qua Internet. Bên
+cạnh kết nối internet, việc nhận thông báo cũng có thể được thực
+hiện thông qua kết nối Bluetooth hoặc mạng điện thoại GSM.
+Với kết nối GSM, thông báo sẽ được gửi thông qua 2 dạng tin
+nhắn SMS và cuộc gọi điện thoại.
+
+7.2.4. Hướng tiếp cận máy ão (Virtual Machine)
+
+MATE! cung aup các cơ sở hạ Umg để xây dựng các máy ảo
+phục vụ các ứng dụng cụ thể, và được thực thi trên nền hệ điều
+
+Ì P, Levis and D. Culler, "Mate: a tiny virtual machine for sensor
+
+networks”, in e 10” International Conference on Architectural Support
+.ƒor Programming Languages and Operating Systems, 4CAM, 2002
+
+166
+

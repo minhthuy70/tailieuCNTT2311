@@ -1,0 +1,46 @@
+Việc điều khiển nhiệt độ dựa trên nhiệt độ mà các nút thu
+thập được trong các nong trại và nhiệt độ không khí được đặt
+trước cho các loại cây trồng đề đưa ra các đề nghị đleu chỉnh
+nhiệt độ thích hợp cho sự phát triển tốt nhất của cây trong Hình
+6.4 biểu diễn sơ đồ fuzzy logic điều khiển nhiệt độ trong ứng
+dụng Nông nghiệp thông minh.
+
+Sơ đồ
+
+Temperature ư Í
+
+Controller
+
+Trade mmm |
+
+Hình 6.4. Sơ đồ fiuzzy logic điều khiển nhiệt độ
+
+Mô tÄ thuật toán
+Giải thuật bao gồm các giá trị 1nput như sau:
++ Input
+
+y Temperature: là nhiệt độ mà cảm biến thiết bị thu nhận
+được. Giá trị này sẽ có thuộc 5 khoảng giá trị là Cold,
+Cool, Normal, Warm, Hot (tương ứng với lạnh, hơi
+lạnh, bình thường, ấm, và nóng) và một yếu tố nhỏ để
+xác định độ mng của các khoảng giá trị này là delta
+(riêng biệt với từng loại cây trồng).
+
+y Trade: hướng đi của nhiệt độ hiện tại. Trade có 3 giá trị
+lần lượt là Down, None, Úp (tương ứng với giảm,
+
+không đổi, và tăng). Phần tính toán này do Thuật toán
+Linear Regression xử lý.
+
+¬+ Output:
+
+⁄ 5 giá trị điều khiển tương ứng: HeatHlil HeatLo,
+Nothing VenLo, VenHi (tương ứng với làm nóng
+
+nhiều, làm nóng ít, không làm gì, làm mát ít, làm mát
+nhiều).
+
+Trong case study này được áp dụng trên cây xà lách, có
+khoảng nhiệt độ ổn định là từ 15-18wC.
+
+139

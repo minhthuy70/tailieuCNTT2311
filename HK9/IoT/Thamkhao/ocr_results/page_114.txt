@@ -1,0 +1,40 @@
+Thông qua phần tổng hợp từ hai bảng, Bảng 4.2 và Bảng 4.3
+ta thấầy hiện nay có rất nhiều nền tảng phần mềm, hệ điều hành
+hỗ trợ phát triển các giải pháp IoT với nhiều đặc trưng, đặc tính
+kỹ thuật khác nhau. Chính vì thế, tùy theo nhu cầu sử dụng, tùy
+theo tính năng, yêu cầu của giải pháp IoT muốn phát triển mà
+các nhà phát triển hệ thống có thể chọn lựa cho mình một môi
+trường phù hợp. Ví dụ, trong môi trường nghiên cứu học thuật ở
+nhiều trường đại học trên thế giới, khi nghiên cứu về mạng cảm
+biến không dây, thiết bị IoT tiết kiệm năng lượng, tài nguyên
+hạn chế thì các hệ điều hành như TinyOS, Contiki thường được
+lựa chọn. Ngoài ra, một nền tảng khá phố biến và dễ dàng tiếp
+cận hiện nay đó là máy tính nhúng Raspberry Pi với hệ điều
+hành Raspbian. Đây là một thiết bị nhúng, hỗ trợ khá đầy đủ
+chức năng của một máy tính thu nhỏ, cho phép người lập trình
+sử dụng những tiện ích của ngôn ngữ lập trình bậc cao như
+Python, NodeJS, Java... để phát triển các ứng dụng của mình
+một cách tiện lợi. Tóm lại, với sự phát triển không ngừng của
+công nghệ, lằn lượt ngày càng nhiều nền tảng phần cứng được
+sản xuất chế tạo, kèm theo đó là các giải pháp phần mềm cũng
+được tạo ra, mang đến sự đa dạng chủng loại và nhiều sự lựa
+chọn cho người học, người phát triển giải pháp IoT với nhiều
+cấp độ, nhiều cách tiếp cận khác nhau.
+
+BÀI TẬP CHƯƠNG 4
+
+1. Hãy so sánh các nhóm phần cứng dùng trong loT Ồặ liệt kê các
+thiết bị thuộc mỗi nhóm.
+
+2. Hãy trình bày kiến trúc và hoạt động của một chương trình NesC
+trên TinyOS.
+
+3. Hãy trình bày kiến trúc và hoạt động của một chương trình C
+trên ContikiOS.
+
+4. Hãy liệt kê các loại phần cứng, phàn mềm và các cảm biến (nếu
+có) để xây dựng một ứng dụng giám sát chất lượng không khí.
+
+5. Từ nền tảng Arduino và Raspberry PI 3, hãy thiết ké ứng dụng
+giám sát môi trường và điều khiên thiết bị cho nhà thông minh.
+

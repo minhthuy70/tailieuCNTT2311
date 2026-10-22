@@ -1,0 +1,54 @@
+Hình 3.24 mô tả cấu trúc của một Frame trong 802.11. Tuỳ
+vào chức năng của trạm phát, quy định bởi các bit “To DS” và
+“From DS” trong phần Frame control mà vai trò của các địa chỉ
+1, 2, 3 và 4 trong MAC Headcr sẽ khác nhau cụ thể.
+
+Bảng 3.5. Băng chức năng của trạm phát dựa theo bit “To D.S”
+và “From DS”
+
+—”mrrmrmrTtTSTTrnƒntrtntnSnScS——mrrmrs re
+
+Bit Bit
+Chức năng “To “From Ad<ilJ'ess Ad<ễress Nìcịress AclcjỊ1'ess
+DS° DS'
+
+Ổ —rr_”_“”;1C—
+Independent - lỦó u RA=DA SA  BSSID Không
+BSS có
+Từ AP 0 1 RA=DA BSSID SA I<lt'3“Ị’()'1g
+Tới AP 1 0 RA=BSSID  SA DA mềỄng
+
+„ „ TA(Địa DA \
+WirelssD§ - 1 1 lì"llẸlfậ)`rỊì²’)ct" chỉ — (Địachi SA (Địa
+truyền) đích) chỉ gử)
+
+Chú thích:
+
+* AP- Access Point : điểm truy cập.
+
+„ BSS- lẫỉì`SỈ£) Service Sets: Nhóm các thiết bị vận hành chung một
+kênh truyên sóng.
+
+= BSSID - Basic Service Set Identifier: Định danh cho 1 BSS.
+
+» D§-Distributed System: chỉ các thiết bị cho phép kết nối nhiều AP
+lại với nhau, qua đó kết nối các vùng mạng không dây.
+
+" RA-Receiver Address: địa chỉ trạm nhận.
+
+* TA- Transmitter Address: địa chỉ trạm n'uyền.
+
+» DA-Destination Address: địa chỉ trạm đích.
+
+= SA - Sender Address: địa chỉ trạm gửi.
+
+3.2.3.4. Một số chuẩn con của 802.11
+
+802.11b
+IEEE đã mở rộng trên chuẩn 802.11 gốc vào tháng 7 năm
+`1999, đó chính là chuẩn 802.11b. Chuẩn này hỗ trợ băng thông
+
+lên đến HMprs, tương quan với fflhemẹt U'uyền fflôlgg. 802.1 1b
+sử dụng tân sô vô tuyến (2.4GHz) giống như chuẩn ban đầu
+
+57

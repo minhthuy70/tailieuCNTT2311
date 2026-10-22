@@ -1,0 +1,42 @@
+chủ yếu bằng các REST APIs. HTTP REST được hiện -
+
+thực mang đến khả năng giao tiếp dựa trên nền tảng web
+giữa các ứng dụng IoT cụ thể với hệ thống điều khiển ở
+trung tâm. Bên cạnh đó, giao thức MQTT với cơ chế
+publish/subscribe cũng được sử dụng kết hợp với HTTP
+REST giúp người dùng giao tiếp với thiết bị phần cứng
+bên dưới. Sự kết hợp này không chỉ mang lại trải nghiệm
+tốt cho người dùng, người quản trị mà còn giúp những
+nhà phát triển ứng dụng có thể tận dụng để triển khai
+nhanh chóng nhiều ứng dụng IoT khác với những hỗ trợ
+mạnh mẽ trong việc giám sát, lập trình lại thiết bị từ xa.
+
+7.5. Ứng dụng của chức năng tái cấu hình trong hệ thống
+IoT và các định hướng nghiên cứu
+
+Chức năng tái cấu hình trong hệ thống IoT mang lại nhiều ý
+nghĩa cho việc phát triển Wt triên khai ứng dụng JoT, &1c biệt là
+khi triển khai trong ỦIƯC tế ở các môi trường khó tlep cận vào
+
+thao tác trực Uep Một số tác dụng của giải pháp tái câu hình IoT
+mang lại có thể kể đến như:
+
+Thay đồi hành vi ứng dụng thu thập dữ liệu của thiết bị cảm
+biến: tính năng tái cấu hình, đặc biệt là tùy chỉnh tham số cấu
+hình từ xa qua mạng cho phép tùy chỉnh một số đặc điểm của
+thiết bị cảm biến không dây dùng trong các ứng dụng IoT. Khả
+năng này giúp thiết bị có thể thay đổi chọn lựa về loại cảm biến
+muốn thu thập dữ liệu, cũng như tần suất thu thập dữ liệu. Từ
+đó, thiết bị IJoT. có thể được tối ưu về tài nguyên tính toán, tài
+-nguyên mạng, bộ nhớ lưu trữ dữ liệu, đặc biệt là tiết kiệm năng
+lượng, kéo dài tuổi thọ hoạt động cho thiết bị.
+
+Thay đổi toàn bộ firmware, phục vụ cập nhật, nâng cấp
+phiên bản từ xa. Các giải pháp tái cấu hình, đặc biệt là tái cấu
+hình từ xa qua mạng toàn bộ ảnh hệ điều hành của thiết bị IoT là
+công cụ hiệu quả hỗ trợ người vận hành, bảo trì, nâng cấp thiết
+bị IoT một cách tlen lợi. Tính năng này cho phep người quản trị
+thực hiện nâng wp phiên bản từ xa mà không cân phải tiếp cận
+trực tiếp với thiết bị, qua đó, giúp tiết kiệm chỉ phí, công sức và
+
+183

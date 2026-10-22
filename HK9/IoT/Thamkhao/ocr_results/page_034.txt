@@ -1,0 +1,29 @@
+- Giám sát an ninh: Hệ thống camera giám sát được trang bị
+xung quanh ngôi nhà để đảm bảo không có sự xâm nhập bất hợp
+pháp vào ngôi nhà của gia chủ. Tính thông minh của hệ thống
+này có thể được tích hợp vào hệ thống cửa ra vào nếu trang bị hệ
+thống nhận diện gia chủ. Hệ thống thứ hai là cảm biến đặt tại
+cửa fa vào, cửa số, cảm biến chuyển động, cảm biến khí ga, hay
+cảm biến khói có thể cho gia chủ biết được tình trạng ngôi nhà
+của mình khi vắng nhà. Hình 2.2 là ví dụ về bảng điều khiển của
+hệ thống cảm biến đặt trong nhà thông minh, bao gồm giá trị của
+các cảm biến nhiệt độ, độ ẩm và các thiết bị chiều sáng ở các vị
+trí trong nhà. Bên cạnh đó, hệ thống phát hiện và ngăn ngừa xâm
+nhập cũng có thể được tích hợp vào hệ thống để tăng mức độ an
+ninh cho ngôi nhà.
+
+Ợ temperatre .] T nưnayc= m
+
+Hình 2.2. Ví dụ về Giao diện của Hệ thông giám sát
+trong NVhà thông mình
+
+- Điều khiển thiết bị điện: Máy điều hòa tự động bật trước
+khi gia chủ về là một tính năng đem lại sự tiện dụng cho gia chủ.
+Đây có thể là một kịch bản cho smart home. Trong thời gian gần
+đây, các ứng dụng smart home được đưa ra thị trường đều tập
+trung vào việc làm sao điều khiển được các thiết bị điện như
+
+14
+
+— m^.cmr m eo.<4 c m
+

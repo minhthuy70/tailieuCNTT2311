@@ -1,0 +1,36 @@
+đến Gateway thông qua nhiều bộ giao thức khác nhau như
+Zigbee, Bluetooth, LoRa, WLAN,... Các bộ giao thức này sẽ
+được trình bày trong Chlx<›*ng 2 của giáo trình này. Dữ liệu từ
+Gateway được chuyển tiếp đến Cloud thông qua các bộ giao
+thức như TCP/IP, Cellular. Tại đây, dữ liệu cảm men được lưu
+trữ, phân tích và đưa ra các dự đoán w1 chuyển tiếp đến Web
+App trên thiết bị của người dùng. Lớp cuối cùng trong ứng dụng
+Nông ngh1cệp thông minh là Lớp người dùng. Tại đây, người
+dùng có thể xem được các thông sô của môi trường, vật nuôi từ
+dữ liệu thô (raw data) hoặc dữ liệu sau khi được phân tích, dự
+đoán. Các loại dữ liệu này còn được gọi là ngữ cảnh - được trình
+bày trong Chươl'1g 6 của giáo trình. Ngoài ra, người dùng có thể
+đưa ra tín hiệu điều khiển ngược lại đến các thiết bị tại Lớp thiết
+bị để điều khiển các công cụ trong lớp này.
+
+BÀI TẬP CHƯƠNG 2
+
+Hãy liệt kê những ứng dụng loT trên thế giới và ở Việt Nam.
+Hãy liệt kê những ứng dụng trong Thành phố thông minh.
+Hãy liệt kê các thành phần chính trong một kiến trúc loT.
+Hãy thiết kế kiến trúc loT cho nông nghiệp tại Việt Nam.
+
+ơƠ . ØNz
+
+Hãy thiết kế kiến trúc loT và liệt kê các chức năng của ứng dụng
+nhà thông minh.
+
+°
+
+Hãy trình bày ý tưởng và xây dựng kiến trúc loT phục vụ cho
+việc giám sát giao thông tại Việt Nam.
+
+7. Hay trình bày ý tưởng và xây dựng kiến trúc loT trong giám sát
+chất lượng không khí tại Thành phố Hồ Chí Minh.
+
+31

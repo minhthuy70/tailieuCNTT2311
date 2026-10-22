@@ -1,0 +1,39 @@
+6.3. Các kỹ thuật mô hình hóa ngữ cảnh
+
+Phần này sẽ trình bày một số hướng tiếp cận trong mô hình
+hóa ngữ cảnh:
+
+6.3.1. Mô hình khóa/giá trị
+
+Mô hình cặp Khóa-Giá trị (Key-Value Model) là cấu trúc dữ
+liệu đơn giản nhất để mô hình hóa ngữ cảnh từ thông tin thu thập
+được thông qua các định dạng văn bản hoặc fñile nhị phân. Cặp
+Khóa-Giá trị được sử dụng để mô hình hóa ngữ cảnh thông qua
+việc cung cấp giá trị của mỗi ngữ cảnh (ví dụ: thông tin về vị trí)
+đến ứng dụng. Mô hình Khóa-Giá trị thường đơn giản, dễ sử
+dụng, dễ quản lý. Tuy nhiên, hướng tiếp cận này cũng có nhược
+điểm là không có khả năng mở rộng, không thể hiện được các
+mói quan hệ và không hỗ trợ các thuật toán truy xuất ngữ cảnh.
+Nodel -> temperature = 25
+Nodel -> humidity = 85
+Node2 -> temperature = 27
+Node2 -> humidity = 72
+
+6.3.2. Mô hình sơ đồ
+
+Mô hình sơ đồ (Markup Scheme Models) là dạng cấu trúc dữ
+liệu phân cấp chứa các thẻ đánh dấu (markup tag) với các thuộc
+tính và nội dung. Mô hình này được xem là cải tiến so với mô
+hình Khóa-Giá trị. Ưu điểm của mô hình này là tính hiệu quả khi
+lấy dữ liệu từ các thẻ đánh dấu. Công cụ được sử dụng chủ yếu
+trong mô hình này là các lược đồ XML. Tuy nhiên, hạn chế của
+mô hình sơ đồ là khả năng diễn đạt và suy luận, cụ thể các mô
+hình sơ đồ khác nhau lại không có các chức năng mô hình hóa,
+truy xuất, tương tác và tái sử dụng. Một ứng dụng phố biến của
+mô hình này là mô hình hóa hồ sơ (profile). Hồ sơ thường được
+phát triển bằng ngôn ngữ XML. Ngoài ra, mô hình sơ đồ còn sử
+dụng các ngôn ngữ khác như RDF/S hay JSON. Gần đây, có một
+số ứng dụng của mô hình sơ đồ như ContextML trong lĩnh vực
+nhận biết ngữ cảnh và Tuple trong mô hình hóa ngữ cảnh.
+
+131

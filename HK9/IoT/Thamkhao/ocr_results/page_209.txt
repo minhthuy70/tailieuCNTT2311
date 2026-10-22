@@ -1,0 +1,63 @@
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+TÀI LIỆU THAM KHẢO
+
+Manjhi, Amit, Nath, Suman, Gibbons và P. B. “Tributaries and deltas:
+efficient and robust aggregation in sensor network sưeams”, trong
+Proceedings of the 2005 ACM SIGMOD International Conference on
+Management of Data, Baltimore, Maryland, 2005.
+
+P. Skraba, Q. Fang, A. Nguyen và L. Guibas, “Sweceps over wireless
+Sensor networks”. trong Proceedings of the 5th international conference
+
+on Information processing in sensor networks (IPSN '06), Nashville,
+Tennessee, USA, 2006.
+
+1. Olsson, “6LoWPAN demystified”, Texas Instruments, Texas, 2016.
+J. Olsson, “6LoWPAN demystified”, Texas Instruments, 2014.
+
+O. Hahm, E. Baccelli, H. Petersen và N. Tsifites, ““Operating Systerms for
+Low-End Devices in the Internet of Things: A Survey”, IEEE Internet
+of Things Journal, pp.720-734, 2016.
+
+B. Kiran, J. Singh và D. §S. Kapoor, “Create Vour Own Internet of
+Things”, IEEE Consumer Electronics Magazine, pp.57-68,2017.
+
+Memsic, “Telosb mote datasheetf?, [Trực tuyến] Available:
+http://www.memsic.com.
+
+D. Gay, P. Levis, D. Culler và E. Brewer, nesC 1.3 Language Reference
+Manual, 2009.
+
+D.I A. Riener, “Sensor Network Application Development”, Linz
+(Australia), 2007.
+
+Advanticsys, “Tech Resources”, 3 September 2012. [Trực tuyến].
+Available: ›
+
+MtpM/www.advanticsys.wm/wikí/indexphp?tỉtle—-—Gettễmg_staưed_wỉth
+_nesC. [Đã truy cập 1 March 2016].
+
+S. Cory, T. Martin và G. David, “TEP 102”, [Trực tuyếrx]. Available:
+http://www.tinyos.net/tinyos-2.1.0/doc/html/tep102.html.
+
+P. Levis “TEP 111 - message t, [Trục tuyến]. Available:
+http://www.tinyos.net/tinyos-2.1.0/doc/html/tep1 11.html.
+
+J. Hui, P. Levis và D. Moss, “TinyOS 802.15.4 Frames”, [Trực tuyến].
+Available: Jonathan Hui, Philip Levis, and David Moss.
+
+B.G. A. Dunkels và T. Voigt, “Contiki - a lightweight and flexible
+Operating system for tỉny networked sensors”, trong 29th Annual IEEE
+International Conference on Local Computer Networks, 2004.
+
+189
+

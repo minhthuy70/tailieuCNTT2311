@@ -1,0 +1,46 @@
+Thông qua nội dung trình bày trong chương này, người đọc
+có thể nắm bắt được kiến trúc tổng quan của một hệ thống IoT
+kết hợp hạ tầng điện toán đám mây và tính toán cận biên. Nắm
+được những đặc điểm, lợi ích, phân loại các mô hình dịch vụ
+trong điện toán đám mây cũng như các vấn đề nghiên cứu, thách
+thức trong IoT kết hợp tính toán cận biên giúp người đọc dễ
+dàng tiếp cận, khi thực hiện khảo sát cũng như triển khai các
+nghiên cứu có liên quan trong lĩnh vực.
+
+5.1. Kiến trúc tổng quan hệ thống IoT tích hợp điện toán
+đám mây và điện toán cận biên
+
+5.1.1. Kiến trúc ổng quan
+
+|Giobal Data
+GLOBAL fLĨ_j_la'
+
+Gore Network l
+
+`. (WAN
+NEAR EDGE/ ẵ
+
+Fos ®X Macrocell/
+l ierocnl
+
+EneE : Picocell ka
+
+—-. Iề Ể
+Embsdde A/" E,
+u & Edạe, v Computational
+
+m N rê
+A
+56nsor: A_/'ffl
+
+%'òu……
+
+Hình 5.1. Kiến trúc tÔng quan phân lớp Edge, Fog và Cloud trong JoT”
+
+1
+
+Industrial Internet of Things (IIoT) Applications of Edge and Fog
+Computing: A Review and Future Directions,
+http://arxiv.org/abs/1912.00595
+
+97

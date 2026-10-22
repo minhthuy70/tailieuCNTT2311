@@ -1,0 +1,44 @@
+Một data object lớn có kích thước Sobj được chia ra thành
+các packet có kích thước có định là Spkt. Đề đảm bảo nhận được
+tất cả các packet, node phải ghi lại (keep track) các gói tin cần
+thiết để hoàn thành một object. Tuy nhiên, kích thước Packet
+thường rất nhỏ so với Ob_|.Jẹct nên việc lưu lại này tốn nhiều bộ
+nhớ RAM. Do đó, Deluge giảm việc tiêu tốn này bằng cách chia
+Object thành các Pages với Spage = N.Spkt, trong đó, N là số
+packet trong 1 page (fĩx number) (Như Hình 7.9).
+
+Theo hình, thì mỗi node cần phải tự quan tâm chú ý xem
+mình có đủ các page cần thiết để gom lại thành một Object hoàn
+chỉnh hay chưa. Ở đây sử dụng bit-vector với N bit để kiểm tra
+việc này.
+
+Các page và packet điều chứa 16-bit CRC kiểm soát lỗi, nếu
+CRCG sai thì sẽ bỏ và chờ nhận lại cái khác. CRC này đảm bảo
+dữ liệu nhận được bởi tất cả các node là chính xác, đặc biệt là do
+đặc tính epidemic, một node với dữ liệu sai thì sẽ lan truyền sai
+tới các node khác.
+
+Trong một số trường hợp, việc cập nhật mới chỉ cần ở các
+page mới hơn thôi. Đề hỗ trợ việc này, người ta sử dụng version
+number đễ phân biệt các cập nhật khác nhau và sẽ tăng dần lên
+theo thứ tự. Một node sẽ so sánh chỉ số này để quyết định là có
+yêu cầu dữ liệu mới hay không.
+
+Để suy luận ra #; nào (when) page đó thay đổi cuối cùng,
+người ta biểu diễn một tập p Page với version y bằng một age
+vector, a = <an,ai, a .... qửl> để mô tả cái page đó đã có bao
+lâu. Như vậy, nội dung của page ¡ tại version v có lần thay đổi
+
+q101 cùng là v-a; Từ đó, thông tin của một object được biểu diễn
+băng (v, a), được lưu trữ trong bộ nhớ non-volatile.
+
+Một node nhận được một object profile cho một phiên bản
+mới hơn sử dụng age-vector để xác định page nào cần update.
+
+Những vắn đề tôn tại và hướng phát triển đề xuất thực hiện
+
+Với phiên bản hiện thực hiện U_Ệi của Deluge trên môi trường
+TinyOS 2.x, các thao tác điều ffl_1iên, truyên lệnh kích hoạt quá
+trình tái lập trình thiết bị cảm biên thực hiện thủ công trên từng
+
+171

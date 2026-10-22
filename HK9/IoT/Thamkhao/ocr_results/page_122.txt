@@ -1,0 +1,41 @@
+thuật như: tính toán song song (parallel computing), cân bằng tải
+(1oad balancing), định thời tác vụ (Job scheduling).
+
+Khả năng truy cập và tính linh động thể hiện qua việc các
+thiết bị, sản phẩm, dịch vụ và môi trường điện toán đám mây có
+thể truy cập với nhiều người nhất có thể. Tính linh động dịch vụ
+là khả năng truy cập vào các dịch vụ từ bất kỳ thiết bị nào, ở bất
+kỳ đâu một cách liên tục với hỗ trợ di chuyển và đáp ứng linh
+hoạt với đa dạng nguồn tài nguyên.
+
+.Khả năng quản lý và fương tác. Khả năng quản lý của hệ
+thống điện toán đám mây được ảnh hưởng mạnh mẽ bởi các hệ
+thống quản lý mạng ban đầu trong lĩnh vực truyền thông. Khả
+năng tương tác là thuộc tính của một hệ thống hay sản phẩm mà
+công tương tác của nó (interface) có thể hoạt động với các sản
+phầm, hệ tl1ốnztg ở hiện tại và tương lai không có sự hạn chế trong
+truy cập hay vận hành. Đề hiện thực tính năng này, hệ thống
+điện toán đám mây cần đạt được các tính năng như điều khiển hệ
+thống tự động (system control automation), giám sát trạng thái
+hệ thống (system state monitoring).
+
+5.2.2. Lợi ích của điện toán đám mậây
+
+Hạ tầng điện toán đám mây mang lại nhiều lợi ích cho các
+doanh nghiệp lẫn người dùng cá nhân.
+
+Về phía doanh nghiệp, điện toán đám mây giúp giảm chỉ phí
+đầu tư, nâng cao chuyên môn hóa công nghiệp, nâng cao hiệu
+quả tài nguyên.
+
+s Giảm chỉ phí đầu tư: tiết kiệm chi phí khảo sát, phân tích
+thị trường ban đầu, doanh nghiệp không cần phải sở hữu
+hạ tằng phần cứng riêng mà có thể thuê dịch vụ để phát
+triển và triển khai giải pháp một cách nhanh chóng; có thời
+gian trung vào việc phát triển mô hình kinh doanh, dễ dàng
+tái tổ chức lại các dịch vụ IT trong thời gian Ì'lgẳl'l.
+
+s Nâêng cao hiệu quả chuyên môn hóa theo quy mô công
+nghiệp: tận dụng đặc trưng của điện toán đám mây,
+
+102

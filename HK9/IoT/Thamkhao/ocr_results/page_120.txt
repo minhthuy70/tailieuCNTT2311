@@ -1,0 +1,41 @@
+“Khả năng bảo mật dữ liệu (data securit): đảm bảo hệ thống
+chịu được các cuộc tấn công từ bên ngoài nhắm vào dữ liệu bí
+mạật lưu trữ trong hệ thống hay trên mạng.
+
+Các dịch vụ bảo mật @erv1ce security): giúp hệ thống chịu
+được các tấn cong bên ngoàl nhắm vào việc lam ngừng các dịch
+vụ được cung câp bởi hệ thong thông qua các tấn công như DoS
+(Deniel-of-Service) hay tấn công Blackhold.
+
+Bảo mật vật lý (physical ưcurzty) Đảm bảo hệ thống được
+thiết kế và triển khai sao cho có tIle không bị ảnh mIơng bởi các
+tai nạn thông thường như cháy nỗ, rò rỉ nước, hóa chất.
+
+7Tạo ra dữ liệu và tính toán cận kề (data šproduction and
+computation proximipy): Đây là đặc trưng cơ bản của hệ thống
+IoT dựa trên nên tảng tính toán cận biên và điện toán đám mây.
+Tính năng này đảm bảo m: liệu thu thập được bởi các thiết bị và
+
+hệ thong được xử lý ở gần kề nhau giúp làm giảm thời gian
+chậm trễ.
+
+5.2. Nền tảng điện toán đám mây và ứng dụng trong IoT
+
+Từ khi ra đời, công nghệ điện toán đám mây (Cloud
+Computing) đã thu hút được sự quan tâm của nhiều tổ chức và
+nhà khoa học trên khắp thế giới. Theo Viện Tiêu chuẩn và Công
+nghệ Hòa Kỳ, điện toán đám mây là một mô hình để hiện thực
+mot cách tiện lợi, theo nhu câu v1ec truy cập mạng tới một
+nguồn tài nguyên tính toán có thể cấu hình (ví dụ: mạng, máy
+chủ, bo nhớ, ứng dụng và dịch vụ), mô hình "này có thể được
+cung cấp và phát hành một cách thuận tlen ít tốn công sức trong
+Việc quản lý và tương tác với nhà cung cấp dịch vụ. Theo trường
+ĐH Berkeley, điện toán đám mây đề cập tới việc các ứng dụng
+được phan phm dưới dạng dịch vụ mà hệ thống phan cứng và
+phần mềm trong các trung tâm dữ liệu đã cung cap các dịch vụ
+đó. Còn theo nhà khoa học Buyya - người có nhiều ảnh hưởng
+trong các nghiên cứu về công nghệ điện toán đám mây và
+Internet vạn vật - điện toan đám mây là một hệ thống xử lý song
+song và phân tán, bao gồm một tập hợp các máy tính được kết
+
+100

@@ -1,0 +1,29 @@
+s
+S
+i
+
+—
+4 ø
+s
+
+Component 3
+
+Hình 6.12. Vĩ dụ về Học không giám sát .
+
+Học tăng cường: là loại học máy về hành động và kinh
+nghiệm khi tương tác với môi trường. Kỹ thuật loại này lựa chon
+hành động để cực đại hóa một khoản thlrơng ựeward) nào đó về
+lâu đài. Các thuật toán học tăng cường cố gắng tìm kiếm một
+chiến lược ánh xạ các trạng thái của thế giới thành các hành
+động mà một thực thể (agent) nên chọn trong các trạng thái đó.
+Hình 6.13 mô tả hoạt động của học tăng cường.
+
+A
+s. ] Environment
+
+Hình 6.13. Hoạt động của học tăng cường”
+
+: https://www.kdnuggets.com/2018/03/5-things-reinforcement-
+
+learning.html
+153

@@ -1,0 +1,43 @@
+sử dụng trong các ứng dụng thích ứng ngữ cảnh. Cụ thể, kỹ thuật
+phân cụm được sử dụng ở mức thấp (mức phần cứng) trong
+mạng cảm biến như định tuyến hay mức cao (mức ứng dụng)
+như xác định vị trí trong nhà hay ngoài trời. K-ỹ thuật mạng nơ-
+ron không giám sát như Kohonen Self ù~gamzmg Map
+(KSOM) được sử dụng để phân loại dữ liệu cảm biến theo thời
+gian thực.
+
+6.4.3. Dựa trên luật
+
+.Dựa trên luật fflule-based) Đây là phương pháp đơn giản
+và dễ hiểu nhất trong việc suy luận. Luật thường có câu trúc IF-
+THEN-ELSE. Phương pháp này cho phép tạo ra ngữ cảnh cấp
+cao bằng ngữ cảnh cấp thap Mire là một công cụ nhận biết ngữ
+cảnh cho thiết bị di động. Hầu hết các tùy chọn người dùng (user
+Preferences) được mã hóa (encode) thông qua luật. Kỹ thuật này
+còn được sử dụng trong phát hiện sự kiện. Suy luận dựa trên luật
+được dự đoán sẽ đóng vai trò quan trọng trong JoT bởi vì élay là
+cách dễ dàng và đơn giản nhất để mô hình hóa suy nghĩ của con
+người và suy luận bằng máy móc. PRIAMOS là một ví đụ về sử
+
+dụng các luật ngữ nghĩa để chuyển dữ liệu cảm biến thành thông
+tin ngữ cảnh.
+
+6.4.4. Dựa trên logic mờ
+
+Dựa trên Jogic mờ (Fuzzy logic): K thuật này cho phép suy
+luận mlp xỉ thay vì suy luận chính xác và rõ ràng. Trong lý
+thuyết truyền thống, giá trị chỉ có thể biểu đạt bằng 0 hoặc 1
+(True/False). Tuy nhiên, lý thuyết mờ đưa ra cách diễn tả tự
+nhiên hơn như các kịch bản trong thực tế để mở rộng khả năng
+suy diễn không chắc chắn. Ví dụ như các khái niệm cao, ngăn,
+tối, đáng tin,... có được meu đạt trong logic mờ. Nhược điểm
+của phương phap này là tất cả những giá trị này đều phải được
+xác định từ trước. Trong hầu hết các trường hợp, logic mờ
+không thể sử dụng độc lập mà phải ket hợp với một kỹ thuật
+khác như dựa trên luật, lý thuyết xác suất hay dựa trên ontolopgy.
+
+Sau đây là một case study về điều khiển nhiệt độ trong ứng
+dụng Nông nghiệp thông minh sử dụng kỹ thuật Logic mờ:
+
+138
+

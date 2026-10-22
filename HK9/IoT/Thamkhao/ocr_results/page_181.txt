@@ -1,0 +1,44 @@
+7.2. Các hướng tiếp cận trong tái cầu hình IoT
+
+7.2.1. Hướng tiếp cận thay thể toàn bộ image
+
+Là cơ chế thay thế toàn bộ một imagce đạng ủay trên thiết bị
+JoT. Một dịch vụ điển hình đã hiện thực cơ chế này trên thiết bị
+cảm biến không dây Telosb là Deluge trên môi trường TinyOS.
+
+Cơ chế hoạt động của Deluge được trình bày chỉ tiết trong các
+phần sau:
+
+Cơ chế hoạt động
+
+Khi một node hoạt động ở một thời điểm, node sẽ có một
+trong các trạng thái sau: MAINTENANCE, RX, TX [18]. Tập
+các quy tắc trong một node là một chức năng trong trạng thái
+hiện tại và chỉ ra những hành động và trạng thái tiếp theo khi
+t1ep nhận các sự kiện phản hồi.
+
+.Mairtenance
+
+Một node trong trạng thái MAINTENANCE chịu trách
+nhiệm đảm bảo tất cả các node trong vùng ;glao tiếp có: (1) phiên
+_bản mới nhất của _object profile; (2) dữ liệu săn sàng cho phiên
+bản mới nhất. Để duy trì thuộc tính này, mỗi node sẽ thỉnh
+thoảng quảng bá thông tin tổng quan (summary) về version hiện
+tại của object profile và các  tập page mà hiện có. Người ta định
+nghĩa page ¡ là complete nếu môi packet cho page đó đã nhận
+chính xác. Page ï là available nếu nó compiete và các page trong
+khoảng [0, ï] cung là complete. Chính vì thế, summary chỉ cần
+chứa 2 tham số là _{v, ÿ3; trong đó, v là v version number và y là
+số page lớn nhất sẵn sàng cho truyền tải.
+
+Deluge sử dụng giải thuật 77icAJe để điều khiển việc truyền
+tải các thông điệp.
+1equest (RX)
+
+Một node ở chế độ RX chịu trách nh1e1r1 yêu cầu các gói cần
+
+thiết để hoàn thành page p=y+1. Mỗi yêu cầu hoạt động như một
+SNACK (Selecuve negative wknowledgẹmenQ kh11 một bit-
+Vector chỉ ra gói packet nào trong page là cần thiết. Đề giảm bớt
+
+ló1

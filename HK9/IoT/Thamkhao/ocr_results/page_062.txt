@@ -1,0 +1,42 @@
+biệt, từ 5 phiên bản năm 2006, có hai cải tiến mới cho TEEE
+802.15.4 là e và g trong đó IEEE 802.15.4e là một MAC được
+cải tiến và cung cấp nhiều cơ chế nâng cấp như zie slotted
+channel hopping (TSCH) và coordinated sampled. listening
+
+(CSL) cả hai cơ chế này điều hỗ trợ hoạt động tiết kiệm năng -
+
+lượng. Chuẩn IEEE 802.15.4g là một cải tiền tần PHY với mục
+đích là cung cấp nhítĨ:u lớp, dải tân rộng hơn để có thể hoạt động
+rộng rãi trong băng tân Sub-1 GHz.
+
+Tầng Data Link cung cấp cơ chế truyền tin cậy giữa các
+node liên kết trực tiếp với nhau bằng các phát hiện và sửa lỗi xảy
+ra trong quá trình truyền ở tằng vật lý. Tầng Data Link cung cấp
+cơ chết MAC để điều khiển truy cập, sử dụng tính năng đa truy
+cập cảm biến sóng mang - tránh xung đột (CSMA-CA). Trong
+6LoWPAN, tằng MAC là IEEE 802.15.4 MAC, hỗ trợ thích ứng
+từ IPv6 sang IEEE 802.15.4.
+
+Tầng Network là tằng đánh địa chỉ và định tuyến thông qua
+mạng, cung cấp địa chỉ IP để truyền dữ liệu tới thiết bị khác.
+Trong 6LoWPAN thì IPvó được sử dụng.
+
+Ềìng Transport tạo ra phiên giao tiếp giữa các ứng dụng
+chạy trên thiết bị cuối. Tầng này cho phép nhiều ứng dụng chạy
+trên mỗi thiết bị theo kênh giao tiếp riêng của nó. Tầng này
+trong 6LoWPAN tương tự như mô hình bình thường.
+
+Tầng Application là tầng chịu trách nhiệm định dạng dữ
+liệu. Các giao thức thông thường truyền thống trên tằng này như
+HTTP thông qua TCP. HTTP truyền thống ít dùng cho
+6LoWPAN, tuy nhiên, tiện lợi khi muốn giao tiếp giữa mạng
+6LoWPAN và mạng internet truyền thống. Trong 6LoWPAN,
+các giao thức phổ biến được sử dụng trong ửmg Application này
+là COAP (Constrained Application Protocol), một loại message
+protocol chạy trên UDP tương tự như HTTITP và giao thức
+MQTT (Message queue telemetry transport), một loại giao thức
+mã nguồn mở được phát minh bởi IBM, MQTT hoạt động theo
+cơ chế publish/subscribe trên TCP.
+
+42
+

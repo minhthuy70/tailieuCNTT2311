@@ -1,0 +1,28 @@
+Hình 3.8. Kiến trúc dựa theo cụm (cluster-based)
+
+Kiến trúc dựa trên địa hình phụ hru-đổng Mìng
+(Tributary - Delta)
+
+Kiến trúc Tributary - Delta [1], được hành thành từ ý tưởng
+dòng chảy của con sông, là một cách tiếp cận mới trong tập hợp
+dữ liệu trong mạng. Kiến trúc này là kết quả của việc kết hợp
+. các ưu thế của kiến trúc dựa trên kiến trúc cây (tree-based) và
+định tuyến đa luồng (multi-path routing). Hình 3.9 là một ví dụ
+về kiến trúc Tributary - Delta, mô hình mạng được chia làm hai
+vùng riêng biệt: Tributary và Delta. Trong mạng độ lỗi thấp,
+kiến trúc cây được sử dụng cho các thông điệp có kết thước nhỏ,
+trong trường hợp độ lỗi cao, dữ liệu thu thập từ rất nhiều cảm
+biến thì multi-path routing được sử dụng đề đảm bảo hiệu quả.
+
+Tributary Region Delta Region
+Cl`/rgcì (Multrpath)
+— —¬ A x
+
+r
+
+Base
+— | Station
+
+Hình 3.9. Kiền trúc #ributary - delta /1]
+
+37

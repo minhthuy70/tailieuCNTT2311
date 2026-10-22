@@ -1,0 +1,50 @@
+Quy trình triển khai cụm Docker Swarm được trình bày trong
+Hình 5.11 API ho trợ chứng thực (POST /v2. 0/tokens) được gọi
+đầu tiên và trả ve token. Token này sẽ là input bắt buộc để thực
+hiện các APIs tiếp theo gồm: GET /images: GET /flavors; GET
+/os-keypairs:; GET /v2. 0/networks. Các APIs này được dùng để
+lấy thông tin tương ứng cung cap cho giao diện người dùng. Dựa
+trên thông tin người dùng cung cấp, các shellscripts sẽ được tạo ra
+tương ứng cho từng máy ảo. Tiếp theo đó, network và subnet
+tương ứng sẽ được tạo ra thông qua việc sử dụng lần lượt các
+APIs: POST /v2.0/networks và POST /v2.0/subnets. Cuối cùng,
+các máy ảo sẽ lần lượt được tạo ra thông qua việc gọi nhiều lần
+API POST /servers. Các thông tin về Image, Flavor, Keypair,
+Network và shellscript sẽ được dùng làm input cho API này. Sau
+khi hệ thống các _"máy ảo được triển khai, các lệnh cấu hình được
+chạy tự động để tạo ra một hệ thống máy ảo tạo thành cụm
+Docker Swarm phục vụ thử nghiệm.
+
+Ngoài ra, để phục vụ thử nghiệm, các công cụ cần thiết
+go1r1 Olsr (hỗ trợ định tuy<an) QOMET (công cụ giả lập), Iperf
+(công cụ đo hiệu năng mạng)... Các công cụ này sẽ được tích
+hợp sẵn trong ảnh hệ điều hành (OS image) trên Docker Hub.
+Khi container được tạo ra, nó sẽ tải ảnh hệ điều hành về từ
+Docker Hub và khởi chạy..-.... -
+
+5.3. Nền tảng điện toán cận biên và ứng dụng IoT
+
+5.3.1.. Kiến trúc triển khai điện toán cận biên trong JoT
+
+Cloud Servers Ì
+l *MOTT Brokor
+
+xWobServer |
+ẵ *DB Server
+
+Edge Devices
+* 1oT Galeway
+
+* Base siation CHẦN
+
+1oT devices
+
+y\x ¬I
+*WSN Nodes =_ .. .. s
+A ø s< BmÉU.P s
+
+⁄
+
+Hình 5.12. Kiến trúc triển khai tính toán cận biên trong loT
+
+117

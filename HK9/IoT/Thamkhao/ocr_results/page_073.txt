@@ -1,0 +1,46 @@
+tới, hiệp hội ZigBee đã quyết định giữ giao thức trong một môi
+trường tốc độ truyền dữ liệu thấp.
+
+Với tần số 2.4GHz, tốc độ truyền tối đa của Zigbee là
+250kbps, nhưng do số lằn truyền lại, sự mã hóa và giải mã, và
+giao thức lưới đầy đủ được dùng nên through-put thực sự
+khoang 25kbps. Transceivers là half-duplex, đây cũng là một
+yếu tố giảm through-put từ 250 tới 25kbp.
+
+3.2.22.5. Nền tảng hiện thực bộ giao thức mạng Zigbee
+
+Bộ giao thức mạng Zigbee là một chuẩn giao thức được sử
+dụng phổ biến trong nhiều giải pháp IoT. Với đặc trưng cho
+phép xây dựng một mạng IoT với số lượng nốt lớn và tiết kiệm
+năng lượng, độ tin cậy cao, chuẩn kết nối Zigbee là lựa chọn
+mmg đầu trong việc triển khai các giải phz1p fflam sát trong tl1ưc
+tế. Bang 3.3 và Bảng 3.4 giới thiệu một số nền tảng phần mềm,
+
+phần cứng hỗ trợ hiện thực, triển khai giải pháp IoT sử dụng bộ
+giao thức Zigbee.
+
+Đảng 3.3. Một số nên tăng phần cứng hỗ trợ chuẩn Zigbee
+
+STT Tên giải pháp Nhà sản xuất Thông tin chỉ tiết
+
+T Ơ31352R.’ T Texas https://WWW.ti.com/wireless-
+
+1 CC1352P, Tì CC2652R, Instruments connectivity/zigbee/
+Ti CC2530, CC2538
+
+2 Digi XBee® Zigbee Digi https://www.digi.com/
+Zigbee Modules Mouser :
+
+3 (002.154) Eleetronies - 3PS7/WWW.mousercom
+
+4 - MGMI2P02FI024GE-V2 Ô HỜN c hpst//www.silsbscom/
+
+Bảng 3.4. Một số nền tầng phần mềm hỗ trợ bộ giao thức Zigbee
+
+STT Tên giải pháp Thông tìn chỉ tiết
+1 Arduino-based httpsì//www.arduino.cc
+2 nRF5SDK https://www.nordicsemi.com
+3. ZBOSS3.0 https://dsr-zZboss.com
+
+U
+v2›

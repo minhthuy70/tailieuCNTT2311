@@ -1,0 +1,40 @@
+CHƯƠNG 3
+
+_ CÁC KIẾN TRÚC MẠNG
+VÀ BỘ GIAO THỨC MẠNG 1OT
+
+Các hệ t.†xong Internet của vạn vật thường bao gồm rất nhiều
+thiết bị kết nối với nhau để trao đổi dữ liệu thu thập cũng như
+các tín hiệu điều khiển trong mạng. Nhiều kiến trúc mạng cũng
+như các bộ giao thức mạng đặc biệt dùng trong IoT đã được
+nghiên cứu và phát triển đề tạo nên một cơ chế truyền gửi dữ
+liệu một cách hiệu quả giữa các nốt trong mạng IoT.
+
+N01 dung ừương trình này trình bày những kiến thức cơ
+bản về một số kiến ưuc mạng mương sử dụng trong IJoT cũng
+như giới thiệu một số chuẩn kết nối mạng được dùng nhiều
+trong các hệ thống IoT. Các kiến trúc mạng được trình bày
+theo thứ tự từ những kiến trúc mạng ưuyền thống được sử
+dụng thường xuyên trong các hệ thống mạng máy tính thông
+thường như kiến trúc cây (tree), kiến trúc mắt lưới (mesh),
+kiến trúc vòng (ring), kiến trúc chuỗi (chain) và kiến trúc lưới
+(grid). Ủếp theo đó, một số kiến trúc mạng hiện đại cũng
+được đề cập như kiến trúc phụ lưu - đồng bằng (Tributary -
+Delta), kiến trúc dựa theo cụm (cluster-based), kiến trúc hn
+sóng (sweep). Phần còn lại của chương này trình bày một số ˆ
+đặc điểm kỹ thuật của các bộ giao thức mạng thường dùng
+trong IoT, bao gồm: 6LoWPAN, giao thức WIFI, Zigbee. Đây
+là các bộ giao thức được dùng phố biến để hiện thực cơ chế
+truyền thông giữa các thiết bị trong mạng IoT.
+
+Thông qua nội dung chương này, người đọc có cái nhìn tống
+quan về cơ chế truyền gửi dữ liệu giữa các nốt JoT trong mạng
+cũng các tiêu chuẩn kỹ thuật, những đặc trưng cơ bản của các
+chồng giao thức mạng không dây được trình bày. Nắm vững
+những đặc điểm cơ bản này, người đọc có thể thực hiện các
+nghiên cứu, phân tích, đánh giá, chọn lựa các kiến trúc mạng,
+các bộ giao thức IoT phù hơp khi triển khai các giải pháp IoT
+trong thực tế.
+
+32
+

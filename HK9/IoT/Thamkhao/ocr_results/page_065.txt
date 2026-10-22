@@ -1,0 +1,38 @@
+3.2.2. Bộ giao thức Zigbee
+
+3.2.2.1. Kiến trúc Tmạng Zigbee
+Mạng Zigbee có 3 nhóm thiết bị logie (theo chức năng):
+s Thiết bị điều phối mạng (Coodirnator).
+s Bộ định tuyến (Router).
+s Thiết bị đầu cuối.
+
+End Device
+
+Hình 3.15. Mô hình truyền dẫn mạng Zigbee
+
+Coordincltczr đươc sử dụng để tạo mạng Zigbee. Khi một
+
+nut kết nối, no sẽ cấp cho địa chỉ cho nút con. Mỗi mạng Zigbee
+
+cần và chỉ cần một Coordinator. Các mạng khác nhau phải có
+
+PAN ID khác nhau. Nếu có hai Coordinator có cùng PAN ID thì
+
+Coordinator khởi động sau sẽ tự động thêm một vào PAN ID để
+tránh xung đột.
+
+Router: chịu trách nhiệm chuyển tiếp các gói dữ liệu để tìm
+đường truyền thích hợp nhất. Mỗi mạng Zigbee có thể yêu cầu
+nhiều hơn một Router. Mỗi Router không những có thể gửi hoặc
+nhận dữ liệu mà còn có thể ủuyển tiệp dữ liệu. Câu trúc mạng
+Zigbee:
+
+s Mạng Zigbee chứa ] Coordinator và n Router, tất cả
+
+chúng đều phải có chung PAN ID.
+
+s Mỗi nút có thể gửi và nhận dữ liệu, cũng có thể chuyển
+
+tiếp. Mỗi nút có thể kết nối tối đa đến 6 nút con.
+
+45

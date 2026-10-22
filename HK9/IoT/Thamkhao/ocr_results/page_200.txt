@@ -1,0 +1,47 @@
+thực và thử nghiệm cách làm quản lý tập trung, lập trình lại cho
+kiến trúc IoT ở mức độ vùng mạng cận biên (edge network) và
+vùng mạng truy cập (access network).
+
+74.2. Khung kiến trúc xây dựng giải pháp tái cầu hình 1oT
+
+: Realtime |- Remote Remote - |
+8 t monltorlng; Ể management ơe)programmmg Š !
+= ! !
+Ễ i Ì st lĂ[J[)ll(1atlOf\ Layer Motocols (HTTFI MC1TT QJAP ac) !
+< * s
+I Northbound API Í
+; loTs Application Support API
+í Context Management and Reasoning Data Module L
+I User Context Rule/Role-based ! ẵ |
+l s  Data Collection ]
+H Computing Context 'Optimization and Aggregation l Ể
+Ø . i ] %
+cễ E Physical Context Learning Model ; ặ '_Ể
+. E . Ệ s
+Ắẵ ; System Reconfiguration Service Dala storage s
+S =
+= ! Abstraction Planning H ẳ` 1
+h >
+! 'Scenario Compiler Service Data Fusion and ! ẵ |
+¡ : - |
+! OTA Programming Management Analysls ự |
+' = |
+¡ Reoonfiguration Support API lên,ï |
+M
+I Southbound API I
+Ạ :
+'
+t
+Et ủconflguratlon ì |
+ẵ ! meohanisms  jï.. APp L |
+Ổ Motocol aack ¡Í . Serdees |- |
+' |
+ì m›aranng System ¡ ; Herdware. .¡ |
+
+⁄
+c
+
+Hình 7.15. Kiến trúc nềên tăng SD-IoTR đề xuất
+
+180
+

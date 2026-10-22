@@ -1,0 +1,40 @@
+configuration TestAppC
+{ .
+}
+
+1mplementation
+
+{
+
+components MainC;
+components Test as App;
+
+App.Boot -> MainC;
+}
+
+Tương tự như file Module, file Configuration này cũng gồm
+2 thành phần là: configuralion Và implementaion. Phần
+configuration thông thường không cần thêm vào bất cứ nội dung
+gì. Phần ởmplementation liên kết với các components khác và kết
+nối với các interface sử dụng trong file Module thông qua ký
+hiệu kết nối ->.
+
+. “Makefile: có cầu trúc chung đơn giản là:
+COMPONENT=TestAppC
+1nclude ${MAKERULES)
+
+Trong dòng COMPONEN ta chỉ ra tên của file configuration
+(TestAppC). Khi đó khi biên dịch trình biên dịch sẽ tìm trong thư
+mục project một file tên TestAppC.nc đề thực hiện.
+
+Các ƒile Header: Cũng giống như những chương trình C,
+nesC cho phép chúng ta tạo ra các file Header để khai báo các
+cầu trúc tự định nghĩa (struct) hay các giá trị hằng số được định
+nghĩa trước sử dụng trong chương trình để dễ dàng chỉnh sửa
+hay thay đổi các thông số của các giá trị này.
+#ifndef TESTCM5000 H
+
+#define TESTCM5000_H
+enum{
+
+75

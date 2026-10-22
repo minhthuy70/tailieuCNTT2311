@@ -1,0 +1,26 @@
+hành Raspbian sử dụng công suất là 2W (khi chạy với tốc độ
+700MH2). Việc tiêu thụ năng lượng trên Raspbian tùy thuộc vào
+loại thiết bị, loại ứng dụng đang chạy trên thiết bị đó. Ngoài các
+đặc điểm trên, Raspbian còn hỗ trợ kết nối đa phương tiện hiệu
+quả, cho phép thực hiện u~uyền audio, video mỀng cách sử dụng
+giao thức SIP (session initiation protocol) và giao thức RTP.
+Raspbian cũng hỗ trợ streaming HD Videos và Audios với độ
+phân giải lên đến 1080p30, 720p60 thông qua khả năng kết nối
+với thiết bị camera qua cổng giao tiếp có sẵn trên board mạch
+Raspberry Pi. Raspbian hỗ trợ nhiều thư viện, phần mềm mã
+nguồn mở để xử lý hình ảnh, video trên thiết bị.
+
+Với những đặc điểm kỹ thuật nổi bật đó, hệ điều hành
+Raspbian cùng với thiết bị Raspberry Pi luôn được sử dụng
+nhiều trong các ứng dụng IoT như một máy tính thu nhỏ, có thể
+thực hiện nhiều tác vụ tính năng khác nhau.
+
+Bên cạnh các hệ điều hành đã trình bày trên, nền tảng phần
+mềm được sử dụng cho các thiết bị IoT còn rất đa dạng và
+phong phú. Một số hệ điều hành khác có thể kể đến như: RIOT,
+LiteOS, FreeRTOS, uClinux, Android Things... Tùy theo nhu
+cầu thực tế, yêu cầu cụ thể của từng hệ thống IJoT muốn phát
+triển mà người phát triển cần chọn lựa các nền tảng phần mềm
+phù hợp, tối ưu nhất cho hệ thống của mình.
+
+90

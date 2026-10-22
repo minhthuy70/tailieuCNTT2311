@@ -1,0 +1,73 @@
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+O. Hahm, E. Baccelli, H. Petersen và N. Tsifites, “Operating Systems for
+Low-End Devices in the Internet of Things: A Survey?”, IEEE Internet
+of Things Journal, tập 3, số 5, pp.720-734, 2016.
+
+F. Javed, M. K. Afzal, M. Sharif và B. S. Kim, “Internet of Things (IoT)
+Operating systems support, networking technologies, applications, and
+challenges: A comparative review”, IEEE Communications Surveys and
+Tutorials, tập 20, số3, pp.2062-2100, 2018.
+
+P.a. S. Mathur, “A Simple Weather Forecasting Model Using
+Mathematical Regression”, 2012.
+
+Alessandro Floris và Luigi Atzori “Managing the Quality of
+Experience in the Multimedia Internet of Things: A Layered-Based
+Approach”, Sensors 16:2057 doi: 10.3390/s16122057., 2016.
+
+T. F. Megahed, S. Abdelkader và A. Zakaria, “Energy Management in
+
+Zero-Energy Building Using Neural Network Predictive Control?,
+IEEE Internet of Things Journal, 2019.
+
+A. Gaur, Scotney, Bryan, Parr, Gerard và McClean, Sally, “Smart City
+Architecture and its Applications Based on IoT”, Procedia Computer
+Science, pp.1089-1094, 2015.
+
+P. Rahimi and C. Chrysostomou, “Improving the Network Lifetime and
+Performance of Wireless Sensor Networks for JoT Applications Based
+on Fuzzy Logic”, 2019 15th International Conference on Distributed
+Computing in Sensor Systems (DCOSS), Santorini Island, Greece,
+2019, pp.667-674, doi: 10.1109/DCOSS.2019.00120.
+
+Li, Qiangian & Gochhayat, Sarada & Conti, Mauro & Liu, FangAi.
+(2017). EnergloT: A solution to improve network lifetime of IoT
+devices. Pervasive and Mobile Computing. 42.
+10.1016/).pmcj.2017.10.005.
+
+V. Valls, G. Iosifidis and T. Salonidis, “Maximum Lifetime Analytics
+in IoT Networks” IEEE INFOCOM 2019 - IEEE Conference on
+Computer Communications, Paris, France, 2019, pp.1369-1377, doi:
+10.1109/INEOCOM.2019.8737607.
+
+F. Wang, M. Zhang, X. Wang, X. Ma and J. Liu, “Deep Learning for
+Edge Computing Applications: A State-of'the-Art Survey”, in IEEE
+Access, vol. 8, pp.58322-58336, 2020,
+doi: 10.1109/ACCESS.2020.2982411.
+
+Murshed, M. G. Sarwar & Murphy, Christopher & Hou, Daqing &
+Khan, Nazar & Ananthanarayanan, Ganesh & Hussain, Faraz. (2019).
+Machine Learning at the Network Edge: A Survey.
+
+191

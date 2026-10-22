@@ -1,0 +1,41 @@
+CHƯƠNG 5
+
+ĐIỆN TOÁN ĐÁM MÂY,
+ĐIỆN TOÁN CẬN BIÊN VÀ IOTS
+
+Vạn vật h:t nối Internet mở ra nhiều thách ủJc không chỉ với
+vấn đề phát triển giải pháp. phần cứng, phần mềm để triển khai
+ứng dụng mà còn đặt ra nhiều cơ hội và thách thức trong việc lưu
+trữ và xử lý dữ liệu. Gần đây, các công nghệ nổi bật về hạ tằng
+tính toán như điện toán đám mây (cloud computing), tính toán cận
+biên (edge computing) mở ra khả năng tích hợp với các giải pháp
+IoT, mang lại những cải thiện lớn về khả năng mở rộng
+(scalability), sẵn sàng cao (availability) cho các ứng dụng IoT.
+
+Nội ciun,<g chương này tập trung trình bày những đặc điểm
+nổi bật của hạ tầng điện toán đám mây, kiến trúc tính toán cận
+biên trong tích hợp giải pháp IoT. Phần đầu của chương giới
+thiệu sơ lược về điện toán đám mây, những đặc trưng cơ bản,
+đặc điểm nổi bật và lợi ích mang điện toán đám mây mang lại.
+Các kiểu mô hình điện toán đám mây phổ biến cũng được trình
+bày, các mô hình này bao gồm Infrastructure-as-a-Service
+G(aaS), fflatform-as a-Service (PaaS8) và Software-as-a-Service
+(SaaS). Phần tiếp theo của chương tập ưung trình bày về kiến
+trúc tính toán cận biên trong IoT. Các vân đề công nghệ, những
+đặc điểm kỹ thuật nổi bật của công nghệ tính toán cận biên trong
+IoT cũng được trình bày để người đọc có cái nhìn tong quan,
+nắm bắt được xu hướng phát triển cũng như các vấn đề tồn tại
+đang thu hút sự quan tâm của giới nghiên cứu trong lĩnh vực.
+
+Bên cạnh đó, một giải pháp tận dụng nền tảng hạ tằng điện
+toán đám mây của trường UIT Cloud OpenStack cũng được
+trình bày ở cuối chương như một minh họa cho khả năng sử
+dụng hạ tầng điện toán đám mây trong việc triển khai giải pháp
+IoT. Minh hoạ này trình bày việc xây dựng một hệ fflóng thử
+nghiệm IoT với số lượng nốt lớn thông qua các cơ ®e ảo hóa
+mạng, ảo hóa tài nguyên tính toán, tài nguyên kết n01 trên nền
+
+tảng hạ mng điện toán đám mây mã nguôn mở nổi Heng là
+OpcenStack.
+
+96

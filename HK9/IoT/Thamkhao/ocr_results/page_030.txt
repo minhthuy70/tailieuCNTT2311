@@ -1,0 +1,43 @@
+sát. Các dịch vụ và hạ Uẵng mạng thử nghiệm này nên xem xét các
+đặc điểm cụ thể của công nghệ JoTs/5G và tài nguyên vật lý bị
+hạn chế của các cảm biến, thiết bị 1oTs/5G, bao gồm tuổi thọ pin,
+sức mạnh tính toán, bộ nhớ, băng thông mạng và chất lượng
+đường truyền.
+
+Tại Việt Nam, mặc dù còn nhiều bất cập, song hiện nay, các
+đô thị Việt Nam đang phát triển theo hướng tiếp cận với nhiều
+mô hình tiên tiền theo xu thế hội nhập quốc> tế, tạo ra nhiều tiền
+đề về ứng dụng và phát triển CNTT, truyền thông để phát triển
+đô thị thông minh và quản lý thông minh. Cụ thể, tỷ lệ người sử
+dụng internet/tổng dân số năm 2014 đạt 43,8%, cao hơn tỷ lệ của
+thế giới là 42/2% và châu Á là 34,8%. Việt Nam có gần 14.000
+doanh nghiệp CNTT với 500.000 lao động và doanh thu lớn.
+Việt Nam cũng đã đạt được nhiều thành tựu trong việc ứng dụng
+CNTT vào hoạt động quản lý nhà nước và các lĩnh vực đời sông
+xã hội, rõ nhất là ở các lĩnh vực quản lý ngân sách và kho bạc,
+quản lý thuế, hải quan, bảo hiểm xã hội, giáo dục, y tế, quản lý
+giao thông, quản lý đất đai, quy hoạch, xây dựng, môi trường...
+“Từ bức tranh của các đô thị Việt Nam, có thể thấy Việt Nam
+cần phát triển các đô thị theo hướng đô thị thông minh”, fflỀng
+
+chí Nguyễn Thiện Nhân - Nguyên Bí thư Thành ủy Thành phố .
+
+Hồ Chí Minh nêu. Đô thị thông minh nhằm đạt tới 4 mục tiêu:
+hiệu quả kinh tế ở các đô thị ngày càng cao (2025: diện tích đô
+thị khoza,ng 15% diện tích cả nước, tỷ lệ đô thị ủa khoảng 50%
+fflan số), tạo ra khoảng 75% GDP); m01 trường sống ngày càng
+
+tốt hơn; người dân được phục vụ tot hơn; người dân tham gia
+quản lý đô thị và giám sát chính quyền.
+
+Để có thể xây dựng và vận hành có hiệu quả một thành phó
+thông mình theo đúng nghĩa của nó thì ngay từ ctau chính quyên
+thành phố và các đối tác công nghệ cần phát triển và lựa chọn
+các giải pháp đạt chuẩn Jzfernet oƒ T] Mngs-IoT s. Bởi lẽ, trong
+trường hợp ngược lại, tức là chính quyên thành phố _áp dụng
+triển khai giải pháp IoTs phân mảnh và phi tiêu chuẩn _"(Non-
+Standardized) thì việc vận hành cũng như mức độ kết nối giữa
+các thành phần trong hệ thống thành phố thông minh sẽ không
+
+10
+

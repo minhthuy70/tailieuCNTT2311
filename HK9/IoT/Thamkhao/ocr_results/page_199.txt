@@ -1,0 +1,39 @@
+Mạng cận men (edge netwoork) bao gồm một lượng lớn các
+thiết bị JoT đầu cuối như cảm biến, động cơ, thiết bị dl động...
+N11ưrxztr7, thiết bị này thu thập dữ liệu và sau đó gửi về thiết bị
+công, may trạm @ateway) trong vùng mạng truy cập. ĐỀ có thể
+giải quyết nhu cầu về khả năng đáp ứng, khả năng lập trình lại,
+những thiết bị này thường chạy những dịch vụ hỗ trợ khả năng
+tái câu hình. Tính năng này cho phép người quản trị điều khiển
+và quản lý các thiết bị từ xa ở mọi nơi. Dưới sự phát triển của
+công nghệ mạng cảm biến không dây, có nhiều hệ điều hành,
+dịch vụ phần mềm đã hiện thực các cơ chế tái cấu hình IoT hay
+cập nhật fñrmware OTA (Over-the-Air) như Delupe T2,
+load/unload trên Contiki, OTA Firmware trên ESP8266. Việc
+tích hợp những giải pháp này vào một nền tảng quần lý tập trung
+là một hướng nghiên cứu thú vị mang lại những khả năng hỗ trợ
+mạnh mẽ cho các hệ thống IoT trong tương lai.
+
+Mạng truy cập (Access Nemork): Trong hệ thống IoT,
+thành phần mạng này bao gồm các thiết bị trạm (base stations),
+thiết b1 cổng @ateway devices) thường cung aap khả năng liên
+kết nối giữa các chuẩn mạng chạy trên các ffl1et bị cảm biến
+không dây, thiết bị IoT đầu cuối và mạng truyền thống bên
+ngoz11 Công nghệ quản lý dựa trên SDN được áp dụng ở fflanh
+phan này mang lại khả năng tùy chỉnh, lập trình lại việc kết nối,
+luồng truyền nhận dữ liệu. Cụ thể, các công nghệ dùng trong
+SDN như OpenFlow, OpenvSwitch có thể được cài đặt trên các
+'thiết bị JoT trạm này để hỗ trợ khả năng thiết lập mạng từ xa.
+
+Mạng lõi (core network) và trung tâm dữ liệu: Thành phần
+này đảm bảo khả năng sẵn sàng và mở rộng của một hệ thống
+IoT. Từ các yêu cầu của hệ thống IoT, công nghệ SDN có thể
+được sử dụng trong vùng mạng lõi và trung tâm dữ liệu để cung
+cấp các tính năng như giao tiếp giữa thiết bị với thiết bị (device-
+to-device communication), cân bằng tải (load-balance), giám sát
+lưu lượng mạng (traffic monitoring). Trung tâm dữ liệu chịu
+trách nhiệm quản lý các luồng hoạt động trong mạng cũng như
+quản lý các máy ảo, tài nguyên mạng, dịch vụ mạng được triển
+khai. Trong phạm vi đề tài này, học viên giới hạn phạm vi hiện
+
+179

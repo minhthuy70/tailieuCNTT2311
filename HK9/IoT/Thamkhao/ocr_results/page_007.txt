@@ -1,0 +1,30 @@
+MỤC LỤC
+
+CHƯƠNG 1. GIỚI THIỆU..
+
+1.I. Tổng quan về công nghệ Internet vạn vật..
+1.2. Xu thế ứng dụng IoTs và các công nghệ liên quan
+
+cho đô thị thông mình ở Việt Nam.
+BÀI TẬP CHƯƠNG 1
+
+CHƯƠNG 2. CÁC LĨNH VỰC ỨNG DỤNG 1JOT............ 12
+2.1. Nhà thông minh /Smart home....................................... 13
+
+2.2.2. Giao thông thông minh...........................................
+2.2.3. Môi trường thông minh.
+2.2.4.. Cuộc sống thông minh
+
+2.2.1. Kiến trúc tổng quát
+
+2.2.5.. Một số dự án thành phố thông minh...................... 24
+2.3. Nông nghiệp thông miỉnh /Smart Agriculfure................. 29
+BÀI TẬP CHƯƠNG2..............-nnnnnnnnnnnHnnnnnnnnn n n n n n n n n 31
+CHƯƠNG3. CÁC KIẾN TRÚC MẠNG VÀ BỌ
+
+GIAO THỨC MẠNG 1OT
+
+3.2.Các bộ giao thức mạng không dây thường dùng
+
+#rong J0T......................HnGn-nnGnnnnnnnnnnnneneenenenenenensnseneeeeneessssssns 39
+3.2.7. Bộ giao thức 6LOvPAN......................................... 39

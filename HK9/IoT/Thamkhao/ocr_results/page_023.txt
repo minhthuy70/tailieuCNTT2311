@@ -1,0 +1,49 @@
+nối các thiết bị thông minh (Tnternet oƒ Things and PlatfOrms for
+Connected Smart Objects), bao gồm quản lý các thiết bị hỗn hợp
+(sensor, RFID, actuator), quản lý người dùng, quản lý mạng, bảo
+mật hệ thống mạng.... Vì vậy, vân đề phát triển các ứng dụng
+thông mình IJoTs phục vụ đời sống sử dung các công nghe JoTs
+mới đã và đang là một trong những vấn đề trọng điểm cần
+nghiên cứu trong các chương trình nghiên cứu ICT hiện nay của
+Âu châu. Tương tự, tại các nước lớn và phát triển khác trên thế
+giới, ví đụ như Mỹ, Nhật Bản, hay Trung Quoc đều đã và đang
+
+triển khai các chương trình nghiên cứu Quốc gia khác nhau về
+lĩnh vực Internet of Things 101
+
+Trong việc phát triển các ứng dụng IoTs và các giải pháp
+JoTs phục vụ xây dựng ứng dụng IoTs thông minh, do sự đa
+dạng của các ủuan JoTs hiện nay và thường xuyên có những
+tiêu chuẩn mới xuất hiện, chúng tôi hướng tới việc phát triển các
+ứng dụng và giải pháp IoTs sẽ tuân thủ nghiêm ngặt các quy
+định quy trình trong các tổ chức quoc tế có uy tín, đe tăng sự
+
+tương thích và portability. Một số bộ tiêu chuẩn quy tắc có thể
+liệt kê dưới đây:
+
+- Open InterConnect Consortium (OIC)': Hiệp hội kết nối
+mở OTIC là một tổ chức phi lợi nhuận ở bang Oregon (Mỹ),
+được thành lập bởi các công ty công nghệ hàng đầu như
+Intel Samsung, Dell, Atmel, Broadcom và Wind River,
+với mục tiêu xác định các yêu cầu kết nối và đảm bảo khả
+năng tương tác của hàng tỷ thiết bị tạo nên “Internet của
+vạn vật? (Internet of Things - IoTs). Bên cạnh đó, OIC dự
+định cung cấp các chỉ dẫn kỹ thuật, bổ sung mã nguồn mở
+và chương trình chứng nhận (certification program) cho
+
+http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504949
+
+JT Strategic Headquarters, ¿-/apan Strategy 2015 - Striving ío Create a
+Citizen-Driven, Reassuring & Vibramt Digital Society Towards Digital
+inclusion & innovation ”,
+http://Japan.kantei.go.jp/policy/ii-JapanStrategy2015_ full.pdf.
+http://readwrite.com/2010/07/09/china to_launch_national internet of
+_things plan
+
+http://openinterconnect.org/
+
+10
+
+L
+
+12

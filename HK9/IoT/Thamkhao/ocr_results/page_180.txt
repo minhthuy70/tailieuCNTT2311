@@ -1,0 +1,44 @@
+Thông qua chương này, người đọc có cái nhìn tổng quan we
+tái câu hình trong IoT, ý nghĩa và cơ chế hiện thực của một so
+giải pháp hiện có. Bên cạnh đó, thông qua minh họa phát triển
+một giải pháp tái cấu hình cụ thể, người đọc có thế áp dụng
+những kỹ năng về kỹ thuật, vận dụng những kiến thức liên quan
+
+để phát triển, tích hợp tính năng tái câu hình vào trong một giải
+pháp JoT cụ thể trong thực tế.
+
+71. Tổng quan về tái cầu hình trong IoT
+
+Tái cấu hình trong IoT là giải pháp cho phép thay đổi hành
+viứng dunz=ẵ chạy trên th1et bị IoT nham mục đích đáp ứng linh
+hoạt với điều kiện thực tế, đáp ứng tốt nhu cầu của người quản
+trị. Các thiết bị IoT thương hoạt động trong môi u'ương liên kết
+không dây qua các kết nối mạng không dây nên các giải pháp tái
+cầu hình IoT còn được biết đến như tái lập trình từ xa qua mạng
+(over-the-air programming - OTAP).
+
+Các giải pháp tái cấu hình mang lại khả năng đáp ứng linh
+hoạt cho thiết bị IoT, từ đó, mang lại nhiều lợi ích thiết thực.
+Chẳng hạn một thiết bị cảm biến không đây, các giải pháp tái cấu
+hình từ xa qua mạng có thể giúp các thiết bị này thay đổi hành vi
+thu thập cảm ủen của mình như thay đổi loại cảm biến sử dung,
+thay đổi tần số thu thập dữ liệu, từ đó giúp tối ưu tài nguyên, tiết
+kiệm năng lượng và tăng cường tuổi thọ hoạt động của thiết bị.
+Với các th1<ẹt bị công (gateway), thiết bị tính toán cận biên, giải
+pháp tái cấu hình giúp các thiết bị này có thể cập nhật firmware từ
+xa, cập nhật lại các dịch vụ đang chạy từ đó mang đến cho người
+quản trị khả năng quản lý hệ thống một cách đơn giản và hiệu
+quả, tăng cường khả năng mở rộng của hệ thống.
+
+Hiện nay, nhiều giải pháp tái cấu hình trong IoT được hiện
+thực trên các thiết bị khác nhau. Nh1<au hướng tiếp cận được đề
+xuất để hiện thực các cơ chế tái cầu hình cho da dạng thiết bị IoT
+như thay thế toàn _bộ ảnh (image) trên thiết bị, thay đổi đựa trên
+module, hướng tiếp cận dựa theo cơ sở dữ liệu, hướng tiếp cận
+máy ảo, hướng dịch vụ... Nội dung phần nep theo của chương
+
+này, trình bày chi tiết về các giải pháp tái cấu hình, các hướng
+tiếp cận này.
+
+160
+

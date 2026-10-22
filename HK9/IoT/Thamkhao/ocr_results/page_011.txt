@@ -1,0 +1,38 @@
+6.3.5. 1Ô hình dựa trên logic........................................ 133
+
+6.3.6. 1Ô bình dựa trên omfology.................................... 133
+6.4. Các kỹ thuật suy luận ngữ cồnl?..................ceseesosseeoessssse. 136
+
+6.4.1]. Học có giám sát
+
+6.4.2. Học không giám sát..
+6.4.3. Dựa trên luật
+6.4.4. Dựa trên logic mờ
+
+6.4.5.. IDựa trên ontology..
+Ó.-46. Dựa trên Logic xác suất...................................... 744
+6.5. Trítuệ nhân tạo và JoT...........................................G 148
+
+6.5.2. Ứng dụng của học máy trong JoTs và các định
+hướng nghiên cứu................................................... 154
+
+BÀI TẬP CHƯƠNG 6
+CHƯƠNG 7. TÁI CÁU HÌNH TRONG IOT
+
+7ZIL.Tt íỂng quan về tái cấu hình frong JofT.............................
+7.2. Các hướng tiếp cận trong tái cấu hình JoT....................
+7.2.1.. Hướng tiếp cận thay thể toàn bộ Image
+
+7.2.2.. Hướng tiếp cận dựa trên module
+
+7.2.3. Hướng tiếp cận cơ sở dĩ liệu (database):.............. 163
+72.4.. Hướng Hếp cận máy ảo (Virtual Machine)............. Jó6
+
+72.5. Hướng tiếp cận hướng tới dịch vụ (service-
+Oriented) ...........................................Gnnnnnnn rn . Jó8
+
+73. Một số giải pháp hiện thực tái cầu hình trên các loại
+thiết bị phổ biển....................................cc.e.neeennesenee...escsv. 169
+7.3.1. Cơ chế hỗ trợ tái lập trình từ xa trên TinyOS......... 169
+7.3.2.. Cơ chế tái lập trình từ xa trên ESP8266............... 172
+7.3.3.. Cơ chế tái cấu hình từ xa trên Raspberry P........... 175

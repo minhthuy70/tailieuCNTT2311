@@ -1,0 +1,26 @@
+Các hướng tiếp cận trong việc phát triển thành phố
+thông minh:
+
+- Từ trên xuống: xây dựng kiến trúc tổng thể rồi sau đó tiền
+hành xây dựng các dự án cụ thê.
+
+- Từ dưới lên: xây dụng từng dự án cụ thể sau đó tiền hành
+tích hợp các dự án này thành một kiến trúc tổng thể.
+
+- Lai ghép: thực hiện xây dựng theo cả hai hướng tiếp cận
+trên, đưa ra kiên trúc chung, vừa xây dựng từng dự án, vừa
+tích hợp.
+
+SMART CITY COMPONENTS
+
+Hình 2.6. Các thành phần trong Thành phố thông mình /30J
+
+Hình 2.7 mô ta giao diện của thành phần Quan trắc môi
+trường đã được triên khai tại sân thượng Tòa nhà E của Trường
+Đại học Công nghệ thông tin - ĐHQG-HCM.
+
+Hình 2.7. Giao diện điều khiển của Trạm quan trắc môi trường
+tại Trường Đại học Công nghệ thông tỉn - ÐHQG-HCM
+
+18
+

@@ -1,0 +1,38 @@
+Hiện tại, công cụ Mender nay đang được phát triển mạnh
+mse để có khả năng hỗ trợ M'neu nền tảng thiết bị khac nhau. Một
+số thiết bị đang được hỗ trợ tốt với Mender bao gồm Raspberry
+Pi 3 B/B+, Beagle Bone Black.
+
+ÔHT enciw MENDER OTA UPDATE DESCRIPTION B 2 Ä
+M - \
+
+sÂE neH96 HC
+
+®0 96962960
+
+Hình 7.12. Mô hình tái cầu hình OTA
+cho thiết bị Raspberry Pi băng Mender
+
+Như vậy, nền tảng Mender là một công cụ hỗ trợ hiệu quả
+cho tính năng cập nhật firmware từ xa cho các th1cệ't bị dựa trên
+kiến trúc Linux và đang được cộng đong phát triển mạnh mẽ.
+Tuy nhiên, sử dụng Mender trong triển khai và áp dụng thực tế
+vào việc phát triển tính năng cho các thiết bị IoT Gateway còn
+gặp nhiều khó khăn, bắt cập. Đầu tiên, để sử dụng được nên tảng
+. Mendđer này, ngoài cài đặt máy chủ Mender, địch vụ nền trên
+Client còn phải làm quen và sử dụng thêm các công cụ hỗ trợ
+khác như Yoto ủ tạo ra các phiên bản image kiến trúc Linux
+theo nhu cầu, cấu hình U-Boot để có thể load partition mới vào
+khi thiết bị khởi động lại. Bên cạnh đó, việc tái mẩu hình toàn bộ
+1m'c1ge cho Tmột thiết bị dựa trên Linux thường tốn nhiều thời
+gian, bao gồm thời gian biên dịch i image, thời gian tải phiên bản
+mới. Cuối cùng, do đặc mmg là thay đổi toàn bộ image nên khi
+cập nhật phiên bản mới cần phải thiết lập lại tất cả các dịch vụ,
+phe1n mềm cần thiết cho các hoạt ®ng trước đó của toàn hệ
+thống. Trong khi đó, với sự phát triển mạnh mẽ của các công cụ
+ảo hóa như hiện nay, việc tận dụng các nền tảng ảo hóa như
+Docker để cài đặt lại, thiết lập lại môi trường, dịch vụ, tmh năng
+cho các thiết bị IoT Gateway là một hướng tiếp cận tiềm năng,
+
+176
+

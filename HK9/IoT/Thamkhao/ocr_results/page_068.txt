@@ -1,0 +1,49 @@
+s Truyền dữ liệu trực tiếp hoặc gián tiếp.
+
+s Giao thức điều khiển truy cập môi trường dựa trên lập
+lịch và đụng độ.
+
+» Quản lý hiệu quả năng lượng để tăng tuổi thọ của mạng.
+» Dễ dàng triển khai cho mạng cỡ lớn.
+
+3.2.2.3. Cấu trúc ƒrame của chuẩn 802.15.4
+
+Beacon Time slot Beacon
+
+GTS GTS2
+
+0 12345678 91l)lll2]31All5,
+.(S|) = aBaseSuperframeDuration x25 wmbolg
+
+¡
+
+!
+
+(Active period) !
+
+¡
+
+« ¡
+
+BI = aBaseSuperframeDuration s2 59 symbols
+
+Hình 3.18. Cầu trúc superframe của 802.15.4
+
+Chuẩn IEEE 802.15.4 định nghĩa một cấu trúc superftam
+theo yêu cấu: supeftame bắt đầu hằng beacon (báo hiệu) và được
+chia thành 16 khe như nhau, được mô tả trong Hình 3.18. Khe
+thời gian đấu tiên của siêu khung dung để phát beacon. Các khe
+còn lại được dùng bởi các thiết bị trang chấp đề thông tin trong
+thời gian truy cập tranh chấp (Contention Access Period - CAP).
+Các thiết bị dùng giao thức CSMA/CA phân khe thời gian để
+tranh chấp truy cập với các thiết bị khác. Việc thông tin giữa các
+thiết bị phải hoàn thành trước khi kết thúc CAP của superframe
+hiện tại và bắt đầu phát beacon của superframe kế tiếp.
+
+Tiêu chuẩn IEE 802.14.5 quy định MAC frame gồm 3 thành
+phần: MAC header, MAC payload và MAC footer như trong
+Hình 3.19. MAC header gồm trường điều khiển frame và trường
+địa chỉ. MAC payload chứa dữ liệu cần trao đổi, và MAC footer
+chứa các trường kiểm tra frame.
+
+48

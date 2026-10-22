@@ -1,0 +1,51 @@
+IEEE 802.15.4 header
+
+IEEE 802.15.4 hoader
+
+1EEE B02,15.4 hoader
+
+Hình 3-14. Cách bố trí các header để truyền dữ liệu
+trong mạng 6LoWPAN [4]
+
+3.2.1.4. Nền tảng hiện thực bộ giao thức 6LoWPAN
+
+Bộ giao thức mạng 6LoWPAN là một chuẩn giao thức được
+sử dụng pho biến trong nh1e:u giải pháp IoT. Với đặc trưng cho
+phép thiết bị IoT giao tiếp trực tiếp với mạng Internet bên ngoài
+thông qua địa chỉ IPv6, giao thức 6LoWPAN đã được nghiên
+cứu và hiện thực trên nhiều nền tảng phần cứng, phần mềm khác
+nhau. Bảng 3.1, Bảng 3.2 giới thiệu một sô nên tảng phần mềm,
+phần cứng hỗ trợ hiện thực, triển khai giải pháp IoT sử dụng bộ
+giao thức 6LoWPAN.
+
+Bảng 3.1. Một số nên tăng phần cứng hỗ trợ chuẩn 6LoWPAN
+
+STT Tên›gi.’ai pháp Nhà sản xuất 'Thông tin chỉ tiết
+
+CC2630 SimpleLink Texas
+
+1 6LoWPAN /ZigBEE Instruments https://www.ti.com
+Wireless MCUs n
+CC1310SimpleLinkTM Texas : -
+
+2 MWirelessMCU Instruments https:/Awww.ti.com
+Microchip's
+
+3 SmartConnect Microchip httfps://www.microchip.com
+6LoWPAN
+
+Integrated Device
+
+ZWIR45321oT : ĩ
+
+4 6LoWPAN Module ẵ:Jcị›ýl)*mlogy, Inc. https://www.idt.com
+
+Bảng 3.2. Một số nên tăng phần mềm hỗ trợ bộ giao thức 6LoVWPAN
+
+STT Tên giải pháp Thông tin chỉ tiết
+1 Contiki https://github.com/contiki-os/contiki
+2... MBedOS https://os.mbed.com
+3 Linux-wpan https://github.com/linux-wpan/
+
+44
+

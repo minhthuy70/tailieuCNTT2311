@@ -1,0 +1,34 @@
+- Cảm biển tiếng ôn: Hệ thống cảm biến chỉ phí thấp và dễ sử
+dụng, có thể phát hiện được ô nhiễm không khí, tiếng ồn, độ ẩm
+và nhiệt độ đã giúp phát hiện được mức độ ô nhiễm ũếng ồn ở
+gẫn các quảng trường đạt mức 100 decibel - vượt quá khuyến
+nghị của Tổ chức y tế thế giới - WHO.
+
+- Hệ thống thủy lợi: Các cảm biến khác nhau được đặt trong
+lòng đất cung cấp đữ liệu về độ ẩm, nhiệt độ, tốc độ gió, ánh
+sáng mặt trời và áp suất khí quyền. Các dữ liệu này được cung
+cấp đến nhà nông để họ điều chỉnh loại cây trồng phù hợp cho
+từng thời điểm. Ngoài năng suất và chất lượng cây trồng được
+tăng lên, lượng nước sử dụng cũng giảm đi đáng kể. Theo ước
+tính, lượng nước sử dụng cho nông nghiệp của Thành phố đã
+giảm một phần tư so với trước đó.
+
+EXTERNAL CUTYDOUNGH
+hhhời ,A
+&
+PROGRAMS đepartmens
+
+Hình 2.14. Kiến trúc của Chính quyền thành phố trong dự án Thành phố
+thông minh của Barcelona 7
+
+Hình 2.14 mô tả kiến trúc của Chính quyền thông minh
+trong dự án Thành phó. thông minh của Barcelona. Kiến trúc này
+tạo ra sự liên thông trong toàn bộ quy trình xử lý công việc tại
+mỗi bộ phận trong Chính quyền thành phố. Từ đó, sự phối hợp
+giữa các bên liên quan (lãnh đạo, phòng ban, và người dân) trở
+nên dễ dàng.
+
+7 . htfps:/journals.openedition.org/factsreports/4367
+
+28
+

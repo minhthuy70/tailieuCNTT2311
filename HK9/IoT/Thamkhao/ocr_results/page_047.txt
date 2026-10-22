@@ -1,0 +1,61 @@
+Barcelona cũng đã thành lập các dự án Thành phố thông
+mình trong chiến lược CityOS. Ứng dụng đáng kể nhất trong
+chiến lược này là Giao thông thông minh. Thông qua nhiều công
+nghệ khác nhau như IoT, WSN, GPS.... hệ thống đèn giao
+thông ở thành phố này được triển khai để tối ưu hoạt động của
+các phương tiện giao thông công cộng, đặc biệt là xe buýt. Ngoài
+ra, Hệ thống giao thông thông minh này còn góp phần hỗ trợ rất
+lớn trong hoạt động của các phương tiện khẩn ửp khi đưa ra lộ
+trình tối ưu cho loại phương tiện này khi có sự cố xảy ra. Trong
+suốt lộ trình của phương tiện khẩn cấp từ trụ sở đến vị trí xảy ra
+sự cố, đèn giao thông luôn được đặt vào trạng thái màu xanh khi
+phương tiện đi qua các giao lộ. Hình 2.13 mô tả các ứng dụng
+JoT trong dự án Thành phố Thông minh của Barcelona. Sau đây
+là một số ứng dụng JoT đã được triển khai ở Barcelona:
+
+- Chiếu Sáng công cộng: Toàn bộ đèn chiếu sáng công cộng
+tại Barcelona được chuyển sang đèn led nhằm tiết kiệm năng
+lượng và giảm nhiệt độ của hệ thống đèn cũ. Ngoài ra, thành phố
+còn trang bị hệ thống cảm biến để đo mức độ ô nhiễm không
+khí, độ ẩm, nhiệt độ, và tiếng ồn nhằm cải thiện chất lượng môi
+
+` trường của toàn thành phó.
+
++. Tolecommunicatlons
+
+nehorie À l cnassne H
+
+—W
+seslonam
+3 SmarData 5 Â 00chnt IE]
+
+15 SmartGarbage Ủ
+Colection
+
+4Ỉ 16 SmartRegulaton ịỀ
+6 SmartWater Ồ 17 Smortlnnovaton
+
+4 Smatight
+
+Energy
+self-sufficienoy
+
+Health and
+
+7 SmartMobily i
+
+Soclal Servioes. løi
+8 Renalurston 19 Education Ổ
+Urban. ĐhŠ? 2g SmanTounst ẹ
+Trangflornauon - Điền estination
+Infiastrurture m
+10 SmartFurishings Q 21 20100162 Ố
+
+31 Urban Resthence ũ 22 Leisure and Culture ỵ
+
+Hình 2.13. Chương trình trong dự án Thành phố thông mình
+tại Barcelonao
+
+ẹ https://Journals.openedition.org/factsreports/4367
+
+27

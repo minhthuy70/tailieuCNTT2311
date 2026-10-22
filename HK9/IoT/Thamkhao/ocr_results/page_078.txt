@@ -1,0 +1,44 @@
+802.11. Các hãng thích sử dụng các tần số này để chi phí trong
+'sản xuất của họ được giảm. Các thiết bị 802.11b có thể bị xuyên
+nhiễu từ các thiết bị điện thoại không dây (kéo dài), lò vi sóng
+hoặc các thiết bị khác sử dụng cùng dải tần 24GHz. Mặc dù
+vậy, băng cách cài đặt các thiết bị 802.11b cách xa các thiết bị
+như Vậy có thể giảm được hiện tượng xuyên nhiễu này.
+
+Ưu điểm qìa 802.11b - giá thành thấp nhất; phạm vi tín hiệu
+tốt và không dễ bị cản trở.
+
+Nhược điểm của 802.11b - tốc độ tối đa thấp nhất; các ứng
+dụng gia đình có thể xuyên nhiễu.
+
+802.11a
+
+Trong khi 802.11b vẫn đang được phát triển, IEEE đã tạo
+một mở rộng thứ cấp cho chuẩn 802.11 có tên gọi 802.11a. Vì
+802.11b được sử dụng rộng rãi quá nhanh so với 802.11a, nên
+một số người cho ầmg 802.11a được tạo sau 802.11b. Tuy nhiên
+trong thực tế, 802.11a và 802.11b được tạo một cách fflỗng thời.
+Do giá thành cao hơn nên 802.11a chỉ được sử dụng trong các
+mạng doanh nghiệp còn 802.11b thích hợp hơn với thị trường
+mạng gia đình.
+
+802.11a hỗ trợ băng thông lên đến 54Mbps và sử dụng tần
+số vô tuyến 5GHz. Tần số của 802.11a cao hơn so với 802.11b
+chính vì vậy đã làm cho phạm vi của hệ thống này hẹp hơn so
+với các mạng 802.11b. Với tần số này, các tín hiệu 802.11a khó
+xuyên qua các vách tường và các vật cản khác hơn.
+
+Do 802.11a và 802.11b sử dụng các tần số khác nhau, nên
+hai công nghệ này không thể tương thích với nhau. Chính vì vậy,
+một số hãng đã cung cấp các thiết bị mạng hybrid cho 802.11a/b
+nhưng các sản phẩm này chỉ đơn thuần là bốổ sung thêm hai
+chuẩn này.
+
+Ưu Ổếm_của 802.11a - tốc độ cao; tần số 5Ghz tránh được
+sự xuyên nhiêu từ các thiêt bị khác.
+
+Nhzt'ọ'c' điểm của 802.11a - giá thành đắt; phạm vi hẹp và dễ
+bị che khuât.
+
+58
+

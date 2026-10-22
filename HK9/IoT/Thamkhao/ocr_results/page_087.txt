@@ -1,0 +1,27 @@
+sử dụng ATmecga32u4, xung clock 16MHzZ về một Atheros
+AR9331 (MIPS @ 400MHz), chạy nền tảng họ Linux gọi là
+OpenWrt-Yun. Board này có 1 khe micro-SD, 1 port USB, 7
+chân PWM pin, 12 analog input và 1 cồng micro USB.
+
+Hình 4.3. Thiết bị
+AArduino UNO
+
+Nỗi bật gần đây trong họ thiết bị Arduino là sản phẩm dựa
+trên mạch WIFI ESP8266. Đây là một giải pháp Wif nỗi tiếng,
+dễ sử dụng và được sinh viên sử dụng rộng rãi. 0 là layout của
+mạch WIFI ESP8266. Có 2 version, version 1 có 1MB bộ nhớ
+Flash, hoạt động trên các giao thức wiñi 802.11 b/g/b, hỗ trợ
+Wif direct (P2P) và soft-access point. Trong khi version 2, có
+thêm 9 chân pin GPIO, giao tiếp SPI, J2C, RGD LED. Một dòng
+ESP module mới là ESP32, nâng cấp khả năng Wi-Fi hỗ trợ
+HT40 speed (150Mb/s), Bluetooth năng lượng thấp, dual-core
+processor 2x Tensilica L108 xung clock 160MHzZ và ADOC,
+digital-to-analog converters (DAC), 12C, UART, SPI...
+
+„ 0UUEUEDE U
+
+"RRnnnnnnn
+
+Hình 4.4. Mạch WIFI ESP8266
+
+67

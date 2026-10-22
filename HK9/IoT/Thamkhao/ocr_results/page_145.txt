@@ -1,0 +1,48 @@
+Ngoài ra, các kỹ thuật trí tuệ nhân tạo  cũng đang được chú ý
+trong quản lý ngữ cảnh trong IoT vì các yêu tố biến động, khong
+chắc chắn, phức tạp và mơ hồ của dữ liệu. Trong phạm vi giáo
+trình này, tác giả đề cập đến những nội dung cơ bản nhất của trí
+
+tuệ nhân tạo được phục vụ trong quản lý ngữ cảnh và suy luận
+ngữ cảnh trong JoT.
+
+6.1. Ngữ cảnh và thích ứng ngữ cảnh
+
+Như đã đề cập "trong l>hfJ1n mở đầu, ngữ cảnh là một thành
+phần không thể thiếu trong môi ứng dụng IJoT. Thông "qua ngữ
+cảnh, các ứng dụng IoT có thể nhận biết được sự thay đồi từ môi
+trường, người dùng hay các đối tượng trong ứng dụng IoT.
+
+6.1.1. Ngữ cảnh
+
+Khái niệm ngLr cảnh được đưa ra từ mm 1994 trong một bài
+báo của hai tác giả Schilit and Thelmer Từ đó đến nay, có rat
+nhiều định nghĩa được đưa ra để mô tả về ngữ cảnh như””® mỗi
+định nghĩa xuất phát từ những hướng tiếp cận khác nhau của
+mỗi tác giả. Theo hướng tiếp cận của giáo trình này, định nghĩa
+ngữ cảnh của [17] được xem là phù hợp nhất:
+
+Ì B. Schilit and M. Theimer, “Disseminating active map information to
+
+mobile hosts”, Network, IEEE, vol. 8, no. 5, pp.22-32, sep/oct 1994.
+[Online]. Available: http://dx.doi.org/10.1109/65.313011
+
+A.K.Dey,G. D. Abowd, and D. Salber, “A conceptual framework and a
+toolkit for supporting the rapid prototyping Oof context-aware
+applications” Hum.-Comput. Interact, vol. 16, pp.97-166, December
+2001. [Online]. Available:
+http://dx.doi.org/10.1207/S15327051HC116234_ 02
+
+G. D. Abowd, A. K. Dey, P. J. Brown, N. Davies, M. Smith, and P.
+Steggles, “Towards a better understanding of context and context-
+awareness?, in Proc. 1st international symposium on Handheld and
+Ubiquitous Computing, ser. HUC ?99. London, UK: Springer-Verlag,
+1999, pp.304-307. [Online]. Available:
+http://dlL.acm.org/citation.cfm?id=647985.743843
+
+T. Rodden, K. Chervest, N. Davies, and A. Dix, “Exploiting context in
+hci design for mobile systems”, in in Workshop on Human Computer
+Interaction with Mobile Devices, 1998. [Online]. Available:
+http://eprints.lancs.ac.uk/11619/
+
+125

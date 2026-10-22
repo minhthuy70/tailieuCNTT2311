@@ -1,0 +1,44 @@
+trước đó. So với 802.11n, 802.11ac có độ rộng kênh u~uyèn lớn
+hơn (80 hoặc 160MHZ so với fflMHz) trong dải băng tằn 5GHz,
+nhiều luong hơn (8 so với 4) và điều chế bậc cao hơn (QAM-256
+
+so với QAM-64) và bỗ sung tính năng Multi User - Multi Input
+Mult Output (MU -MIMO). Tính năng này cho phép các điểm
+truy cập phát nhiều chùm tia đến từng máy trạm. Từ đó, giảm
+
+th1eu được việc đụng độ giữa các máy trạm và tăng thông lượng
+tổng thể.
+
+Liên minh Wif đã tách việc phát triển 802.1lac thành hai
+pha, được đặt tên là Wave 1 và Wave 2. Các sản ph'cẦ1m 802.1lac
+MWave 1 được sản xuất từ năm 2013 và đến năm 2016 các sản
+phẩm Wave 2 được đưa ra thị trường nhằm bổ sung các tính
+năng mới của 802.11ac như băng thông cao hơn, MU-MIMO,
+độ rộng kênh 160MHZ, hỗ trợ nhiều kênh tại băng tằn 5GHz,
+tăng luồng (4 anten so với 3 anten của 802.11ac Wave 1)
+
+Ưu ă'zeng của 802.11ac - so với các ủuạn trước, w2. 1lac sử
+dụng băng tân kép 2.4GHz và 5GHZ nên tộc độ truyền cao hơn,
+ít nhiều hơn.
+
+Nhược điểm của 802.11ac - do sử dụng băng tần 5GHz nên
+mức suy hao tín hiệu cao hơn so với 2.4GHz.
+
+802.11ax
+
+Chuẩn 802.11ax được kế thừa từ 802.11ac, và được IEEE
+chuẩn hóa vào tháng 9 năm 2020, còn được gọi là Wif 6. Mục
+tiêu của 802.11ax là cung cấp thông lượng lên gấp 4 lần so với
+802.1lac ở mức người dùng, trong khi tốc độ dữ liệu chỉ tăng
+37% ở mức vật lý. 802.11ax sử dụng kỹ thuật ghép kênh
+OFDMA, mỗi máy trạm được sử dụng các đơn vị tài nguyên
+khác nhau trong phạm vi khả dụng của điểm truy cập. 802.11ax
+cung cấp nhiều sóng mang hơn so với 802.11ac, cụ thể ở
+802.11ax các kênh 20, 40, 80, và 160MHz có lần lượt 256, 512,
+1024, và 2048 sóng mang con so với 64, 128, 256 và 512 sóng
+mang con trong 802.11ac.
+
+Ưu điểm của 802.11ax - tốc độ truyền cao hơn 40% sơ với
+'802.1 lac, tôi ưu cho nhiều người dùng trong cùng một thời điểm.
+
+60

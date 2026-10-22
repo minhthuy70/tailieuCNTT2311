@@ -1,0 +1,41 @@
+7.3.3. Cơ chế túi cần hình từ xa trên ARaspberry Pi
+
+Mender” là một nền tảng mã nguồn mở giấy phép Apache
+2.0, hỗ trợ cập nhật OTA Firmware hệ mống dựa trên Linux từ
+xa một cách an toàn và hiệu quả. Mender hoạt động dựa trên
+kiến trúc Client - Server. Trong đó, Server chịu trách nhiệm
+quản lý phiên bản, quản lý thiết bị, người dùng, quá trình cap
+nhật phiên bản mới tới Client. Mender Server cung cấp cơ chế
+tương tác thông qua giao diện Web hoặc REST APIs để thực
+hiện các tính năng như trên. Client là các thiết bị JoT dựa trên
+kiến trúc Linux, đã được cài đặt trước, có nhiệm vụ duy trì liên
+lạc với Server để cập nhật trạng thái định kỳ, khi có một phiên
+bản cập nhật mới cần nâng cấp, Client sẽ tải về từ Server và cài
+đặt nó. Kiến trúc hoạt động ẩ›ng quát của công cụ Mender được
+thể hiện như hình bên. Theo đó, trên thiết bị Client để có thể sử
+dụng gal pháp này, cần phân chia parition A/B motfs để đám
+bảo fi'll€t bị có thể khôi phục lại khi quá trình triển khai không
+hoàn tất hoặc có sự cố trong quá trình cập nhật. Bên cạnh đó,
+thiết bị Client cần phải chạy một Mender Client daemon trên
+không gian người dùng (user space) ngay lúc khởi động để duy
+trì liên lạc tới Mender Server.
+
+Trong quá trình cập nhật, Mender Client chép nnages mới
+vào vùng rootfs partion trồng và cầu hình U- Boot để có thể nạp
+vào khi lchở1 động lại. Sau khi chép Image hoàn tất, thiết bị khởi
+động lại, nếu việc khởi động vùng partion mới cập nhật thất
+bại, hệ thống tự động chạy lại phiên bản trước đó ở vùng
+partition cũ. Điều này đảm bảo độ tin cậy cho quá trình cập nhật
+phiên bản. Qua» trình tái cấu hình bằng công cụ Mender được thể
+hiện chỉ tiết như sơ đồ Hình 7.12
+
+Nếu quá trình khởi động thành công, Mender thiết lập có
+định mutxtxon mới cập nhật đó là mặc định để khởi động lên cho
+mc lan tlep theo, và khi đó, tính năng lắng nghe phiên bản mới
+vẫn Uep tục hoạt động bình thường để đảm bảo cho các lần cập
+nhật tiếp theo.
+
+3 https://www.mender.io/
+
+175
+

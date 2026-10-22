@@ -1,0 +1,36 @@
+Người dùng không thể quản lý hay điều khiển hạ tầng bên
+dưới của nhà cung cập dịch vụ điện toán đám mây nhưng có thể
+điều khiên một hệ điều hành, bộ nhớ, ứng dụng được triển khai
+cũng như những cài đặt liên quan tới các thành phần kết nối
+mạng giữa các máy ảo mà mình quản lý. Một số nền tắng cung
+cấp dịch vụ này như: Amazon EC2, Eucalyputs, OpenNebula...
+
+Để hiện thực giải pháp laaS, công nghệ ảo hóa
+(virtualization) được sử dụng. Ảo hóa có thể xem như một cách
+định nghĩa trừu tượng nguồn tài nguyên luận lý dựa trên tài
+nguyên vật lý. Kỹ thuật ảo hóa này giúp triển khai các hệ điều
+hành trên lớp ảo hóa (hypervisor), cho phép triển khai nhiều OS
+chia sẻ nhau nguồn tài nguyên vật lý bên đưới và cung cấp nhiều
+dịch vụ, ứng dụng khác nhau bên trên. Phương pháp ảo hóa này
+mang lại sự tiện lợi, khả năng sẵn sàng đáp ứng và bảo mật cho
+hệ thống. So sánh giữa kiến trúc máy tính truyền thống với kỹ
+thuật ảo hóa được thể hiện như Hình 5.4.
+
+Hình 5.4. Minh họa kỹ thuật ảo hóa dựa trên máy áo ŒM)
+
+Các đặc điểm được hỗ trợ bởi kỹ thuật ảo hóa gồm:
+
+s Khả năng quản lý và khả năng tương tác.
+
+s Khả năng sẵn sàng đáp ứng và tin cậy.
+
+s Khả năng mở rộng và co giãn.
+
+Các dịch vụ mà mô hình IaaS cung cấp bao gồm:
+
+s Giao diện quản lý tài nguyên: cung cấp khả năng quản
+lý các nguôn tài nguyên ảo hóa như: quản lý máy ảo
+(Virtual Machines - VMs) bao gồm các thao tác khởi tạo,
+dừng hoạt động, chỉnh sửa và thu hồi; quản lý bộ nhớ ảo
+
+105

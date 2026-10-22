@@ -1,0 +1,48 @@
+Unique Send Layer: Tầng này tạo ra một chỉ số thứ tự dữ
+liệu độc nhất - Data Senguence Number (DSN) cho
+Packet header. Byte giá trị này được tăng lên mỗi lần gói
+tin gửi ra mgoal bắt đầu bằng một số gần ngẫu nhiên. Bên
+nhận có thể M1at hiện nhu~r1g gói tin trùng nhau bằng cách
+so sánh chỉ sô này với chỉ sô của gói tin đã nhận trước đó.
+
+PacketLink: Cung cấp chức năng gửi lại tự động và chịu
+
+trách nhiệm gửi lại gói tin nếu không nhận được ACK từ
+bên nhận.
+
+Low Power Lisfening qmplementation: Cung cấp hiện
+thực lắng nghe năng lượng thấp bất đồng bộ, fflxơc kích
+hoạt cho từng gói tin và tầng này sẽ gửi lại liên tiếp các
+
+gói tin ra ngoài cho đến khi nhận được phản hồi từ bên
+nhận hay hết thời hạn trao đồi.
+
+UniquelReceive: lưu trữ lịch sử các địa chỉ ngucĂ›n và DSN
+byte của một số gói tin đã nhận và hỗ trợ lọc ra các gói tin
+nhận trùng lại.
+
+TinyOSNenporkC: cho phép TinyOS2.x radio stack kết
+hợp hoạt động với mạng non-TinyO§ (ví dụ như
+6lowpan).
+
+CS1M/4C: lớp này chịu trách nhiệm định nghĩa byte thông
+
+tin 802.15.4 FCF trong gói tin ra ngoài, cung mp giá trị
+thời gian chờ mặc định khi phát hiện một kênh đang sử
+dụng và định nghĩa thủ tục tăä/mở cho radio.
+
+TransmitP/ReceiveP: các lớp này chịu trách nhiệm
+
+tương tác trực tiếp với radio thông qua SPI bus, interrupts và
+đường GPIO.
+
+4.2.3. Hệ điều hành Contildi
+
+Contiki là hệ điều hành nhỏ gọn nhẹ (lightweight) hỗ trợ cơ
+
+chế dynamic loading và thay thế từng chương trình, dịch vụ
+riêng lẻ. Contiki được xây dựng dựa trên cơ chế theo sự kiện
+(event-driven) nhưng cung cấp thêm tùy chọn preemptive multi-
+threading cung cấp cho từng process. Tính chất dynamic loading
+
+%

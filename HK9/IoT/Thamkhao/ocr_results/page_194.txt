@@ -1,0 +1,43 @@
+Hiện tại, các giải pháp tái lập trình OTA trên nền tảng
+ESP8266 nói riêng và họ thiết bị Arduino nói chung đang trong
+giai đoạn hoàn thiện và cần nhiều cải tiền trong tương lai. Việc
+xây dựng những cơ chế hỗ trợ quá trình tái lập trình cho thiết bị
+Arduino bao gồm các công cụ, dịch vụ hỗ trợ biên soạn, biên
+dịch chương mnh nhị phân có thể nạp vào thiết bị; cơ chế phân
+phối mã nguồn từ xa; quản lý }›h1<tn bản... có ý nghĩa và đóng
+góp lớn cho cộng đồng phát triển cũng như người dùng mới làm
+quen với môi trường phát triển ứng dụng IoT mã nguồn mở và
+chỉ phí thấp này.
+
+Hình 7.11 trình bày một giải pháp cải tiến cơ chế tái lập
+trình từ xa thiết bị ESP8266 dựa trên cơ chế thay đổi toàn bộ
+image [24]. Giải pháp sử dụng kỹ thuật tái cấu hình thông qua
+máy chủ HTTP kết hợp việc lắp bổ sung thêm mạch điều khiển
+tái cầu hình theo cơ chế chủ/khách (master/slave). Theo đó, việc
+tái cấu hình được diễn ra theo 5 bước thể hiện trong sơ đồ:
+
+1. Người dùng nạp mã yêu cầu triển khai ứng dụng mới.
+. Mạch chủ tải tập tin nhị phân về.
+
+. Thiết bị khách chạy phiên bản mới.
+
+. Thiết bị khách phản hồi lại trạng thái tái cấu hình
+thành công.
+
+2
+3. Mạch chủ xóa ph`ân mềm cũ, nạp mới và khởi động lại.
+4
+5
+
+( s h 3 Mại
+4
+—“ %Ử Mai m e
+¡ 44 Thiết bị khách chạy phiên bản
+5
+
+Thiết bị khách trả về mõ trang thái 200.
+
+Hình 7.11. Giải pháp cải tiền tái lập trình từ xa qua mạng trên ESP8266
+
+174
+

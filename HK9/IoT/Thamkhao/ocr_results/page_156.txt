@@ -1,0 +1,52 @@
+cảnhcấpthấp e Thiết kế riêng  cảnh cấp thấp, các
+
+s Mô hình đơn cho từng ứng sự kiện trong mô
+giản dụng hình và xác định các
+s Hỗ trợ suy luận ràng buộc
+logic
+
+s Công cụ có sẵn
+Dựatrên s Hỗtrợsuyluận s Môtảphức s Có thể sử dụng để
+
+ontology ngữ nghĩa tạp mô hình một miền
+H v M N Ầ. M
+s Chophépbiểu s Thuthập kiên thức và cầu trúc
+diễn nhiều hơn thông tin ngữ cảnh Ểrajren
+về ngữ cảnh phức tạp và các quan hệ đã được
+. ế lêu tài định nghĩa trước bởi
+s Cho phép đánh tôn nhiêu tài Ina nghai C oờ
+giá nguyên bản thê luận. Dữ liệu
+
+có thể được lưu trữ
+trong cơ sở dữ liệu
+S và câu trúc được
+s Tiêu chuẩn có cung cấp bởi bản thể
+săn luận.
+s Công cụ có sẵn
+—17[{[7-7--77”—nẰ””—mmrmmƒTƒtmtr-MXMÖnÐÐTTnTnHH-MrtÐsÐKttrsrsb<—XS
+
+s Cho phép chia
+sẻ
+
+6.4. Các kỹ thuật suy luận ngữ cảnh
+
+.Suy diễn còn được ;g01 là §1y luận (reasoning/inference)
+được xem là một điểm mấu chốt trong công nghe ngữ nghĩa.
+Dỡữ liệu sau khi được mô tả sẽ được suy diễn để đưa ra những
+trị thức mới ẩn chứa bên trong dữ liệu. Nguyên nhân của
+việc này là đặc trung của dữ liệu là không hoàn hảo và khong
+chắc chắn. Cụ thể, tính không hoàn hảo của dữ liệu có thể
+được phân chia thành 4 loại sau: không rõ, mơ hồ, không
+chính xác, và sai (unknown f1mb1l<guous Imprecise and
+erroneous). Về bản chất, suy diễn là quẽJ. trình suy luận từ
+ngữ cảnh mức fflap (raw data) để chuyen thành ngữ cảnh
+mức cao như điền giá trị còn thiếu, kiểm tra sự thống nhất
+cua ngữ cảnh, xác nhận giá trị của ngữ cảnh và thực hiện một
+số tính toán đơn giản trên giá trị của ngữ cảnh.
+
+Suy diễn ngữ cảnh đã được nghiên cứu cách đây khá lâu
+(vào những năm cuối thế kỷ XX). Tuy nhiên, suy diễn ngữ cảnh
+trong JoT` được chú ý nghiên cứu từ sau những năm 2000, được
+
+136
+

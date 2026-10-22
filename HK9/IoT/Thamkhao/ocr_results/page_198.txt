@@ -1,0 +1,40 @@
+Một điểm quan trọng khác là Docker là một nền tảng mã
+nguon mở, chính vì thế Docker được cộng đồng phát triển mạnh
+mẽ để đóng góp và mở rộng khả năng của nó cho phù hợp với
+các rìhu câu ngày càng cao. Ge1n đây, trong nhiều nghiên cứu về
+phát triển hạ tầng JoT đa nền tảng, đảm bảo khả năng đáp ứng
+linh hoạt các yêu cầu khác nhau, công cụ ảo hóa Docker đang
+
+thu hút nh1'eu sự quan tâm để có thể áp dụng vào những triển
+khai thực tế.
+
+7.4. Khung kiến trúc phát triển một giải pháp tái cấu hình
+IoT đa nền tảng dựa trên cách tiếp cận SDN
+
+7.4.1. Kiến trúc quần lý hệ thống JoT dựa trên SDN
+
+Một hệ thống JoT thường dựa theo kiến trúc n-tiers, mở đầu
+tại mạng các thiết bị vật lý như cảm biến hay động cơ và kết thúc
+ở trung tâm dữ liệu (data center). K1tễn trúc quản lý theo cách làm
+công nghe SDN là một kỹ thuật tiềm năng có thể ứng dụng ở mỗi
+tier của hệ thống IoT để tạo nên một cơ chế quản lý tập trung hiệu
+quả. Hình 7.14 mô tả một cái nhìn ngữ nghĩa của một kiến trúc
+dựa trên SDN cho một hệ thống IoT n-Tiers điển hình. Cụ thể, có
+tất cả 4 thành lDl’lịâIl chính trong hệ thống, bao fgồm: mạng cận biên
+(cdge network), mạng truy cập (access network), mạng lõi (core
+network) và trung tâm dữ liệu (data center).
+
+ạ @m) @“p) f đ “ G Ắ
+Access Network I Ij
+1oT6 Gotowey/Stotion
+Dynarnic Resouroe
+
+SDN-based
+Center Controller.
+" Enablingio7e.Gyatem.
+
+Mirtoekzanon Funcon
+
+Hình 7.14. Công nghệ SDN dùng trong kiến trúc hệ Mổng JoT
+178
+

@@ -1,0 +1,29 @@
+Mult- Partially
+
+uClinux 52 512200 Monolthiec Preemptive threading C nh
+Python, C,
+
+Ropbim. 52056 — CheA5 ổ……………ã Preempfive ư……._…………………._.……… wm….…_…Ụ<………….……`L……._ YES
+NodeJS
+
+Android 128.ws8932.. ARM. I9 A gler - Preempt Mult s —
+
+Things x86, MIPs plive threading %……… ;
+
+Bảng 4.3. Bảng tổng hợp đặc tính kỹ thuật một số nên tầng hệ điều hành nỗi tiếng trong loT
+
+Chồng giao thức và các giao thức
+
+Hệ điều Thựcthi  Cấutrúchệ  Bộnhớ Công cu mô phón
+hành script từ xa thống tệp động 8 Á mô phòng mạng có hỗ trợ
+. TOSSIM BLIP, TinyRPL, CoAP, WiFi LTE,
+TinyOS  KHÔNG Đơn mức KHÔNG MQTT, LoWPAN, TCP, BBRe, IPvó,
+Power TOSSIM . .
+Bluetooth, multi-path routing
+( ^ B - Netsim, Cooja RPL, uJP, uJPv6, MQTT,
+Contiki KHÔNG Đơn mức có MSPSim,Javanodes  6LoWPAN, CoAP, WiFi, Bluetooth
+TCP, UDP, IPv6, 6LoWPAN, RPIL,
+4 n hả ˆ . CoAP, CBORg, UBJSON,
+. Thứ bậc œ Cooja OpenWSN, WiFi, Bluetooth, LTE,
+
+MQTT

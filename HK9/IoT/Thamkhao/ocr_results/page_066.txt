@@ -1,0 +1,38 @@
+s Router được nhận một địa chỉ (địa chí ngắn - Short
+
+Ad<ìress) là hằng số, có thể được sử dụng trong truyền
+điểm - điểm.
+
+s Kể cả khi Coordinator bị ngắt điện, Router vẫn có thể duy
+trì mạng lưới, vì vậy, giữa Router và Router vẫn có thể
+giao tip được.
+
+Khi một nút được thêm vào ngay cả khi Coordinator bị ngat
+điện, nó vẫn có thể thông qua các ủa chỉ của Router hiện m… đề
+tham gia vào mạng lưới. 0 mô tả về một mạng Zigbee bao gồm 1
+Coordinator, 6 Router và một số End Devices.
+
+3.22.2. Mô hình phân lớp các tầng giao thức trong chuẩn
+không dây Zigbee
+
+Z\
+Applications
+Zigbee
+Application Profile
+y
+.. Ạ
+Zigbee
+Alliance
+Platform
+Medium Aooess Cortrol _ | IEEE 802.15.4
+Physical Layer
+2.4GHz |868/915 MHz | ỳ v
+
+Hình 3.16. Các chồng giao thức tham chiếu giữa 802.15.4 và Zigbee
+Trong Hình 3.16 lớp vật lý (PHY) và lớp MAUC sẽ có các
+đặc điểm như sau:
+Lớp vật lý _
+Theo chuẩn IEEE 802.14.5, đường truyền không dây có thể
+hoạt động ở 3 tần số không chính thức sau: 868MHz, 902-
+
+46

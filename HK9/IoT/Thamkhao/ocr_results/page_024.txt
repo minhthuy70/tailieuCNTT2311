@@ -1,0 +1,79 @@
+các thiết bị kết nối không dây. #ình 7.2 dưới đây trình bày
+lược đồ quy chuẩn kỹ thuật của OIC.
+
+- AliSeen Alliance '”: nhóm các công ty công nghệ gồỒm
+Haier, LG Electonics, Panasonic, Qualcomm, Sharp,
+Technicolor, Siicon Image và TP-LINK. Liên minh này
+đã có đến 51 thành viên bao gồm Microsoft, cùng phối hợp
+với dự án nguồn mở AllJoyn của Qualcomm để triển khai
+khung hạ tằng nền IoTs đầu tiên.
+
+- IEEE 802.15.41%/802.15.1'5/802.1115 Working Groups
+
+- Internet Engineering Task Force (IETF
+6LowApp'?/ROLL'Š)
+
+- ZigBee Alliance'?
+
+- IPSO Alliance?°
+
+- IEEE 14512Ì, HART/WirelessHART”,, ISA SP100.11a
+- BuildingSMART°? IFC2x4 betal%, CityGML-3D??
+
+13
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+20
+21
+2
+
+23
+24
+25
+26
+27
+
+https://allseenalliance.org/
+
+IEEE 802.15 WPANTM Task Group 4 (TG4),
+http://www.ieee802.org/15/pub/TG4.html
+
+IEEE 802.15 WPANTM Task Group 1 (TG]),
+http://www.ieee802.org/15/pub/TG1.html
+
+IEEE 802.11TM WIRELESS LOCAL AREA NETWORKS,
+http://www.leee802.org/11/
+
+IETEF. 6LowApp Charter:
+
+http://trac.tools.ietf. mấarea/app/trac/w1kr/BarBds/IETF7S/GLOWApp
+IETF. ROLL Charter:
+http://www.ietf.org/dyn/wg/charter/roll-charter.html
+
+ZigBee Alliance, http://www.zigbee.org,
+
+IPSO Alliance: http://www.ipso-alliance.org
+
+NIST. How can IEEE 1451 be applied? http://ieee1]451.nistgov
+
+-HART Communication Foundation. Wirejess IIART 7echnology.
+
+http://www.hartcomm.org/protocol/wihart/wireless_technology.html
+httfp://www.isa.org/isa100
+
+http://www.iai-tech.org
+
+http://www.buildingsmart.com
+htfp://www.iai-tech.org/ife/IFC2x4/beta1/html/index.htm
+
+Open Geospatial Consortium (OGC). CITYGMT-
+

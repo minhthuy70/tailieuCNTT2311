@@ -1,0 +1,40 @@
+chia làm 6 nhóm: học có giám sát, học không giám sát, dựa trên
+luật, dựa trên logic mờ, dựa trên ontology và dựa trên xác suất.
+
+6.4.1. Học có giám sát
+
+Học có giám sáit (supervised learning): Kỹ thuật này đầu
+tiên thu thập dữ liệu huấn luyện (training data) Sau đó, đánh
+nhãn (label) chúng theo kết quả mong đợi; Cuối cùng, gán dữ
+liệu mới vào các nhãn thông qua dữ liệu huần luyen Cây quyết
+định (Decision Tree) là một kỹ thuật học có giám sát thường
+được sử dụng rộng rãi. Kỹ thuật này xây dựng một cây từ bộ dữ
+liệu huấn luyện để từ đó phân loại được dữ liệu mới đưa vào.
+Mạng Bayesian (Bayesian Network) là một kỹ thuật học có giám
+sát khác dựa trên khái niệm suy luận xác suất. Phương pháp này
+trước đây được sử dụng cho chuyen ngành thống kê. Các thực
+thể và quan hệ giữa chúng được thể hiện thông qua một đồ thị
+liên thông. Thực thể được biểu diễn ủmg các nút và quan hệ
+được biểu diễn bằng các cạnh, trên mỗi cạnh có chỉ số xác suất.
+Mạng Bayesian thường được sử dụng trong việc ket hợp thông
+tin không chắc ủan từ một số lượng lớn các nguồn và suy luận
+các ngữ cảnh cấp cao hơn. Ky thuật này tồn tại hai hạn chế lớn
+là xác định giả thuyết (chỉ số xác suất) và độ phức tạp (hàm mũ).
+Mạng nơ-ron nhân tạo (Artiñcial neural networks) là một kỹ
+thuật nhằm bắt chước hệ thong nơ-ron sinh học. Chúng thường
+được dùng để mô hình các mối quan hệ phức _tạp giữa dữ liệu
+đầu vào và đữ liệu đầu ra hoặc để tìm các mẫu trong dữ liệu.
+Suppo1't vector machines (SVM) được sử dụng để nhận diện
+mâu trong các ứng dụng thích ứng ngữ cảnh, ví dụ như nhận
+diện hoạt động của bệnh nhân trong lĩnh vực chăm sóc sức khỏe
+hay phân biệt các tình huống trong ứng dụng nhà thông minh.
+
+6.4.2. Học không giám sát
+
+.Học kho›'zíg giám. sát fflnsupervmed learning): Các kỹ thuật
+loại này có thể tìm thấy các cấu trúc ấn trong dữ liệu không đánh
+nhãn. Do không sử dụng tập dữ liệu huấn luyen nên các kỹ thuật
+này không bị 101 và không có cơ sở để đánh giá. Kỹ thuật phân
+cụm K láng giềng gần nhất (K-Nearest Neighbour) thường được
+
+137

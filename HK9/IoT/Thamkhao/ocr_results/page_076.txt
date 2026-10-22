@@ -1,0 +1,46 @@
+Trong Hình 3.23, ở tằng PHY sẽ gồm các tuỳ chọn phát
+sóng: InữaRed (IR), Frequency Hopping Spread Spectrum
+(FHSS) và Direct Sequence Spread Spectrum (DSSS). Tắt cả
+các option đều hỗ trợ tốc độ 1 và 2Mbps. Năm 1999, tổ chức
+IEEE định nghĩa ra hai tốc độ cao mở rộng tương ứng với hai
+chuẩn 802.11b (hoạt động ở băng tần 2.4GHz, tốc độ
+11Mbps) và chuẩn 802.1 1a (hoạt động ở băng tần 5GHz, tốc
+độ lên đến 54Mbps, dựa trên công nghệ Orthogonal
+Frequency Division Multiplexing - OFDM). Gần đây, chuẩn
+802.11g được đưa ra. Đây là một chuẩn mở rộng của chuẩn
+802.11b trong đó hỗ trợ tốc độ truyền lên đến 54Mbps và vẫn
+hoạt động ở băng tằn 2.4GHz.
+
+Infra-Red (IP) 902.116/TGe MAC
+Enhancement-QoS
+2.40Hz (FHSS) Frequeriey Hopplng 50210899 1/2VĐP5
+Spread Spectrum
+802.110TG1 Inter-
+802.11b/TGb Hìgh Data 'Access Point Prolocol
+2.46Hz (DS8S) Direot Sequeneo Rate Extension ——ö==
+'Spread Spectrum. 5.5/11 Mbps
+G E m 802.114/T0a Hgh Dati '802.11i/TGi Enhanced
+Frequeney Division Mulipleding | | | FateExtengion 3989/70 Mesreniem
+5 8/9/12/18/24/36/54
+Mbps
+
+.Hình 3.23. Các giao thức sử dụng trong hệ !hong mạng cục bộ
+không _dây dựa trên chuẩn IEEE 802.11 của tầng wl šý (PHY layer)
+và fằng con điều khiển #ruy cập môi trường truyền (MAC Jayer)
+
+3.2.3.3. Cấu trúc frame của chuẩn khống dây 802.11
+
+< MAC Header »
+Frame | Duration Sequence Fos
+Contel | ⁄D | Addressl | Addess2 | Addross3 |S n | Addrass 4 Framebody l m
+Sốbytes: K—2—3' — 2 HH —SX ƯX 028Z »<¬—
+Version Ftom | More |Power | More
+Type |P SubType TeDSI Dg [riag, | ReWY |Mạm: | Dan | WEP | Order
+
+Số bits: t mƯơỢỞÖỖŨ E X1 n 214121 21<I2
+
+Hình 3.24. Cấu trúc Mte_t1itl -Áccess Control (M⁄4C) ƒTame
+#rong chuẩn không dây 802.11
+
+56
+

@@ -1,0 +1,44 @@
+hành TinyOS. Mate là một máy ảo hướng tới bối cảnh sự kiện
+dựa trên điều ẸIiển (context-based event-driven virtual machine)
+với một chồng quy ước gọi hàm (stack-based calling
+convention).
+
+Subroutines Events
+
+Operand
+Stack
+
+Return
+Steck
+
+->
+
+Hình 7.6 Kiến trúc nối MATES
+
+Maté Code Footprint Maté Data Footprint
+16384 1024
+42288 | IB VM (Maté) . E VM (Maté)
+H G Network ® IDNetwork
+8192 wLogger ỄỢ 6121 wLogger
+4098 †—]- IDHardware 268 1 (DIHardware
+g1 Boot/Scheduler gi E3Boot/Scheduler
+Component Codđe (bytes) | Data (bytes) |
+VM (Maté ) 7286 603
+Network 6410 206
+Logger 844 18
+Hardware 1232 8
+Boot/8cheduler 272 14
+Total 16044 849
+
+.Hình 7.7. Kích thước mã ItgIlt'l"rl các thành phaỄrt trong nổi MATEÊ
+
+Các chương trình Mate được chia thành các capsules, mỗi
+capsule có thể giữ một câu lệnh 24- bytes. Các capsules có the tự
+chuyển tiếp và lan truyền qua mạng. Giao diện Mates cấp cao
+
+2 P, Levis and D. Culler, “Mate: a tiny virtual machine for sensor
+
+networks”, in zhe 10th international conference on Architectural support
+Šƒor programming languages and operating systems, .4CM, 2002
+
+s 167

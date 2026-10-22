@@ -1,0 +1,40 @@
+6.2.1. Thu thập ngữ cánh
+
+- Thu thập ngữ cảnh: (Context Acquisition) được sử dụng để
+thu thập ngữ cảnh từ nhiều nguồn khác nhau, có thể từ giá trị của
+
+các sensor, vị trí của người dùng, hay tình trạng năng lượng của
+các nút cảm biến...
+
+6.2.2. Mô hình hóa ngữ cảnh
+
+- Mô hình hóa ngữ cảnh (Context Modelling): dữ liệu sau khi
+được thu thập sẽ được mô hình hóa để đưa ra ngữ cảnh có mức
+trừu tượng cao hơn và xây dựng quan hệ giữa các ngữ cảnh này.
+
+6.2.3. Suy luận ngữ cảnh
+
+- S luận ngữ cảnh (Context Reasoning): dữ liệu ở mức
+thấp được xử lý để đưa ra mức cao hơn, hay suy luận để đưa ra
+những dữ liệu mới từ dữ liệu đã thu thập.
+6.2.4. Phân phối ngữ cảnh
+
+- Phổ biến ngữ cảnh (Context Dissemination): ngữ cảnh '
+được phố biến đến các ứng dụng (application) hay middleware
+(gọi chung là consumers) đề chúng có thể thực hiện những thao
+tác phù hợp với ngữ cảnh đang có.
+
+Hình 6.2 mô tả vòng đời và mối quan hệ giữa các thành
+phần trong một hệ thống quản lý ngữ cảnh.
+
+Context
+Acquicision 1
+
+Context Context
+Distribution Modeling
+
+Reasoning
+
+.Hình 6.2. Vòng đời ngữ cảnh /17J
+130
+

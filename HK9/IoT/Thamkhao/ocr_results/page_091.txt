@@ -1,0 +1,78 @@
+liệu 250kbps
+
+Vi điều khiển TI
+MSP430, 10kB
+RAM
+
+Hỗ trợ thu thập dữ
+liệu và lập trình qua
+công USB
+
+Tích hợp sẵn cảm
+biến nhiệt độ, độ
+ẩm, ánh sáng
+
+Hỗ trợ các nền tảng
+phần mềm mã
+nguồn mở: TinyOS,
+
+Giao tiếp, điều khiên
+qua GPIOs.
+
+Dễ dàng sử dụng;
+
+Nền tảng phần mềm
+Arduino IDE mã nguồn
+mở, miễn phí.
+
+Phổ biến trong nghiên
+cứu, làm quen với lập
+trình JoT.
+
+mở dựa trên Linux.
+Tài nguyên phần cứng
+ngày càng được phát
+triển, nâng cấp (ví dụ:
+Raspberry Pi 4 lên đến
+4GB RAM).
+
+Hỗ trợ kết nối đa dạng:
+ethernet, WiFi,
+Bluetooth, USB
+1nterface, HDMI,
+Audio...
+
+Thường dùng như các
+thiết bị trạm, IoT
+
+Contiki
+Chức năng: nốt cảm
+biến không dây
+
+Gateway, Edge Servers
+
+4.2. Các nền tảng phần mềm dùng trong IoT
+
+4.2.1. Những đặc trưng và phân loại hệ điều hành dùng cho
+thiết bị IloT
+
+0, trình bày kiến trúc cơ bản của một hệ fiĨiềl} hành dùng cho
+thiết bị JoT. Theo đó, một hệ điều hành có thể gồm 3 thành phần
+chính, bao gễ›m:
+
+Thành phần phần cứng (hardware) và lớp đặc tả để điều
+khiển phần cứng (hardware abstraction layer): bao gồm các cơ
+chế giao tiếp, điều khiển phần cứng của thiết bị như GPIO,
+UART, SPL I2C...
+
+Thành phần hệ thống, bao gồm các hiện thực phần mềm,
+nhân hệ điều hành (kernel), các hiện thực của các giao thức,
+chuẩn giao tiếp mạng, driver thiết bị (device drivers), các thư
+viện, công cụ hỗ trợ lập trình, thực thi ứng dụng ở bên dưới
+hệ thống.
+
+Thành phâần ứng dụng (application): cho phép người dùng
+xây dựng, cài đặt các ứng dụng IoT phục vụ một tác vụ, một
+mục tiêu cụ thê nào đó.
+
+71

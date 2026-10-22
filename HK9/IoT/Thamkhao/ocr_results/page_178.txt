@@ -1,0 +1,45 @@
+các hệ thống Big Data. Sự phát triển của các thiết bị I9Ts/5G hỗ
+trợ cho việc thu thập dữ liệu hàng ngày, hàng giờ, mỗi phút hoặc
+thậm chí trong một phần nghìn giây. Đó là lý do tại sao chuỗi
+thời gian là rất lớn và nhiều chiều. Ngoài ra, loại dữ liệu này
+cũng không cố định, tức là nó có chu kỳ không đều và dựa vào
+các đặc điểm thống kê của nó như giá trị trung bình, giá trị trung
+vị, phương sai và sự thay đổi tiêu chuẩn theo thời gian. Do đó,
+làm thế nào đề lưu trữ và làm thế nào để đối phó với tập dữ liệu
+lớn cho một vấn đề nhất định trong một thời gian thích hợp đòi
+hỏi sức mạnh, các phương pháp tự động để lấy thông tin quan
+trọng mà không phụ thuộc nhiều vào sự can thiệp của con người.
+
+BÀI TẬP CHƯƠNG 6
+
+1. Hãy mô tả vai trò của Quản lý ngữ cảnh trong ứng dụng loT.
+
+2. Hãy mô tả kiến trúc của thành phần quản lý ngữ cảnh trong ứng
+dụng loT.
+
+3. Hãy so sánh các kỹ thuật mô hình hóa ngữ cảnh, và các ứng
+dụng có thể sử dụng mỗi loại kỹ thuật này.
+
+4. Hãy so sánh các kỹ thuật suy luận ngữ cảnh, và các ứng dụng
+có thể sử dụng mỗi loại kỹ thuật này.
+
+5. Hãy trình bày một kịch bản sử dụng trí tuệ nhân tạo trong quản
+lý ngữ cảnh của một ứng dụng loT.
+
+6. Hãy xây dựng ứng dụng đếm số lượng xe qua một giao lộ sử
+dụng trí tuệ nhân tạo.
+
+7. Hãy xây dựng ứng dụng phát hiện đám cháy sử dụng kỹ thuật
+máy học.
+
+8. Hãy xây dựng ứng dụng nông nghiệp thông minh sử dụng kỹ
+thuật học sâu.
+
+9. Hãy xây dựng ứng dụng nhà thông minh sử dụng kỹ thuật học
+không giám sát.
+
+10. Hãy xây dựng ứng dụng giám sát và cảnh báo chất lượng không
+khí tại Thành phố Hồ Chí Minh ứng dụng kỹ thuật máy học.
+
+158
+

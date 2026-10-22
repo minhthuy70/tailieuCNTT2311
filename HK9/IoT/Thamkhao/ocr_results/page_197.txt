@@ -1,0 +1,35 @@
+mang Ln hiệu quả trong tiết kiệm thời gian, công sức cho mguox
+phát triển. Trong đề tài này, học viên tập trung vào phát triển
+tính năng quản lý, tái cấu hình từ xa các dịch vụ, ứng dụng chạy
+trên thiết bị JoT Gateway bằng nền tảng ảo hóa Docker cho các
+thiết bị máy tính nhúng như Raspberry P¡.
+
+Khả năng phát triển tái cấu hình bằng công cụ ảo hóa
+Jocker
+
+Dockerf là một nền tảng ảo hóa, cho phép tạo ra, triển khai
+và thực thi một ứng dụng một cách dễ dàng bằng việc sử dụng
+các container. Các container cho ph<zp người phát men ffl›ng gói
+một ứng dụng và tất cả các thành phần liên quan cần thiết như
+các thư viện, g01 phần mềm phu thuộc thành một packaøe có thể
+tận dung để triển khai hay nep tục cập nhật. Một cách đơn giản,
+có thể hiểu Docker là một nên tảng ảo hóa tương tự như máy ảo
+(Virtual Machine), nhung thay vì tạo ra toàn bộ một máy ảo với
+toàn bộ một hệ điều hành thì Doéker cho phép các ứng dung
+dùng chung Linux kernel của hệ thống đang d1ay và chỉ yêu cầu
+các ứng dụng được đóng ggol với các thành phần cần thiết cho
+ứng dụng đó. Chính vì thế, nền ửmg Docker này tạo ra hiệu quả
+cao và giảm đáng kể chỉ phí để triển khai một ứng dụng mới.
+
+Hình 7.13 minh họa kiến trúc ảo hóa Docker so với cách làm
+Virtual Machine truyền thống.
+
+VinualMaebine |Œ | ViRolachne | - VirualMsdhine
+
+Hình 7.13..So sánh kiến trúc Docker và VM (Nguồn: docker.com)
+
+4
+
+https://vww.docker.com/
+
+177

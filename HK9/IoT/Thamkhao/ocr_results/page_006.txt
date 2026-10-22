@@ -1,0 +1,28 @@
+nền tảng phần cứng được giới thiệu đều có thể dễ dàng tìm thấy
+ở thị rường V1tìt Nam với giá manh hợp ỉy, và dễ dang làm việc
+được với các nền tảng phần mềm mã nguồn mở phổ dụng hiện
+nay được giới thiệu trong giáo trình. Mục tiêu của chúng tôi là
+nhằm khuyến khích sinh viên có điều kiện phát triển tự thân các
+ứng dụng và giải pháp IoTs, hoàn toàn làm chủ công nghệ.
+
+Cuốn sách gồm có 8 chương. Chương 1 giới thiệu tổng quan
+về công nghệ IoTs. Chương 2 trình bày về các lĩnh vực ứng
+dụng IoTs, trong đó có một số ứng dụng được triển khai trong
+khuôn viên Trường Đại học Công nghệ Thông tin — Đại học
+Quốc gia Tp.HCM. Chương 3 trình bày về các bộ giao thức
+mạng 1JoTs. Chương 4 trình bày về các nền tảng phần cứng và
+phần mềm mã nguồn mở IoTs phố dụng. Chương 5 giới thiệu về
+các nền tảng điện toán đám mây (cloud computing), tính toán
+cận biên (cdge computing), cũng như khả năng phối hợp với
+công nghệ IoTs trong kiến trúc N-Tier để phát triển các giải
+pháp và ứng dụng IoTs. Kiến trúc mạng do chúng tôi phát triển
+JoTs network testbed được giới thiệu để minh họa. Chương 6
+trình bày về quản lý ngữ cảnh thông minh trong các ứng dụng và
+giải pháp IoTs thông minh. Chương 7 trình bày về giải pháp tái
+cầu hình từ xa qua mạng không dây thiết bị và giao thức IoTs.
+Cuối cùng là phần Kết luận và tóm tắt lại nội dung được trình
+bày trong cuốn sách này.
+
+CÁC TÁC GIẢ
+
+1V

@@ -1,0 +1,52 @@
+thời gian bảo trì hệ thống, đặc biệt là với các hệ thống IoT quy
+mô lớn.
+
+7hay đổi các dịch vụ mạng, kiến trúc, kết nổi mạng từ xa.
+Ngày nay, khi JoT được ứng dụng và triển khai trong nhiều lĩnh
+vực khác nhau, kiến trúc mạng của hệ thống IoT thường rất phức
+tạp và triển khai với quy mô lớn. Chính vì thế, các công nghệ
+mạng hiện đại như SDN/NFV cho phép thực hiện việc cầu hình
+kết nối mạng từ xa, thay đồi các chức năng mạng, dịch vụ mạng
+một cách tiện lợi mang lại nhiều ý nghĩa trong việc vận hành và
+tối ưu hệ thống.
+
+BÀI TẬP CHƯƠNG 7
+
+1. Hãy trình bày mục đích và vai trò của tái cầu hình/tái lập trình
+trong ứng dụng loT.
+
+Hãy so sánh các phương pháp tái cầu hình trong loT.
+
+3. Hãy phân tích ưu, nhược điểm của phương pháp tái cấu hình
+Full image.
+
+4. Hãy trình bày một kịch bản tái cầu hình trong ứng dụng Thành
+phô thông minh.
+
+5. . Hãy xây dựng ứng dụng giám sát chất lượng không khí sử dụng
+nên tảng Arduino và Jetson Nano. Sau đó xây dựng kịch bản tái
+cầu hình cho ứng dụng này.
+
+6. Hãy xây dựng ứng dụng y tế thông minh áp dụng công nghệ
+Docker/Container trong tính toán cận biên và hỗ trợ tái cầu hình
+mức Docker/Container.
+
+7.  Hãy xây dựng ứng dụng nông nghiệp thông minh hỗ trợ tái cầu
+hình mức độ thay đổi tham só.
+
+8. Hãy xây dựng ứng dụng giám sát giao thông thông minh sử
+dụng máy học. Sau đó, xây dựng kịch bản tái cầu hình mức độ
+thay đôi chức năng của ứng dụng.
+
+9. Hãy xây dựng ứng dụng Nông nghiệp thông minh có kiến trúc
+mạng cluster. Sau đó, xây dựng kịch bản tái cấu hình cho một
+cluster trong mô hình.
+
+10. Hãy trình bày một phương pháp tái cầu hình ứng dụng kiến
+trúc mạng được định nghĩa bởi phần mềm (Software
+Defined Networking) và mô tả vai trò của mỗi thành phần
+trong kiến trúc này.
+
+li
+
+184

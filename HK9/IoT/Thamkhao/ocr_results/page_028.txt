@@ -1,0 +1,31 @@
+mới, một khi được tích hợp đúng vào cơ sở hạ tầng thành phố
+thông minh (Smart Cities), có thể hỗ trợ số lượng lớn kết nối
+không đây từ các loại thiết bị không dây khác nhau (ví dụ: cảm
+biến, máy ảnh, thiết bị WR/AR xe thông minh) thông qua môi
+trường mạng tốc độ cao, truyền dữ liệu cực kỳ đáng tin cậy và
+độ trễ thấp. Ngoài ra, các công nghệ IoTs/5G cho phép ưuyen
+thông, lưu trữ và xử lý dữ liệu hiệu quả, rất cần thiết để xử lý
+và phân tích lượng dữ liệu thành phố thông minh không lồ và
+chuyên dữ liệu thu thập được thành các quy trình giám sát, ra
+quyết định và ứng dụng kịp thời cũng như cung cấp các dịch vụ
+kỹ thuật số đa phương tiện phong phú đến di động cho người
+dân thành thị. Hình 1.4 dưới đây mình họa ứng dụng IoTs trong
+lĩnh vực đô thị thông minh.
+
+Hình 1.4. Các ứng dụng điển hình 1oTs/5G trong đô thị thông mình
+(Nguồn: The 5G-PPP)
+
+Sự xuất hiện của các khái niệm IoTs & 5G là do sự phổ biến
+của các thiết bị vật lý, có thể truy cập qua Internet và do đó, hoạt
+động như một phần mở rộng của World Wide Web. Do đó,
+IoTs/5G cung cấp một nền tảng cho các ý tưởng và ứng dụng mới
+trong các lĩnh vực ứng dụng khác nhau, đặc biệt là trong các
+thành phố thông minh và các ứng dụng hỗ trợ tốt hơn cuộc sống
+cư dân trong thành phố (4mbient-Assisted Living). Tuy nhiên,
+mỗi lĩnh vực ứng dụng có các đặc điểm riêng và các phát triển
+hiện tại có xu hướng tập trung vào các giải pháp nhằm đạt được
+các mục tiêu được xác định trước và khó thay đổi. Về mặt kỹ
+thuật, IoTs/5G là cần thiết để kết nối với các thiết bị cảm biến
+
+$
+

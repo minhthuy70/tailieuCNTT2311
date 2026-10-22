@@ -1,0 +1,28 @@
+định tuyến và truyền gói dữ liệu. Định tuyến được thực hiện
+trong lần lượt từ lưới này đến các lưới khác. Mô hình dựa vào
+giao thức định tuyc²Ắn đa đường dựa vào các lưới mạng để định
+ttJyê'n các gói tim một các nhanh nhất, tận dụng và mở rộng các
+nút cảm biến năng lượng ngoài đề tránh và xử lý tắc nghẽn mạng
+khi chúng xảy ra trong mạng
+
+'. Hình 3.7. Kiến trúc lưới
+
+3.1.2. Một số kiến trúc mạng phức tạp
+
+Kiến trúc dựa theo cụm (cluster-based)
+
+Kiến trúc dựa theo cụm/nhóm (cluster-based) là kiến trúc
+mà các thiết bị cảm biến thu thập dữ liệu và gửi về một thiết bị
+đầu cụm (cluster head). Hình 3.8 là một ví dụ về mạng cảm biến
+có kiến trúc gỀm 6 cluster, mỗi cluster được quản lý bởi một
+Cluster Head. Cách làm này mang đến hiệu quả cao trong trường
+hợp hệ thống mạng cảm biến có kích thước lớn, khoảng cách xa
+nhau và định tuyến qua nhiều mức (multihop routing). Kiến trúc
+dựa trên cụm này làm giảm lượng dữ liệu truyền gửi giữa tất cả
+các cảm biến so với kiến trúc khác như mesh. Một số kỹ thuật
+tỉnh giảm dữ liệu (reduction techniques) có thể được áp dụng để
+tăng cường hiệu quả. Tuy nhiên, kiến trúc dựa trên cụm này có
+khuyet điểm là nếu thiết bị ủu cụm ở quá xa các thiết bị cảm
+biến thì sẽ làm tăng chỉ phí truyền thông, năng lượng tiêu thụ.
+
+36

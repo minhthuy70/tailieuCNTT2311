@@ -1,0 +1,47 @@
+6.4.6. Dựa trên Logic xác suất
+
+Dựa trên Logic xác wat (Probabilistic bglc-based) Ky
+thuật này cho phép ra quyết định dựa trên xác suất. Mỗi khăng
+định logic sẽ được gán cho một xác suất. Kỹ thuật nay có thể
+được sử dụng để kết hợp dữ liệu cảm biến từ r1hưng nguon khác
+nhau hay xác định xung đột giữa các ngữ cảnh. Hầu hết các kỹ
+thuật loại này thường được sử dụng để giải thích việc xuất hiện
+của các sự kiện. Dempster-Shzìfcer dựa trên logic xác suất, cho
+phép kết hợp các bằng ủưng khác nhau đề tính xác suất của một
+sự kiện. Mô hình Markov ẩn (Hidden Markov Model) được sử
+dụng để thể hiện uc trạng thái thông qua các bằng chứng khac
+nhau mà không cần đọc trạng thái trực tiếp. Mô hình Markov ẩn
+
+thường được sử dụng để nhận dạng hoạt động trong các ứng
+dụng thích ứng ngữ cảnh.
+
+Những so sánh, đánh giá về ưu, nhược điểm của các hướng
+tiếp cận này được mô tả trong bảng sau:
+
+Bảng 6.9. So sánh các hướng tiếp cận trong suy luận ngữ cảnh
+
+Kỹ thuật Ưu điểm Nhược điểm Ứng dụng
+Học có s Chính xác s Sốlượngdữliệu s Nhận diện
+giám sát s Hiện có nhiều nhiều hoạt động
+(Mạng nơ- mô hình s Chixửlý được giá e Xác định giá
+ron nhân s Nền tảng toán trị số trị còn thiêu
+tạo, Mạng họcvàthốngkê s Khó chọn bộ đặc
+Bayesian, tính
+2 “'Zọp s Tốn nhiều tài
+Ca 8 ep, nguyên (lưu trữ, xử
+
+y quyết lý và thời gian)
+định, ý B
+Support s Ngữ nghĩa cấp
+vector thâp~ hơncó ítý
+meachine) nghĩa hơn
+
+' » Phải có dữ liệu
+huân luyện
+
+s Mô hình phức tạp
+s Khó mô tả tri thức
+hiện có
+
+144
+

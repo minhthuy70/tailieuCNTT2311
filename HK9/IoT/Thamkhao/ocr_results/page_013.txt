@@ -1,0 +1,68 @@
+Hình 1.1.
+
+Hình 1.2.
+Hình 1.3.
+
+Hình 1.4.
+
+Hình 2.1.
+Hình 2.2.
+
+Hình 2.3.
+
+Hình 2.4.
+Hình 2.5.
+Hình 2.6.
+
+Hình 2.7.
+
+Hình 2.8.
+Hình 2.9.
+Hình 2.10.
+Hình 2.11.
+
+Hình 2.12.
+
+Hình 2.13.
+
+DANH MỤC HÌNH ÁNH
+
+Số liệu minh họa số lượng thiết bị IoTs cho
+đên năm 2020.......................-GGGnnGnnnnnnnnnnnnnnnn1n1125///.. 1
+
+Lược đồ quy chuẩn kỹ thuật của OIC.............. 5
+
+Kiến trúc mạng tổng quan của một ứng dụng
+cloud-based JoT...................................GGnGGnnnnnnn 2722 7
+
+Các ứng dụng điển hình JoTs/5G trong đô thị
+thông minh
+
+Phân loại ứng dụng Internet of Things
+
+Ví dụ về Giao diện của Hệ thống giám sát
+
+trong Nhà thông minh.......................................... 14
+Ví dụ về Giao diện của Hệ thống điều khiển
+
+trong Nhà thông minh.......................................... 15
+Các thiết bị trong smart home................................ 16
+
+Kiến trúc tổng thể của Thành phố thông minh......17
+Các thành phần trong Thành phố thông
+
+minh ...............Mnnnnnnnnnnnnnnnnnnnnnn ree ee ee n 00 000) 18
+Giao diện điều khiển của Trạm quan trắc môi
+
+trường tại ĐH Công nghệ thông tin.................... 18
+Kiến trúc tổng quát của Smart Glty.................... L
+Kiến trúc mạng phổ biến trong city layer.............. 21
+Các ứng dụng trong giao thông thông minh.......... 22
+Kiến trúc của một hệ thống Dự báo chất lượng
+
+không khí.........................................G.GG-GG-nGGGGGGG..G 24
+Các đặc điểm của Thành phố thông minh tại
+Amsterdam............................GGnnnnnnnnnnnnnnnnnnnnnn rn r, 26
+
+Chương trình trong dự án Thành phố thông
+mình tại Barcelona................................................. 27

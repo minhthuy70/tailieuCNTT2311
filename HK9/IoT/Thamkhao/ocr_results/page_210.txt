@@ -1,0 +1,71 @@
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+190
+
+M. H. Qutqut,, A. Al-Sakran, F. Almasalha và H. S. Hassanein,
+“Comprehensive survey o£f the loT' open source OSs”, IET Wireless
+Sensor Systems, tập 8, số 6,pp.323-339,2018. -
+
+A. Alnoman, S. K. Sharma, W. Ejaz và A. Anpalagan, “Emerging Edge
+Computing Technologies for Distributed IoT Systems”, IEEE Network,
+tập Pp, PP.1-8, 2019.
+
+Charih Perera Arkady Zaslavsky, Peter Christen và Dimitrios
+Georgakopoulos, “Context Aware Computing for The Internet of
+
+Things: A Survey? IEEE Communications Surveys & Tutorials
+Journal, 2013.
+
+J. W. Hui và D. Culler, “The dynamic behavior of a data dissemination
+protocol for network programming at scale”, trong SenSys '04
+Proceedings of the 2nd international conference on Embedded
+networked sensor systerns, 2004.
+
+A. Dunkels, B. Grönvall và T. Voigt, “Contiki - A lightweight and
+flexible operating system for tiny networked sensors? trong
+Proceedings - Conference on Local Computer Networks, LCN, 2004.
+
+S.R. Madden, M. J. Franklin, J. M. Hellerstein và W. Hong, “TinyDB:
+an acquisitional query processing system for sensor networks”, ACM
+
+Transactions on Database Systems (TODS), tập 30, số 1, pp.122-173,
+2005.
+
+T. D. Nguyen, Q. M. Nguyen và H.-A. Pham, “Publish-Subscribe
+Framework for Event Management in JoT-based Applications”, trong
+l1th South East Asian Technical University: Consortium (SEATUC)
+Symposium, Ho Chiỉ Minh, 2017.
+
+C. Perera, P. P. Jayaraman, A. Zaslavsky, P. Christen và D.
+Georgakopoulos, “MOSDEN: An Internet of Things Middleware for
+Resource. Constrained Mobile Devices”, trong Hawaii International
+Conference on System Sciences, Waikoloa, 2014.
+
+L Grokhotkov, “ESP8266 Arduino Core”, 2017. [Trực tuyến].
+Available: https://arduino-
+esp8266.readthedocs.io/en/latest/ota_updates/readme.html.
+[Đã truy cập Oct 2020].
+
+L.-V. Hung, H.-V. Dang và L.-T. Quan, “UITiOt-Vlab: A Low Cost
+Physical JoTs Testbed Based on Over-The-Air Programming Approach”,
+trong 5th EAI International Conference on Industrial Networks and
+Intelligent Systems (INISCOM2019), Hochiminh, 2019..
+

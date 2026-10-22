@@ -1,0 +1,44 @@
+dịch với một tùy chọn câu lệnh là ncc: -
+DTOSH _ DATA_LENGTH=x. Nếu tằng packet nhận được một
+gói tin có kế thước payload lớn hơn giá trị
+TOSH_DATA_LENGTH, thì gói tin bị loại bỏ.
+
+Trường message footer t đã bảo message_t có đủ không
+gian để lưu trữ các footer cho tất cả các lớp bên dưới link layer.
+Một single-hop layer có thể lưu trữ footer một cách liên tục với
+vùng data. Với những gói tin ngắn, footer có thể được lưu luôn ở
+trên data.
+
+Trường metadata lưu trữ dữ liệu mà một hop sử dụng hay
+thu thập mà không gửi đi. Cơ chế này cho phép packet layer lưu
+trữ thông tin từng gói tin như RSSI hay timestamp.
+
+Các packet protocol
+
+Trong TinyOS, có một khái niệm mạng cơ bản là active
+message, một gói tín smgle-hop, không tin cậy. Active message
+này có một địa chỉ đích cung cấp các xác nhận đong bộ và có
+chiều dài khác nhau trong một giới hạn kích cỡ lớn nhất.
+
+Quá trình giao tiếp ở mức Packet-level có ba loại interface
+cơ bản là: Packet interface; Send interface và Receive interface.
+
+Packet inferface
+
+Packet interface được định nghĩa như sau:
+
+1nterface Packet {
+command void clear(message_t* msg);
+command uint8_t payloadLength(message_t* msg);
+command void setPayLoadI.ength(message_t* msg, uint8 t len);
+command uint8_t maxPayloadLength0);
+command void* getPayload(message_t* msg, uint8 t len);
+
+}
+
+Một thành phần có thể trỏ tới vùng dữ liệu của nó trong một
+gói tin bằng cách ẹ,01 hàm getPaylozJd() Hàm
+maxPayloadLength() trả về kích thước lớn nhất có thể của
+
+78
+

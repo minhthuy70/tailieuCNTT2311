@@ -1,0 +1,42 @@
+dụng. Makefile.include phải luôn nằm ngay trong thư mục gốc
+Contiki (7:o/e/user/Contiki/Makefile.include).
+
+Đễ biên dịch chương trình chúng ta phải chỉ ra platform mục
+tiêu mà ứng dụng sẽ chạy lên. Nếu không chỉ ra thì mặc định
+ứng dụng chạy trên máy hiện tại (Native Platform).
+
+make TARGET=<Tên thiết bj> <tên Project
+
+Nếu ta muốn biên địch nhiều hơn một lần cho platform được
+chọn đó, ta có thể chỉ định cho Contiki nhớ lựa chọn phần cứng
+đó của mình băng cách chỉ ra savefargef như sau:
+
+make TARGET=<Tên thiết bị> savetarget
+
+Đề upload Contiki lên thiết bị ta dùng lệnh:
+
+sudo chmod 666 /dev/<tên port> (để cấp quyền nạp code lên thiết
+bị qua port)
+
+make <tên ứng dụng>.upload TARGET=<tên thiết bị>
+
+Để xem output của chương trình đang chạy trên thiết bị,
+- chúng ta cân phải login vào serial port đề xem. Ta thực hiện lệnh:
+
+make login TARGET=<tên thiết bị>
+4.2.3.2. Các thành phần, dịch vụ cơ bản trên hệ điều hành Contili
+
+Kiến trúc kernel
+
+Kernel Contiki bao gồm một bộ định thời gọn nhẹ gửi các
+sự kiện (even9) tới các tiến trình đang chạy và gọi các tiền trình
+theo chu kỳ. Tất cả các chương trình thực thi được kích hoạt
+(trigger) bởi các sự kiện gửi từ kernel thông qua cơ chế chọn
+(polling mechanism). Kernel hỗ trợ 2 loại sự kiện là: bất fflỗng bộ
+(asynchronous) và đồng bộ (synchronous). Sự kiện bất đồng bộ
+là hình thức gọi thủ tục chậm. Sự kiện đồng bộ tương tự như bất
+đồng bộ nhưng ngay lập tức làm cho tiến trình mục tiêu được
+định thời. Việc điều khiển thực hiện tiền trình chỉ Xảy ra sau khi
+mục tiêu đã hoàn thành sự kiện.
+
+85

@@ -1,0 +1,40 @@
+nối và ảo hóa một cách linh đong và được thể hiện như một hoặc
+nhiều tài nguyên tính toán đồng nhất dựa trên các thỏa thuận ở
+mức d1ch vụ được thiết lập thông qua việc đàm phán giữa nhà
+cung cấp dịch vụ và người tiêu dùng.
+
+32.7. Đặc trưng cơ bần của điện toán đám mây
+Một số đặc trưng của điện toán đám mây có thể kể đến như:
+s Khả năng mở rộng, co giãn (Scalability, Elasticity)
+s Khả năng sẵn sàng và chắc chắn (Availability, Reliability)
+s Tối ưu hiệu năng (Performance Optimization)
+
+s Khả năng truy cập, tính linh động (Accessibility,
+Portability)
+
+s Khá năng quản lý, khả năng tương tác (Manageability,
+Interoperability).
+
+Khả naIzg mở rộng và co giãn: kl đặc trưng được mong đợi
+của mot hệ thống, một mạng, một tiền trình mà nó có khả năng
+xử lý so lượng công việc ngày càng tăng một cách thuận tiện
+hoặc sẵn sàng để nâng cấp, mở rộng. Khả năng co giãn là khả
+năng thích ứng linh hoạt trong cơ sở hạ tằng thời gian thực.
+
+Khả năng sẵn sàng và chắc chắn: là mức độ mà một hệ
+thống, hệ thống con hay thiết bị trong trạng thái có thể hoạt
+động, có thể vận hành được chỉ định khi bắt đầu một tác vụ, khi
+tác vụ được gọi đến ở một thời điểm bất kỳ, không biết trước.
+Tính chắc chắn của một hệ thống là khả năng hệ thống đó thực
+hiện các chức năng được yêu cầu trong một điều kiện cụ thể
+trong khoảng thời gian được chỉ định.
+
+Tính chất tối ưu hiệu năng của điện toán đám mây được
+thể hiện qua khả năng tính toán mạnh mẽ trên mô hình đám mây
+và hiệu suất các ứng dụng được đảm bảo. Điện toán đám mây sử
+dụng hiệu quả nguôn tài nguyên ben dưới của cơ sở hạ tầng để
+xây dựng một môi trường được tối ưu và hiệu suất cao, sau đó
+phân phối các địch vụ hoàn chỉnh tới người dùng. Để đảm bảo
+tính năng này, mô hình điện toán đám mây đã hiện thực các kỹ
+
+101

@@ -1,0 +1,55 @@
+ÄReceive inferface
+
+Receive interface dùng để nhận gói tin, nó được định nghĩa
+như sau:
+
+1nterface Receive {
+
+©vent message_t* receive(message_t* msg, void* payload, uint8_tlen);
+
+ì
+
+Tham số payload trong sự kiện recceive() phải tlxor1g nhat Vvới
+lời gọi phù hợp với Packet.getPayloadQ sẽ trả về, và chiều dài
+len phải phù hợp với chiều dài của Packet.getPayloadQ) sẽ trả về.
+
+Một người sử dung interface Receive có 3 lựa chọn khi điều
+khiển một sự kiện receive là:
+
+1. Trả về msg mà không chạm vào nó.
+
+2. Chép một số dữ liệu ra từ payload và trả về msg.
+
+3.Lưu msg trong một frame cục bộ và trả về một
+
+message_t* khác cho lớp thấp hơn sử dụng.
+Ứng với từng trường hợp trên ta có một số ví đụ như sau:
+// Trường hợp 1
+
+message_t* Receive.receive(message_t* msg, void* payload, uint8 t
+len) {
+
+return msg;
+
+}
+
+// Trường hợp 2
+
+uintl6 tvalue;
+
+message_t* Receive.receive(message t* msg, void* payload, uint8 t
+
+len) {
+if(len >=sizeof(uint16 t)) {
+nx uintl6ó t* nval=(nx uintl6 t*)payload;
+| value = *nval;
+| }
+| return msg;
+| }
+//Trường hợp 3
+
+message_t buf;
+message_t* ptr = &buf,
+
+80
+

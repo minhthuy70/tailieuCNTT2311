@@ -1,0 +1,37 @@
+3.2.3. ĐBộ giao thức Wf 802.17
+
+3.2.3.1. Kiến trúc mạng Wịfi 802.11
+
+Mang không dây theo ủuan kết nối 802.11 có thể hoạt động
+theo kiến trúc dựa theo hạ mng mạng Ọnfrastructure-based) hoặc
+
+kiến trúc không hạ tầng, kết nối không dây trực tiếp giữa các
+thiết bị với nhau (ad-hoc).
+
+Kiến truc mạng theo hạ mng bao gồm các thành phần thiết
+bị đầu cuối @tatlon), th1et bị là điểm truy cập (access ỵ›o11-Jt) ử.uc
+thiết bị đầu cuối kết nối với một điểm truy cập cùng một tằn số
+tạo nên một tập dịch vụ cơ bản (basic service set - BSS). Hình
+3.20, minh họa kiến trúc mạng 802.11 dựa trên kiến trúc hạ ầmg.
+
+infrastructure -
+network
+
+AP: Access Point
+
+Hình 3.20. Minh họa mạng 802.11 theo kiến trúc hạ tầng
+
+Kiến trúc không dựa theo tằng (adhoc-based) là kiến trúc
+mạng mà các thiết bị không dây đầu cuối kết nối trực tiếp với
+nhau, truyền dữ liệu trực tiếp cho nhau mà không cần thông qua
+một hạ tìng mạng phân phối. Các thiết bị đầu cuối này kết nối
+lại với nhau tạo thành một nhóm dịch vụ cơ bản (BSS), trao đổi
+dữ liệu trên cùng tần số radio. Hình 3.21 minh họa hai nhóm
+dịch vụ cơ bản kết nối theo mô hình mạng Ad-hoc
+
+ad-hoc network
+
+Hình 3.21. Minh họa mạng 802.11 theo kiến trúc ad-hoc
+
+54
+

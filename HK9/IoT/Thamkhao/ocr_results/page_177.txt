@@ -1,0 +1,39 @@
+đoán nẵng dữ liệu video di động sẽ ghiếm tỷvIệ lớn trong tổng dữ
+liệu di động trong tương lai. Vì thế, có thể dự đoán được các
+dịch vụ nội dung số sẽ gây ra tắc nghẽn ngày càng nghiêm trọng
+hơn cho cả mạng truy cập không dây và mạng lõi nếu chúng ta
+không đề ra và triển khai các giải pháp mạng phù hợp. Zuưu trữ
+dữ liệu (content caching) di động tại rìa mạng fflẵgz đây nổi lên
+như mội công nghệ 5Ơ quan trọng để giải quyết vấn đề tắc
+nghến này. Thật ra, trong khi danh sách các nội dung ngày càng
+trở nên lớn hơn, chỉ có một lượng nhỏ các nội dung thực sự phố
+biến và được người dùng yêu cầu thường xuyên. Vì thế, chúng
+ta có thể lưu trữ các nội dung phỗ biến này tại các điểm lưu trữ
+tại rìa mạng như các trạm gốc 5G để giúp giảm đáng kể tắc
+nghẽn mạng và cải thiện chất lượng dịch vụ cho người dùng.
+Trong thực tế, mức độ phổ biến của các nội dung số phải được
+dự đoán dựa vào dữ liệu liên quan đến việc yêu câu và truy xuất
+nội dung trong quá khứ và các nguồn dữ liệu có liên quan như từ
+mạng xã hội. Việc dự đoán này là công việc đầy khó khăn nếu
+mức độ phổ biến của các nội dung thay đổi ưỄt nhanh theo
+không-thời gan. Vì thế, việc dự đoán mức độ phố biến của các
+nội dung, tôi ưu việc lưu trữ và cập nhật nội dung lưu trữ phải
+được thiết kế cần thận để khai thác hiệu quả hạ tằng thông tin và
+lưu trữ và cung cấp dịch vụ nội dung số tốt nhất cho người dùng
+của đô thị thông minh.
+
+Phân tích dữ liệu và phát hiện ra các vấn đề quan trọng từ
+khối lượng thông tin không lồ là một thách thức khác. Nếu dữ
+liệu vẫn ở định dạng thô được tạo bởi cảm biến, thiết bị 1oTs/5G,
+nhiều người dùng sẽ không thể thực hiện các truy vấn phức tạp
+cần có để trích xuất kiến thức hoặc thực hiện các đánh giá cần
+thiết để điều chỉnh hành vi của cảm biến, thiết bị IoTs/5G trong
+mạng. Dự báo về chuỗi thời gian đã được sử dụng rộng rãi và
+đóng một vai trò thiết yếu trong sự thành công của nhiều lĩnh
+vực như tài chính, giáo dục, nông nghiệp và công tác xã hội vì
+những thành quả này đóng góp chính cho hệ thống hỗ trợ cảnh
+báo hoặc hệ thống hỗ trợ ra quyết định. Tuy nhiên, ngày nay,
+việc phân tích chuỗi thời gian đã trở nên thách thức hơn bởi vì
+khối lượng lớn và cấu trúc phức tạp của nó khi triển khai trên
+
+157

@@ -1,0 +1,37 @@
+CHƯƠNG 2
+CÁC LĨNH VỰC ỨNG DỤNG IJOT
+
+Trong những năm gần đây, các thuật ngữ liên quan đến
+IoT như smart home, smart garden, smart parking,... và đặc
+biệt là smart city (thành phố thông minh/đô thị thông minh)
+được nhắc đến khá nhiều trong giới học thuật và cũng đã có
+những sản phẩm được bán ra ngoài thị trường. Mục tiêu cuối
+cùng của các ứng dụng IoT là làm cho cuộc sống trở nên dễ
+dàng, thân thiện hơn với con người. Máy móc, đồ vật, môi
+trường có thể hiểu được suy nghĩ của con người và hành động
+theo ý muốn của con người.
+
+Trong chương này, tác giá đề cập đến một số ứng dụng IoT
+phổ biến, đã và đang được nghiên cứu phát triển hiện nay. Tuy
+mỗi giải pháp của mỗi nhà khoa học, công ty có thể khác nhau
+về hình thức, quy mô, nhưng chung quy lại những sản phẩm,
+giải pháp này đều có chung một số tính năng cơ bản được đề cập
+trong chương này. Giải pháp đầu tiên mà khi nhắc đến IoT
+người ta hay liên tưởng đến đầu tiên, đó là smart home (nhà
+thông minh). Trong giải pháp nhà thông minh, các vật dụng gia
+đình có thể được điều khiển từ xa hoặc nếu cao cấp hơn, chúng
+có thể tự hoạt động mà không cần sự tác động trực tiếp của gia
+chủ. Giải pháp IoT thứ hai được nhắc đến trong chương này là
+Smart city. Đây không phải là một ứng dụng đơn lẻ mà bao gồm
+cả một hệ sinh thái các ứng dụng được tích hợp với nhau thông
+quan một kiến trúc phân cấp từ nhà quản lý, nhà điều hành đến
+các cư dân của thành phố. Ứng dụng thứ ba được giới thiệu
+trong chương này là Smart Agriculture - nông nghiệp thông
+minh. Một kiến trúc tổng quát về nông nghiệp thông minh được
+đưa ra để giúp người đọc có cái nhìn tổng quát về ứng dụng này.
+Hình 2.1 mô tả các loại ứng dụng JoT, bao gồm phân loại về nội
+dung (Multimedia hoặc Scalar) và phân loại về chủ thể (Hệ
+thống hoặc con người):
+
+12
+

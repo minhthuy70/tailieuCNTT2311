@@ -1,0 +1,41 @@
+có thể được tận ffllng cho các ứng dụng khác nhau của đô thị
+thông minh như giám sát môi trường, theo dõi lưu lượng gao
+thông, điều khiển đèn giao thông, nhận diện vi phạm giao
+thông,... Thêm vào đó, khả năng cảm biến tuyệt vời của các con
+đường thông minh trong tương lai, đạt được bằng cách triển khai
+các công nghệ “cảm biên cho hạ umg giao thông? (infrastructure
+sensing) sẽ ;glup chúng ta hỗ trợ tôt hơn cho Ô-tô tự lái và kết nối
+bằng cách giúp cho các quyết định điều khiển được thực hiện
+nhanh và chính xác hơn. Thông thLrơng, dữ liệu cảm biến phải
+được truyền về trung tâm dữ liệu đềể được xử lý, dựa vào đó các
+quyết định điều khiển được đưa ra và thực thi cho các chức nang
+và ứng dụng của thành phố thông mình. Cả quá trình này có thê
+dẫn đến độ trễ khá lớn vì thế có thể không đáp ứng được yêu cầu
+của các ứng dụng thời gian thực. Công nghệ không dây 5G, với
+khả năng cung cấp các kết nối khong dây tốc độ cao với độ trễ
+thấp và độ tin cậy rất cao cung với khả năng phân tích dữ liệu tại
+rìa mạng, có thể giúp giải quyết các hạn chê cơ bản của các hạ
+tằng ICT hiện có. Cụ thể, dư liệu cảm biến của đô thị thông
+minh được thu thập từ các thiết bị cảm biến, camera và thiết bị
+thông minh có thể được offload về fog server được triển khai tại
+các trạm goc 5G để được phân tích và xử lý nh…ểlm đưa ra các
+quyết định gần thời gian thực. Tuy nhiên, các tiềm nang của
+công nghệ 5G này chỉ có thể được hiện thực hóa qua việc rthiết
+kế các thuật toán offload tác vụ tính toán cho các đô thị Hwng
+miỉnh tích hợp cong nghệ 5G, trong đo các quyết định về việc
+chọn dữ liệu và tác vụ tính toán nào để offload lên và xử lý tại
+fog server và việc phân chia tài nguyên vô tuyen và tính toán
+phải được tối ưu để đạt được chất lượng tốt nhất và hiệu năng sử
+dụng tài nguyên mạng cao nhất.
+
+Bằng cách trang bị các công nghệ 5G, các đô thị thông minh
+trong tương lai có thể cung cấp các dịch vụ nội dung số như TV
+di động, video độ phz1n g1a1 cao theo yêu cầu với chỉ phí phải
+chăng. Mặt khác, với việc công ghe ô-tô tự lái sẽ đi vào cuộc
+sống trong tương lai gần, các tài xê ngôi sau vô lăng sẽ quan tâm
+tận hư<Jrng các dịch vụ nội dung số vì họ sẽ không còn bận tâm
+về việc điều khiển o-to của mình. Thực ra, lượng dữ liệu video
+di động đã tăng lên rất nhanh trong thời gian qua và Cisco dự
+
+156
+

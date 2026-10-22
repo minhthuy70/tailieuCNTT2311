@@ -1,0 +1,54 @@
+s H.265 (4kp60 decode), H264 (1080p60 decode, 1080p30
+encode)
+
+s OpcenGL ES 3.0 graphics
+
+s Khe cắm Micro-SD cho hệ điều hành và lưu trữ
+
+s Nguồn điện DC 5V - 3A DC chuẩn USB-C
+
+* 5V DC via GPIO header (minimum 3A*)
+
+s Hỗ trợ Power over Ethernet (PoE) (yêu cầu có PoE HAT)
+
+s Một số điểm nâng cấp của Raspberry Pi 4 Model B
+
+s CPU mạnh hơn
+
+s Hỗ trợ chuẩn USB 3.0
+
+s RAM DDR4 thay vì DDR2 như cũ
+
+s Cổng mạng Ethernet Gigabit
+
+s Có2 cổng ra màn hình với độ phân giải 4K.
+
+s Nguồn điện yêu cầu 5V —3A thay vì 5V 2.5A như cũ
+
+s Bluetooth nâng cấp từ phiên bản 4.0 lên 5.0
+
+Raspberry có thể chạy nhiều hệ điều hành như Raspbian,
+Ubuntu Mate, Windows 10 IJoT Core. Hô trợ nhiêu ngôn ngữ Lâp
+trình như C/C++, Python, Javascript. Raspberry Pi giao tiêp tt
+
+với các board mạch khác như Arduino... 0 là hình ảnh bề ngoài
+của một Raspberry Pi 4 Model B.
+
+4.1.5. Tổng hợp một số nên tũng phần cứng JoT phổ biến
+
+0 sau đây tóm tắt lại một số nền tảng phần cứng IoT phổ
+biến, đặc trưng cho 3 loại thiết bị IoT thường được sử dụng
+trong các giải pháp IoT thực tế dùng trong nghiên cứu cũng như
+trong triển khai.
+
+Bảng 4.1. TỔng hợp 3 nên tăng phần cứng JoT đặc trưng
+
+Telosb Mote Arduino-based boards Raspberry Pì
+
+Hỗtợchuẩn giao  Hỗtrợnhiềuchuẩn kết Máy tính nhúng, có đầy
+tiệpIEEE 802.15.4 . nôi khác nhau qua các đủ chức năng của một
+
+Tốc độ truyền dữ module tương ứng: máy tính.
+WiFi, Zigbee... Hệ điều hành mã nfflEcÀ›n
+
+70

@@ -1,0 +1,135 @@
+L Is u U N T EEIEECEOEEOEIEIGEIEEENSNENEHEN
+
+Sơ đồ
+
+Đồ họa
+
+Dựa trên
+đôi tượng
+
+Dựa trên
+logic
+
+. Linh hoạt
+
+Có cấu trúc
+Xác nhận thông
+qua lược đồ
+Công cụ xử lý
+có săn
+
+Cho phép mô
+hình hóa các
+quan hệ
+
+Thu thập thông
+tin dễ dàng
+Các tiêu chuẩn
+và triển khai có
+săn
+
+Xác nhận thông
+qua các ràng
+buộc
+
+Cho phép mô
+
+hình hóa quan
+
+hệ
+
+Có thể được
+
+tích hợp băng
+
+ngôn ngữ lập
+
+trình
+
+Cônlcĩ cụ xử lý
+
+có săn
+
+Cho phép suy
+
+luận ngữ cảnh
+4 Ñ ~
+
+cấp cao từ ngữ
+
+Không hỗ trợ
+xác nhận
+Không có
+công cụ xử lý
+chuân
+
+Không có
+t3ỈI1llỂ1I!'l cho
+câu trúc
+
+Phức tạp Hji
+fflịi liệu nhiêu
+câp
+
+Khó tìm kiếm
+thông tin
+
+Truy vấn
+phức tạp
+
+Yêu uỄu trong
+việc câu hình
+Khó tương
+tác giữa các
+q^›ng cụ có
+sẵn
+
+Không có tiêu
+chuân thiêt kê
+
+Khó thu thập
+thông tin
+
+Chỉ có
+nguyên lý,
+không có tiêu
+chuân thiết kê
+Khó đánh giá
+
+Không có
+chuân chung
+Khó đánh giá
+
+s Có thể sử dụng như
+câu trúc dữ liệu
+trung gian và tách
+dữ liệu được sử
+dụng bởi hai thành
+phần trong hệ thống,
+chăng hạn như
+SensorML được
+dùng đề mô tả dữ
+liệu cảm biến và
+JSON để truyền dữ
+liệu qua mạng
+
+s Sử dụng cơ sở dữ
+liệu đề lưu trữ trong
+một khoảng thời
+gian dài và kích
+thước dữ liệu lớn.
+
+s Có thể sử dụng để
+đại diện cho ngữ
+cảnh ở cấp độ lập
+trình. Sử dụng ngữ
+cảnh run-time, được
+lưu trong bộ nhớ và
+hỗ trợ truyền dữ liệu
+qua mạng
+
+s Có thể sử dụng để
+mô tả ngữ cảnh cấp
+cao thông qua ngữ
+
+135

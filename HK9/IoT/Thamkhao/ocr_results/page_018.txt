@@ -1,0 +1,63 @@
+Bảng 3.1.
+
+Báng 3.2.
+
+Báảng 3.3.
+Bảng 3.4.
+
+Bảng 3.5.
+
+Bảng 3.6.
+Bảng3.7.
+
+Bảng 4.1.
+Báảng 4.2.
+
+Bảng 4.3.
+
+Báảng 5.1.
+Bảng 6.1.
+Bảng 6.2.
+Bảng 6.3.
+Bảng 6.4.
+
+Bảng 6.5.
+Báảng 6.6.
+
+xvi
+
+DANH MỤC BẢNG
+
+Một số nền tảng phần cứng hỗ trợ chuẩn
+6LoWPAN.......................................neensnennessneueneereennne 44
+
+Một số nền tảng phần mềm hỗ trợ bộ giao thức
+
+6LoWPAN..................nnnnnnnnnnnnnnnnenenennnnenenensnennenensnerh 44
+Một số nền tảng phần cứng hỗ trợ chuẩần Zigbee.....53
+Một số nền tảng phần mềm hỗ trợ bộ giao thức
+Zigbee.................................nnennnenennnneennennnnnenerenenenenen, 53
+Bảng chức năng của trạm phát dựa theo bit “To
+DS” và “From DS”................................................ 57
+Một số nền tảng phần cứng hỗ trợ chuẩn Wiñ........ 61
+Một số nền tảng phần mềm hỗ trợ bộ giao thức
+WiR...................Gnnnnnnnnnnnnnnnnnnnnnnnnnnnennnsnnnenennenensnessnnnnrh 61
+Tổng hợp 3 nền tảng phần cứng IoT đặc trung........ 70
+Bảng tổng hợp đặc tính một số nền tảng hệ điều
+hành nỗi tiếng trong JoT...................................-..G... 91
+Bảng tổng hợp đặc tính kỹ thuật một số nền
+tảng hệ điều hành nôi tiêng trong IJoT....................... 92
+
+Tóm lược một số APIs OpenStack.
+
+Quy đổi giá trị và mức nhiệt độ.... .127
+Sensed-context và Learned-context........................ 127
+Luật suy luận Learned-context.............................. 127
+So sánh các hướng tiếp cận trong mô hình hóa
+
+ngữ cảnh......................................csessneneeeeneeeneeenennenrne 134
+Bảng biểu diễn thang input nhiệt độ...................... 140
+
+Bảng biểu diễn thang giá trị input trade (nướng
+đi của dữ liệu)......................................................... 140
+

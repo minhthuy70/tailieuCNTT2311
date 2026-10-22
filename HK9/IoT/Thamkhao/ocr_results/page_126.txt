@@ -1,0 +1,42 @@
+(virtual storage) bao gồm phân bổ không gian lưu trữ,
+giải phóng bộ nhớ, ghi dữ liệu, đọc dữ liệu...; quản lý
+mạng ảo (virtual mtwork) bao g;›m việc cap phát địa chỉ
+IP, đăng ký tên miên, thiết lập kết nối, phân bổ băng
+thông đường truyền..
+
+Giao diện giám sát MỂ thống: cung cấp giao diện cho
+phép giám sát các thông số hệ thống liên quan tới máy ảo
+như tải CPU, sử dụng bộ nhớ, tải IO...; liên quan tới bộ
+nhớ ảo như không gian bộ nhớ ảo sử dụng, dữ liệu trùng
+lắp, băng thông truy cập thiết bị lưu trữ.. ; liên quan tới
+mạng ảo như băng thông, các kết nối, cân bang tải mạng.
+
+%.2.4. Mô hình PaaS
+
+Mô hình dịch vụ PaaS (Platform a5 a Service) là mô hình
+
+cung cấp cho người dùng khả năng triển khai lên hạ tầng điện
+toán đám mây các ứng dụng được tạo ra bằng ngôn ngữ lập trình
+và những cộng cụ được hỗ trợ bởi nhà cung cấp. Người dung
+không thể quản lý và điều khiển các hạ tằng bên dưới bao gom
+mạng, máy chủ, hệ điều hành hay bộ lưu trữ, nhưng có thể triển
+khai các ứng dụng.
+
+Một số nền tảng thuộc mô hình dịch vụ PaaS như: Microsoft
+
+NWindows Azure, Google App Engine, Hadoop...
+
+106
+
+PLATFORM
+
+Kiến truc HmS fflrơẹ tì1e hlen nhu mnh sau:
+
+! ProgrammingiDE - - l` avstem ffl…ừol |
+
+Scalabliy- ¡ Avallability |
+Elasticlty Reliablity ¡
+
+'Computing
+
+Hình 5.5. Riến trúc mô hình dịch vụ PaaS
