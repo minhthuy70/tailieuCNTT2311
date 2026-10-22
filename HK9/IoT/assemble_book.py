@@ -244,15 +244,15 @@ table_41_text = promote_headings_manual(table_41_text)
 
 os_section_raw = ch4_clean[p_sw_m:p_bt4].strip()
 os_section_converted = os_section_raw.replace("### 4.2. Các nền tảng phần mềm dùng trong IoT\n", "")
-os_section_converted = os_section_converted.replace("#### 4.2.1. Những đặc trưng và phân loại hệ điều hành dùng cho thiết bị IoT", "### 4.8.0. Đặc trưng và phân loại hệ điều hành dùng cho thiết bị IoT")
-os_section_converted = os_section_converted.replace("#### 4.2.2. Hệ điều hành TinyOS", "## 4.8. Hệ điều hành TinyOS")
-os_section_converted = os_section_converted.replace("##### 4.2.2.1.", "### 4.8.1.")
-os_section_converted = os_section_converted.replace("##### 4.2.2.2.", "### 4.8.2.")
-os_section_converted = os_section_converted.replace("#### 4.2.3. Hệ điều hành Contiki", "## 4.9. Hệ điều hành Contiki")
-os_section_converted = os_section_converted.replace("##### 4.2.3.1.", "### 4.9.1.")
-os_section_converted = os_section_converted.replace("##### 4.2.3.2.", "### 4.9.2.")
-os_section_converted = os_section_converted.replace("#### 4.2.4. Hệ điều hành Raspbian OS", "## 4.10. Hệ điều hành Raspbian OS")
-os_section_converted = os_section_converted.replace("#### 4.2.5. Tổng hợp một số nền tảng phần mềm IoT phổ biến", "## 4.11. Bảng tổng hợp so sánh các hệ điều hành IoT phổ biến")
+os_section_converted = os_section_converted.replace("#### 4.2.1. Những đặc trưng và phân loại hệ điều hành dùng cho thiết bị IoT", "## 4.8. Đặc trưng và phân loại hệ điều hành dùng cho thiết bị IoT")
+os_section_converted = os_section_converted.replace("#### 4.2.2. Hệ điều hành TinyOS", "## 4.9. Hệ điều hành TinyOS")
+os_section_converted = os_section_converted.replace("##### 4.2.2.1.", "### 4.9.1.")
+os_section_converted = os_section_converted.replace("##### 4.2.2.2.", "### 4.9.2.")
+os_section_converted = os_section_converted.replace("#### 4.2.3. Hệ điều hành Contiki", "## 4.10. Hệ điều hành Contiki")
+os_section_converted = os_section_converted.replace("##### 4.2.3.1.", "### 4.10.1.")
+os_section_converted = os_section_converted.replace("##### 4.2.3.2.", "### 4.10.2.")
+os_section_converted = os_section_converted.replace("#### 4.2.4. Hệ điều hành Raspbian OS", "## 4.11. Hệ điều hành Raspbian OS")
+os_section_converted = os_section_converted.replace("#### 4.2.5. Tổng hợp một số nền tảng phần mềm IoT phổ biến", "## 4.12. Bảng tổng hợp so sánh các hệ điều hành IoT phổ biến")
 os_section_converted = promote_headings_manual(os_section_converted)
 
 ch4_exercises = clean_page_markers(ch4_clean[p_bt4:].strip())
@@ -351,33 +351,56 @@ ch2_full = ch2_final.strip() + "\n\n"
 # 4. Chương 3:
 # Lines 432 đến 610 của IoTmain.md (Chương 3 header, 3.1 đến 3.6)
 ch3_part1 = "".join(iotmain_lines[431:610]) # From "# Chương 3: Các kiến trúc mạng và bộ giao thức IoT" up to 3.6
-# Đổi tiêu đề "# Chương 3: Các kiến trúc mạng và bộ giao thức IoT" thành "# Chương 3: Các kiến trúc mạng và bộ giao thức mạng IoT"
-ch3_part1 = ch3_part1.replace("# Chương 3: Các kiến trúc mạng và bộ giao thức IoT", "# Chương 3: Các kiến trúc mạng và bộ giao thức mạng IoT")
+ch3_part1 = ch3_part1.replace("# Chương 3: Các kiến trúc mạng và bộ giao thức IoT", "# Chương 3: Các kiến trúc mạng và bộ giao thức mạng IoT\n\n## Nội dung chương\n\n- **3.1.** Mô hình kết nối hệ thống mở (OSI Model).\n- **3.2.** Bộ giao thức TCP/IP.\n- **3.3.** Đặc tính hiệu năng mạng IoT (Key Performance Characteristics).\n- **3.4.** Bộ giao thức Internet (Internet Protocol Suite).\n- **3.5.** Các loại mạng truyền thông (Network Types).\n- **3.6.** Khả năng sẵn sàng của mạng (Network Reachability).\n- **3.7.** Các kiến trúc và topo mạng dùng trong IoT.\n- **3.8.** Các bộ giao thức mạng không dây thường dùng trong IoT (6LoWPAN, Zigbee, WiFi, BLE, LPWAN).\n- **3.9.** Cảm biến trong IoT (IoT Sensors).\n- **3.10.** Công nghệ nhận dạng vô tuyến RFID.\n- **3.11.** Giám sát bằng video (Video Tracking).\n- **3.12.** Cơ cấu chấp hành trong IoT (IoT Actuators).\n- **Bài tập Chương 3.**\n")
 
 # 3.7 Topo mạng từ manual
 ch3_topo_block = ch3_topologies_converted.strip() + "\n\n"
 
 # 3.8 Bộ giao thức không dây:
-# Lấy phần tổng quan từ lines 611-661 của IoTmain.md:
 ch3_proto_overview = "".join(iotmain_lines[610:661]).strip()
 ch3_proto_overview = ch3_proto_overview.replace("## 3.7: Các bộ giao thức mạng không dây thường dùng trong IoT", "## 3.8. Các bộ giao thức mạng không dây thường dùng trong IoT\n\n### 3.8.0. Tổng quan các chuẩn mạng không dây trong IoT")
 
-# Ghép với chi tiết 6LoWPAN, Zigbee, WiFi từ manual
 ch3_proto_detailed = ch3_protocols_converted.strip()
 
 # Các phần cảm biến, RFID, Video Tracking, Actuators từ lines 662-734 của IoTmain.md
-# Đổi số thứ tự từ 3.8, 3.9, 3.10, 3.11 thành 3.9, 3.10, 3.11, 3.12
 ch3_sensors_actuators = "".join(iotmain_lines[661:734]).strip()
-ch3_sensors_actuators = ch3_sensors_actuators.replace("## 3.8: IoT Sensors", "## 3.9. Cảm biến trong IoT (IoT Sensors)")
-ch3_sensors_actuators = ch3_sensors_actuators.replace("## 3.9: RFID", "## 3.10. RFID")
+ch3_sensors_actuators = ch3_sensors_actuators.replace("## 3.8: IoT Sensors (*Cảm biến IoT*)", "## 3.9. Cảm biến trong IoT (IoT Sensors)")
+ch3_sensors_actuators = ch3_sensors_actuators.replace("## 3.9: RFID", "## 3.10. Công nghệ nhận dạng vô tuyến RFID")
 ch3_sensors_actuators = ch3_sensors_actuators.replace("## 3.10: Video Tracking", "## 3.11. Giám sát bằng video (Video Tracking)")
 ch3_sensors_actuators = ch3_sensors_actuators.replace("## 3.11: IoT Actuators", "## 3.12. Cơ cấu chấp hành trong IoT (IoT Actuators)")
 
 ch3_full = ch3_part1.rstrip() + "\n\n" + ch3_topo_block + ch3_proto_overview + "\n\n" + ch3_proto_detailed + "\n\n" + ch3_sensors_actuators + "\n\n" + ch3_exercises.strip() + "\n\n"
 
 # 5. Chương 4:
-# Lines 735 đến 1099 của IoTmain.md (Chương 4 header, 4.1 đến 4.6 Arduino delay(100);)
 ch4_part1 = "".join(iotmain_lines[734:1099]).rstrip()
+# Cập nhật mục lục nội dung chương 4
+ch4_old_toc = """## Nội dung chương
+
+- **4.1.** Mạng cảm biến không dây (Wireless Sensor Networks - WSN)
+- **4.2.** Phân loại mạng cảm biến không dây (Class of Wireless Sensor Networks)
+- **4.3.** Vai trò của mã nguồn mở trong IoT (The Role of Open Source in IoT)
+- **4.4.** Các nền tảng phần cứng (Hardware Platforms)
+- **4.5.** Các nền tảng phần mềm (Software Platforms)
+- **4.6.** Ngôn ngữ lập trình Arduino (Arduino Programming Language)"""
+
+ch4_new_toc = """## Nội dung chương
+
+- **4.1.** Mạng cảm biến không dây (Wireless Sensor Networks - WSN).
+- **4.2.** Phân loại mạng cảm biến không dây (Class of Wireless Sensor Networks).
+- **4.3.** Vai trò của mã nguồn mở trong IoT (The Role of Open Source in IoT).
+- **4.4.** Các nền tảng phần cứng (Hardware Platforms).
+- **4.5.** Các nền tảng phần mềm (Software Platforms).
+- **4.6.** Ngôn ngữ lập trình Arduino (Arduino Programming Language).
+- **4.7.** Thiết bị cảm biến không dây TelosB và So sánh các nền tảng phần cứng IoT.
+- **4.8.** Đặc trưng và phân loại hệ điều hành dùng cho thiết bị IoT.
+- **4.9.** Hệ điều hành TinyOS.
+- **4.10.** Hệ điều hành Contiki.
+- **4.11.** Hệ điều hành Raspbian OS.
+- **4.12.** Bảng tổng hợp so sánh các hệ điều hành IoT phổ biến.
+- **Bài tập Chương 4.**"""
+
+ch4_part1 = ch4_part1.replace(ch4_old_toc, ch4_new_toc)
+
 ch4_arduino_finish = arduino_completion.strip()
 ch4_telosb = telosb_text.strip()
 ch4_table41 = table_41_text.strip()
@@ -426,8 +449,9 @@ unified_book = (
 print(f"Tổng số ký tự của quyển sách hợp nhất: {len(unified_book):,}")
 print(f"Tổng số dòng của quyển sách hợp nhất: {len(unified_book.splitlines()):,}")
 
-# Lưu ra file kiểm tra test_book.md trước
-with open(r'd:\CNTT2311\tailieuCNTT2311\HK9\IoT\test_book.md', 'w', encoding='utf-8') as f:
+# Ghi trực tiếp ra IoTmain.md
+target_path = r'd:\CNTT2311\tailieuCNTT2311\HK9\IoT\IoTmain.md'
+with open(target_path, 'w', encoding='utf-8') as f:
     f.write(unified_book)
 
-print("Đã lưu test_book.md thành công. Đang tiến hành kiểm tra tính toàn vẹn...")
+print("Đã ghi thành công toàn bộ quyển giáo trình hợp nhất vào IoTmain.md!")

@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Verification Script for test_book.md
+Verification Script for IoTmain.md (The Unified Textbook)
 """
 import sys, re
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-with open(r'd:\CNTT2311\tailieuCNTT2311\HK9\IoT\test_book.md', 'r', encoding='utf-8') as f:
+with open(r'd:\CNTT2311\tailieuCNTT2311\HK9\IoT\IoTmain.md', 'r', encoding='utf-8') as f:
     text = f.read()
 
 lines = text.splitlines()
@@ -19,7 +19,7 @@ print(f"1. Remaining page markers: {len(page_markers)}")
 assert len(page_markers) == 0, f"Found {len(page_markers)} page markers!"
 
 # 2. Check all Chapters
-print("2. Checking Chapter headings:")
+print("\n2. Checking Chapter headings:")
 expected_chapters = [
     "# Chương 1: Giới thiệu",
     "# Chương 2: Các lĩnh vực ứng dụng IoT",
@@ -71,8 +71,8 @@ expected_tables = [
     "Bảng 4.3",
     "Bảng 5.1",
     "Bảng 6.2",
-    "Bảng 6.6",
-    "Nếu Nhiệt độ là Thấp và Độ ẩm là Thấp" # 12 luật mờ
+    "Bảng 6.5",
+    "Bảng 6.6"
 ]
 
 for tb in expected_tables:
