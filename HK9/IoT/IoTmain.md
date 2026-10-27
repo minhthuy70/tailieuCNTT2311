@@ -1,15 +1,16 @@
 # Mục lục môn học
 
-1. [Chương 1: Giới thiệu](#chương-1-giới-thiệu)
-2. [Chương 2: Các lĩnh vực ứng dụng IoT](#chương-2-các-lĩnh-vực-ứng-dụng-iot)
-3. [Chương 3: Các kiến trúc mạng và bộ giao thức mạng IoT](#chương-3-các-kiến-trúc-mạng-và-bộ-giao-thức-mạng-iot)
-4. [Chương 4: Các nền tảng phần cứng và phần mềm IoT thông dụng](#chương-4-các-nền-tảng-phần-cứng-và-phần-mềm-iot-thông-dụng)
-5. [Chương 5: Điện toán đám mây, điện toán cận biên và IoT](#chương-5-điện-toán-đám-mây-điện-toán-cận-biên-và-iot)
-6. [Chương 6: Quản lý ngữ cảnh thông minh và trí tuệ nhân tạo trong IoT](#chương-6-quản-lý-ngữ-cảnh-thông-minh-và-trí-tuệ-nhân-tạo-trong-iot)
-7. [Chương 7: Tái cấu hình trong IoT](#chương-7-tái-cấu-hình-trong-iot)
-8. [Kết luận](#kết-luận)
-9. [Tài liệu tham khảo](#tài-liệu-tham-khảo)
-10. [Thông tin xuất bản](#thông-tin-xuất-bản)
+1. [Phần mở đầu: Lời giới thiệu giáo trình](#phần-mở-đầu-lời-giới-thiệu-giáo-trình)
+2. [Chương 1: Giới thiệu](#chương-1-giới-thiệu)
+3. [Chương 2: Các lĩnh vực ứng dụng IoT](#chương-2-các-lĩnh-vực-ứng-dụng-iot)
+4. [Chương 3: Các kiến trúc mạng và bộ giao thức mạng IoT](#chương-3-các-kiến-trúc-mạng-và-bộ-giao-thức-mạng-iot)
+5. [Chương 4: Các nền tảng phần cứng và phần mềm IoT thông dụng](#chương-4-các-nền-tảng-phần-cứng-và-phần-mềm-iot-thông-dụng)
+6. [Chương 5: Điện toán đám mây, điện toán cận biên và IoT](#chương-5-điện-toán-đám-mây-điện-toán-cận-biên-và-iot)
+7. [Chương 6: Quản lý ngữ cảnh thông minh và trí tuệ nhân tạo trong IoT](#chương-6-quản-lý-ngữ-cảnh-thông-minh-và-trí-tuệ-nhân-tạo-trong-iot)
+8. [Chương 7: Tái cấu hình trong IoT](#chương-7-tái-cấu-hình-trong-iot)
+9. [Kết luận](#kết-luận)
+10. [Tài liệu tham khảo](#tài-liệu-tham-khảo)
+11. [Thông tin xuất bản](#thông-tin-xuất-bản)
 
 # Thông tin học phần
 
@@ -44,6 +45,16 @@
 | TPU | Tensor Processing Unit |
 | VM | Virtual Machine |
 
+# Phần mở đầu: Lời giới thiệu giáo trình
+
+Trong bối cảnh cuộc cách mạng công nghiệp 4.0 và xã hội đang ngày càng phát triển, công nghệ Internet vạn vật IoTs/5G và kỹ thuật xử lý dữ liệu lớn (Big Data), trí tuệ nhân tạo (AI) đóng vai trò quan trọng trong việc tạo ra những đổi mới đột phá trong công nghệ thông tin (CNTT) và truyền thông, và các lĩnh vực ứng dụng liên quan. Thành phố thông minh (Smart Cities) là một trong những ứng dụng như vậy, đã thu hút được sự chú ý lớn từ các chính phủ, cộng đồng ngành học thuật và CNTT tại nhiều quốc gia. Đặc biệt, Big Data/AI và IoTs/5G cung cấp các công cụ và công nghệ cho phép quan trọng để thúc đẩy Sự chuyển đổi số (Digital Transformation) của các thành phố lớn trên toàn thế giới thành những nơi đáng sống, làm việc và tận hưởng. Các công nghệ IoTs/5G mới, một khi được tích hợp đúng vào cơ sở hạ tầng thành phố thông minh (Smart Cities), có thể hỗ trợ số lượng lớn kết nối không dây từ các loại thiết bị không dây khác nhau (ví dụ: cảm biến, máy ảnh, thiết bị thực tế ảo VR/AR, xe thông minh) thông qua môi trường mạng tốc độ cao, truyền dữ liệu cực kỳ đáng tin cậy và độ trễ thấp. Ngoài ra, các công nghệ IoTs/5G cho phép truyền thông, lưu trữ và xử lý dữ liệu hiệu quả, rất cần thiết để xử lý và phân tích lượng dữ liệu thành phố thông minh khổng lồ và chuyển dữ liệu thu thập được thành các quy trình giám sát, ra quyết định và ứng dụng kịp thời cũng như cung cấp các dịch vụ kỹ thuật số đa phương tiện phong phú đến di động cho người dân thành thị.
+
+Giáo trình này được viết với mục tiêu mang lại những kiến thức nền tảng về công nghệ Internet vạn vật, lĩnh vực ứng dụng và các công nghệ liên quan nhằm cung cấp đến sinh viên các khái niệm mới, tri thức và tiêu chuẩn mới trong lĩnh vực IoTs và các công nghệ liên quan như điện toán đám mây (cloud computing), tính toán cận biên (edge computing), để sinh viên có thể phát triển ứng dụng và giải pháp IoTs hoàn chỉnh. Các nền tảng phần cứng được giới thiệu đều có thể dễ dàng tìm thấy ở thị trường Việt Nam với giá thành hợp lý, và dễ dàng làm việc được với các nền tảng phần mềm mã nguồn mở phổ dụng hiện nay được giới thiệu trong giáo trình. Mục tiêu của chúng tôi là nhằm khuyến khích sinh viên có điều kiện phát triển tự thân các ứng dụng và giải pháp IoTs, hoàn toàn làm chủ công nghệ.
+
+Cuốn sách gồm có 8 chương. Chương 1 giới thiệu tổng quan về công nghệ IoTs. Chương 2 trình bày về các lĩnh vực ứng dụng IoTs, trong đó có một số ứng dụng được triển khai trong khuôn viên Trường Đại học Công nghệ Thông tin — Đại học Quốc gia Tp.HCM. Chương 3 trình bày về các bộ giao thức mạng IoTs. Chương 4 trình bày về các nền tảng phần cứng và phần mềm mã nguồn mở IoTs phổ dụng. Chương 5 giới thiệu về các nền tảng điện toán đám mây (cloud computing), tính toán cận biên (edge computing), cũng như khả năng phối hợp với công nghệ IoTs trong kiến trúc N-Tier để phát triển các giải pháp và ứng dụng IoTs. Kiến trúc mạng do chúng tôi phát triển IoTs network testbed được giới thiệu để minh họa. Chương 6 trình bày về quản lý ngữ cảnh thông minh trong các ứng dụng và giải pháp IoTs thông minh. Chương 7 trình bày về giải pháp tái cấu hình từ xa qua mạng không dây thiết bị và giao thức IoTs. Cuối cùng là phần Kết luận và tóm tắt lại nội dung được trình bày trong cuốn sách này.
+
+CÁC TÁC GIẢ
+
 # Chương 1: Giới thiệu
 
 ## Nội dung chương
@@ -76,7 +87,7 @@ theo dõi, giám sát, đo lường và chia sẻ dữ liệu)
 
     ***Tóm lại:** Internet phát triển từ người => nội dung => dịch vụ => con người => thiết bị, và IoT là giai đoạn mà các thiết bị thông minh kết nối, trao đổi dữ liệu với nhau.*
 
-**Hình minh họa trang 9:** Biểu đồ số lượng thiết bị IoT theo thời gian, minh họa xu hướng tăng nhanh đến năm 2020.
+**Hình 1.0.** Biểu đồ số lượng thiết bị IoT theo thời gian, minh họa xu hướng tăng nhanh đến năm 2020.
 
 ### 1.1.2 Định nghĩa IoT
 
@@ -86,7 +97,7 @@ physical elements empowered by: *(Trước khi định nghĩa IoT, có thể li�
 giản, IoT có thể được xem là một mạng gồm các phần tử vật lý được hỗ trợ bởi:)*
 
 - **Sensors**: to collect information. (*Cảm biến: thu thập thông tin.*)
-- **Identifiers**: to identify the source of data (e.g., sensors, devices). (*Bộ nhận dạng: xác định nguồn dữ liệu (ví dụ: cảm biến, thiết bị). *)
+- **Identifiers**: to identify the source of data (e.g., sensors, devices). (*Bộ nhận dạng: xác định nguồn dữ liệu (ví dụ: cảm biến, thiết bị).*)
 - **Software**: to analyze data. (*Phần mềm: phân tích dữ liệu.*)
 - **Internet connectivity**: to communicate and notify. (*Kết nối Internet: giao tiếp và gửi thông báo.*)
 ```
@@ -198,21 +209,21 @@ and simpler components, thereby helping IoT component development, design, and
 troubleshooting.
 (*Giảm độ phức tạp: Nó chia các yếu tố IoT và quy trình truyền thông thành các
 thành phần nhỏ hơn và đơn giản hơn, do đó giúp phát triển, thiết kế và
-khắc phục sự cố thành phần IoT. *)
+khắc phục sự cố thành phần IoT.*)
 - Standardized Components and Interfaces: The model standardizes the specific components within each level (e.g., what are the key components for general IoT
 Services Platform) as well as the interfaces between the various levels. This would allow different vendors to develop joint solutions and common support models.
 (*Các thành phần và giao diện tiêu chuẩn: Mô hình tiêu chuẩn hóa các thành phần cụ thể
 trong mỗi cấp độ (ví dụ: các thành phần chính cho Nền tảng dịch vụ IoT chung)
 cũng như các giao diện giữa các cấp độ khác nhau. Điều này sẽ cho phép
-các nhà cung cấp khác nhau phát triển các giải pháp chung và mô hình hỗ trợ chung. *)
+các nhà cung cấp khác nhau phát triển các giải pháp chung và mô hình hỗ trợ chung.*)
 - Module Engineering: It allows various types of IoT hardware and software systems to communicate with each other.
-(*Kỹ thuật module: Nó cho phép các loại hệ thống phần cứng và phần mềm IoT khác nhau giao tiếp với nhau. *)
+(*Kỹ thuật module: Nó cho phép các loại hệ thống phần cứng và phần mềm IoT khác nhau giao tiếp với nhau.*)
 - Interoperability between vendors by ensuring the various technology building blocks can interwork and interoperate.
-(*Khả năng tương tác giữa các nhà cung cấp bằng cách đảm bảo các khối công nghệ xây dựng khác nhau có thể làm việc và tương tác với nhau. *)
+(*Khả năng tương tác giữa các nhà cung cấp bằng cách đảm bảo các khối công nghệ xây dựng khác nhau có thể làm việc và tương tác với nhau.*)
 - Accelerate Innovation: It allows developers to focus on solving the main problem at hand without worrying about basic functions that can be implemented once across different business verticals.
-(*Thúc đẩy đổi mới: Nó cho phép các nhà phát triển tập trung vào việc giải quyết vấn đề chính trước mắt mà không phải lo lắng về các chức năng cơ bản có thể được triển khai một lần trên các lĩnh vực kinh doanh khác nhau. *)
+(*Thúc đẩy đổi mới: Nó cho phép các nhà phát triển tập trung vào việc giải quyết vấn đề chính trước mắt mà không phải lo lắng về các chức năng cơ bản có thể được triển khai một lần trên các lĩnh vực kinh doanh khác nhau.*)
 - Simplified Education: It breaks down the overall complex IoT solution into smaller more manageable components to make learning easier.
-(*Giáo dục đơn giản: Nó chia giải pháp IoT phức tạp tổng thể thành các thành phần nhỏ hơn và dễ quản lý hơn để giúp việc học dễ dàng hơn. *)
+(*Giáo dục đơn giản: Nó chia giải pháp IoT phức tạp tổng thể thành các thành phần nhỏ hơn và dễ quản lý hơn để giúp việc học dễ dàng hơn.*)
 ### 1.1.9. IoT Driving Factors
 - IoT has already become a powerful force for business transformation, and its disruptive impact is already felt across all industries and all areas of society.
 (*IoT đã trở thành một lực lượng mạnh mẽ cho sự chuyển đổi kinh doanh, và tác động đột phá của nó đã được cảm nhận trên tất cả các ngành và tất cả các lĩnh vực của xã hội.*)
@@ -220,7 +231,7 @@ các nhà cung cấp khác nhau phát triển các giải pháp chung và mô h�
 (*Có một cơn bão hoàn hảo về sự gián đoạn thị trường đang diễn ra với tốc độ chưa từng có được kích hoạt bởi công nghệ cũng như các yêu cầu kinh doanh và xã hội mới.*)
 - IoT Driving Factors:
     - OT & IT Convergence: The integration of Information Technology (IT) and Operational Technology (OT) is blurring the lines between the physical and digital worlds.
-    (*Sự hội tụ OT & IT: Sự tích hợp của Công nghệ Thông tin (IT) và Công nghệ Vận hành (OT) đang làm mờ ranh giới giữa thế giới vật lý và kỹ thuật số. *)
+    (*Sự hội tụ OT & IT: Sự tích hợp của Công nghệ Thông tin (IT) và Công nghệ Vận hành (OT) đang làm mờ ranh giới giữa thế giới vật lý và kỹ thuật số.*)
     - Internet-based businesses: A trend that has been seen for a few years is the shift from traditional brick-and-mortar businesses to internet-based businesses. The Internet has reshaped every aspect of human's life, business, and even government.
     (*Các doanh nghiệp dựa trên nền tảng Internet: Một xu hướng đã được thấy trong vài năm gần đây là sự chuyển đổi từ các doanh nghiệp truyền thống sang doanh nghiệp dựa trên nền tảng Internet. Internet đã định hình lại mọi khía cạnh của cuộc sống, kinh doanh và thậm chí cả chính phủ của con người.*)
     - Mobile Explosion: The exponential increase in the number of smartphones has driven the need for more mobile computing power, connectivity, and data analytics
@@ -426,54 +437,77 @@ This system is capable of collecting, analyzing and presenting data on a Graphic
 
 - The Smart Transportation System (STS) applies big data, cloud computing, and fog computing to traffic control. It collects real-time traffic information from traffic surveillance cameras, floating car data from GPS-equipped vehicles, and payment information from public transport to provide navigation, traffic control, and transport services. (*Hệ thống Giao thông Thông minh (STS) áp dụng big data, điện toán đám mây và điện toán sương mù để kiểm soát giao thông. Nó thu thập thông tin giao thông thời gian thực từ camera giám sát giao thông, dữ liệu xe nổi từ các xe được trang bị GPS và thông tin thanh toán từ giao thông công cộng để cung cấp dịch vụ điều hướng, kiểm soát giao thông và giao thông vận tải.*)
 
-## 1.2. Trends of applying IoT and related technologies to smart cities in Vietnam
-(*Xu thế ứng dụng IoTs và các công nghệ liên quan cho đô thị thông minh ở Việt Nam*)
-- Công nghệ IoTs/5G và kỹ thuật xử lý dữ liệu lớn (Big Data), trí tuệ nhân tạo (AI) đóng vai trò quan trọng trong việc tạo ra những đổi mới đột phá trong CNTT và truyền thông, và các lĩnh vực ứng dụng liên quan.
-- Thành phố thông minh là một trong những ứng dụng như vậy, đã thu hút được sự chú ý lớn từ các chính phủ, cộng đồng ngành học thuật và CNTT tại nhiều quốc gia. Đặc biệt, Big Data/AI và IoT/5G cung cấp các công cụ và công nghệ cho phép quan trọng để thúc đẩy sự chuyển đổi của các thành phố lớn trên toàn thế giới thành những nơi đáng sống, làm việc và tận hưởng.
-- Các công nghệ IoTs/5 mới, một khi được tích hợp đúng vào cơ sở hạ tầng thành phố thông minh (Smart Cities), có thể hỗ trợ số lượng lớn kết nối không dây từ các loại thiết bị không dây khác nhau (ví dụ: cảm biến, máy ảnh, thiết bị AR/VR, xe thông minh) thông qua môi trường mạng có tốc độ cao, truyền dữ liệu cực kỳ đáng tin cậy và độ trễ thấp.
-- Tại Việt Nam, mặc dù còn nhiều bất cập, song hiện nay, các đô thị ở Việt Nam đang phát triển theo hướng tiếp cận với nhiều mô hình tiên tiến theo xu thế hội nhập quốc tế, tạo ra nhiều tiền đề về ứng dụng và phát triển CNTT, truyền thông để phát triển đô thị thông minh và quản lý thông minh.
+## 1.2. Thống kê quy mô toàn cầu và các chương trình nghiên cứu IoT quốc tế
 
-Cụ thể, tại Việt Nam, tỷ lệ người sử dụng Internet/tổng dân số năm 2014 đã đạt 43,8% (cao hơn tỷ lệ trung bình thế giới là 42,2% và châu Á là 34,8%). Cả nước có gần 14.000 doanh nghiệp CNTT với hơn 500.000 lao động. Việt Nam cũng đạt được nhiều bước tiến lớn trong ứng dụng CNTT vào hoạt động quản lý nhà nước và đời sống xã hội: quản lý ngân sách, kho bạc, thuế, hải quan, bảo hiểm xã hội, giáo dục, y tế, giao thông, đất đai, quy hoạch và môi trường.
+Thế giới hiện có khoảng 20 tỷ thiết bị kết nối Internet và đang tăng trung bình 80 thiết bị mới mỗi giây. Tốc độ tăng này sẽ đạt 50 tỷ thiết bị vào năm 2020 [1]. Đây là một trong những thống kê của Cisco về viễn cảnh “Internet của vạn vật” (Internet of Things - IoTs) [2]. Công nghệ mạng Internet of Things (IoTs) hiện đang được phát triển để mọi thiết bị, đồ vật... đều có thể kết nối và tương tác với nhau, giúp chúng ta có thể tra cứu thông tin về thực phẩm ngay trên tủ lạnh, điều khiển ôtô từ xa mà không cần trực tiếp lái xe, hoặc 4-5 triệu xe máy ở Hà Nội, hoặc Tp.HCM được tích hợp cảm biến để nhà quản lý dễ dàng kiểm soát lưu lượng giao thông. Hình 1.1 dưới đây cung cấp các số liệu minh họa.
 
-Đồng chí Nguyễn Thiện Nhân - Nguyên Bí thư Thành ủy Thành phố Hồ Chí Minh từng nhấn mạnh: *“Từ bức tranh của các đô thị Việt Nam, có thể thấy Việt Nam cần phát triển các đô thị theo hướng đô thị thông minh”*. Đô thị thông minh nhằm hướng tới 4 mục tiêu trụ cột:
-1. **Hiệu quả kinh tế:** Dự kiến đến năm 2025, diện tích đô thị chiếm khoảng 15% diện tích cả nước, tỷ lệ đô thị hóa khoảng 50% dân số, đóng góp khoảng 75% GDP quốc gia.
-2. **Môi trường sống tốt hơn:** Nâng cao chất lượng không khí, quản lý nguồn nước, giảm thiểu ùn tắc và ô nhiễm.
-3. **Phục vụ người dân tốt hơn:** Cung cấp dịch vụ công trực tuyến nhanh chóng, minh bạch và tiện ích y tế, giáo dục số.
-4. **Người dân tham gia quản trị:** Cho phép người dân tham gia phản ánh, giám sát và quản lý đô thị cùng chính quyền.
+Hình 1.1. Số liệu minh họa số lượng thiết bị IoTs cho đến năm 2020 (Nguồn: Cisco IBSG)
 
-Để xây dựng và vận hành thành công một thành phố thông minh bền vững, chính quyền và các đối tác công nghệ cần nhất quán lựa chọn các giải pháp đạt chuẩn Internet of Things mở quốc tế. Việc triển khai các giải pháp IoT phân mảnh và phi tiêu chuẩn (*Non-Standardized*) sẽ khiến các hệ sinh thái không thể kết nối, giao tiếp được với nhau, dẫn đến nguy cơ lãng phí ngân sách và nhân lực. Đô thị thông minh hiện đại là sự hội tụ giữa công nghệ điện toán đám mây (*Cloud Computing*), điện toán cận biên (*Edge Computing*), dữ liệu lớn (*Big Data*) và trí tuệ nhân tạo (*AI*) trên nền tảng các chuẩn mở.
+Một thế giới kết nối, hay “Internet của vạn vật” (Internet of Things - IoTs), sẽ mang lại giá trị kinh tế lớn. Tuy nhiên, hiện mới chỉ có khoảng 1% thiết bị được kết nối trên toàn cầu. Báo cáo của Cisco trình bày “Internet của vạn vật” đã mang lại 613 tỷ USD lợi nhuận trong năm 2013 và những công ty tối ưu hóa được các kết nối giữa con người, quá trình, dữ liệu hoặc mọi vật sẽ sinh lời ở mức lớn nhất trong tương lai. Intel, đơn vị mới tham gia vào thị trường sản xuất chip cho các thiết bị thông minh phục vụ IoT cũng đã thu về hơn 2 tỷ USD trong năm 2014 từ lĩnh vực này, tăng trưởng 19% so với năm 2013 [3]. “Internet của vạn vật có tiềm năng thay đổi đáng kể bộ mặt nền kinh tế của chúng ta và chuyển đổi những ngành công nghiệp chủ chốt”, Rob Lloyd, chuyên gia của Cisco, nhận định. “Câu hỏi đặt ra là ai sẽ là người dẫn đầu và chiến thắng trong nền kinh tế mới này. Thành công không phụ thuộc vào vị trí địa lý hay quy mô của công ty mà phụ thuộc vào yếu tố: ai là người có thể thích ứng nhanh nhất”. Nghiên cứu mới cũng cho thấy các nhà lãnh đạo doanh nghiệp cũng tin tưởng rằng Internet của vạn vật - nơi mọi thứ tương tác với nhau - sẽ giúp thúc đẩy an toàn thông tin tốt hơn.
 
-### 1.1.17. Các tổ chức tiêu chuẩn hóa và liên minh IoT quốc tế
+Ủy ban quản lý nghiên cứu Âu châu về ICT, trong chương trình FP7 về chuyên ngành “Internet of Things and Future Internet Enterprise Systems” [4] đã thông báo sẽ tiếp tục hỗ trợ kinh phí và điều phối nghiên cứu việc phát triển các công nghệ liên quan đến Internet of Things and Future Internet Enterprise System. Ủy ban quản lý nghiên cứu Âu châu khởi đầu với thông báo hỗ trợ kinh phí cho các dự án nghiên cứu về Internet of Things trong Call 5 of FP7-ICT (2009-2010 Work Program) [5], Call 7 (2011-2012 Work Program) [6], và trong giai đoạn từ 2015-2020 là Horizon-2020/ICT-30-2015 [7]. Hướng nghiên cứu trọng điểm tập trung vào Internet của vạn vật và các nền tảng để kết nối các thiết bị thông minh (Internet of Things and Platforms for Connected Smart Objects), bao gồm quản lý các thiết bị hỗn hợp (sensor, RFID, actuator), quản lý người dùng, quản lý mạng, bảo mật hệ thống mạng. Vì vậy, vấn đề phát triển các ứng dụng thông minh IoT phục vụ đời sống sử dụng các công nghệ IoT mới đã và đang là một trong những vấn đề trọng điểm cần nghiên cứu trong các chương trình nghiên cứu ICT hiện nay của Âu châu. Tương tự, tại các nước lớn và phát triển khác trên thế giới, ví dụ như Mỹ, Nhật Bản, hay Trung Quốc, đều đã và đang triển khai các chương trình nghiên cứu quốc gia khác nhau về lĩnh vực Internet of Things [8, 9, 10, 11].
 
-Nhằm giải quyết bài toán phân mảnh và đảm bảo khả năng tương thích liên thông giữa hàng tỷ thiết bị thông minh từ các nhà sản xuất khác nhau, nhiều liên minh công nghệ và tổ chức tiêu chuẩn quốc tế đã ra đời:
+Trong việc phát triển các ứng dụng IoT và các giải pháp IoT phục vụ xây dựng ứng dụng IoT thông minh, do sự đa dạng của các chuẩn IoT hiện nay và thường xuyên có những tiêu chuẩn mới xuất hiện, chúng tôi hướng tới việc phát triển các ứng dụng và giải pháp IoT sẽ tuân thủ nghiêm ngặt các quy định, quy trình trong các tổ chức quốc tế có uy tín, để tăng sự tương thích và portability. Một số bộ tiêu chuẩn, quy tắc có thể liệt kê dưới đây:
 
-- **Open Interconnect Consortium (OIC)** [12]: Được thành lập bởi các tập đoàn công nghệ hàng đầu (Intel, Samsung, Broadcom, Dell...) nhằm xác định đặc tả kỹ thuật và tiêu chuẩn truyền thông mở, cho phép các thiết bị kết nối không dây giao tiếp liền mạch mà không phụ thuộc vào hệ điều hành hay giao thức mạng vật lý bên dưới.
-- **AllSeen Alliance** [13]: Liên minh gồm các tập đoàn công nghệ lớn như Haier, LG Electronics, Panasonic, Qualcomm, Sharp, Technicolor, Silicon Image, TP-LINK và Microsoft, phối hợp phát triển khung hạ tầng phần mềm nguồn mở AllJoyn (khởi xướng bởi Qualcomm).
-- **IEEE 802.15.4** [14]: Chuẩn truyền thông vật lý (PHY) và điều khiển truy cập môi trường (MAC) cho mạng cảm biến không dây công suất thấp (LR-WPAN).
-- **IETF CoAP (Constrained Application Protocol)** [15]: Giao thức tầng ứng dụng tối ưu theo mô hình REST cho các thiết bị tài nguyên hạn chế hoạt động trên UDP.
-- **Zigbee Alliance** [16]: Liên minh xây dựng bộ giao thức mạng lưới (mesh) công suất thấp ứng dụng trong nhà thông minh và tự động hóa tòa nhà.
-- **Bluetooth Special Interest Group (SIG) & Bluetooth Smart (BLE)** [17]: Chuẩn giao tiếp tầm ngắn năng lượng thấp cho thiết bị đeo và di động.
-- **W3C Semantic Sensor Networks (SSN)** [18]: Chuẩn hóa ngữ nghĩa dữ liệu cảm biến dựa trên mô hình bản thể học Ontology (OWL/RDF).
-- **Open Geospatial Consortium (OGC) Sensor Web Enablement (SWE)** [19] và **CityGML** [20]: Chuẩn hóa dịch vụ web cảm biến không gian địa lý và mô hình hóa dữ liệu không gian 3D cho đô thị thông minh.
-- **European Sensor Network Architecture (ESNA)** [21]: Khung kiến trúc mạng cảm biến châu Âu.
-- **IETF 6LoWPAN** [22]: Tiêu chuẩn đưa giao thức IPv6 trực tiếp xuống các mạng cảm biến không dây năng lượng thấp thông qua kỹ thuật nén tiêu đề và phân mảnh gói tin.
+## 1.3. Các tổ chức tiêu chuẩn hóa và liên minh IoT quốc tế
 
-### 1.1.18. Các thách thức kỹ thuật cốt lõi trong phát triển hệ thống IoT
+**Open InterConnect Consortium (OIC)** [12]: Hiệp hội kết nối mở OIC là một tổ chức phi lợi nhuận ở bang Oregon (Mỹ), được thành lập bởi các công ty công nghệ hàng đầu như Intel, Samsung, Dell, Atmel, Broadcom và Wind River, với mục tiêu xác định các yêu cầu kết nối và đảm bảo khả năng tương tác của hàng tỷ thiết bị tạo nên “Internet của vạn vật” (Internet of Things - IoT). Bên cạnh đó, OIC dự định cung cấp các chỉ dẫn kỹ thuật, bổ sung mã nguồn mở và chương trình chứng nhận (certification program) cho các thiết bị kết nối không dây. Hình 1.2 dưới đây trình bày lược đồ quy chuẩn kỹ thuật của OIC.
 
-Tốc độ tăng trưởng nhanh chóng của Internet of Things đặt ra nhiều thách thức kỹ thuật phức tạp cần giải quyết đồng thời:
+**AllSeen Alliance** [13]: gồm các công ty công nghệ như Haier, LG Electronics, Panasonic, Qualcomm, Sharp, Technicolor, Silicon Image và TP-LINK. Liên minh này đã có đến 51 thành viên bao gồm Microsoft cùng phối hợp với dự án nguồn mở AllJoyn của Qualcomm để triển khai khung hạ tầng nền IoT đầu tiên.
 
-1. **Phần mềm (Software):** Đóng vai trò sống còn trong toàn bộ vòng đời phát triển của thiết bị và hệ thống IoT, bao gồm thiết kế mạch tích hợp (ICs) và phát triển phần mềm nhúng. Việc làm chủ công nghệ và tăng cường tính bảo mật đòi hỏi ưu tiên lựa chọn các thiết bị được hỗ trợ bởi các nền tảng phần mềm mã nguồn mở thông dụng, được kiểm định bởi các tổ chức uy tín quốc tế.
-2. **Tăng tốc độ và mở rộng băng thông (Speed & Bandwidth):** Khi hàng triệu thiết bị cùng truyền dữ liệu, luồng video giám sát và dịch vụ phản hồi thời gian thực, áp lực về băng thông và độ trễ gia tăng mạnh mẽ trên các máy chủ, cổng định tuyến (Gateway) và bộ thu phát biên.
-3. **Tối ưu năng lượng và hiệu suất (Energy Optimization):** Thiết bị IoT thường chạy bằng pin và đặt tại nơi khó tiếp cận. Xu thế thiết kế hiện đại chuyển từ tối ưu hóa rời rạc sang phương pháp thiết kế tích hợp vi mạch - đóng gói - hệ thống (**Chip-Package-System - CPS**), cho phép tối ưu đồng thời xuyên suốt toàn bộ hệ thống, cân bằng điện áp hoạt động thấp với độ tin cậy vận hành.
-4. **Kiến trúc Cloud/Edge-based IoT:** Đòi hỏi sự kết hợp chặt chẽ giữa khả năng lưu trữ, tính toán quy mô lớn của điện toán đám mây với khả năng xử lý thời gian thực, bảo vệ quyền riêng tư của điện toán cận biên (Edge Computing).
+Ngoài ra, còn rất nhiều các chuẩn kỹ thuật, công nghệ và dự án nghiên cứu liên quan đến Internet of Things đã và đang được phát triển bởi các tổ chức quốc tế có uy tín khác, ví dụ:
+- IEEE 802.15.4 [14] cho mạng cảm biến không dây (Wireless Sensor Networks - WSNs).
+- IETF CoAP (Constrained Application Protocol) [15].
+- Zigbee Alliance [16], Bluetooth Smart [17].
+- W3C Semantic Sensor Networks [18].
+- Open Geospatial Consortium (OGC) Sensor Web Enablement (SWE) [19] và CityGML [20].
+
+- European Sensor Network Architecture (ESNA) [21]
+- IETF 6LoWPAN [22], uIP / uIPv6
+
+Hình 1.2. Lược đồ quy chuẩn kỹ thuật của OIC (Nguồn: OIC)
+
+Tốc độ tăng trưởng nhanh chóng của Internet of Things hiện nay cũng đem đến nhiều thách thức lớn. Số lượng các thiết bị được tạo ra nhiều bao nhiêu thì sự mong đợi của khách hàng cho các kết nối, hiệu suất năng lượng, tính tin cậy, dễ sử dụng và kết cấu sẽ càng tăng cao. Các thiết bị điện tử không chỉ phải được cải tiến để đem lại hiệu năng cao mà còn phải có tính hấp dẫn. Và tất nhiên, tất cả các tính năng vượt trội và hình thức bắt mắt đó phải đi cùng với giá cả hợp lý. Dưới đây là một số đặc điểm kỹ thuật cần xem xét:
+
+## 1.4. Các thách thức kỹ thuật cốt lõi trong phát triển hệ thống IoT
+
+**Phần mềm:** Trong quy trình phức tạp của việc thiết kế và đóng gói một hệ thống IoT, phần mềm thực sự đóng vai trò quan trọng qua việc hỗ trợ đầy đủ cho toàn bộ vòng đời phát triển của sản phẩm. Cụ thể, phần mềm có thể hỗ trợ một cách hoàn thiện cho chu trình thiết kế các thiết bị công nghệ cao, bao gồm mạch tích hợp (ICs) và phần mềm nhúng. Những giải pháp phần mềm góp phần giải quyết các thách thức lớn cho các nhà thiết kế công nghệ cao: cải thiện tốc độ và băng thông, tối ưu công suất và hiệu năng, tối ưu đặc tính ăng-ten, và kết hợp các vật liệu tiên tiến. Ngoài ra, để hoàn toàn làm chủ công nghệ và gia tăng tính bảo mật của hệ thống, chúng tôi hướng tới lựa chọn các thiết bị IoT được phát triển và hỗ trợ bởi các nền tảng phần mềm mã nguồn mở thông dụng, và được chứng nhận hoặc kiểm định bởi các tổ chức IoT quốc tế có uy tín.
+
+**Tăng tốc độ và mở rộng băng thông:** Do số lượng các thiết bị di động, thiết bị IoT ngày một tăng nhanh nên ngày càng nhiều dữ liệu được truyền và nhận, việc truyền tải chúng cần nhanh hơn trên cả mạng truyền thông có dây và không dây. Luồng video, tương tác chơi game và dịch vụ web tốc độ cao đang đẩy đến giới hạn không chỉ trên các thiết bị di động, thiết bị IoT, mà còn trên các máy chủ, bộ định tuyến và cổng chia.
+
+**Tối ưu năng lượng và hiệu suất:** Một vấn đề không kém phần quan trọng trong công nghiệp công nghệ cao là quản lý năng lượng một cách hiệu quả. Để giúp giải quyết vấn đề này, các thiết bị IoT được lựa chọn phục vụ nghiên cứu bảo mật IoT có hỗ trợ thiết kế cho các thiết bị điện tử thông minh, hiệu suất năng lượng cao, khả năng tiêu thụ nguồn thấp. Trước đây, các kỹ thuật phân tích các vấn đề tiêu thụ và phân phối năng lượng thông qua một cách tiếp cận kín, xem xét riêng ở chip, bản mạch và package (nhóm linh kiện). Nhưng hiện nay, các giải pháp tiết kiệm năng lượng mới thực sự hỗ trợ phương pháp thiết kế tích hợp chip-package-system (CPS), cho phép tối ưu thành phần cũng như phân tích và tối ưu đồng thời xuyên suốt toàn bộ hệ thống. Cách tiếp cận này cân bằng điện thế hoạt động thấp cần thiết để tiết kiệm năng lượng với tính nhất quán và tin cậy đáp ứng được yêu cầu để loại bỏ lỗi.
+
+**Cloud/edge-based Internet of Things:** Hỗ trợ khả năng phát triển và tích hợp các ứng dụng và giải pháp IoT vào nền tảng điện toán đám mây (cloud computing) và tính toán cận biên (edge computing). Hình 1.3 minh họa ý tưởng triển khai các ứng dụng và giải pháp IoT trên cloud, bao gồm hạ tầng kiến trúc mạng của một ứng dụng IoT thực tế dự định được triển khai.
+
+Hình 1.3. Kiến trúc mạng tổng quan của một ứng dụng cloud-based IoT (Nguồn: IBM)
+
+## 1.5. Xu thế ứng dụng IoT và các công nghệ liên quan cho đô thị thông minh ở Việt Nam
+
+Công nghệ IoT/5G và kỹ thuật xử lý dữ liệu lớn (Big Data), trí tuệ nhân tạo (AI) [32] đóng vai trò quan trọng trong việc tạo ra những đổi mới đột phá trong CNTT và truyền thông, và các lĩnh vực ứng dụng liên quan. Thành phố thông minh là một trong những ứng dụng như vậy, đã thu hút được sự chú ý lớn từ các chính phủ, cộng đồng ngành học thuật và CNTT tại nhiều quốc gia. Đặc biệt, Big Data/AI và IoT/5G cung cấp các công cụ và công nghệ cho phép quan trọng để thúc đẩy sự chuyển đổi của các thành phố lớn trên toàn thế giới thành những nơi đáng sống, làm việc và tận hưởng. Các công nghệ IoT/5G mới, một khi được tích hợp đúng vào cơ sở hạ tầng thành phố thông minh (Smart Cities), có thể hỗ trợ số lượng lớn kết nối không dây từ các loại thiết bị không dây khác nhau (ví dụ: cảm biến, máy ảnh, thiết bị VR/AR, xe thông minh) thông qua môi trường mạng tốc độ cao, truyền dữ liệu cực kỳ đáng tin cậy và độ trễ thấp. Ngoài ra, các công nghệ IoTs/5G cho phép truyền thông, lưu trữ và xử lý dữ liệu hiệu quả, rất cần thiết để xử lý và phân tích lượng dữ liệu khổng lồ của thành phố thông minh và chuyển dữ liệu thu thập được thành các quy trình giám sát, ra quyết định và ứng dụng kịp thời cũng như cung cấp các dịch vụ kỹ thuật số đa phương tiện phong phú đến thiết bị di động cho người dân thành thị.
+
+Hình 1.4 dưới đây minh họa ứng dụng IoTs/5G trong đô thị thông minh.
+
+Hình 1.4. Các ứng dụng điển hình IoTs/5G trong đô thị thông minh
+
+Trong các đô thị thông minh, mạng cảm biến không dây thường được triển khai ở các khu vực khó tiếp cận về mặt địa lý, hoặc ở xa. Mặc dù dữ liệu cảm biến thường được phân tích thống kê trong các ứng dụng giám sát, các truy vấn trực tiếp để yêu cầu dữ liệu cảm biến ngay lập tức và để điều chỉnh hành vi của các thiết bị cảm biến trong thời gian thực, thường được yêu cầu trong môi trường thay đổi động, tồn tại các yếu tố, sự kiện tác động không lường trước. Các công cụ quản trị mạng cảm biến, mạng IoTs/5G, cùng với các tiêu chuẩn để xử lý và quản lý dữ liệu cảm biến, dữ liệu IoTs/5G có thể hỗ trợ xây dựng các ứng dụng và giải pháp trên hạ tầng IoTs/5G mạnh hơn. Ngoài ra, các công nghệ mới để phát triển và tích hợp các thiết bị nhỏ sẽ cho phép đa dạng hóa các loại cảm biến, thiết bị IoTs/5G được triển khai. Số lượng thiết bị, ứng dụng và dự án IoTs/5G ngày càng tăng, khối lượng dữ liệu lớn được thu thập bởi các cảm biến, thiết bị IoTs/5G ngày càng lớn, đòi hỏi các nỗ lực nghiên cứu thích hợp để xử lý và phân tích dữ liệu, sử dụng hiệu quả tài nguyên, khả năng mở rộng, khả dụng và độ tin cậy của hệ thống. Tương tự, giám sát môi trường cần phải liên tục, tích hợp và không mất dữ liệu, đòi hỏi phải có đặc điểm kỹ thuật và triển khai cơ sở hạ tầng đáng tin cậy cho IoTs/5G.
+
+Trong các ứng dụng IoTs không đồng nhất quy mô lớn, các cảm biến nhỏ và giá rẻ, và các thiết bị IoTs/5G có thể được triển khai độc lập hoặc kết hợp với các thiết bị tùy chỉnh nhiều tài nguyên hơn và đắt tiền hơn. Do đó, để giải quyết vấn đề này, hướng tiếp cận là tích hợp các thiết bị IoTs/5G không đồng nhất bằng cách phát triển một nền tảng phần mềm (middlewares) mở và đa quy mô trên cơ sở hạ tầng điện toán đám mây để triển khai các dịch vụ quản lý tích hợp nhiều loại thiết bị IoTs/5G. Một nền tảng dịch vụ như vậy sẽ bao gồm các danh mục dịch vụ khác nhau có thể được triển khai trong hệ thống mạng thử nghiệm IoTs/5G hoặc các ứng dụng thực tế để đạt được các mục tiêu như phát hiện sự kiện, vị trí đối tượng, theo dõi hoặc giám sát. Các dịch vụ và hạ tầng mạng thử nghiệm này nên xem xét các đặc điểm cụ thể của công nghệ IoTs/5G và tài nguyên vật lý bị hạn chế của các cảm biến, thiết bị IoTs/5G, bao gồm tuổi thọ pin, sức mạnh tính toán, bộ nhớ, băng thông mạng và chất lượng đường truyền.
+
+Tại Việt Nam, mặc dù còn nhiều bất cập, song hiện nay, các đô thị Việt Nam đang phát triển theo hướng tiếp cận với nhiều mô hình tiên tiến theo xu thế hội nhập quốc tế, tạo ra nhiều tiền đề về ứng dụng và phát triển CNTT, truyền thông để phát triển đô thị thông minh và quản lý thông minh. Cụ thể, tỷ lệ người sử dụng internet/tổng dân số năm 2014 đạt 43,8%, cao hơn tỷ lệ của thế giới là 42,2% và châu Á là 34,8%. Việt Nam có gần 14.000 doanh nghiệp CNTT với 500.000 lao động và doanh thu lớn. Việt Nam cũng đã đạt được nhiều thành tựu trong việc ứng dụng CNTT vào hoạt động quản lý nhà nước và các lĩnh vực đời sống xã hội, rõ nhất là ở các lĩnh vực quản lý ngân sách và kho bạc, quản lý thuế, hải quan, bảo hiểm xã hội, giáo dục, y tế, quản lý giao thông, quản lý đất đai, quy hoạch, xây dựng, môi trường...
+
+“Từ bức tranh của các đô thị Việt Nam, có thể thấy Việt Nam cần phát triển các đô thị theo hướng đô thị thông minh”, đồng chí Nguyễn Thiện Nhân - Nguyên Bí thư Thành ủy Thành phố Hồ Chí Minh nêu. Đô thị thông minh nhằm đạt tới 4 mục tiêu: hiệu quả kinh tế ở các đô thị ngày càng cao (đến năm 2025: diện tích đô thị khoảng 15% diện tích cả nước, tỷ lệ đô thị hóa khoảng 50% dân số, tạo ra khoảng 75% GDP); môi trường sống ngày càng tốt hơn; người dân được phục vụ tốt hơn; người dân tham gia quản lý đô thị và giám sát chính quyền.
+
+Để có thể xây dựng và vận hành có hiệu quả một thành phố thông minh theo đúng nghĩa của nó thì ngay từ đầu chính quyền thành phố và các đối tác công nghệ cần phát triển và lựa chọn các giải pháp đạt chuẩn Internet of Things - IoTs. Bởi lẽ, trong trường hợp ngược lại, tức là chính quyền thành phố áp dụng triển khai giải pháp IoTs phân mảnh và phi tiêu chuẩn (Non-Standardized) thì việc vận hành cũng như mức độ kết nối giữa các thành phần trong hệ thống thành phố thông minh sẽ không mang lại kết quả như mong muốn ban đầu. Trong trường hợp này, việc phải đối mặt với các rủi ro tài chính và lãng phí nhân lực là điều khó tránh khỏi. Ngoài ra, thành phố thông minh là thành phố dùng công nghệ điện toán đám mây (Cloud computing) và CNTT thế hệ mới để quy hoạch đô thị, sử dụng các công cụ của CNTT và truyền thông để thu nhận, phân tích và tích hợp thông tin để vận hành thành phố, hỗ trợ cuộc sống của người dân, bảo vệ môi trường, giữ an toàn cộng đồng, phát triển các dịch vụ đô thị và đáp ứng các nhu cầu khác một cách thông minh, giúp cho nền kinh tế đô thị tăng trưởng, duy trì tiến bộ xã hội và phát triển bền vững.
+
+Theo đánh giá của chúng tôi, xây dựng đô thị thông minh gắn liền với việc sử dụng công nghệ Internet of Things - IoTs và điện toán đám mây (cloud computing) hiện đại. Trong khi công nghệ IoTs với rất nhiều chuẩn giao tiếp hỗ trợ đa dạng, đa số các thiết bị đầu cuối hiện nay phục vụ thu thập dữ liệu, giám sát, công nghệ điện toán đám mây (cloud computing) và tính toán cận biên (edge computing) là các nền tảng hoàn hảo phục vụ tính toán, tích hợp dịch vụ và mạng Internet, và công nghệ trí tuệ nhân tạo (Artificial Intelligence - AI) cùng kỹ thuật xử lý dữ liệu lớn (Big Data) mang lại tính thông minh và tiện nghi hơn cho ứng dụng. Ngoài ra, nhằm làm chủ công nghệ, các nền tảng mã nguồn mở nên được ưu tiên lựa chọn triển khai.
 
 ## Bài tập Chương 1
 
-1. Hãy liệt kê những thiết bị có thể kết nối vào Internet trong thực tế đời sống.
-2. Hãy phân tích những đặc điểm kỹ thuật cơ bản của thiết bị phần cứng được sử dụng trong hệ thống IoT.
-3. Hãy trình bày những xu thế phát triển chính của IoT trên thế giới và triển vọng tại Việt Nam.
-4. Hãy nêu các lợi ích then chốt mà công nghệ IoT mang lại cho các ngành kinh tế - xã hội.
-5. Hãy phân tích những thách thức lớn nhất mà IoT đang phải đối mặt hiện nay (bảo mật, năng lượng, tiêu chuẩn hóa).
+1. Hãy liệt kê những thiết bị có thể kết nối vào Internet.
+2. Hãy liệt kê những đặc điểm kỹ thuật của thiết bị được sử dụng trong IoT.
+3. Hãy liệt kê những xu thế của IoT trên thế giới và ở Việt Nam.
+4. Hãy liệt kê những ưu điểm mà IoT có thể mang lại cho cuộc sống.
+5. Hãy liệt kê những thách thức mà IoT đang gặp phải.
 
 # Chương 2: Các lĩnh vực ứng dụng IoT
 
@@ -553,7 +587,7 @@ Hạ tầng IoT cho một smart city là kiến trúc 4 lớp được mô tả 
 
 Hình 2.8. Kiến trúc tổng quát của Smart City (Nguồn: Cisco Press)
 
-người hoặc ứng dụng. Thiết bị cảm biến (sensor) và actuator sẽ được trình bày chi tiết trong Chương 4 của giáo trình này.
+- **Street Layer:** Bao gồm các thiết bị và cảm biến thu thập dữ liệu và thực hiện các hành động dựa vào điều khiển của con người hoặc ứng dụng. Thiết bị cảm biến (sensor) và actuator sẽ được trình bày chi tiết trong Chương 4 của giáo trình này.
 
 Tùy vào mục đích của ứng dụng mà các loại cảm biến khác nhau có thể sử dụng. Sau đây là một số loại cảm biến được sử dụng trong những ứng dụng cụ thể:
 
@@ -592,9 +626,7 @@ Hình 2.11. Kiến trúc của một hệ thống Dự báo chất lượng khô
 
 Nhiều thành phố lớn trên thế giới đã triển khai thành công các dự án thành phố thông minh với quy mô lớn. Dưới đây là một số ví dụ tiêu biểu:
 
-**Thành phố Amsterdam (Hà Lan):** Dự án Amsterdam Smart City (ASC) được khởi xướng từ năm 2009, tập trung vào các lĩnh vực như Smart Mobility, Smart Living, Smart Society, Smart Economy và Smart Areas.
-
-trong chiến lược Thành phố thông minh của Amsterdam. Trong đó, hệ thống chiếu sáng thông minh Smart Lighting cho phép điều chỉnh độ sáng đèn đường tùy theo lưu lượng người qua lại và điều kiện thời tiết, giúp tiết kiệm đến 50% điện năng tiêu thụ.
+**Thành phố Amsterdam (Hà Lan):** Dự án Amsterdam Smart City (ASC) được khởi xướng từ năm 2009, tập trung vào các lĩnh vực như Smart Mobility, Smart Living, Smart Society, Smart Economy và Smart Areas trong chiến lược Thành phố thông minh của Amsterdam. Trong đó, hệ thống chiếu sáng thông minh Smart Lighting cho phép điều chỉnh độ sáng đèn đường tùy theo lưu lượng người qua lại và điều kiện thời tiết, giúp tiết kiệm đến 50% điện năng tiêu thụ.
 
 Các dự án năng lượng tái tạo và lưới điện thông minh (Smart Grid) tại khu vực Nieuw-West cho phép các hộ gia đình tự sản xuất điện từ pin mặt trời và bán lại lượng điện dư thừa vào lưới điện thành phố.
 
@@ -631,12 +663,7 @@ Hình 2.15. Chiến lược thành phố thông minh của Copenhagen [8]
 
 ## 2.3. Nông nghiệp thông minh (Smart Agriculture)
 
-Nông nghiệp hiện đại (Precision Agriculture) là một hướng đi mới bằng cách sử dụng Công nghệ thông tin, Hệ thống thông tin địa lý (Geographic Information System - GIS), GPS, WSN,... nhằm tăng năng suất cây trồng và giảm thiểu tác động môi trường. Theo đó, IoT và các công nghệ liên quan như WSN,
-
----
-[8] https://www.niras.dk/media/1585/kimspiegelbergsteltzer.pdf  
-
-Cloud Computing, Big Data, Data Analytic, AI... là một giải pháp hoàn chỉnh cho Nông nghiệp hiện đại. Ngoài ra, nông nghiệp hiện đại đang tìm cách thay đổi nông nghiệp truyền thống thành chất lượng cao, năng suất cao, tiết kiệm chi phí và tài nguyên.
+Nông nghiệp hiện đại (Precision Agriculture) là một hướng đi mới bằng cách sử dụng Công nghệ thông tin, Hệ thống thông tin địa lý (Geographic Information System - GIS), GPS, WSN,... nhằm tăng năng suất cây trồng và giảm thiểu tác động môi trường. Theo đó, IoT và các công nghệ liên quan như WSN, Cloud Computing, Big Data, Data Analytic, AI... là một giải pháp hoàn chỉnh cho Nông nghiệp hiện đại [8]. Ngoài ra, nông nghiệp hiện đại đang tìm cách thay đổi nông nghiệp truyền thống thành chất lượng cao, năng suất cao, tiết kiệm chi phí và tài nguyên.
 
 Hình 2.16 mô tả kiến trúc của một hệ thống nông nghiệp thông minh.
 
@@ -644,9 +671,7 @@ Cũng giống như các ứng dụng thông minh khác, một giải pháp Nông
 
 Hình 2.16. Kiến trúc của một ứng dụng nông nghiệp thông minh
 
-Hình 2.16 mô tả kiến trúc của một ứng dụng Nông nghiệp thông minh. Lớp đầu tiên của kiến trúc này là Lớp thiết bị. Các đối tượng trong lớp này bao gồm máy móc trong nông nghiệp, vật nuôi, cây trồng.... được gắn các thiết bị cảm biến để thu thập dữ liệu từ môi trường thực tế. Sau đó, dữ liệu này được truyền
-
-đến Gateway thông qua nhiều bộ giao thức khác nhau như Zigbee, Bluetooth, LoRa, WLAN,... Các bộ giao thức này sẽ được trình bày trong Chương 3 của giáo trình này. Dữ liệu từ Gateway được chuyển tiếp đến Cloud thông qua các bộ giao thức như TCP/IP, Cellular. Tại đây, dữ liệu cảm biến được lưu trữ, phân tích và đưa ra các dự đoán và chuyển tiếp đến Web App trên thiết bị của người dùng. Lớp cuối cùng trong ứng dụng Nông nghiệp thông minh là Lớp người dùng. Tại đây, người dùng có thể xem được các thông số của môi trường, vật nuôi từ dữ liệu thô (raw data) hoặc dữ liệu sau khi được phân tích, dự đoán. Các loại dữ liệu này còn được gọi là ngữ cảnh - được trình bày trong Chương 6 của giáo trình. Ngoài ra, người dùng có thể đưa ra tín hiệu điều khiển ngược lại đến các thiết bị tại Lớp thiết bị để điều khiển các công cụ trong lớp này.
+Hình 2.16 mô tả kiến trúc của một ứng dụng Nông nghiệp thông minh. Lớp đầu tiên của kiến trúc này là Lớp thiết bị. Các đối tượng trong lớp này bao gồm máy móc trong nông nghiệp, vật nuôi, cây trồng.... được gắn các thiết bị cảm biến để thu thập dữ liệu từ môi trường thực tế. Sau đó, dữ liệu này được truyền đến Gateway thông qua nhiều bộ giao thức khác nhau như Zigbee, Bluetooth, LoRa, WLAN,... Các bộ giao thức này sẽ được trình bày trong Chương 3 của giáo trình này. Dữ liệu từ Gateway được chuyển tiếp đến Cloud thông qua các bộ giao thức như TCP/IP, Cellular. Tại đây, dữ liệu cảm biến được lưu trữ, phân tích và đưa ra các dự đoán và chuyển tiếp đến Web App trên thiết bị của người dùng. Lớp cuối cùng trong ứng dụng Nông nghiệp thông minh là Lớp người dùng. Tại đây, người dùng có thể xem được các thông số của môi trường, vật nuôi từ dữ liệu thô (raw data) hoặc dữ liệu sau khi được phân tích, dự đoán. Các loại dữ liệu này còn được gọi là ngữ cảnh - được trình bày trong Chương 6 của giáo trình. Ngoài ra, người dùng có thể đưa ra tín hiệu điều khiển ngược lại đến các thiết bị tại Lớp thiết bị để điều khiển các công cụ trong lớp này.
 
 ## Bài tập Chương 2
 
@@ -659,6 +684,12 @@ Hình 2.16 mô tả kiến trúc của một ứng dụng Nông nghiệp thông 
 7. Hãy trình bày ý tưởng và xây dựng kiến trúc IoT trong giám sát chất lượng không khí tại Thành phố Hồ Chí Minh.
 
 # Chương 3: Các kiến trúc mạng và bộ giao thức mạng IoT
+
+Các hệ thống Internet của vạn vật thường bao gồm rất nhiều thiết bị kết nối với nhau để trao đổi dữ liệu thu thập cũng như các tín hiệu điều khiển trong mạng. Nhiều kiến trúc mạng cũng như các bộ giao thức mạng đặc biệt dùng trong IoT đã được nghiên cứu và phát triển để tạo nên một cơ chế truyền gửi dữ liệu một cách hiệu quả giữa các nốt trong mạng IoT.
+
+Nội dung chương này trình bày những kiến thức cơ bản về một số kiến trúc mạng thường sử dụng trong IoT cũng như giới thiệu một số chuẩn kết nối mạng được dùng nhiều trong các hệ thống IoT. Các kiến trúc mạng được trình bày theo thứ tự từ những kiến trúc mạng truyền thống được sử dụng thường xuyên trong các hệ thống mạng máy tính thông thường như kiến trúc cây (tree), kiến trúc mắt lưới (mesh), kiến trúc vòng (ring), kiến trúc chuỗi (chain) và kiến trúc lưới (grid). Tiếp theo đó, một số kiến trúc mạng hiện đại cũng được đề cập như kiến trúc phụ lưu - đồng bằng (Tributary - Delta), kiến trúc dựa theo cụm (cluster-based), kiến trúc làn sóng (sweep). Phần còn lại của chương này trình bày một số đặc điểm kỹ thuật của các bộ giao thức mạng thường dùng trong IoT, bao gồm: 6LoWPAN, giao thức WiFi, Zigbee. Đây là các bộ giao thức được dùng phổ biến để hiện thực cơ chế truyền thông giữa các thiết bị trong mạng IoT.
+
+Thông qua nội dung chương này, người đọc có cái nhìn tổng quan về cơ chế truyền gửi dữ liệu giữa các nốt IoT trong mạng cùng các tiêu chuẩn kỹ thuật, những đặc trưng cơ bản của các chồng giao thức mạng không dây được trình bày. Nắm vững những đặc điểm cơ bản này, người đọc có thể thực hiện các nghiên cứu, phân tích, đánh giá, chọn lựa các kiến trúc mạng, các bộ giao thức IoT phù hợp khi triển khai các giải pháp IoT trong thực tế.
 
 ## Nội dung chương
 
@@ -790,11 +821,11 @@ removed TCP/IP’s Application Layer to prevent overlap with the IoT Application
     (*Địa chỉ IP là các số duy nhất toàn cầu được gán bởi Trung tâm Thông tin Mạng. Địa chỉ duy nhất toàn cầu cho phép các mạng IP ở bất kỳ đâu trên thế giới giao tiếp với nhau. Hầu hết các mạng hiện nay sử dụng IP phiên bản 4 (IPv4). Các mạng tiên tiến sử dụng IP phiên bản 6 (IPv6).*)   
 - IP Version 4 (IPv4)
     - IPv4 addresses are normally expressed in dotted-decimal format, with four numbers separated by periods, such as 192.168.10.10. It consists of 4-octets (32-bit) number that uniquely identifies a specific TCP/IP (or IoT) network and a host (computer, printer, router, IP-enabled sensor, any device requiring a network interface card) within the identified network. IPv4 address consists of two main parts: the network address part and the host address part.    
-    (*Địa chỉ IPv4 thường được biểu thị dưới dạng thập phân chấm, với bốn số được ngăn cách bởi dấu chấm, ví dụ: 192.168.10.10. Nó bao gồm số 4-octets (32-bit) xác định duy nhất một mạng TCP/IP (hoặc IoT) cụ thể và một máy chủ (máy tính, máy in, bộ định tuyến, cảm biến hỗ trợ IP, bất kỳ thiết bị nào yêu cầu thẻ giao diện mạng) trong mạng đã xác định. Địa chỉ IPv4 bao gồm hai phần chính: phần địa chỉ mạng và phần địa chỉ máy chủ. *)
+    (*Địa chỉ IPv4 thường được biểu thị dưới dạng thập phân chấm, với bốn số được ngăn cách bởi dấu chấm, ví dụ: 192.168.10.10. Nó bao gồm số 4-octets (32-bit) xác định duy nhất một mạng TCP/IP (hoặc IoT) cụ thể và một máy chủ (máy tính, máy in, bộ định tuyến, cảm biến hỗ trợ IP, bất kỳ thiết bị nào yêu cầu thẻ giao diện mạng) trong mạng đã xác định. Địa chỉ IPv4 bao gồm hai phần chính: phần địa chỉ mạng và phần địa chỉ máy chủ.*)
     - For example, the dotted-decimal IP address 192.168.10.8 is (in binary notation) the 32-bit number 11000000.10101000.00001010.00001000. The decimal numbers separated by periods are the octets converted from binary to decimal notation.    
     (*Ví dụ, địa chỉ IP thập phân chấm 192.168.10.8 là số 32-bit (dưới dạng ký hiệu nhị phân) 11000000.10101000.00001010.00001000. Các số thập phân được ngăn cách bởi dấu chấm là các octet được chuyển đổi từ ký hiệu nhị phân sang ký hiệu thập phân.*)
     - The first part of an IP address is used as a network address and the last part as a host address. If you take the example 192.168.10.8 and divide it into these two parts, you get the following: 192.168.10.0 network address and .8 host address or 192.168.10.0 network address and 0.0.0.8 host address.
-    (*Phần đầu tiên của địa chỉ IP được sử dụng làm địa chỉ mạng và phần cuối cùng làm địa chỉ máy chủ. Nếu bạn lấy ví dụ 192.168.10.8 và chia nó thành hai phần này, bạn sẽ nhận được như sau: địa chỉ mạng 192.168.10.0 và địa chỉ máy chủ .8 hoặc địa chỉ mạng 192.168.10.0 và địa chỉ máy chủ 0.0.0.8. *)
+    (*Phần đầu tiên của địa chỉ IP được sử dụng làm địa chỉ mạng và phần cuối cùng làm địa chỉ máy chủ. Nếu bạn lấy ví dụ 192.168.10.8 và chia nó thành hai phần này, bạn sẽ nhận được như sau: địa chỉ mạng 192.168.10.0 và địa chỉ máy chủ .8 hoặc địa chỉ mạng 192.168.10.0 và địa chỉ máy chủ 0.0.0.8.*)
     - In TCP/IP, the parts of the IP address that are used as the network and host addresses are not fixed, so the network and host addresses above cannot be determined unless you have more information. This information is supplied in another 32-bit number called a subnet mask. In the above example, the subnet mask is 255.255.255.0. It is not obvious what this number means unless you know that 255 in binary notation equals 11111111; so, the subnet mask is 11111111.11111111.11111111.00000000.     
     (*Trong TCP/IP, các phần của địa chỉ IP được sử dụng làm địa chỉ mạng và địa chỉ máy chủ không cố định, vì vậy không thể xác định địa chỉ mạng và địa chỉ máy chủ ở trên trừ khi bạn có thêm thông tin. Thông tin này được cung cấp trong một số 32-bit khác gọi là subnet mask. Trong ví dụ trên, subnet mask là 255.255.255.0. Không thể biết con số này có ý nghĩa gì trừ khi bạn biết rằng 255 trong ký hiệu nhị phân bằng 11111111; vì vậy, subnet mask là 11111111.11111111.11111111.00000000.*)
     - Lining up the IP address and the subnet mask together, the network and host portions of the address can be separated: 
@@ -841,7 +872,7 @@ removed TCP/IP’s Application Layer to prevent overlap with the IoT Application
     (*Topo vòng hoạt động dựa trên nguyên tắc kết nối điểm-điểm. Tại đây, mỗi máy chủ được cấu hình để có một kết nối điểm-điểm dành riêng với hai máy chủ lân cận ở hai bên thông qua các bộ lặp tại mỗi máy chủ. Sự lặp lại của hệ thống này tạo thành một vòng tròn. Các bộ lặp tại mỗi máy chủ thu nhận tín hiệu đến được dự định cho các máy chủ khác, tái tạo lại dòng bit và truyền nó cho bộ lặp tiếp theo. Việc xác định lỗi và thiết lập topo vòng khá đơn giản và thẳng thắn. Tuy nhiên, nhược điểm chính của hệ thống này là xác suất lỗi điểm duy nhất cao. Nếu ngay cả một bộ lặp bị lỗi, toàn bộ mạng sẽ ngừng hoạt động.*)
 - Physical topology (*Topo vật lý*): 
     Network topology comparison (*So sánh topo mạng*)
-    Topology (*Topo* ) | Feature (*Đặc điểm*) | Advantage (*Ưu điểm*) | Disadvantage (*Nhược điểm*) |
+    Topology (*Topo*) | Feature (*Đặc điểm*) | Advantage (*Ưu điểm*) | Disadvantage (*Nhược điểm*) |
     |---|---|---|---|
     | Star (*Hình sao*) | Point-to-point (*Điểm-điểm*) | Cheap (*Rẻ*) ; ease of installation (*dễ lắp đặt*) ; ease of fault identification (*dễ xác định lỗi*) | Single point of failure (*điểm lỗi duy nhất*) ; traffic visible to network entities (*lưu lượng nhìn thấy được bởi các thực thể mạng*) |
     | Mesh (*Hình lưới*) | Point-to-point (*Điểm-điểm*) | Resilient against single point of failures (*khả năng phục hồi với lỗi điểm duy nhất*) ; scalable (*có thể mở rộng*) ; traffic privacy and security ensured (*đảm bảo quyền riêng tư và bảo mật lưu lượng*) | Costly (*tốn kém*) ; complex connections (*kết nối phức tạp*) |
@@ -867,9 +898,7 @@ Trong mô hình mạng Mesh, gói tin từ một nút có thể có nhiều đư
 
 **Kiến trúc cây (tree)**
 
-Mạng sử dụng một hub trung tâm được gọi là một nút gốc, xem như là một bộ định tuyến thông tin liên lạc chính. Hình 3.3 mô tả một hệ thống phân cấp, cấp dưới nút gốc là các hub trung tâm, mức thấp này tạo thành một mạng sao. Các mạng dạng cây có thể được coi là sự lai tạo của mạng hình sao và mạng Peer to Peer. Trong đường dẫn mạng cảm biến có thể là single hop hoặc multi hop, các nút cảm biến nhận dữ liệu của môi trường rồi gửi chúng đến bộ phận thu nhận (Sink), sau đó chuyển tiếp chúng đến các nút cha mẹ. Điều quan trọng là để tìm đường đi ngắn nhất sao cho tối ưu với thời gian sống tối đa và độ trễ ngắn hơn mặc dù độ phức tạp thời gian hơi cao nhưng phù hợp hơn cho việc thực hiện phân phối. Mạng dạng cây có vấn đề trong
-
-chương trình cân bằng tải tại mỗi mức của cây và có thông tin liên lạc giữa hai nút. Nếu có một liên kết có vấn đề trong truyền dẫn trên tuyến đường hoạt động thì việc truyền thông cũng bị phá vỡ.
+Mạng sử dụng một hub trung tâm được gọi là một nút gốc, xem như là một bộ định tuyến thông tin liên lạc chính. Hình 3.3 mô tả một hệ thống phân cấp, cấp dưới nút gốc là các hub trung tâm, mức thấp này tạo thành một mạng sao. Các mạng dạng cây có thể được coi là sự lai tạo của mạng hình sao và mạng Peer to Peer. Trong đường dẫn mạng cảm biến có thể là single hop hoặc multi hop, các nút cảm biến nhận dữ liệu của môi trường rồi gửi chúng đến bộ phận thu nhận (Sink), sau đó chuyển tiếp chúng đến các nút cha mẹ. Điều quan trọng là để tìm đường đi ngắn nhất sao cho tối ưu với thời gian sống tối đa và độ trễ ngắn hơn mặc dù độ phức tạp thời gian hơi cao nhưng phù hợp hơn cho việc thực hiện phân phối. Mạng dạng cây có vấn đề trong chương trình cân bằng tải tại mỗi mức của cây và có thông tin liên lạc giữa hai nút. Nếu có một liên kết có vấn đề trong truyền dẫn trên tuyến đường hoạt động thì việc truyền thông cũng bị phá vỡ.
 
 **Hình 3.3.** Kiến trúc Tree
 
@@ -881,9 +910,7 @@ Hình 3.4 mô tả một mô hình mạng có kiến trúc vòng, mỗi nút có
 
 **Kiến trúc chuỗi (chain)**
 
-Trong một mạng dạng chain, các nút kết nối với nhau thành dạng chuỗi như Hình 3.5 bên dưới. Ngoài nút đầu và nút cuối,
-
-mỗi nút trong mạng chain có đúng hai người hàng xóm cho mục đích truyền thông. Nếu một nút trong chuỗi gặp vấn đề thì có thể ảnh hưởng đến việc gửi nhận thông tin của cả mạng.
+Trong một mạng dạng chain, các nút kết nối với nhau thành dạng chuỗi như Hình 3.5 bên dưới. Ngoài nút đầu và nút cuối, mỗi nút trong mạng chain có đúng hai người hàng xóm cho mục đích truyền thông. Nếu một nút trong chuỗi gặp vấn đề thì có thể ảnh hưởng đến việc gửi nhận thông tin của cả mạng.
 
 **Hình 3.5.** Kiến trúc chuỗi
 
@@ -895,9 +922,7 @@ Mạng hình sao được kết nối với một hub đóng vai trò là bộ p
 
 **Kiến trúc lưới (Grid)**
 
-Các trường cảm biến mạng được chia thành các đường kẻ ô. Các vùng mạng được chia thành lưới ô vuông không chồng lên nhau với cùng một kích thước. Hình 3.7 mô tả một ứng dụng dựa trên kiến trúc lưới. Nên có ít nhất một và chỉ một nút trong trạng thái làm việc trong mỗi lưới tại bất cứ khoảng thời gian nào. Để kéo dài thời gian sống mạng, các nút trong một mạng lưới nên hoạt động lần lượt. Bên trong mỗi lưới, một nút được chọn như là lưới đầu tiên có trách nhiệm chuyển tiếp thông tin
-
-định tuyến và truyền gói dữ liệu. Định tuyến được thực hiện trong lần lượt từ lưới này đến các lưới khác. Mô hình dựa vào giao thức định tuyến đa đường dựa vào các lưới mạng để định tuyến các gói tin một cách nhanh nhất, tận dụng và mở rộng các nút cảm biến năng lượng ngoài để tránh và xử lý tắc nghẽn mạng khi chúng xảy ra trong mạng.
+Các trường cảm biến mạng được chia thành các đường kẻ ô. Các vùng mạng được chia thành lưới ô vuông không chồng lên nhau với cùng một kích thước. Hình 3.7 mô tả một ứng dụng dựa trên kiến trúc lưới. Nên có ít nhất một và chỉ một nút trong trạng thái làm việc trong mỗi lưới tại bất cứ khoảng thời gian nào. Để kéo dài thời gian sống mạng, các nút trong một mạng lưới nên hoạt động lần lượt. Bên trong mỗi lưới, một nút được chọn như là lưới đầu tiên có trách nhiệm chuyển tiếp thông tin định tuyến và truyền gói dữ liệu. Định tuyến được thực hiện trong lần lượt từ lưới này đến các lưới khác. Mô hình dựa vào giao thức định tuyến đa đường dựa vào các lưới mạng để định tuyến các gói tin một cách nhanh nhất, tận dụng và mở rộng các nút cảm biến năng lượng ngoài để tránh và xử lý tắc nghẽn mạng khi chúng xảy ra trong mạng.
 
 **Hình 3.7.** Kiến trúc lưới
 
@@ -1059,9 +1084,7 @@ Khi một nút được thêm vào ngay cả khi Coordinator bị ngắt điện
 Trong Hình 3.16, lớp vật lý (PHY) và lớp MAC tuân theo chuẩn IEEE 802.15.4, các lớp phía trên bao gồm Tầng mạng (Network Layer - NWK), Tầng hỗ trợ ứng dụng (Application Support Sublayer - APS), và Đối tượng thiết bị Zigbee (Zigbee Device Objects - ZDO) cùng Khung ứng dụng (Application Framework) được định nghĩa bởi Liên minh Zigbee (Zigbee Alliance).
 
 **Lớp vật lý (PHY)**
-Theo chuẩn IEEE 802.15.4, đường truyền không dây có thể hoạt động ở 3 tần số không chính thức sau: 868MHz, 902-
-
-928MHz và 2.4GHz. Dựa trên các dải tần đó, tiêu chuẩn IEEE 802.15.4 định nghĩa 3 dạng lớp vật lý sau:
+Theo chuẩn IEEE 802.15.4, đường truyền không dây có thể hoạt động ở 3 tần số không chính thức sau: 868MHz, 902–928MHz và 2.4GHz. Dựa trên các dải tần đó, tiêu chuẩn IEEE 802.15.4 định nghĩa 3 dạng lớp vật lý sau:
 - Trải phổ chuỗi trực tiếp dùng BPSK hoạt động ở dải tần số 868MHz, tốc độ dữ liệu xấp xỉ 20kbps.
 - Trải phổ chuỗi trực tiếp dùng BPSK hoạt động ở dải tần số 915MHz, tốc độ dữ liệu xấp xỉ 40kbps.
 - Trải phổ chuỗi trực tiếp dùng O-QPSK hoạt động ở dải tần số 2.4GHz, tốc độ dữ liệu xấp xỉ 250kbps.
@@ -1300,7 +1323,7 @@ Bộ giao thức mạng WiFi là một chuẩn giao thức được sử dụng 
 - Why Sensors?
     - As we mentioned above, a sensor’s main purpose is collecting data from its surrounding
     enviroment and providing output to its adjoining devices (e.g., gateways, actuators) or
-    applications. (*Mục đích chính của cảm biến là thu thập dữ liệu từ môi trường xung quanh và cung cấp đầu ra cho các thiết bị liền kề (ví dụ: cổng, bộ truyền động) hoặc ứng dụng.*
+    applications. (*Mục đích chính của cảm biến là thu thập dữ liệu từ môi trường xung quanh và cung cấp đầu ra cho các thiết bị liền kề (ví dụ: cổng, bộ truyền động) hoặc ứng dụng.*)
     - Sensors typically collect data using physical interfaces (inputs) that sense the environment
     and then convert input signals into electrical signals (outputs) that are understood by the
     communication and computing devices. Output signals are then processed by the gateways
@@ -1343,7 +1366,7 @@ Bộ giao thức mạng WiFi là một chuẩn giao thức được sử dụng 
 - Another way of capturing information from “Things” is through the use of RFID (radio-frequency identification). RFID is not a sensor but a mechanism to capture information pre-embedded into the so-called Tag of a thing or an object using radio waves. (*Một cách khác để thu thập thông tin từ “Vật” là thông qua RFID (nhận dạng tần số vô tuyến). RFID không phải là một cảm biến mà là một cơ chế để thu thập thông tin được nhúng sẵn vào Thẻ của một vật hoặc đối tượng bằng sóng vô tuyến.*)
 - RFID consists of two parts: a tag and a reader. Further, the tag has two parts: a microchip that stores and processes information and an antenna to receive and transmit a signal. The tag contains the specific serial number for one specific object. The reader reads the information encoded on a tag, using a two-way radio transmitterreceiver, by emitting a signal to the tag using an antenna. (*RFID bao gồm hai phần: thẻ và đầu đọc. Hơn nữa, thẻ có hai phần: một vi mạch lưu trữ và xử lý thông tin và một ăng-ten để nhận và truyền tín hiệu. Thẻ chứa số sê-ri cụ thể cho một đối tượng cụ thể. Đầu đọc đọc thông tin được mã hóa trên thẻ, sử dụng máy thu phát sóng vô tuyến hai chiều, bằng cách phát tín hiệu đến thẻ bằng ăng-ten.*)
 - An RFID-based solution has some advantages over older reader-tag-based solutions, such as barcode, including:
- (*Giải pháp dựa trên RFID có một số ưu điểm so với các giải pháp cũ dựa trên đầu đọc-thẻ, chẳng hạn như mã vạch, bao gồm: *)
+ (*Giải pháp dựa trên RFID có một số ưu điểm so với các giải pháp cũ dựa trên đầu đọc-thẻ, chẳng hạn như mã vạch, bao gồm:*)
     - RFID tag does not need to be within direct line of sight of the reader and can be read from a distance up to 12 m for passive ultrahigh frequency (UHF) system. Battery-powered tags typically have a reading range of 100 m. (*Thẻ RFID không cần phải nằm trong tầm nhìn thẳng với đầu đọc và có thể được đọc từ khoảng cách lên tới 12 m đối với hệ thống tần số siêu cao (UHF) thụ động. Các thẻ chạy bằng pin thường có phạm vi đọc 100 m.*)
     - RFID data on the tag can be modified based on business needs. The barcode data is very difficult to change once deployed. (*Dữ liệu RFID trên thẻ có thể được sửa đổi dựa trên nhu cầu kinh doanh. Dữ liệu mã vạch rất khó thay đổi sau khi triển khai.*)
     - RFID tags are durable. Barcodes, in comparison, are printed on a product for everyone to see. They can be damaged or changed. RFID tags are hidden and may be reused across multiple products. Also RFID tags are capable of storing much more data. (*Thẻ RFID bền. Ngược lại, mã vạch được in trên sản phẩm để mọi người có thể nhìn thấy. Chúng có thể bị hỏng hoặc thay đổi. Thẻ RFID được ẩn và có thể được tái sử dụng trên nhiều sản phẩm. Ngoài ra, thẻ RFID có khả năng lưu trữ nhiều dữ liệu hơn.*)
@@ -1396,7 +1419,7 @@ Bộ giao thức mạng WiFi là một chuẩn giao thức được sử dụng 
 - **Wireless sensor networks (WSN)**, as the name suggests, is a networking paradigm that makes use of spatially distributed sensors for gathering information concerning the immediate environment of the sensors and collecting the information centrally.
 (*Mạng cảm biến không dây (WSN), đúng như tên gọi của nó, là một mô hình mạng sử dụng các cảm biến phân bố rải rác trong không gian để thu thập thông tin liên quan đến môi trường xung quanh trực tiếp của các cảm biến và tập hợp thông tin về một vị trí trung tâm.*)
 - Here, the sensors are not standalone devices but a combination of sensors, processors, and radio units—referred to as **sensor nodes**—sensing the environment and communicating the sensed data wirelessly to a remote location, which may or may not be connected to a backbone network.
-(*Ở đây, các cảm biến không phải là các thiết bị độc lập mà là sự kết hợp của cảm biến, bộ xử lý và khối thu phát vô tuyến—được gọi là các **nút cảm biến (sensor nodes)**—làm nhiệm vụ cảm nhận môi trường và truyền dữ liệu cảm biến được qua đường truyền không dây đến một vị trí từ xa, nơi có thể có hoặc không kết nối với mạng xương sống (backbone network).* )
+(*Ở đây, các cảm biến không phải là các thiết bị độc lập mà là sự kết hợp của cảm biến, bộ xử lý và khối thu phát vô tuyến—được gọi là các **nút cảm biến (sensor nodes)**—làm nhiệm vụ cảm nhận môi trường và truyền dữ liệu cảm biến được qua đường truyền không dây đến một vị trí từ xa, nơi có thể có hoặc không kết nối với mạng xương sống (backbone network).*)
 
 ### Các đặc tính nổi bật của WSN (WSNs Distinguishing Features)
 
@@ -1479,13 +1502,97 @@ Example of favorable distribution terms includes the following criteria:
 
 ---
 
-## 4.4. Các nền tảng phần cứng (Hardware Platforms)
+## 4.4. Các nền tảng phần cứng dùng trong IoT (IoT Hardware Platforms)
 
-### Thiết bị nhúng Arduino
+Công nghệ IoT được phát triển để phục vụ cho nhiều lĩnh vực khác nhau trong cuộc sống, từ nông nghiệp, công nghiệp, y tế, giáo dục cho đến quản lý đô thị. Để xây dựng nên một hệ thống IoT hoàn chỉnh, các nhà phát triển cần phải kết hợp chặt chẽ giữa các nền tảng phần cứng và các nền tảng phần mềm phù hợp.
 
-- Board mạch Arduino đa dạng từ đơn giản tới những sản phẩm phục vụ thiết bị có thể mang theo tới các máy in 3D... Nhiều nhà nghiên cứu, sinh viên thực hiện các dự án với Arduino và cung cấp nhiều hướng dẫn, hỗ trợ online.
-- Một số dòng thiết bị nổi tiếng như **Arduino Yún**, board Wi-Fi (IEEE 802.11 b/g/n) và Ethernet (IEEE 802.3 10/100Mb/s).
-- Board này sử dụng ATmega32, xung clock 16MHz; board này có 1 khe micro-SD, 1 port USB, 7 chân PWM pin, 12 analog input và 1 cổng micro USB.
+Mỗi ứng dụng IoT có những yêu cầu rất khác nhau về kích thước thiết bị, nguồn năng lượng cung cấp, năng lực tính toán, dung lượng bộ nhớ, khả năng kết nối mạng và độ trễ xử lý. Do đó, việc hiểu rõ các đặc tính kỹ thuật, ưu nhược điểm của các loại phần cứng cũng như các hệ điều hành chuyên dụng cho IoT là kiến thức nền tảng quan trọng giúp thiết kế và triển khai các hệ thống IoT hoạt động ổn định, hiệu quả và tối ưu chi phí.
+
+Nội dung chương này trình bày tổng quan về các nền tảng phần cứng và phần mềm phổ biến trong IoT. Về phần cứng, chương này giới thiệu từ các mote cảm biến công suất siêu thấp (TelosB), các vi điều khiển mã nguồn mở thông dụng (Arduino, ESP8266, ESP32) cho đến các máy tính nhúng mạnh mẽ (Raspberry Pi). Về phần mềm, chương này phân tích kiến trúc và cơ chế hoạt động của các hệ điều hành mạng cảm biến nhúng chuyên dụng như TinyOS, Contiki cũng như hệ điều hành Linux nhúng đa năng Raspbian OS trên Raspberry Pi.
+
+Thông qua những nội dung được trình bày trong chương này, người đọc có cái nhìn tổng quan về các loại thiết bị phần cứng dùng trong IoT cũng như các giải pháp phần mềm tương ứng. Từ đó, trước nhu cầu triển khai một giải pháp IoT trong một ngữ cảnh cụ thể, với các yêu cầu cụ thể, nhà phát triển có thể chọn lựa một loại thiết bị, một môi trường phát triển ứng dụng phù hợp nhất.
+
+### 4.1. Các nền tảng phần cứng
+
+### 4.4.1. Những đặc trưng và phân loại các nền tảng phần cứng dùng cho IoT
+
+Trong hệ thống IoT, "Vạn vật" (Things) đề cập đến một tập hợp phong phú và đa dạng các đối tượng vật lý được gắn các cảm biến, cơ cấu chấp hành và bộ xử lý tính toán nhúng để có thể cảm nhận môi trường xung quanh, xử lý dữ liệu và trao đổi thông tin thông qua mạng Internet. Các thiết bị IoT có thể được phân loại theo nhiều tiêu chí khác nhau như năng lực tính toán, mức độ tiêu thụ năng lượng, kích thước bộ nhớ và khả năng kết nối mạng. Những đối tượng này có thể triển khai trên một mạng thông qua Bluetooth (IEEE 802.15.1), Zigbee (IEEE 802.15.4), Wi-Fi (IEEE 802.11), Ethernet (IEEE 802.3) hay các chuẩn giao tiếp khác.
+
+Khả năng phát triển phần cứng và phần mềm cho IoT là vô tận. Phần cứng IoT có thể phân chia thành hai nhóm chính:
+- **Nhóm thiết bị hạn chế tài nguyên (Constrained Devices):** Là các thiết bị có bộ vi điều khiển (MCU) 8-bit hoặc 16-bit, dung lượng bộ nhớ RAM từ vài kilobyte (kB) đến vài chục kB, bộ nhớ Flash từ vài chục kB đến vài trăm kB, hoạt động với nguồn năng lượng pin hạn chế. Nhóm này thường chạy các hệ điều hành siêu nhẹ như TinyOS, Contiki, FreeRTOS hoặc chạy firmware trực tiếp (bare-metal).
+- **Nhóm thiết bị tính toán nhúng đa năng (Smart Gateway / Single-Board Computers):** Là các máy tính đơn bo mạch (SBC) trang bị bộ vi xử lý (MPU) 32-bit hoặc 64-bit đa nhân, bộ nhớ RAM từ hàng trăm megabyte (MB) đến vài gigabyte (GB), chạy hệ điều hành Linux nhúng đầy đủ (như Raspbian, Ubuntu Core). Nhóm này đóng vai trò là trạm điều khiển, cổng kết nối (IoT Gateway) hoặc nút tính toán cận biên (Edge Node).
+
+Theo chuẩn RFC 7228 của IETF, các thiết bị IoT hạn chế tài nguyên được phân chia thành 3 lớp cơ bản:
+- **Lớp 0 (Class 0 - C0):** Thiết bị rất hạn chế (RAM << 10 kB, Flash << 100 kB). Thiết bị không thể giao tiếp trực tiếp với Internet qua IPv6 mà phải thông qua Gateway hoặc trạm thu phát.
+- **Lớp 1 (Class 1 - C1):** Thiết bị hạn chế (RAM ~ 10 kB, Flash ~ 100 kB). Có thể hỗ trợ các chồng giao thức mạng rút gọn như CoAP qua 6LoWPAN/UDP.
+- **Lớp 2 (Class 2 - C2):** Thiết bị ít hạn chế hơn (RAM ~ 50 kB, Flash ~ 250 kB). Có thể hỗ trợ ngăn xếp TCP/IP đầy đủ và các giao thức bảo mật nhẹ.
+
+### 4.4.2. Mote cảm biến không dây TelosB
+
+TelosB là loại thiết bị cảm biến không dây tiết kiệm năng lượng, được xếp vào loại thiết bị IoT thuộc lớp 0 như đã trình bày ở phần trên. Hình 4.1 là hình ảnh bề ngoài của thiết bị TelosB.
+
+**Hình 4.1.** Mote cảm biến không dây TelosB [6]
+
+Thiết bị TelosB (được phát triển ban đầu bởi UC Berkeley) là một nền tảng phần cứng mã nguồn mở tiêu chuẩn cho các nghiên cứu về mạng cảm biến không dây (WSN):
+- **Bộ vi điều khiển:** TI MSP430F1611 16-bit RISC, xung nhịp 8MHz, 10kB RAM, 48kB ROM (Flash) và 1MB bộ nhớ Flash ngoài dùng lưu trữ dữ liệu.
+- **Bộ thu phát không dây:** Chip RF Chipcon/TI CC2420 tương thích chuẩn IEEE 802.15.4 / Zigbee, hoạt động ở dải tần 2.4GHz với tốc độ truyền dữ liệu 250kbps, tích hợp ăng-ten onboard.
+- **Cảm biến tích hợp:** Tích hợp sẵn cảm biến nhiệt độ và độ ẩm kỹ thuật số Sensirion SHT11, cảm biến ánh sáng nhìn thấy và toàn phổ Hamamatsu.
+- **Giao tiếp lập trình:** Cổng USB tích hợp qua chip FTDI cho phép vừa lập trình, gỡ lỗi vừa nạp nguồn và giao tiếp dữ liệu nối tiếp với máy tính.
+- **Hệ điều hành hỗ trợ:** TinyOS và Contiki OS.
+
+### 4.4.3. Thiết bị nhúng Arduino (Kiến trúc phần cứng & Hệ sinh thái)
+
+Arduino là một nền tảng tạo mẫu điện tử mã nguồn mở dựa trên phần cứng và phần mềm linh hoạt, dễ sử dụng. Nền tảng Arduino bao gồm các bo mạch vi điều khiển với nhiều cấu hình khác nhau và môi trường phát triển tích hợp Arduino IDE.
+
+Bo mạch phổ biến nhất là **Arduino Uno R3**, sử dụng vi điều khiển ATmega328P:
+- Vi điều khiển 8-bit AVR RISC với xung nhịp 16MHz.
+- Bộ nhớ: 32kB Flash (trong đó 0.5kB dùng cho bootloader), 2kB SRAM và 1kB EEPROM.
+- Giao tiếp I/O: 14 chân Digital I/O (trong đó 6 chân hỗ trợ PWM) và 6 chân Analog Input (độ phân giải ADC 10-bit).
+- Cổng kết nối: Cổng USB Type-B để nạp chương trình và cấp nguồn, giắc cắm nguồn DC ngoài 7-12V, hỗ trợ các giao tiếp nối tiếp UART, SPI, I2C.
+
+**Hình 4.2.** Mạch Arduino Uno R3
+
+Ngoài Arduino Uno, hệ sinh thái Arduino còn có nhiều dòng bo mạch khác phục vụ các nhu cầu đa dạng:
+- **Arduino Mega 2560:** Sử dụng vi điều khiển ATmega2560 với 256kB Flash, 8kB SRAM, 54 chân Digital I/O và 16 chân Analog Input, phù hợp cho các dự án phức tạp cần nhiều chân kết nối.
+- **Arduino Nano / Pro Mini:** Kích thước siêu nhỏ gọn, phù hợp tích hợp vào các thiết bị IoT yêu cầu tiết kiệm diện tích.
+- **Arduino Yún:** Kết hợp vi điều khiển ATmega32u4 với một vi xử lý Atheros AR9331 (MIPS @ 400MHz) chạy hệ điều hành Linux OpenWrt-Yun, hỗ trợ kết nối Wi-Fi và Ethernet.
+
+Bên cạnh các dòng Arduino truyền thống, sự xuất hiện của các module Wi-Fi giá rẻ tương thích với môi trường Arduino IDE như ESP8266 và ESP32 của hãng Espressif Systems đã tạo nên bước phát triển nhảy vọt cho các ứng dụng IoT DIY và công nghiệp:
+- **ESP8266 (NodeMCU, ESP-12E):** Sử dụng vi xử lý Tensilica Xtensa 32-bit LX106 @ 80/160MHz, tích hợp đầy đủ Wi-Fi 802.11 b/g/n, hỗ trợ giao thức TCP/IP, giá thành rất rẻ, dễ dàng kết nối trực tiếp vào mạng Internet.
+- **ESP32:** Dòng vi điều khiển nâng cấp mạnh mẽ với vi xử lý 2 nhân Tensilica Xtensa 32-bit LX6 @ 160/240MHz, tích hợp cả Wi-Fi 802.11 b/g/n và Bluetooth kép (Bluetooth v4.2 BR/EDR và BLE), 520kB SRAM, hỗ trợ nhiều cổng ngoại vi ADC, DAC, I2C, SPI, UART, PWM, cảm biến chạm điện dung và mã hóa phần cứng (AES, RSA, SHA-2).
+
+### 4.4.4. Thiết bị máy tính nhúng Raspberry Pi
+
+Raspberry Pi là dòng máy tính bảng đơn (Single-Board Computer - SBC) kích thước nhỏ bằng thẻ tín dụng, được phát triển tại Vương quốc Anh bởi Raspberry Pi Foundation nhằm mục đích thúc đẩy việc giảng dạy khoa học máy tính cơ bản tại các trường học và sau đó nhanh chóng trở thành nền tảng phổ biến bậc nhất cho các nhà phát triển hệ thống nhúng và IoT.
+
+**Raspberry Pi 3 Model B+** (ra mắt năm 2018):
+- Bộ vi xử lý Broadcom BCM2837B0, Quad-core Cortex-A53 64-bit SoC @ 1.4GHz.
+- Bộ nhớ RAM: 1GB LPDDR2 SDRAM.
+- Kết nối không dây: Wi-Fi băng tần kép 2.4GHz và 5GHz IEEE 802.11.b/g/n/ac, Bluetooth 4.2, BLE.
+- Mạng có dây: Gigabit Ethernet over USB 2.0 (thông lượng tối đa 300Mbps).
+- Hỗ trợ Power-over-Ethernet (PoE) thông qua PoE HAT mở rộng.
+- Cổng ngoại vi: 40 chân GPIO mở rộng, 4 cổng USB 2.0, cổng HDMI kích thước chuẩn, cổng camera MIPI CSI, cổng màn hình MIPI DSI, cổng âm thanh/video 4-pole 3.5mm.
+
+**Hình 4.3.** Bo mạch máy tính nhúng Raspberry Pi 3 Model B+
+
+**Raspberry Pi 4 Model B** (ra mắt năm 2019):
+Phiên bản Raspberry Pi 4 Model B mang lại sự nâng cấp rất đáng kể giúp tăng hiệu năng của máy tính mini này lên tới 3 lần so với thế hệ trước:
+- Bộ vi xử lý Broadcom BCM2711, Quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz.
+- Lựa chọn RAM: 1GB, 2GB, 4GB hoặc 8GB LPDDR4-2400 SDRAM.
+- Wi-Fi chuẩn 2.4GHz và 5.0GHz IEEE 802.11ac, Bluetooth 5.0, BLE.
+- Cổng mạng True Gigabit Ethernet (không qua cầu USB).
+- 2 cổng USB 3.0 tốc độ cao và 2 cổng USB 2.0.
+- Hỗ trợ 2 cổng ra màn hình Micro-HDMI độ phân giải lên đến 4K @ 60fps.
+
+- Giải mã video phần cứng H.265 (4kp60 decode), H.264 (1080p60 decode, 1080p30 encode), hỗ trợ đồ họa OpenGL ES 3.0.
+- Khe cắm thẻ Micro-SD cho hệ điều hành và lưu trữ dữ liệu.
+- Cấp nguồn qua cổng USB-C: 5V DC - 3A.
+- Chân nguồn 5V DC qua đầu nối GPIO (tối thiểu 3A).
+- Hỗ trợ Power over Ethernet (PoE) (yêu cầu PoE HAT rời).
+
+Raspberry Pi có thể chạy nhiều hệ điều hành như Raspbian (Raspberry Pi OS), Ubuntu MATE, Windows 10 IoT Core. Hỗ trợ nhiều ngôn ngữ lập trình như C/C++, Python, Java, JavaScript (Node.js). Raspberry Pi dễ dàng giao tiếp với các bo mạch ngoại vi như Arduino qua cổng nối tiếp hoặc GPIO.
+
+### 4.4.5. Các nền tảng phần cứng và thiết bị biên bổ sung
 
 ### GizmoSphere
 
@@ -1497,7 +1604,7 @@ Example of favorable distribution terms includes the following criteria:
 - **Tinkerforge** is a system of open source stackable microcontroller building blocks. It allows the control of motors and reading out sensors with the following programming languages: C, C++, C#, Object Pascal, Java, PHP, Python, and Ruby over a USB or Wi-Fi connection on Windows, Linux, and Mac OS X.
 (*Tinkerforge là một hệ thống các khối vi điều khiển mã nguồn mở có thể xếp chồng lên nhau dạng mô-đun. Nó cho phép điều khiển động cơ và đọc giá trị cảm biến bằng các ngôn ngữ lập trình sau: C, C++, C#, Object Pascal, Java, PHP, Python và Ruby qua kết nối USB hoặc Wi-Fi trên Windows, Linux và Mac OS X.*)
 - All of the hardware is licensed under **CERN OHL** (CERN Open Hardware License).
-(*Tất cả phần cứng đều được cấp phép theo CERN OHL (Giấy phép Phần cứng Mở CERN).* )
+(*Tất cả phần cứng đều được cấp phép theo CERN OHL (Giấy phép Phần cứng Mở CERN).*)
 
 ### BeagleBoard / BeagleBone
 
@@ -1511,7 +1618,7 @@ Example of favorable distribution terms includes the following criteria:
 ### Raspberry Pi
 
 - As of 2020, the **Raspberry Pi** is the most used edge device for building IoT solutions among the DIY and maker communities.
-(*Tính đến năm 2020, Raspberry Pi là thiết bị biên được sử dụng phổ biến nhất để xây dựng các giải pháp IoT trong cộng đồng DIY và các nhà sáng chế (maker).* )
+(*Tính đến năm 2020, Raspberry Pi là thiết bị biên được sử dụng phổ biến nhất để xây dựng các giải pháp IoT trong cộng đồng DIY và các nhà sáng chế (maker).*)
 - The affordable price and accessibility made it extremely popular.
 (*Giá cả phải chăng và khả năng tiếp cận dễ dàng đã khiến nó trở nên cực kỳ phổ biến.*)
 - The computing and storage capabilities of the Raspberry Pi enables people to use it as an edge device within the IoT projects they are building *(ví dụ: Raspberry Pi B+, Raspberry Pi Zero...)*.
@@ -1529,21 +1636,21 @@ Example of favorable distribution terms includes the following criteria:
 ### NVIDIA Jetson Nano
 
 - The **Nvidia Jetson Nano** was announced as a development system in mid-March of 2019. This product is intended for Internet of Things (IoT) makers.
-(*Nvidia Jetson Nano được công bố như một hệ thống phát triển vào giữa tháng 3 năm 2019. Sản phẩm này hướng tới các nhà sáng chế Internet vạn vật (IoT).* )
+(*Nvidia Jetson Nano được công bố như một hệ thống phát triển vào giữa tháng 3 năm 2019. Sản phẩm này hướng tới các nhà sáng chế Internet vạn vật (IoT).*)
 - The board consists of a CPU with 1.43 GHz and a GPU with 128 cores of the Maxwell generation *(phiên bản: NVIDIA Jetson Nano A02, B01)*.
-(*Bo mạch bao gồm CPU xung nhịp 1.43 GHz và GPU với 128 lõi thuộc thế hệ kiến trúc Maxwell (phiên bản: NVIDIA Jetson Nano A02, B01).* )
+(*Bo mạch bao gồm CPU xung nhịp 1.43 GHz và GPU với 128 lõi thuộc thế hệ kiến trúc Maxwell (phiên bản: NVIDIA Jetson Nano A02, B01).*)
 
 ### ESP8266
 
 - **ESP8266** is a Wi-Fi SoC (system on a chip) produced by Espressif Systems. It is a highly integrated chip designed to provide full Internet connectivity in a small package *(ví dụ: ESP8266-01, ESP8266-03, Olimex ESP8266)*.
-(*ESP8266 là một SoC (hệ thống trên một vi mạch) Wi-Fi do Espressif Systems sản xuất. Đây là một con chip tích hợp cao được thiết kế để cung cấp khả năng kết nối Internet toàn diện trong một kích thước nhỏ gọn (ví dụ: ESP8266-01, ESP8266-03, Olimex ESP8266).* )
+(*ESP8266 là một SoC (hệ thống trên một vi mạch) Wi-Fi do Espressif Systems sản xuất. Đây là một con chip tích hợp cao được thiết kế để cung cấp khả năng kết nối Internet toàn diện trong một kích thước nhỏ gọn (ví dụ: ESP8266-01, ESP8266-03, Olimex ESP8266).*)
 - ESP8266 can be used as an external Wi-Fi module, using the standard AT Command set Firmware by connecting it to any microcontroller using the serial UART, or directly serve as a Wi-Fi-enabled microcontroller, by programming a new firmware using the provided SDK.
 (*ESP8266 có thể được sử dụng như một mô-đun Wi-Fi gắn ngoài sử dụng Firmware tập lệnh AT tiêu chuẩn bằng cách kết nối với bất kỳ vi điều khiển nào qua cổng nối tiếp UART, hoặc trực tiếp đóng vai trò như một vi điều khiển hỗ trợ Wi-Fi bằng cách nạp firmware mới sử dụng bộ SDK được cung cấp.*)
 
 ### ESP32
 
 - **ESP32** is a low-cost System on Chip (SoC) Microcontroller from Espressif Systems, the developers of the famous ESP8266 SoC *(ví dụ: ESP32 DevKit board)*.
-(*ESP32 là vi điều khiển Hệ thống trên vi mạch (SoC) chi phí thấp từ Espressif Systems, nhà phát triển dòng SoC ESP8266 nổi tiếng (ví dụ: board ESP32 DevKit).* )
+(*ESP32 là vi điều khiển Hệ thống trên vi mạch (SoC) chi phí thấp từ Espressif Systems, nhà phát triển dòng SoC ESP8266 nổi tiếng (ví dụ: board ESP32 DevKit).*)
 - It is a successor to ESP8266 SoC and comes in both single-core and dual-core variations of the Tensilica’s 32-bit Xtensa LX6 Microprocessor with integrated Wi-Fi and Bluetooth.
 (*Đây là sản phẩm kế thừa của SoC ESP8266 và có cả hai phiên bản đơn nhân và đa nhân của bộ vi xử lý 32-bit Tensilica Xtensa LX6 tích hợp sẵn Wi-Fi và Bluetooth.*)
 
@@ -1571,6 +1678,21 @@ Example of favorable distribution terms includes the following criteria:
 (*Toàn bộ sức mạnh tính toán đến từ bộ xử lý Microchip SAM3X8E Cortex-M3 được gắn trên một bo mạch PCB tùy chỉnh cùng với cảm biến quán tính IMU MPU-6050 để theo dõi chuyển động.*)
 
 ---
+
+### 4.4.6. Bảng tổng hợp so sánh các nền tảng phần cứng IoT đặc trưng
+
+**Bảng 4.1.** Tổng hợp 3 nền tảng phần cứng IoT đặc trưng
+
+| Đặc điểm | TelosB Mote | Arduino-based boards | Raspberry Pi |
+|:---|:---|:---|:---|
+| **Bộ xử lý** | TI MSP430 16-bit @ 8MHz | ATmega328P 8-bit @ 16MHz (hoặc ESP8266/ESP32 32-bit) | Broadcom BCM2837/2711 Quad-core ARM 64-bit @ 1.4 - 1.5GHz |
+| **Bộ nhớ** | 10kB RAM, 48kB Flash | 2kB SRAM, 32kB Flash (ESP32: 520kB RAM, 4MB Flash) | 1GB - 8GB LPDDR4 RAM, thẻ nhớ MicroSD ngoài |
+| **Kết nối mạng** | IEEE 802.15.4 / Zigbee (2.4GHz, 250kbps) | Cần shield gắn thêm (hoặc tích hợp Wi-Fi/BLE trên ESP) | Gigabit Ethernet, Wi-Fi Dual-band 802.11ac, Bluetooth 5.0 |
+| **Cảm biến** | Tích hợp sẵn nhiệt độ, độ ẩm, ánh sáng | Kết nối cảm biến ngoài qua chân GPIO, ADC, I2C, SPI | Kết nối cảm biến ngoài qua GPIO, USB, Camera CSI |
+| **Phần mềm** | TinyOS, Contiki OS | Arduino IDE, FreeRTOS, MicroPython | Linux (Raspbian OS), Python, Node.js, C/C++, Java |
+| **Nguồn điện** | Nguồn pin 2xAA công suất cực thấp | Cổng USB (5V) hoặc DC 7-12V, tiêu thụ thấp | Cổng USB-C (5V - 3A), tiêu thụ công suất 2W - 5W |
+| **Vai trò** | Nút cảm biến không dây (Sensor Node) | Thiết bị đo đạc, cơ cấu chấp hành (End Device / Node) | Cổng kết nối (IoT Gateway), máy chủ biên (Edge Server) |
+
 
 ## 4.5. Các nền tảng phần mềm (Software Platforms)
 
@@ -1630,11 +1752,11 @@ Example of favorable distribution terms includes the following criteria:
 - Physical Computing uses electronics to prototype new materials for designers and artists.
 (*Điện toán vật lý (Physical Computing) sử dụng các linh kiện điện tử để tạo mẫu các chất liệu mới dành cho các nhà thiết kế và nghệ sĩ.*)
 - It involves the design of interactive objects that can communicate with humans using sensors and actuators controlled by a behaviour implemented as software running inside a microcontroller (a small computer on a single chip).
-(*Nó liên quan đến việc thiết kế các đối tượng tương tác có thể giao tiếp với con người bằng các cảm biến và cơ cấu chấp hành được điều khiển bởi hành vi triển khai dưới dạng phần mềm chạy bên trong vi điều khiển (một máy tính nhỏ tích hợp trên một vi mạch đơn).* )
+(*Nó liên quan đến việc thiết kế các đối tượng tương tác có thể giao tiếp với con người bằng các cảm biến và cơ cấu chấp hành được điều khiển bởi hành vi triển khai dưới dạng phần mềm chạy bên trong vi điều khiển (một máy tính nhỏ tích hợp trên một vi mạch đơn).*)
 - In the past, using electronics meant having to deal with engineers all the time, and building circuits one small component at the time; these issues kept creative people from playing around with the medium directly. Most of the tools were meant for engineers and required extensive knowledge. In recent years, microcontrollers have become cheaper and easier to use, allowing the creation of better tools.
 (*Trong quá khứ, việc sử dụng đồ điện tử đồng nghĩa với việc lúc nào cũng phải làm việc với các kỹ sư và xây dựng mạch điện với từng linh kiện nhỏ một; những rào cản này đã ngăn những người sáng tạo tiếp cận trực tiếp với phương tiện này. Hầu hết các công cụ đều dành cho kỹ sư và đòi hỏi kiến thức chuyên sâu. Trong những năm gần đây, vi điều khiển đã trở nên rẻ hơn và dễ sử dụng hơn, cho phép tạo ra các công cụ tốt hơn.*)
 - The progress that we have made with Arduino is to bring these tools one step closer to the novice, allowing people to start building stuff after only two or three days of a workshop.
-(*Tiến bộ mà chúng tôi đạt được với Arduino là mang các công cụ này đến gần hơn một bước với người mới bắt đầu, cho phép mọi người bắt đầu chế tạo các sản phẩm chỉ sau hai hoặc ba ngày tham gia buổi thảo luận thực hành (workshop).* )
+(*Tiến bộ mà chúng tôi đạt được với Arduino là mang các công cụ này đến gần hơn một bước với người mới bắt đầu, cho phép mọi người bắt đầu chế tạo các sản phẩm chỉ sau hai hoặc ba ngày tham gia buổi thảo luận thực hành (workshop).*)
 - With Arduino, a designer or artist can get to know the basics of electronics and sensors very quickly and can start building prototypes with very little investment.
 (*Với Arduino, một nhà thiết kế hoặc nghệ sĩ có thể nhanh chóng nắm bắt các kiến thức cơ bản về điện tử và cảm biến, đồng thời có thể bắt đầu xây dựng các nguyên mẫu thử nghiệm với chi phí đầu tư rất ít.*)
 
@@ -1673,7 +1795,7 @@ Cấu hình các chân I/O tiêu chuẩn (ví dụ trên Arduino Uno, Duemilanov
 ### Phần mềm Arduino (The Software - IDE)
 
 The IDE (Integrated Development Environment) is a special program running on your computer that allows you to write sketches for the Arduino board in a simple language modeled after the [Processing](https://www.processing.org) language.
-(*IDE (Môi trường phát triển tích hợp) là một chương trình đặc biệt chạy trên máy tính, cho phép bạn viết các bản phác thảo (sketch) cho board Arduino bằng một ngôn ngữ đơn giản được xây dựng dựa trên ngôn ngữ [Processing](https://www.processing.org).* )
+(*IDE (Môi trường phát triển tích hợp) là một chương trình đặc biệt chạy trên máy tính, cho phép bạn viết các bản phác thảo (sketch) cho board Arduino bằng một ngôn ngữ đơn giản được xây dựng dựa trên ngôn ngữ [Processing](https://www.processing.org).*)
 
 **The programming cycle on Arduino is basically as follows:**
 (*Quy trình chu trình lập trình trên Arduino về cơ bản như sau:*)
@@ -1695,7 +1817,7 @@ The IDE (Integrated Development Environment) is a special program running on you
 ### Cấu trúc thiết bị tương tác (Anatomy of an Interactive Device)
 
 - All of the objects we will build using Arduino follow a very simple pattern that we call the **“Interactive Device”**. The Interactive Device is an electronic circuit that is able to sense the environment using sensors (electronic components that convert real-world measurements into electrical signals).
-(*Tất cả các đối tượng mà chúng ta xây dựng bằng Arduino đều tuân theo một mô hình rất đơn giản mà chúng tôi gọi là **“Thiết bị tương tác” (Interactive Device)**. Thiết bị tương tác là một mạch điện tử có khả năng cảm nhận môi trường xung quanh bằng các cảm biến (các linh kiện điện tử chuyển đổi các đại lượng đo lường trong thế giới thực thành tín hiệu điện).* )
+(*Tất cả các đối tượng mà chúng ta xây dựng bằng Arduino đều tuân theo một mô hình rất đơn giản mà chúng tôi gọi là **“Thiết bị tương tác” (Interactive Device)**. Thiết bị tương tác là một mạch điện tử có khả năng cảm nhận môi trường xung quanh bằng các cảm biến (các linh kiện điện tử chuyển đổi các đại lượng đo lường trong thế giới thực thành tín hiệu điện).*)
 - The device processes the information it gets from the sensors with behaviour that’s implemented as software. The device will then be able to interact with the world using actuators, electronic components that can convert an electric signal into a physical action.
 (*Thiết bị xử lý thông tin nhận được từ các cảm biến bằng hành vi được hiện thực hóa dưới dạng phần mềm. Sau đó, thiết bị sẽ có thể tương tác với thế giới xung quanh bằng các cơ cấu chấp hành (actuators), các linh kiện điện tử có thể chuyển đổi tín hiệu điện thành một hành động vật lý.*)
 
@@ -1767,7 +1889,7 @@ There are two styles of comments in Arduino:
 ### Hằng số trong Arduino (Constants)
 
 Arduino includes a set of predefined keywords with special values:
-(*Arduino tích hợp sẵn một tập hợp các từ khóa định sẵn với các giá trị đặc biệt:* )
+(*Arduino tích hợp sẵn một tập hợp các từ khóa định sẵn với các giá trị đặc biệt:*)
 
 - **`HIGH` and `LOW`**: Used when you want to turn on or off an Arduino pin (HIGH sets the pin to 5V or 3.3V, LOW sets it to 0V / GND).
 (*`HIGH` và `LOW`: Được sử dụng khi bạn muốn bật hoặc tắt một chân cắm của Arduino (HIGH đặt chân ở mức điện áp cao 5V hoặc 3.3V, LOW đặt chân ở mức 0V / GND).*)
@@ -1791,7 +1913,7 @@ Here are the datatypes that are available:
 - **`char`**: Holds a single character, such as `'A'`. Like any computer, Arduino stores it as a number, even though you see text. When chars are used to store numbers, they can hold values from -128 to 127. Takes 1 byte.
 (*`char`: Lưu trữ một ký tự đơn, ví dụ như `'A'`. Giống như mọi máy tính, Arduino lưu trữ ký tự dưới dạng một con số mã ASCII. Khi dùng để lưu số nguyên nhỏ có dấu, kiểu char có giá trị từ -128 đến 127. Chiếm 1 byte bộ nhớ.*)
 - **`byte`**: Holds a number between 0 and 255. As with chars, bytes use only one byte of memory (8 bits unsigned).
-(*`byte`: Lưu trữ một số nguyên không dấu từ 0 đến 255. Chiếm đúng 1 byte bộ nhớ (8 bit).* )
+(*`byte`: Lưu trữ một số nguyên không dấu từ 0 đến 255. Chiếm đúng 1 byte bộ nhớ (8 bit).*)
 - **`int`**: Uses 2 bytes of memory to represent a number between -32,768 and 32,767; it’s the most common data type used in Arduino.
 (*`int`: Sử dụng 2 byte bộ nhớ (16 bit) để biểu diễn một số nguyên có dấu trong khoảng từ -32.768 đến 32.767; đây là kiểu dữ liệu phổ biến nhất trong lập trình Arduino.*)
 - **`unsigned int`**: Like int, uses 2 bytes but the unsigned prefix means that it can’t store negative numbers, so its range goes from 0 to 65,535.
@@ -1823,7 +1945,7 @@ int light[5] = {0, 20, 50, 75, 100}; // Mảng gồm 5 mức độ sáng
 ### Các cấu trúc điều khiển luồng (Control Structures)
 
 Arduino includes keywords for controlling the logical flow of your sketch:
-(*Arduino cung cấp các từ khóa để kiểm soát luồng thực thi logic của chương trình:* )
+(*Arduino cung cấp các từ khóa để kiểm soát luồng thực thi logic của chương trình:*)
 
 #### Cấu trúc rẽ nhánh điều kiện `if...else`
 
@@ -1889,7 +2011,7 @@ while (sensorValue < 512) {
 ### Toán tử số học và biểu thức (Arithmetic and Formulas)
 
 - Arduino supports standard mathematical arithmetic: `+` (addition), `-` (subtraction), `*` (multiplication), and `/` (division).
-(*Arduino hỗ trợ các phép toán số học tiêu chuẩn: `+` (cộng), `-` (trừ), `*` (nhân), và `/` (chia).* )
+(*Arduino hỗ trợ các phép toán số học tiêu chuẩn: `+` (cộng), `-` (trừ), `*` (nhân), và `/` (chia).*)
 - There is an additional operator called **modulo (`%`)**, which returns the remainder of an integer division. Parentheses `()` can be used freely to group expressions and determine the order of evaluation.
 (*Ngoài ra còn có toán tử chia lấy phần dư **modulo (`%`)**. Dấu ngoặc đơn `()` có thể được sử dụng tự do để nhóm các biểu thức và quyết định thứ tự thực hiện phép tính.*)
 
@@ -2095,7 +2217,7 @@ void loop() {
 ### Môi trường phát triển tích hợp (Integrated Development Environment - IDE)
 
 There are different programs you can use to program the ESP32 and ESP8266 boards with MicroPython firmware:
-(*Có nhiều phần mềm khác nhau mà bạn có thể sử dụng để lập trình các board ESP32 và ESP8266 nạp firmware MicroPython:* )
+(*Có nhiều phần mềm khác nhau mà bạn có thể sử dụng để lập trình các board ESP32 và ESP8266 nạp firmware MicroPython:*)
 
 1. **uPyCraft IDE:**
    - To program the ESP32 or ESP8266 boards with MicroPython firmware, we recommend using **uPyCraft IDE** because it is simple, intuitive to use, lightweight, and works great with the ESP boards.
@@ -2203,7 +2325,7 @@ Quy trình tạo và nạp tập tin `main.py` (Slides 113–118):
 ### Kiến thức lập trình MicroPython cơ bản (MicroPython Programming Basics)
 
 Programming in MicroPython is very similar to standard Python 3, but with special library support for low-level embedded hardware (Slides 119–144):
-(*Lập trình bằng MicroPython rất tương đồng với Python 3 tiêu chuẩn, nhưng được tích hợp các thư viện chuyên biệt để điều khiển phần cứng nhúng tầng thấp:* )
+(*Lập trình bằng MicroPython rất tương đồng với Python 3 tiêu chuẩn, nhưng được tích hợp các thư viện chuyên biệt để điều khiển phần cứng nhúng tầng thấp:*)
 
 #### 1. Toán tử toán học (Mathematical Operators)
 
@@ -2231,7 +2353,7 @@ Dùng để so sánh giữa hai giá trị, trả về kết quả kiểu boolea
 #### 3. Biến và cơ chế định kiểu động (Assigning Values to Variables)
 
 - In Python/MicroPython, you don’t need to declare a variable before using it or specify its data type. A variable is created the moment you first assign a value to it using the `=` assignment operator (Dynamic Typing).
-(*Trong Python và MicroPython, bạn không cần phải khai báo trước biến hoặc định rõ kiểu dữ liệu như trong C/C++. Biến được tự động khởi tạo ngay tại thời điểm bạn gán giá trị đầu tiên cho nó bằng toán tử `=` (cơ chế Định kiểu động - Dynamic Typing).* )
+(*Trong Python và MicroPython, bạn không cần phải khai báo trước biến hoặc định rõ kiểu dữ liệu như trong C/C++. Biến được tự động khởi tạo ngay tại thời điểm bạn gán giá trị đầu tiên cho nó bằng toán tử `=` (cơ chế Định kiểu động - Dynamic Typing).*)
 
 *Example:*
 (*Ví dụ: Khai báo chân GPIO kết nối với đèn LED:*)
@@ -2468,36 +2590,7 @@ Kỹ thuật này cho phép viết mã nguồn ngắn gọn trong đúng một d
 4. Nhấn nút **Download and run** (hình mũi tên xanh) trên thanh công cụ bên phải.
 5. **Quan sát kết quả:** Đèn LED màu xanh dương tích hợp trên board mạch ESP32 (GPIO 2) sẽ bắt đầu chớp tắt nhịp nhàng với tần số 1Hz (chu kỳ 1 giây: 0.5s sáng và 0.5s tắt).
 
-## 4.8. Thiết bị cảm biến không dây TelosB và So sánh các nền tảng phần cứng IoT
-
-TelosB là loại thiết bị cảm biến không dây tiết kiệm năng lượng, được xếp vào loại thiết bị IoT thuộc lớp 0 như đã trình bày ở phần trên. Hình 4.1 là hình ảnh bề ngoài của thiết bị TelosB.
-
-**Hình 4.1.** Mote cảm biến không dây TelosB [6]
-
-Thiết bị TelosB (được phát triển ban đầu bởi UC Berkeley) là một nền tảng phần cứng mã nguồn mở tiêu chuẩn cho các nghiên cứu về mạng cảm biến không dây (WSN):
-- **Bộ vi điều khiển:** TI MSP430F1611 16-bit RISC, xung nhịp 8MHz, 10kB RAM, 48kB ROM (Flash) và 1MB bộ nhớ Flash ngoài dùng lưu trữ dữ liệu.
-- **Bộ thu phát không dây:** Chip RF Chipcon/TI CC2420 tương thích chuẩn IEEE 802.15.4 / Zigbee, hoạt động ở dải tần 2.4GHz với tốc độ truyền dữ liệu 250kbps, tích hợp ăng-ten onboard.
-- **Cảm biến tích hợp:** Tích hợp sẵn cảm biến nhiệt độ và độ ẩm kỹ thuật số Sensirion SHT11, cảm biến ánh sáng nhìn thấy và toàn phổ Hamamatsu.
-- **Giao tiếp lập trình:** Cổng USB tích hợp qua chip FTDI cho phép vừa lập trình, gỡ lỗi vừa nạp nguồn và giao tiếp dữ liệu nối tiếp với máy tính.
-- **Hệ điều hành hỗ trợ:** TinyOS và Contiki OS.
-
-### 4.8.2. Tổng hợp so sánh 3 nền tảng phần cứng IoT đặc trưng
-
-Bảng 4.1 tóm tắt lại 3 nền tảng phần cứng IoT phổ biến, đặc trưng cho 3 nhóm thiết bị IoT thường được sử dụng trong các giải pháp IoT thực tế từ nghiên cứu đến triển khai ứng dụng thương mại.
-
-**Bảng 4.1.** Tổng hợp 3 nền tảng phần cứng IoT đặc trưng
-
-| Đặc điểm | TelosB Mote | Arduino-based boards | Raspberry Pi |
-|:---|:---|:---|:---|
-| **Bộ xử lý** | TI MSP430 16-bit @ 8MHz | ATmega328P 8-bit @ 16MHz (hoặc ESP8266/ESP32 32-bit) | Broadcom BCM2837/2711 Quad-core ARM 64-bit @ 1.4 - 1.5GHz |
-| **Bộ nhớ** | 10kB RAM, 48kB Flash | 2kB SRAM, 32kB Flash (ESP32: 520kB RAM, 4MB Flash) | 1GB - 8GB LPDDR4 RAM, thẻ nhớ MicroSD ngoài |
-| **Kết nối mạng** | IEEE 802.15.4 / Zigbee (2.4GHz, 250kbps) | Cần shield gắn thêm (hoặc tích hợp Wi-Fi/BLE trên ESP) | Gigabit Ethernet, Wi-Fi Dual-band 802.11ac, Bluetooth 5.0 |
-| **Cảm biến** | Tích hợp sẵn nhiệt độ, độ ẩm, ánh sáng | Kết nối cảm biến ngoài qua chân GPIO, ADC, I2C, SPI | Kết nối cảm biến ngoài qua GPIO, USB, Camera CSI |
-| **Phần mềm** | TinyOS, Contiki OS | Arduino IDE, FreeRTOS, MicroPython | Linux (Raspbian OS), Python, Node.js, C/C++, Java |
-| **Nguồn điện** | Nguồn pin 2xAA công suất cực thấp | Cổng USB (5V) hoặc DC 7-12V, tiêu thụ thấp | Cổng USB-C (5V - 3A), tiêu thụ công suất 2W - 5W |
-| **Vai trò** | Nút cảm biến không dây (Sensor Node) | Thiết bị đo đạc, cơ cấu chấp hành (End Device / Node) | Cổng kết nối (IoT Gateway), máy chủ biên (Edge Server) |
-
-## 4.9. Đặc trưng và phân loại hệ điều hành dùng cho thiết bị IoT
+## 4.8. Đặc trưng và phân loại hệ điều hành dùng cho thiết bị IoT
 
 Một hệ điều hành dùng cho thiết bị IoT thông thường gồm 3 thành phần chính:
 - **Thành phần phần cứng (Hardware) và lớp trừu tượng phần cứng (Hardware Abstraction Layer - HAL):** Bao gồm các cơ chế giao tiếp, điều khiển ngoại vi của thiết bị như GPIO, UART, SPI, I2C, ADC, bộ định thời và chip vô tuyến RF.
@@ -2517,13 +2610,31 @@ Trong đó, FreeRTOS là một đại diện mã nguồn mở được dùng r�
 
 Nội dung tiếp theo trong chương này giới thiệu chi tiết một số hệ điều hành tiêu biểu được sử dụng trong các hệ thống IoT: TinyOS, Contiki và Raspbian OS.
 
-## 4.10. Hệ điều hành TinyOS
+Một hệ điều hành dùng cho thiết bị IoT thông thường gồm 3 thành phần chính:
+- **Thành phần phần cứng (Hardware) và lớp trừu tượng phần cứng (Hardware Abstraction Layer - HAL):** Bao gồm các cơ chế giao tiếp, điều khiển ngoại vi của thiết bị như GPIO, UART, SPI, I2C, ADC, bộ định thời và chip vô tuyến RF.
+- **Thành phần hệ thống (System Services / Kernel):** Bao gồm nhân hệ điều hành (kernel), bộ lập lịch (scheduler), các hiện thực ngăn xếp giao thức mạng (network stack), trình điều khiển thiết bị (device drivers), hệ thống tệp và các thư viện hỗ trợ quản lý bộ nhớ, năng lượng.
+- **Thành phần ứng dụng (Application Layer):** Cho phép lập trình viên xây dựng và thực thi các chương trình ứng dụng IoT phục vụ mục tiêu thu thập dữ liệu, xử lý và điều khiển cụ thể.
+
+**Hình 4.4.** Các thành phần chính của một hệ điều hành cho thiết bị IoT [5]
+
+**Phân loại hệ điều hành cho thiết bị IoT**
+
+Tương tự như sự đa dạng của nền tảng phần cứng, các hệ điều hành phát triển cho thiết bị IoT cũng rất đa dạng nhằm phục vụ tốt các ngữ cảnh ứng dụng cụ thể:
+- **Event-driven OS (Hệ điều hành hướng sự kiện):** Đây là hướng tiếp cận phổ biến nhất cho các mạng cảm biến không dây tài nguyên rất hạn chế như TinyOS, Contiki. Mọi tác vụ xử lý trên hệ thống được kích hoạt bởi các sự kiện từ bên ngoài (ngắt phần cứng hoặc bộ định thời). Nhân hệ điều hành chỉ chạy một vòng lặp quản lý hàng đợi sự kiện, không cần duy trì ngăn xếp (stack) riêng cho từng tiến trình, giúp tiết kiệm bộ nhớ RAM tối đa và giảm độ phức tạp.
+- **Multi-threading OS (Hệ điều hành đa luồng):** Tiếp cận theo mô hình truyền thống của hệ điều hành máy tính, mỗi luồng có ngăn xếp riêng và thực thi độc lập. Bộ lập lịch thực hiện chuyển đổi ngữ cảnh (context switch) giữa các luồng dựa theo độ ưu tiên hoặc phân chia thời gian. Mô hình này lập trình tự nhiên, dễ sử dụng nhưng tiêu tốn bộ nhớ RAM hơn cho các ngăn xếp luồng. Đại diện tiêu biểu gồm RIOT OS, FreeRTOS, NuttX, ChibiOS.
+- **Pure RTOSs (Hệ điều hành thời gian thực thuần túy):** Tập trung vào việc đảm bảo tính xác định và thời gian đáp ứng nghiêm ngặt cho các ứng dụng công nghiệp, y tế hoặc xe tự hành. Các đại diện phổ biến là FreeRTOS, RTEMS, VxWorks, QNX.
+
+Trong đó, FreeRTOS là một đại diện mã nguồn mở được dùng rất phổ biến trên các vi điều khiển nhúng 32-bit như STM32 hay ESP32.
+
+Nội dung tiếp theo trong chương này giới thiệu chi tiết một số hệ điều hành tiêu biểu được sử dụng trong các hệ thống IoT: TinyOS, Contiki và Raspbian OS.
+
+## 4.9. Hệ điều hành TinyOS
 
 TinyOS là hệ điều hành mã nguồn mở, hướng sự kiện (event-driven), được thiết kế chuyên biệt cho các thiết bị mạng cảm biến không dây có tài nguyên bộ nhớ rất hạn chế (vi điều khiển 8-bit đến 16-bit, RAM vài kB) [7]. TinyOS được phát triển ban đầu tại Đại học UC Berkeley kết hợp với Intel Research.
 
 Các ứng dụng trên TinyOS được lập trình bằng ngôn ngữ **nesC** (Network Embedded Systems C), một phần mở rộng của ngôn ngữ C hỗ trợ lập trình dựa trên thành phần (component-based) và hướng sự kiện [8]. TinyOS hỗ trợ giao tiếp mạng cảm biến thông qua chồng giao thức mạng BLIP (Berkeley Low-power IP Stack) hiện thực chuẩn 6LoWPAN và RPL.
 
-### 4.10.1. Cấu trúc một ứng dụng trên TinyOS
+### 4.9.1. Cấu trúc một ứng dụng trên TinyOS
 
 Một ứng dụng TinyOS bao gồm nhiều thành phần (component) liên kết với nhau thông qua các giao diện (interface) [9]. Kiến trúc nesC phân biệt rõ ràng giữa hai khái niệm:
 - **Interface (Giao diện):** Định nghĩa hợp đồng giao tiếp giữa các thành phần, bao gồm các hàm lệnh (**commands**) do bên cung cấp (provider) hiện thực và các sự kiện (**events**) do bên sử dụng (user) hiện thực để xử lý kết quả báo về.
@@ -2583,7 +2694,7 @@ implementation
 
 **Hình 4.6.** Mã nguồn mô tả sự kết nối giữa các module thành phần trong ứng dụng BlinkC
 
-### 4.10.2. Các thành phần, dịch vụ cơ bản của TinyOS
+### 4.9.2. Các thành phần, dịch vụ cơ bản của TinyOS
 
 **Dịch vụ định thời (Timer Interface)**
 
@@ -2765,13 +2876,13 @@ Mỗi lớp trong ngăn xếp cung cấp và sử dụng các giao diện chuẩ
 - **CSMA/CA:** Quản lý truy cập môi trường truyền không dây, thực hiện thuật toán backoff ngẫu nhiên để tránh va chạm tín hiệu trên kênh.
 - **TransmitP / ReceiveP:** Tương tác trực tiếp với phần cứng chip CC2420 thông qua bus SPI, chân ngắt và GPIO.
 
-## 4.11. Hệ điều hành Contiki
+## 4.10. Hệ điều hành Contiki
 
 Contiki là hệ điều hành mã nguồn mở, gọn nhẹ (lightweight), đa nhiệm được thiết kế chuyên biệt cho các thiết bị mạng cảm biến không dây và Internet of Things có tài nguyên bộ nhớ hạn chế [14]. Contiki được sáng lập bởi Adam Dunkels tại Viện Khoa học Máy tính Thụy Điển (SICS).
 
 Đặc tính nổi bật của Contiki là tính linh hoạt cao, hỗ trợ nạp động (dynamic loading) và thay thế từng chương trình hoặc dịch vụ riêng lẻ trong lúc hệ thống đang chạy. Contiki được xây dựng theo mô hình hướng sự kiện (event-driven) kết hợp với cơ chế tiểu luồng **Protothreads**, mang lại phong cách lập trình tuần tự tuyến tính mà không tốn kém chi phí ngăn xếp luồng độc lập.
 
-### 4.11.1. Cấu trúc một ứng dụng trên Contiki
+### 4.10.1. Cấu trúc một ứng dụng trên Contiki
 
 Các ứng dụng trên Contiki được viết bằng ngôn ngữ C chuẩn kết hợp các macro Protothreads, có cấu trúc cơ bản như sau:
 
@@ -2845,7 +2956,7 @@ make hello-world.upload TARGET=sky
 make login TARGET=sky
 ```
 
-### 4.11.2. Các thành phần, dịch vụ cơ bản trên hệ điều hành Contiki
+### 4.10.2. Các thành phần, dịch vụ cơ bản trên hệ điều hành Contiki
 
 **Kiến trúc nhân hệ điều hành (Kernel Architecture)**
 
@@ -2882,7 +2993,7 @@ Contiki tích hợp sẵn hệ thống tệp Coffee chuyên biệt cho chip nh�
 
 **Hình 4.18.** Sơ đồ các cơ chế giao tiếp trên Contiki
 
-## 4.12. Hệ điều hành Raspbian OS
+## 4.11. Hệ điều hành Raspbian OS
 
 Hệ điều hành Raspbian (hiện nay được đổi tên chính thức là **Raspberry Pi OS**) là hệ điều hành mã nguồn mở miễn phí dựa trên nền tảng bản phân phối Linux Debian, được tối ưu hóa đặc biệt cho dòng máy tính nhúng phần cứng Raspberry Pi [15].
 
@@ -2902,7 +3013,7 @@ Ban đầu Raspbian được khởi xướng bởi Mike Thompson và Peter Green
 
 Nhờ những ưu điểm vượt trội trên, Raspberry Pi chạy Raspbian thường đóng vai trò là **Edge Gateway** hoặc **Edge Computing Node** trong kiến trúc IoT hiện đại, chịu trách nhiệm thu thập dữ liệu từ các mạng cảm biến cục bộ (qua Zigbee, LoRa, BLE), thực hiện tiền xử lý, nén dữ liệu, chạy các mô hình AI/Machine Learning suy luận nhẹ tại biên và chuyển tiếp dữ liệu lên đám mây.
 
-## 4.13. Bảng tổng hợp so sánh các hệ điều hành IoT phổ biến
+## 4.12. Bảng tổng hợp so sánh các hệ điều hành IoT phổ biến
 
 **Bảng 4.2.** Bảng tổng hợp đặc tính một số nền tảng hệ điều hành nổi tiếng trong IoT [15]
 
@@ -2992,9 +3103,7 @@ Sự phát triển bùng nổ của công nghệ IoT dẫn đến kiến trúc h
 **Hình 5.1.** Kiến trúc tổng quan hệ thống IoT kết hợp Điện toán đám mây và Điện toán biên [1]
 
 - **Lớp thiết bị IoT:** Bao gồm hàng tỷ thiết bị cảm biến, cơ cấu chấp hành kết nối với nhau thông qua các giao thức mạng không dây tầm ngắn và tiết kiệm năng lượng (Zigbee, Bluetooth, 6LoWPAN, Wi-Fi, LoRa).
-- **Lớp thiết bị cận biên:** Đóng vai trò là cầu nối thông minh trung gian giữa mạng cảm biến cục bộ và mạng diện rộng Internet. Lớp này thực hiện phân loại dữ liệu, nén dữ liệu, loại bỏ dữ liệu dư thừa và giải quyết các bài toán cục bộ mà không cần phụ thuộc vào kết nối đám mây.
-
-cao trải nghiệm người dùng cũng là chủ đề mở và đang thu hút giới nghiên cứu.
+- **Lớp thiết bị cận biên:** Đóng vai trò là cầu nối thông minh trung gian giữa mạng cảm biến cục bộ và mạng diện rộng Internet. Lớp này thực hiện phân loại dữ liệu, nén dữ liệu, loại bỏ dữ liệu dư thừa và giải quyết các bài toán cục bộ mà không cần phụ thuộc vào kết nối đám mây. Ngoài ra, các giải pháp phân tải tính toán thông minh (intelligent offloading) giữa thiết bị cận biên và hệ thống điện toán đám mây góp phần tối ưu tài nguyên tính toán, nâng cao trải nghiệm người dùng cũng là chủ đề mở và đang thu hút giới nghiên cứu.
 
 - **Trung tâm dữ liệu (Data Center):** Là nơi hiện thực hạ tầng điện toán đám mây, với khả năng tính toán và lưu trữ khổng lồ. Trung tâm dữ liệu thực hiện quản lý, điều khiển, phân phối nguồn tài nguyên tính toán dựa trên các công nghệ ảo hóa (Virtual Machines, Containers), chạy các dịch vụ phân tích dữ liệu lớn và cung cấp giao diện quản lý toàn diện cho người dùng và các doanh nghiệp.
 
@@ -3014,9 +3123,7 @@ cao trải nghiệm người dùng cũng là chủ đề mở và đang thu hút
 
 Theo định nghĩa của Viện Tiêu chuẩn và Công nghệ Quốc gia Hoa Kỳ (NIST): *Điện toán đám mây là một mô hình cho phép truy cập mạng thuận tiện, theo yêu cầu tới một nhóm tài nguyên tính toán có thể cấu hình được (ví dụ: mạng, máy chủ, lưu trữ, ứng dụng và dịch vụ) mà có thể được cung cấp và giải phóng nhanh chóng với nỗ lực quản lý tối thiểu hoặc sự tương tác tối thiểu từ nhà cung cấp dịch vụ.*
 
-Trong ngữ cảnh IoT, điện toán đám mây đóng vai trò là "bộ não trung tâm" thu thập, tích hợp dữ liệu từ mọi nguồn phân tán, cung cấp tài nguyên tính toán vô hạn cho việc phân tích dữ liệu lớn (Big Data Analytics) và đưa ra các quyết định thông minh mang tính chiến lược.
-
-nối và ảo hóa một cách linh động và được thể hiện như một hoặc nhiều tài nguyên tính toán đồng nhất dựa trên các thỏa thuận ở mức dịch vụ được thiết lập thông qua việc đàm phán giữa nhà cung cấp dịch vụ và người tiêu dùng.
+Trong ngữ cảnh IoT, điện toán đám mây đóng vai trò là "bộ não trung tâm" thu thập, tích hợp dữ liệu từ mọi nguồn phân tán, cung cấp tài nguyên tính toán vô hạn cho việc phân tích dữ liệu lớn (Big Data Analytics) và đưa ra các quyết định thông minh mang tính chiến lược. Theo Buyya, điện toán đám mây là một hệ thống xử lý song song và phân tán, bao gồm một tập hợp các máy tính được kết nối và ảo hóa một cách linh động và được thể hiện như một hoặc nhiều tài nguyên tính toán đồng nhất dựa trên các thỏa thuận ở mức dịch vụ (SLA) được thiết lập thông qua việc đàm phán giữa nhà cung cấp dịch vụ và người tiêu dùng.
 
 ### 5.2.1. Đặc trưng cơ bản của điện toán đám mây
 
@@ -3025,9 +3132,7 @@ NIST xác định 5 đặc trưng cơ bản của điện toán đám mây:
 2. **Truy cập mạng rộng rãi (Broad Network Access):** Các tài nguyên được cung cấp qua mạng Internet và có thể truy cập thông qua các cơ chế tiêu chuẩn từ nhiều loại thiết bị khách khác nhau (máy tính, điện thoại di động, máy tính bảng).
 3. **Dùng chung tài nguyên (Resource Pooling):** Nguồn tài nguyên tính toán của nhà cung cấp được gộp lại để phục vụ nhiều người dùng (multi-tenant model), với các tài nguyên vật lý và ảo hóa được phân bổ linh hoạt theo nhu cầu.
 4. **Co giãn nhanh chóng (Rapid Elasticity):** Tài nguyên có thể được cấp phát và giải phóng một cách nhanh chóng, co giãn linh hoạt theo lưu lượng tải thực tế.
-5. **Đo lường dịch vụ (Measured Service):** Hệ thống đám mây tự động kiểm soát và tối ưu hóa việc sử dụng tài nguyên bằng cách đo lường chi tiết ở mức dịch vụ (dung lượng lưu trữ, băng thông tiêu thụ, chu kỳ CPU sử dụng) để tính phí theo mức độ sử dụng (pay-as-you-go).
-
-thuật như: tính toán song song (parallel computing), cân bằng tải (load balancing), định thời tác vụ (job scheduling).
+5. **Đo lường dịch vụ (Measured Service):** Hệ thống đám mây tự động kiểm soát và tối ưu hóa việc sử dụng tài nguyên bằng cách đo lường chi tiết ở mức dịch vụ (dung lượng lưu trữ, băng thông tiêu thụ, chu kỳ CPU sử dụng) để tính phí theo mức độ sử dụng (pay-as-you-go). Để đảm bảo tính năng này, mô hình điện toán đám mây đã hiện thực các kỹ thuật như: tính toán song song (parallel computing), cân bằng tải (load balancing), định thời tác vụ (job scheduling).
 
 Khả năng truy cập và tính linh động thể hiện qua việc các thiết bị, sản phẩm, dịch vụ và môi trường điện toán đám mây có thể truy cập với nhiều người nhất có thể. Tính linh động dịch vụ cho phép người dùng chuyển đổi các ứng dụng và dữ liệu giữa các đám mây khác nhau mà không bị trói buộc vào một nhà cung cấp duy nhất.
 
@@ -3035,9 +3140,7 @@ Khả năng truy cập và tính linh động thể hiện qua việc các thi�
 
 Việc ứng dụng điện toán đám mây mang lại nhiều lợi ích to lớn cho các tổ chức và doanh nghiệp phát triển hệ thống IoT:
 - **Tiết kiệm chi phí đầu tư ban đầu (Cost Reduction):** Doanh nghiệp không cần phải đầu tư chi phí mua sắm máy chủ vật lý, xây dựng phòng máy lạnh và thuê đội ngũ bảo trì tốn kém. Thay vào đó chỉ cần trả phí thuê bao theo mức sử dụng thực tế.
-- **Tập trung vào nghiệp vụ cốt lõi:** Các nhà phát triển giải pháp IoT có thể tập trung toàn lực vào việc phát triển ứng dụng và thuật toán kinh doanh, để việc quản trị hạ tầng máy chủ cho các nhà cung cấp đám mây chuyên nghiệp đảm nhiệm.
-
-doanh nghiệp có thể cải tiến hiệu năng các dịch vụ IT, dễ dàng vận hành và quản lý tập trung các dịch vụ thông qua nhà cung cấp dịch vụ.
+- **Tập trung vào nghiệp vụ cốt lõi:** Các nhà phát triển giải pháp IoT có thể tập trung toàn lực vào việc phát triển ứng dụng và thuật toán kinh doanh, để việc quản trị hạ tầng máy chủ cho các nhà cung cấp đám mây chuyên nghiệp đảm nhiệm; qua đó doanh nghiệp có thể cải tiến hiệu năng các dịch vụ IT, dễ dàng vận hành và quản lý tập trung các dịch vụ thông qua nhà cung cấp dịch vụ.
 - **Nâng cao hiệu quả sử dụng tài nguyên:** Doanh nghiệp có thể hợp tác với nhà cung cấp dịch vụ điện toán đám mây để tận dụng công nghệ ảo hóa, tránh lãng phí năng lực tính toán dư thừa khi hệ thống nhàn rỗi.
 - **Khả năng phục hồi sau thảm họa (Disaster Recovery):** Dữ liệu được lưu trữ phân tán và sao lưu tự động trên nhiều trung tâm dữ liệu ở các khu vực địa lý khác nhau, đảm bảo dữ liệu không bị mất mát khi xảy ra sự cố thiên tai hoặc hỏng hóc phần cứng.
 
@@ -3091,9 +3194,7 @@ Kỹ thuật được sử dụng để hiện thực mô hình này đó là th
 
 **Phần mềm như một dịch vụ (Software as a Service - SaaS)** là mô hình dịch vụ đám mây hoàn chỉnh nhất ở tầng trên cùng, nơi nhà cung cấp phân phối một ứng dụng phần mềm hoàn thiện tới người dùng đầu cuối qua mạng Internet, thường là thông qua trình duyệt web hoặc ứng dụng di động.
 
-Trong mô hình SaaS, người dùng không cần cài đặt phần mềm lên máy tính cá nhân, không cần quản lý hạ tầng hay nền tảng mà chỉ cần đăng nhập tài khoản và sử dụng các tính năng của phần mềm. Mọi vấn đề về cập nhật tính năng mới, vá lỗi bảo mật, sao lưu dữ liệu đều do nhà cung cấp đảm nhiệm hoàn toàn.
-
-các hạ tầng bên dưới bao gồm mạng, máy chủ, hệ điều hành, bộ nhớ hay thậm chí là các khả năng riêng lẻ của các ứng dụng trong khuôn khổ cấu hình giới hạn cho từng người dùng riêng lẻ.
+Trong mô hình SaaS, người dùng không cần cài đặt phần mềm lên máy tính cá nhân, không cần quản lý hạ tầng hay nền tảng mà chỉ cần đăng nhập tài khoản và sử dụng các tính năng của phần mềm. Mọi vấn đề về cập nhật tính năng mới, vá lỗi bảo mật, sao lưu dữ liệu đều do nhà cung cấp đảm nhiệm hoàn toàn. Người dùng không có khả năng quản lý và điều khiển các hạ tầng bên dưới bao gồm mạng, máy chủ, hệ điều hành, bộ nhớ hay thậm chí là các khả năng riêng lẻ của các ứng dụng trong khuôn khổ cấu hình giới hạn cho từng người dùng riêng lẻ.
 
 Một số dịch vụ cung cấp theo mô hình SaaS phổ biến như: các ứng dụng của Google (Gmail, Google Docs, Google Drive), Microsoft 365, Dropbox, Salesforce CRM.
 
@@ -3101,8 +3202,7 @@ Trong lĩnh vực IoT, các ứng dụng SaaS thường là các giải pháp đ
 - **Hệ thống Quản lý Tòa nhà thông minh (Smart Building Management System):** Cho phép ban quản lý theo dõi tiêu thụ năng lượng điện, nước, điều khiển hệ thống chiếu sáng và HVAC.
 - **Hệ thống Giám sát Hạm đội xe (Fleet Management):** Định vị phương tiện GPS, theo dõi hành trình xe, giám sát mức tiêu hao nhiên liệu.
 - **Hệ thống Nông nghiệp thông minh SaaS:** Phân tích độ ẩm đất, dự báo sâu bệnh và tự động hóa hệ thống tưới nhỏ giọt.
-
-trụ, mô phỏng hóa sinh; các ứng dụng cho chính phủ như hệ thống y tế quốc gia, hệ thống giao thông vận tải...
+- **Các ứng dụng chuyên ngành khoa học:** Mô phỏng trong lĩnh vực hàng không vũ trụ, mô phỏng hóa sinh; các ứng dụng cho chính phủ như hệ thống y tế quốc gia, hệ thống giao thông vận tải...
 - **Cổng thông tin (web portal):** cung cấp các dịch vụ tìm kiếm thông tin chuẩn, ngoài ra cũng có các dịch vụ khác như e-mail, tin tức, giá chứng khoán. Cổng thông tin cung cấp một giao diện web thống nhất cho người dùng truy cập tới nhiều dịch vụ khác nhau.
 
 ### 5.2.6. Ứng dụng công nghệ điện toán đám mây trong xây dựng hệ thống giả lập WSN với số lượng nút lớn
@@ -3112,9 +3212,7 @@ Trong nghiên cứu và phát triển các giải pháp IoT và mạng cảm bi�
 - Khó khăn trong việc triển khai thực địa, nạp lại mã nguồn đồng loạt và giám sát trạng thái từng nút.
 - Khó tái lập lại chính xác môi trường thử nghiệm khi cần đánh giá so sánh hiệu năng các giao thức định tuyến.
 
-Để giải quyết bài toán trên, giải pháp ứng dụng hạ tầng đám mây mã nguồn mở **OpenStack** kết hợp với công nghệ ảo hóa nhẹ **Docker Containers** đã được nghiên cứu và xây dựng nhằm giả lập các mạng WSN quy mô lớn với chi phí thấp và độ linh hoạt cao.
-
-nguyên phục vụ cho các nghiên cứu khác giúp tối ưu việc sử dụng tài nguyên. Bên cạnh đó, việc triển khai ảo hóa lớp thứ hai với kỹ thuật Container cho phép tạo ra một số lượng rất lớn các nút ảo với lượng tài nguyên yêu cầu thấp giúp đáp ứng yêu cầu phục vụ các thử nghiệm có số lượng nút lớn.
+Để giải quyết bài toán trên, giải pháp ứng dụng hạ tầng đám mây mã nguồn mở **OpenStack** kết hợp với công nghệ ảo hóa nhẹ **Docker Containers** đã được nghiên cứu và xây dựng nhằm giả lập các mạng WSN quy mô lớn với chi phí thấp và độ linh hoạt cao, cho phép triển khai hệ thống máy ảo nhanh chóng và dễ dàng thu hồi lại tài nguyên phục vụ cho các nghiên cứu khác giúp tối ưu việc sử dụng tài nguyên. Bên cạnh đó, việc triển khai ảo hóa lớp thứ hai với kỹ thuật Container cho phép tạo ra một số lượng rất lớn các nút ảo với lượng tài nguyên yêu cầu thấp giúp đáp ứng yêu cầu phục vụ các thử nghiệm có số lượng nút lớn.
 
 **Hình 5.4.** Giải pháp tích hợp mạng cảm biến không dây trên hạ tầng đám mây OpenStack
 
@@ -3131,9 +3229,7 @@ Quá trình triển khai ảnh sẽ gồm 5 bước được thực hiện ở 3
 
 #### 5.2.6.1. Thiết kế kiến trúc, giải pháp xây dựng kiến trúc mạng luận lý MESH của WSNs trên OpenStack
 
-Trong cấu trúc mạng MESH, mọi nút mạng trong cùng phạm vi phát sóng đều có thể truyền tin trực tiếp với nhau hoặc qua nhiều chặng trung gian.
-
-giữa máy host và các container, các biến môi trường, các lệnh sẽ được thực thi khi khởi chạy containers. Ngoài ra, tập tin này còn đặc tả thông tin về các mạng ảo và kết nối giữa các containers thông qua các mạng ảo này.
+Trong cấu trúc mạng MESH, mọi nút mạng trong cùng phạm vi phát sóng đều có thể truyền tin trực tiếp với nhau hoặc qua nhiều chặng trung gian. Tập tin đặc tả định cấu hình chia sẻ thư mục giữa máy host và các container, các biến môi trường, các lệnh sẽ được thực thi khi khởi chạy containers. Ngoài ra, tập tin này còn đặc tả thông tin về các mạng ảo và kết nối giữa các containers thông qua các mạng ảo này.
 
 **Hình 5.5.** Mô hình mạng luận lý dạng MESH trên OpenStack
 
@@ -3213,7 +3309,7 @@ Lượng dữ liệu khổng lồ từ các thiết bị IoT thu thập đóng v
 - **Suy luận tại biên (Edge Inference):** Sử dụng các mô hình học sâu đã được nén nhẹ (bằng kỹ thuật lượng tử hóa Quantization, cắt tỉa Pruning, tri thức chưng cất Knowledge Distillation) như TensorFlow Lite, TinyML, ONNX để thực thi nhận dạng khuôn mặt, phát hiện dị thường trực tiếp ngay trên vi điều khiển hoặc máy tính nhúng tại chỗ với độ trễ tính bằng mili-giây.
 - **Học liên kết (Federated Learning):** Các nút biên tự huấn luyện mô hình máy học cục bộ dựa trên dữ liệu riêng tư của mình và chỉ gửi các trọng số mô hình (model updates/gradients) về đám mây để tổng hợp mô hình chung toàn cầu, qua đó bảo vệ tuyệt đối tính riêng tư dữ liệu người dùng.
 
-rộng hệ thống bằng việc cho phép chia sẻ tài nguyên dựa trên nhu cầu trong lúc chạy (runtime needs).
+- **Ảo hóa chức năng mạng (NFV):** Cải thiện khả năng mở rộng hệ thống bằng việc cho phép chia sẻ tài nguyên linh hoạt dựa trên nhu cầu trong lúc chạy (runtime needs).
 
 ## 5.4. Các vấn đề tồn tại và hướng nghiên cứu trong tương lai
 
@@ -3221,8 +3317,7 @@ Mặc dù việc kết hợp giữa điện toán đám mây và điện toán c
 - **Quản lý tính di động (Mobility Management):** Khi các nút IoT hoặc phương tiện di chuyển liên tục qua các vùng phủ sóng của các trạm biên khác nhau, việc di chuyển trạng thái dịch vụ (Service / Container Migration) liền mạch không làm gián đoạn kết nối là bài toán phức tạp.
 - **Bảo mật và quyền riêng tư tại biên:** Các thiết bị biên thường đặt ở môi trường công cộng bên ngoài, dễ bị tấn công vật lý, cài mã độc hoặc giả mạo. Cần phát triển các cơ chế xác thực phân tán dựa trên công nghệ chuỗi khối (Blockchain) hoặc môi trường thực thi tin cậy (Trusted Execution Environment - TEE).
 - **Cân bằng năng lượng và tài nguyên xanh (Green Computing):** Tối ưu hóa hiệu suất tiêu thụ năng lượng của các cụm máy chủ biên khi hoạt động bằng năng lượng tái tạo.
-
-pháp mã hóa, bảo mật đã được nghiên cứu và triển khai thành công trên thiết bị IoT có tài nguyên hạn chế.
+- **Giải pháp bảo mật cho thiết bị hạn chế:** Nhiều giải pháp mã hóa, bảo mật đã được nghiên cứu và triển khai thành công trên thiết bị IoT có tài nguyên hạn chế.
 
 ## Bài tập Chương 5
 
@@ -3251,9 +3346,7 @@ pháp mã hóa, bảo mật đã được nghiên cứu và triển khai thành 
 
 Bên cạnh đó, sự bùng nổ của các kỹ thuật Trí tuệ nhân tạo (AI), Học máy (Machine Learning) và Học sâu (Deep Learning) mang lại những công cụ đột phá giúp hệ thống IoT có thể xử lý các tập dữ liệu chuỗi thời gian khổng lồ, phát hiện các mẫu hành vi phức tạp, đưa ra các dự báo chính xác và tự động hóa quá trình ra quyết định.
 
-Nội dung chương này trình bày các khái niệm nền tảng về ngữ cảnh và thích ứng ngữ cảnh; quy trình 4 giai đoạn trong vòng đời quản lý ngữ cảnh; phân tích chi tiết các kỹ thuật mô hình hóa ngữ cảnh và suy luận ngữ cảnh phổ biến; đồng thời giới thiệu các ứng dụng tiêu biểu của học máy và trí tuệ nhân tạo trong hệ sinh thái IoT hiện đại.
-
-cho phép các dịch vụ được tạo và tái lập trình theo ngữ cảnh sử dụng. Khái niệm nhận thức ngữ cảnh (context-awareness) được định nghĩa như sau: *"Nhận thức ngữ cảnh (context-awareness) đề cập đến khả năng của một ứng dụng, dịch vụ hoặc thậm chí là một thiết bị đầu cuối nhận thức được môi trường vật chất, trạng thái mạng, hoàn cảnh người dùng và tự động điều chỉnh hành vi của mình cho phù hợp với ngữ cảnh đó mà không cần sự can thiệp trực tiếp của con người."*
+Nội dung chương này trình bày các khái niệm nền tảng về ngữ cảnh và thích ứng ngữ cảnh; quy trình 4 giai đoạn trong vòng đời quản lý ngữ cảnh; phân tích chi tiết các kỹ thuật mô hình hóa ngữ cảnh và suy luận ngữ cảnh phổ biến; đồng thời giới thiệu các ứng dụng tiêu biểu của học máy và trí tuệ nhân tạo trong hệ sinh thái IoT hiện đại, cho phép các dịch vụ được tạo và tái lập trình theo ngữ cảnh sử dụng. Khái niệm nhận thức ngữ cảnh (context-awareness) được định nghĩa như sau: *"Nhận thức ngữ cảnh (context-awareness) đề cập đến khả năng của một ứng dụng, dịch vụ hoặc thậm chí là một thiết bị đầu cuối nhận thức được môi trường vật chất, trạng thái mạng, hoàn cảnh người dùng và tự động điều chỉnh hành vi của mình cho phù hợp với ngữ cảnh đó mà không cần sự can thiệp trực tiếp của con người."*
 
 ## 6.1. Ngữ cảnh và thích ứng ngữ cảnh
 
@@ -3370,9 +3463,7 @@ Sử dụng các sơ đồ đồ họa chuẩn như UML (Unified Modeling Langua
 
 ### 6.3.4. Mô hình dựa trên đối tượng (Object-based Model)
 
-Mô hình hóa ngữ cảnh dựa trên các nguyên lý lập trình hướng đối tượng (OOP): đóng gói (encapsulation), kế thừa (inheritance) và đa hình (polymorphism).
-
-trên việc phân cấp và quan hệ giữa các lớp. Mô hình này cho phép đóng gói (encapsulation) và tái sử dụng. Hầu hết các ngôn ngữ lập trình cấp cao hỗ trợ các khái niệm hướng đối tượng, mô hình hóa có thể được tích hợp vào hệ thống nhận biết ngữ cảnh một cách dễ dàng. Do đó, mô hình dựa trên đối tượng phù hợp để sử dụng bên trong mã nguồn phần mềm của từng thiết bị.
+Mô hình hóa ngữ cảnh dựa trên các nguyên lý lập trình hướng đối tượng (OOP): đóng gói (encapsulation), kế thừa (inheritance) và đa hình (polymorphism), dựa trên việc phân cấp và quan hệ giữa các lớp. Mô hình này cho phép đóng gói (encapsulation) và tái sử dụng mã nguồn. Hầu hết các ngôn ngữ lập trình cấp cao hỗ trợ các khái niệm hướng đối tượng, mô hình hóa có thể được tích hợp vào hệ thống nhận biết ngữ cảnh một cách dễ dàng. Do đó, mô hình dựa trên đối tượng phù hợp để sử dụng bên trong mã nguồn phần mềm của từng thiết bị.
 
 ### 6.3.5. Mô hình dựa trên logic (Logic-based Model)
 
@@ -3447,9 +3538,7 @@ Học có giám sát sử dụng một tập dữ liệu huấn luyện đã đ�
 ### 6.4.2. Học không giám sát (Unsupervised Learning)
 
 Học không giám sát làm việc trên dữ liệu chưa gán nhãn (unlabeled data), tự động phân tích cấu trúc tiềm ẩn và gom nhóm các mẫu dữ liệu tương đồng:
-- **Phân cụm (Clustering - K-Means, DBSCAN):** Phân chia các vị trí đo đạc cảm biến thành các vùng có đặc tính môi trường giống nhau mà không cần nhãn định trước.
-
-sử dụng trong các ứng dụng thích ứng ngữ cảnh. Cụ thể, kỹ thuật phân cụm được sử dụng ở mức thấp (mức phần cứng) trong mạng cảm biến như định tuyến hay mức cao (mức ứng dụng) như xác định vị trí trong nhà hay ngoài trời. Kỹ thuật mạng nơ-ron không giám sát như Kohonen Self Organizing Map (KSOM) được sử dụng để phân loại dữ liệu cảm biến theo thời gian.
+- **Phân cụm (Clustering - K-Means, DBSCAN):** Phân chia các vị trí đo đạc cảm biến thành các vùng có đặc tính môi trường giống nhau mà không cần nhãn định trước, thường được sử dụng trong các ứng dụng thích ứng ngữ cảnh. Cụ thể, kỹ thuật phân cụm được sử dụng ở mức thấp (mức phần cứng) trong mạng cảm biến như định tuyến hay mức cao (mức ứng dụng) như xác định vị trí trong nhà hay ngoài trời. Kỹ thuật mạng nơ-ron không giám sát như Kohonen Self Organizing Map (KSOM) được sử dụng để phân loại dữ liệu cảm biến theo thời gian.
 - **Phát hiện dị thường (Anomaly Detection):** Nhận diện các giá trị cảm biến bất thường hoặc các sự kiện nguy hiểm (như rò rỉ khí gas, xâm nhập trái phép) dựa trên độ lệch so với các cụm hoạt động bình thường.
 
 ### 6.4.3. Dựa trên luật (Rule-based Reasoning)
@@ -3538,8 +3627,7 @@ Suy luận dựa trên ontology tận dụng cấu trúc hình thức và ngữ 
 Kỹ thuật suy luận dựa trên logic xác suất (như Mạng Bayes - Bayesian Networks, Mô hình Markov ẩn - Hidden Markov Models, Lý thuyết Dempster-Shafer) cho phép hệ thống ra quyết định trong điều kiện dữ liệu cảm biến không chắc chắn, không đầy đủ hoặc chứa nhiều nhiễu.
 
 Mỗi phát biểu hoặc trạng thái được gắn một phân phối xác suất có điều kiện $P(A|B)$ dựa trên định lý Bayes:
-$$P(A|B) = 
-rac{P(B|A) \cdot P(A)}{P(B)}$$
+$$P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}$$
 
 Ví dụ: Xác định xác suất một người dùng đang ngủ trong phòng dựa trên tập hợp nhiều bằng chứng: cảm biến áp lực đệm giường kích hoạt, cường độ ánh sáng bằng 0, độ ồn dưới 20dB và thời gian là ban đêm. Dù một cảm biến có thể bị lỗi, mạng Bayes vẫn tổng hợp các nguồn bằng chứng còn lại để đưa ra kết luận có độ tin cậy cao nhất.
 
@@ -3635,8 +3723,7 @@ Với sự phát triển mạnh mẽ của cuộc cách mạng công nghiệp l�
 - **TinyML (Machine Learning trên vi điều khiển siêu nhỏ):** Nghiên cứu nén mô hình học sâu để có thể thực thi suy luận trực tiếp trên các vi điều khiển cấp thấp có RAM dưới 256kB như ARM Cortex-M, ESP32 mà không cần kết nối mạng.
 - **Học liên kết bảo vệ quyền riêng tư (Privacy-preserving Federated Learning):** Cho phép huấn luyện mô hình cộng tác giữa hàng nghìn thiết bị IoT mà không cần thu thập dữ liệu nhạy cảm của người dùng về máy chủ trung tâm.
 - **Lưu trữ dữ liệu thông minh tại biên (Edge Caching & Content Delivery):** Tối ưu hóa việc phân phối nội dung video và dữ liệu số trên mạng di động 5G/6G.
-
-các hệ thống Big Data. Sự phát triển của các thiết bị IoT/5G hỗ trợ cho việc thu thập dữ liệu hàng ngày, hàng giờ, mỗi phút hoặc thậm chí trong một phần nghìn giây. Đó là lý do tại sao chuỗi thời gian là rất lớn và nhiều chiều. Ngoài ra, loại dữ liệu này cũng không cố định, tức là nó có chu kỳ không đều và dựa vào các đặc điểm thống kê của nó như giá trị trung bình, giá trị trung vị, phương sai và sự thay đổi tiêu chuẩn theo thời gian. Do đó, làm thế nào để lưu trữ và làm thế nào để đối phó với tập dữ liệu lớn cho một vấn đề nhất định trong một thời gian thích hợp đòi hỏi sức mạnh, các phương pháp tự động để lấy thông tin quan trọng mà không phụ thuộc nhiều vào sự can thiệp của con người.
+- **Xử lý dữ liệu chuỗi thời gian lớn (Big Time-Series Data):** Việc phân tích dữ liệu chuỗi thời gian trở nên đầy thách thức do khối lượng lớn và cấu trúc phức tạp khi triển khai trên các hệ thống Big Data. Sự phát triển của các thiết bị IoT/5G hỗ trợ cho việc thu thập dữ liệu hàng ngày, hàng giờ, mỗi phút hoặc thậm chí trong một phần nghìn giây. Đó là lý do tại sao chuỗi thời gian là rất lớn và nhiều chiều. Ngoài ra, loại dữ liệu này cũng không cố định, tức là nó có chu kỳ không đều và dựa vào các đặc điểm thống kê của nó như giá trị trung bình, giá trị trung vị, phương sai và sự thay đổi tiêu chuẩn theo thời gian. Do đó, làm thế nào để lưu trữ và làm thế nào để đối phó với tập dữ liệu lớn cho một vấn đề nhất định trong một thời gian thích hợp đòi hỏi sức mạnh, các phương pháp tự động để lấy thông tin quan trọng mà không phụ thuộc nhiều vào sự can thiệp của con người.
 
 ## Bài tập Chương 6
 
@@ -3703,9 +3790,7 @@ Trong hướng tiếp cận này, chương trình mới được biên dịch ho
 
 ### 7.2.2. Hướng tiếp cận dựa trên module
 
-Thay vì thay thế toàn bộ phần mềm, hướng tiếp cận này chỉ truyền tải các module phần mềm nhị phân cần cập nhật (dạng tệp mã đối tượng ELF hoặc thư viện liên kết động). Cơ chế nạp động (Dynamic Loader) trên hệ điều hành sẽ liên kết nóng module mới vào không gian bộ nhớ đang chạy.
-
-sao chép các native code được liên kết vào một nơi trong bộ nhớ mà ở đó chương trình có thể thực thi. Hình 7.3 mô tả kiến trúc bộ nhớ trong Contiki OS [19], giải thích vì sao hệ điều hành này có thể hỗ trợ cơ chế nạp module động. Không gian phần "Loaded program" chính là nơi các chương trình được nạp vào bộ nhớ RAM/Flash để thực thi mà không làm gián đoạn phần còn lại của nhân hệ điều hành.
+Thay vì thay thế toàn bộ phần mềm, hướng tiếp cận này chỉ truyền tải các module phần mềm nhị phân cần cập nhật (dạng tệp mã đối tượng ELF hoặc thư viện liên kết động). Cơ chế nạp động (Dynamic Loader) trên hệ điều hành sẽ liên kết nóng module mới vào không gian bộ nhớ đang chạy bằng cách sao chép các mã máy gốc (native code) đã liên kết vào một vùng nhớ xác định để thực thi. Hình 7.3 mô tả kiến trúc bộ nhớ trong Contiki OS [19], giải thích vì sao hệ điều hành này có thể hỗ trợ cơ chế nạp module động. Không gian phần "Loaded program" chính là nơi các chương trình được nạp vào bộ nhớ RAM/Flash để thực thi mà không làm gián đoạn phần còn lại của nhân hệ điều hành.
 
 **Hình 7.3.** Kiến trúc tái cấu hình dựa trên module [19]
 
@@ -3740,9 +3825,7 @@ Các hệ thống trao đổi thông điệp Publish-Subscribe thông thường 
 
 Việc tái cấu hình trong mô hình này được thực hiện thông qua việc thay đổi các bộ lọc đăng ký (subscription filters) tại Broker hoặc gửi các thông điệp điều khiển cấu hình qua các kênh điều khiển chuyên dụng.
 
-**MOSDEN Middleware** [22] là một giải pháp trung gian IoT tiêu biểu hỗ trợ cơ chế này trên các thiết bị di động và gateway có tài nguyên hạn chế.
-
-các sự kiện cụ thể của hệ thống. Mỗi client được phân biệt bằng một số điện thoại (phone number) hoặc UUID. Gateway đóng vai trò event-broker trong mô hình Publish-Subscribe. Mỗi gateway sẽ nhận thông tin từ nhiều nút cảm biến (publisher). Các thông tin này sẽ được phân loại vào những kênh được quy định trước (predefined channels). Sau đó, tương ứng với mỗi kênh, gateway sẽ thông báo tới các subscriber đã đăng ký.
+**MOSDEN Middleware** [22] là một giải pháp trung gian IoT tiêu biểu hỗ trợ cơ chế này trên các thiết bị di động và gateway có tài nguyên hạn chế. Trong kiến trúc này, client đại diện cho người dùng cuối đăng ký theo dõi các sự kiện cụ thể của hệ thống. Mỗi client được phân biệt bằng một số điện thoại (phone number) hoặc UUID. Gateway đóng vai trò event-broker trong mô hình Publish-Subscribe. Mỗi gateway sẽ nhận thông tin từ nhiều nút cảm biến (publisher). Các thông tin này sẽ được phân loại vào những kênh được quy định trước (predefined channels). Sau đó, tương ứng với mỗi kênh, gateway sẽ thông báo tới các subscriber đã đăng ký.
 
 ### 7.2.4. Hướng tiếp cận máy ảo (Virtual Machine-based Approach)
 
@@ -3757,9 +3840,7 @@ Máy ảo Maté tổ chức mã thực thi thành các viên nang (capsules) đ�
 - **Capsule bộ định thời (Timer Capsule):** Chạy khi bộ định thời kích hoạt.
 - **Capsule chương trình con (Subroutine Capsule):** Thực thi các hàm tính toán dùng chung.
 
-Nhờ tập lệnh bytecode ngắn gọn được thiết kế riêng cho mạng cảm biến (chỉ thị đọc cảm biến, gửi gói tin, bật đèn LED chỉ tốn 1 byte mã lệnh), các chương trình phức tạp có thể được mã hóa thành các tệp tin có kích thước dưới 100 byte.
-
-cho phép các chương trình phức tạp có thể hiện thực với mã nguồn kích thước rất nhỏ (ít hơn 100 bytes). Điều này cho phép các nhà lập trình ứng dụng có thể tái cấu hình một mạng lưới rộng lớn các nút một cách hiệu quả, giảm chi phí truyền tải một chương trình mới đến các nút qua sóng vô tuyến.
+Nhờ tập lệnh bytecode ngắn gọn được thiết kế riêng cho mạng cảm biến (chỉ thị đọc cảm biến, gửi gói tin, bật đèn LED chỉ tốn 1 byte mã lệnh), các chương trình phức tạp có thể được mã hóa thành các tệp tin có kích thước dưới 100 byte. Điều này cho phép các nhà lập trình ứng dụng có thể tái cấu hình một mạng lưới rộng lớn các nút một cách hiệu quả, giảm chi phí truyền tải một chương trình mới đến các nút qua sóng vô tuyến.
 
 - **Ưu điểm:** Kích thước truyền nạp siêu nhỏ, lan truyền cập nhật mạng cực nhanh, an toàn cao (mã bytecode chạy trong môi trường sandbox của máy ảo nên không thể gây treo hệ thống hay xung đột bộ nhớ).
 - **Nhược điểm:** Tốc độ thực thi chậm hơn so với mã máy gốc (native code) do phải thông qua bước thông dịch; tốn thêm dung lượng bộ nhớ RAM và Flash của nút để chứa chương trình máy ảo.
@@ -3850,8 +3931,7 @@ Mạng cận biên (edge network) bao gồm một lượng lớn các thiết b�
 Việc áp dụng SDN vào IoT mang lại khả năng tái cấu hình linh hoạt:
 - **Tập trung hóa quản trị:** Người quản trị có thể giám sát toàn bộ trạng thái mạng và cập nhật chính sách phân phối dữ liệu từ một vị trí trung tâm duy nhất.
 - **Tái cấu hình luồng dữ liệu mềm dẻo:** Thay đổi đường truyền gói tin, ưu tiên chất lượng dịch vụ (QoS) cho các gói tin cảnh báo khẩn cấp mà không cần thay đổi phần cứng thiết bị mạng.
-
-thực và thử nghiệm cách làm quản lý tập trung, lập trình lại cho kiến trúc IoT ở mức độ vùng mạng cận biên (edge network) và vùng mạng truy cập (access network).
+- **Khả năng hiện thực và kiểm thử thực tế:** Cho phép hiện thực và thử nghiệm cách làm quản lý tập trung, lập trình lại cho kiến trúc IoT ở mức độ vùng mạng cận biên (edge network) và vùng mạng truy cập (access network).
 
 ### 7.4.2. Khung kiến trúc xây dựng giải pháp tái cấu hình IoT (SD-IoTR)
 
@@ -3875,7 +3955,7 @@ Hệ thống cung cấp tập hợp các giao diện lập trình ứng dụng R
 - `POST /api/v1/containers/{id}/restart`: Khởi động lại hoặc cập nhật container dịch vụ trên gateway.
 - `POST /api/v1/network/rules`: Cập nhật bảng luật định tuyến luồng dữ liệu SDN cho toàn mạng.
 
-giao tiếp chủ yếu bằng các REST APIs. HTTP REST được hiện thực mang đến khả năng giao tiếp dựa trên nền tảng web giữa các ứng dụng IoT cụ thể với hệ thống điều khiển ở trung tâm. Bên cạnh đó, giao thức MQTT với cơ chế Publish/Subscribe cũng được sử dụng kết hợp để gửi các bản tin đánh thức và kích hoạt nạp mã tức thời tới hàng nghìn thiết bị phân tán.
+Ở tầng ứng dụng, hệ thống giao tiếp chủ yếu bằng các REST APIs. HTTP REST được hiện thực mang đến khả năng giao tiếp dựa trên nền tảng web giữa các ứng dụng IoT cụ thể với hệ thống điều khiển ở trung tâm. Bên cạnh đó, giao thức MQTT với cơ chế Publish/Subscribe cũng được sử dụng kết hợp để gửi các bản tin đánh thức và kích hoạt nạp mã tức thời tới hàng nghìn thiết bị phân tán.
 
 ## 7.5. Ứng dụng của chức năng tái cấu hình trong hệ thống IoT và các định hướng nghiên cứu
 
@@ -3908,9 +3988,7 @@ Trong cuốn sách này, chúng tôi đã tập trung vào những nội dung sa
 
 **Chương 3:** Trình bày các kiến trúc mạng khác nhau được sử dụng trong việc kiến thiết mạng IoT như kiến trúc cây (Tree), kiến trúc vòng (Ring), kiến trúc chuỗi (Chain), kiến trúc không cần hạ tầng (Mesh). Các bộ giao thức mạng IoT phổ dụng cũng đã được giới thiệu chi tiết về kiến trúc và cách vận hành. Trong khi bộ giao thức ZigBee đại diện cho xu hướng giao thức IoT chạy độc lập, và do đó muốn kết nối đến thiết bị đầu cuối từ mạng Internet cần thông qua một Internet gateway, bộ giao thức 6LoWPAN đại diện cho xu hướng mở rộng mạng IP (Spanning IP), tức là có thể truy cập và điều khiển trực tiếp thiết bị IoT từ Internet.
 
-**Chương 4:** Trình bày về các nền tảng phần cứng và phần mềm phổ dụng để phát triển các ứng dụng và giải pháp IoT hiện nay. Chúng tôi giới thiệu chủ yếu các nền tảng phần cứng dễ dàng làm việc với các nền tảng mã nguồn mở (open-source
-
-platforms) và có sẵn ở Việt Nam với giá thành hợp lý, từ đó sinh viên có thể dễ dàng phát triển sản phẩm và làm chủ công nghệ.
+**Chương 4:** Trình bày về các nền tảng phần cứng và phần mềm phổ dụng để phát triển các ứng dụng và giải pháp IoT hiện nay. Chúng tôi giới thiệu chủ yếu các nền tảng phần cứng dễ dàng làm việc với các nền tảng mã nguồn mở (open-source platforms) và có sẵn ở Việt Nam với giá thành hợp lý, từ đó sinh viên có thể dễ dàng phát triển sản phẩm và làm chủ công nghệ.
 
 **Chương 5:** Trình bày về các công nghệ nền, bao gồm điện toán đám mây (cloud computing) và tính toán cận biên (edge computing). Đây là các công nghệ nền phát triển hiện nay để hiện thực hoàn chỉnh giải pháp phần backend hoặc edge của giải pháp IoT. Chúng tôi cũng đã giới thiệu giải pháp ứng dụng điện toán đám mây để phát triển hệ thống giả lập mạng cảm biến không dây quy mô lớn trên nền tảng OpenStack.
 
